@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+
+{% include head.html %}
+
+<body class="no-js{% if page.classes %} {{ page.classes }}{% endif %}">
+  {% include header.html %}
+  {% include navigation.html %}
+  {{ content }}
+  {% include footer.html %}
+</body>
+</html>
