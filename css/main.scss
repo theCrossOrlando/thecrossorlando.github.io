@@ -83,10 +83,12 @@ body {
 }
 
 a:hover {
+  color: #000;
   text-decoration: none;
 }
 
 .read-more {
+  color: $brand-color;
   font-family: $secondary-font-family;
   font-size: 12px;
   font-weight: bold;
