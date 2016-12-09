@@ -28,6 +28,10 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+body {
+  background-color: $background-color;
+}
+
 #header {
   svg {
     margin: 60px 0 20px;
