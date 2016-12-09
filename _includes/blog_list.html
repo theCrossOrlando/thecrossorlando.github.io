@@ -1,0 +1,15 @@
+<div class="row small-up-1 medium-up-2">
+  {% for post in site.posts %}
+  <div class="column">
+    <article class="card">
+      <time datetime="{{ post.date | time_tag }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+      <h3>{{ post.source }}</h3>
+      <img src="{{ post.image }}" />
+      <h2>{{ post.title }}</h2>
+      <span class="author">by {{ post.author }}</span>
+      <p>{{ post.excerpt }}</p>
+      <span class="read-more"><a href="{{ post.url }}" class="button">Read More</a></span>
+    </article>
+  </div>
+  {% endfor %}
+</div>

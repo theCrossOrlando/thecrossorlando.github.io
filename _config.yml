@@ -3,3 +3,9 @@ url: "https://thecrossorlando.github.io"
 
 # Build settings
 markdown: kramdown
+defaults:
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "post"
