@@ -16,7 +16,7 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #f9f7f2;
-$brand-color:      #2a7ae2;
+$brand-color:      #d5ae43;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -40,14 +40,100 @@ $on-laptop:        800px;
 // Import partials from the `minima` theme.
 @import "minima";
 
+#header {
+  svg {
+    margin: 60px 0 20px;
+  }
+}
+
 #main-menu {
-  font-family: $secondary-font-family;
+  border-top: 1px solid $brand-color;
+  border-bottom: 1px solid $brand-color;
+  margin-bottom: 25px;
+  a {
+    color: #000;
+    font-size: 14px;
+    text-transform: uppercase;
+    span {
+      color: $brand-color;
+      font-family: $secondary-font-family;
+      font-size: 20px;
+      display: block;
+      line-height: 30px;
+    }
+  }
 }
 
-#sidebar h4 {
-  font-family: $secondary-font-family;
+#secondary-menu {
+  margin-top: 40px;
+  a {
+    color: #000;
+    padding: 5px 0;
+  }
 }
 
-a.read-more {
+#sidebar {
+  svg {
+    margin-bottom: 40px;
+  }
+  .read-more {
+    background: url('data:image/svg+xml;utf8,<svg width="300px" height="11px" viewBox="-2 9 300 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="arrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 10.000000)"><path d="M261.5,4.5 L289.517851,4.5" id="Line" stroke="#D5AE43" stroke-width="3" stroke-linecap="square"></path><path d="M0.471524771,4.5 L158.517851,4.5" id="Line-Copy" stroke="#D5AE43" stroke-width="3" stroke-linecap="square"></path><polygon id="Triangle-2" stroke="#D5AE43" fill="#D5AE43" points="287 9 287 0 296 4.5"></polygon></g></svg>')  no-repeat;
+    background-position-x: -28px;
+    background-position-y: 3px;
+    display: block;
+    margin-bottom: 20px;
+    padding-left: 148px;
+    width: 100%;
+  }
+  h4 {
+    font-family: $secondary-font-family;
+  }
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.read-more {
   font-family: $secondary-font-family;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  a {
+    font-size: 12px;
+  }
+}
+
+.button {
+  background-color: $brand-color;
+  &:hover {
+    background-color: #000;
+  }
+}
+
+.card {
+  background-color: #fff;
+  padding: 10px 20px;
+  h2 {
+    font-size: 26px;
+    font-weight: bold;
+    padding-top: 10px;
+  }
+  h3 {
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  time {
+    float: right;
+  }
+  .author {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  .read-more {
+    display: block;
+    text-align: right;
+  }
 }
