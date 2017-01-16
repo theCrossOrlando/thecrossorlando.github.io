@@ -2,9 +2,10 @@ title: the Cross Orlando
 url: "https://thecrossorlando.github.io"
 
 jekyll_get:
-  data: posts
-  json: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40troylano'
-  cache: true
+  - data: posts
+    json: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40troylano'
+  - data: posts
+    json: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Ftcandk.wordpress.com%2Ffeed%2F'
 
 # Build settings
 markdown: kramdown
