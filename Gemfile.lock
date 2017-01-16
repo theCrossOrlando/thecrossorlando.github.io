@@ -4,6 +4,8 @@ GEM
     colorator (1.1.0)
     ffi (1.9.14)
     forwardable-extended (2.6.0)
+    hash-joiner (0.0.7)
+      safe_yaml
     jekyll (3.2.1)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
@@ -37,7 +39,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  hash-joiner
   jekyll (= 3.2.1)
 
 BUNDLED WITH
-   1.12.5
+   1.13.6
