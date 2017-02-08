@@ -1,6 +1,25 @@
 ---
 title: Care
 layout: default
+needs:
+- title: Scripture/Theology
+  details: "We've got several experts, but Ben is a good place to start."
+- title: Getting Connected
+  details: "Wondering how to get connected to more folks at The Cross? Troy is your best place to start. He knows everybody."
 ---
 
 <h1>{{ page.title }}</h1>
+<p>Life is hard. Sometimes it's smart to process it with somebody who knows what they're talking about. Here are some friends who're great professional counselors.</p>
+
+<div class="row small-up-1 medium-up-2">
+  {% for need in page.needs %}
+  <div class="column">
+    <article class="card">
+      <h2>{{ need.title }}</h2>
+      <p>{{ need.details }}</p>
+    </article>
+  </div>
+  {% endfor %}
+</div>
+
+<p>If you need somebody to pray for or with you, make your <a href="">request known</a>.</p>
