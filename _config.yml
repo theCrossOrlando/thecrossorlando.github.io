@@ -6,6 +6,12 @@ jekyll_get:
     json: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40troylano'
   - data: posts
     json: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Ftcandk.wordpress.com%2Ffeed%2F'
+  - data: posts
+    json: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.emsneighborhoodkitchen.com%2Ffeed.xml'
+  - data: posts
+    json: 'https://api.rss2json.com/v1/api.json?rss_url=http%3A%2F%2Fwww.orlfoodlab.org%2Ffeed%2F'
+  - data: posts
+    json: 'https://api.rss2json.com/v1/api.json?rss_url=http%3A%2F%2Fpolisinstitute.org%2Fauthor%2Fphil-hissom%2Ffeed%2F'
 
 # Build settings
 markdown: kramdown
