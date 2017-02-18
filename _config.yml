@@ -4,14 +4,34 @@ url: "https://thecrossorlando.github.io"
 jekyll_get:
   - data: posts
     json: 'https://kanishkkunal.stdlib.com/rss2json?url=https://medium.com/feed/@troylano'
+    meta:
+      name: Medium
+      author: Troy Lano
+    cache: true
   - data: posts
     json: 'https://kanishkkunal.stdlib.com/rss2json?url=https://tcandk.wordpress.com/feed/'
+    meta:
+      name: Ben's Blog
+      author: Ben Hoyer
+    cache: true
   - data: posts
     json: 'https://kanishkkunal.stdlib.com/rss2json?url=https://www.emsneighborhoodkitchen.com/feed.xml'
+    meta:
+      name: Em's Neighborhood Kitchen
+      author: Emily Harkins
+    cache: true
   - data: posts
     json: 'https://kanishkkunal.stdlib.com/rss2json?url=http://www.orlfoodlab.org/feed/'
+    meta:
+      name: Orlando Food Lab
+      author: Food Lab
+    cache: true
   - data: posts
     json: 'https://kanishkkunal.stdlib.com/rss2json?url=http://polisinstitute.org/author/phil-hissom/feed/'
+    meta:
+      name: Polis Institute
+      author: Phil Hissom
+    cache: true
 
 # Build settings
 markdown: kramdown
