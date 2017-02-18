@@ -7,10 +7,10 @@ people:
   image:
 - name: Dana Marie
   bio: "Hello! Dana Marie here!  I have been really lucky to call The Cross my home church for about 3 1/2 years now.  I am quite grateful to have grown up in a family that acknowledged Jesus as our Messiah.  Growing up in a larger family probably set the stage for always wanting community around. I like to borrow from often used words, 'Life is better when we do it together.'  I love to elevate our City and our Culture.  We have ripe ground in Orlando for growth.  There are REALLY talented people that surround us.  We get to push each other to live out the fullness of who God created us to be. It's not an easy road, but the outcome can be really stunning. I'm quite honored to be surrounded and supported by the people of this church gathering and people doing important things in this City.  I am happy to contribute where I can."
-  image:
+  image: assets/dana.jpg
 - name: Kristine
   bio: "Grew up in Seattle Washington attending church with my family and continue to grow closer to God and enjoy the path he's leading me on. I moved to Orlando in 2008 seeking warmer weather. I worked for Disney from 2008-2015 as a sales, marketing and event director. I met Jim Thomas in 2013 at the Wine Room in Winter Park, we were married in 2014. The following year the division I worked for at Disney was closed and I was laid off. I also lost a dear friend only a month later. These events led me to reevaluate my work and begin to pursue my passions. I now perform wellness education and healthy cooking demonstrations for businesses and events through my company Welli. I love cooking up deliciously healthy foods and I greatly value the community support  I've received and the advice of the many chefs I met in Orlando that have helped me along the way. These foodpreneurs were who inspired me to start the ORL Food Lab, a local Orlando food association that celebrates the local food community and strives to amplify and accelerate the growth of Orlando-based food businesses and create community connection. My faith, my family, and my community are what I value most.... and of course, healthy food!"
-  image:
+  image: assets/kristine.jpg
 ---
 
 <h1>{{ page.title }}</h1>
@@ -21,7 +21,9 @@ people:
   {% for person in page.people %}
   <div class="column">
     <article class="card">
-      <img src="{{ person.image }}" />
+      {% if person.image %}
+      <img src="{{ site.url }}/{{ person.image }}" />
+      {% endif %}
       <h2>{{ person.name }}</h2>
       <p>{{ person.bio }}</p>
     </article>
