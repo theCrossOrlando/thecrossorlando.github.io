@@ -1,4 +1,4 @@
-{% assign sorted_posts = site.data.posts.items | sort: "pubDate" %}
+{% assign sorted_posts = site.data.posts.items | sort: "created" %}
 <div class="row small-up-1 medium-up-2">
   {% for post in sorted_posts %}
   <div class="column">
