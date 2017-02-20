@@ -21,7 +21,7 @@ jekyll_get:
       author: Emily Harkins
     cache: true
   - data: posts
-    json: 'https://kanishkkunal.stdlib.com/rss2json?url=http://www.orlfoodlab.org/feed/'
+    json: 'https://kanishkkunal.stdlib.com/rss2json?url=http://www.orlfoodlab.org/category/local-contributors/feed/'
     meta:
       name: Orlando Food Lab
       author: Food Lab
