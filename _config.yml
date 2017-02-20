@@ -27,7 +27,7 @@ jekyll_get:
       author: Food Lab
     cache: true
   - data: posts
-    json: 'https://kanishkkunal.stdlib.com/rss2json?url=http://polisinstitute.org/author/phil-hissom/feed/'
+    json: 'https://kanishkkunal.stdlib.com/rss2json?url=http://polisinstitute.org/feed/'
     meta:
       name: Polis Institute
       author: Phil Hissom
