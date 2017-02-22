@@ -4,10 +4,12 @@ layout: default
 gatherings:
 - title: Sundays
   body: "We gather weekly on Sunday mornings around 10a. Our people, the people of God, have been gathering regularly for millenia. The goal has always been to retell the story of God and remember that we're his, to share the peace of God, and to encourage one another through the good and bad of life. So those are our goals too. If you join us,  you can expect a heartfelt retelling of the story, space to worship the God and we usually have lunch together."
+  image: assets/sundays.jpg
 - title: Kids
   body: "We want our kids to learn what it means that they belong to the God who made them and saved them. We have three groups of volunteers who work through curriculum towards that end. The groups are divided by age.  The oldest kids (Kindergarten through fifth grade), Preschoolers and toddlers.  Our mornings consist of building community through faith and story.  The goal of our time on Sundays is to learn to live together with the story of Scripture as our main conversation.  Its a gathering with the biggest focus of building a foundation of faith for our next generation of believers."
 - title: Be the Church
   body: "When church is at it’s best, it becomes like a second family. We may not agree on everything, but we’re committed to love one another and can count on each other to stand with us through good and bad. For many of us the Cross has become like that, the quarterly “Be the Church” dinner is like a regular family meal. It’s an informal potluck where we hear each other’s stories and catch up on any church business."
+  image: assets/be-the-church.jpg
 ---
 
 <h1>{{ page.title }}</h1>
@@ -16,6 +18,9 @@ gatherings:
   {% for gathering in page.gatherings %}
   <div class="column">
     <article class="card">
+      {% if gathering.image %}
+      <img src="{{ site.url }}/{{ gathering.image }}" />
+      {% endif %}
       <h2>{{ gathering.title }}</h2>
       <p>{{ gathering.body }}</p>
     </article>
