@@ -1,9 +1,10 @@
 {% assign sorted_posts = site.data.posts.items | sort: "created" %}
 <div class="row small-up-1">
   {% for post in sorted_posts %}
+  {% assign created = post.created | downcase | slice: 0, 10 %}
   <div class="column">
     <article class="card">
-      <time datetime="{{ post.pubDate | time_tag }}">{{ post.pubDate | date: "%b %-d, %Y" }}</time>
+      <time datetime="{{ created | date: "%F" }}">{{ created | date: "%b %-d, %Y" }}</time>
       <h3>{{ post.meta.name }}</h3>
       <img src="{{ post.thumbnail }}" />
       <h2>{{ post.title }}</h2>
