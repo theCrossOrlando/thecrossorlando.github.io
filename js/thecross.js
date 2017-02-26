@@ -1,5 +1,7 @@
 (function($) {
-  $('#content .row').masonry({
-    itemSelector: '.column'
+  $(window).on('load', function() {
+    $('#content .row').masonry({
+      itemSelector: '.column'
+    });
   });
 })(jQuery);
