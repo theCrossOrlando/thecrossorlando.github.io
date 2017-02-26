@@ -1,15 +1,14 @@
-{% assign sorted_posts = site.data.posts.items | sort: "created" %}
+{% assign sorted_posts = site.data.posts | sort: "meta.date" %}
 <div class="row small-up-1">
   {% for post in sorted_posts %}
-  {% assign created = post.created | downcase | slice: 0, 10 %}
   <div class="column">
     <article class="card">
-      <time datetime="{{ created | date: "%F" }}">{{ created | date: "%b %-d, %Y" }}</time>
-      <h3>{{ post.meta.name }}</h3>
-      <img src="{{ post.thumbnail }}" />
+      <time datetime="{{ post.pubDate }}">{{ post.pubDate | date: "%b %-d, %Y" }}</time>
+      <h3>{{ post.meta.title }}</h3>
+      <img src="{{ post.image.url }}" />
       <h2>{{ post.title }}</h2>
-      <span class="author">by {{ post.meta.author }}</span>
-      <p>{{ post.description }}</p>
+      <span class="author">by {{ post.author }}</span>
+      <p>{{ post.summary }}</p>
       <span class="read-more"><a href="{{ post.link }}" class="button">Read More</a></span>
     </article>
   </div>
