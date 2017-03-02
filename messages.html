@@ -4,9 +4,16 @@ title: Messages
 permalink: /messages/
 ---
 
+<div class="row small-up-1 medium-up-2">
 {% for message in site.messages %}
-  <h2><a href="{{ message.url }}">{{ message.title }}</a></h2>
-  <audio controls="controls">
-    <source src="{{ message.file }}" type="audio/mpeg"></source>
-  </audio>
+  <div class="column">
+    <article class="card">
+      <h2><a href="{{ message.url }}">{{ message.title }}</a></h2>
+      <p>{{ message.summary }}</p>
+      <audio controls="controls">
+        <source src="{{ message.file }}" type="audio/mpeg"></source>
+      </audio>
+    </article>
+  </div>
 {% endfor %}
+</div>
