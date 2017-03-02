@@ -1,0 +1,53 @@
+---
+
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
+  <channel>
+    <atom:link href="{{ site.url }}/message.xml" rel="self" type="application/rss+xml" />
+    <title>{{ site.title }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}</link>
+    <language>en-us</language>
+    <managingEditor>ben@thehoyers.com (Ben Hoyer)</managingEditor>
+    <webMaster>albert.volkman@gmail.com (Albert Volkman)</webMaster>
+    <copyright>2017 | {{ site.title }}</copyright>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <image>
+      <link>{{ site.url }}</link>
+      <url>{{ site.url }}/images/itunes.png</url>
+      <title>{{ site.title }}</title>
+    </image>
+    <itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
+    <itunes:author>Ben Hoyer</itunes:author>
+    <itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
+    <itunes:keywords>{{ site.keywords }}</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Ben Hoyer</itunes:name>
+      <itunes:email>ben@thehoyers.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="{{ site.url }}/images/itunes.png" />
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity" />
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    {% for message in site.messages %}
+      <item>
+        <title>{{ message.title | xml_escape }}</title>
+        <link>{{ site.url }}{{ message.url }}</link>
+        <pubDate>{{ message.date | date_to_rfc822 }}</pubDate>
+        <description>{{ message.excerpt | xml_escape }}</description>
+        <guid isPermaLink="true">{{ site.url }}{{ message.url }}</guid>
+        <enclosure url="http:{{ message.file }}" length="{{ message.length }}" type="audio/mp3"/>
+        <itunes:author>{{ site.author }}</itunes:author>
+        <itunes:subtitle>{{ site.title }}: {{ message.title }}</itunes:subtitle>
+        <itunes:summary>{{ message.summary | xml_escape }}</itunes:summary>
+        <itunes:duration>{{ message.duration }}</itunes:duration>
+        <itunes:keywords>{{ message.keywords }}</itunes:keywords>
+        <itunes:image href="{{ site.url }}/images/itunes.png" />
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>

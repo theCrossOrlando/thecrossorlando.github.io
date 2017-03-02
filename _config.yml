@@ -1,5 +1,12 @@
 title: the Cross Orlando
+description: The Cross Orlando is a congregation of people living under the reign of God. We gather together regularly, we're working in all sectors of our city and are always looking for ways to better care for each other.
 url: "https://thecrossorlando.github.io"
+
+keywords: christian, gospel, church
+
+collections:
+  messages:
+    output: true
 
 # Build settings
 markdown: kramdown
@@ -9,3 +16,9 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      type: "messages"
+    values:
+      layout: "message"
+      permalink: /messages/:year/:month/:day/

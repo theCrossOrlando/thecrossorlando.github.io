@@ -1,0 +1,12 @@
+---
+layout: default
+title: Messages
+permalink: /messages/
+---
+
+{% for message in site.messages %}
+  <h2><a href="{{ message.url }}">{{ message.title }}</a></h2>
+  <audio controls="controls">
+    <source src="{{ message.file }}" type="audio/mpeg"></source>
+  </audio>
+{% endfor %}
