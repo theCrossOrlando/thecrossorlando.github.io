@@ -11,9 +11,11 @@ needs:
 - title: Solace Counseling
   details: We believe healing happens through honesty and compassion rather than shame and judgment, and our hope is to offer a comfortable and helpful place to move forward in your life.
   image: assets/moores.jpg
+  link: http://solacecounseling.org/
 - title: HD Counseling
   details: We strive to counsel individuals and groups in such a way that creates a safe place for developing the tools needed to address the circumstances presenting hindrances to the individual's ideal position. HD Counseling, LLC brings a different outlook to the benefits that counseling offers.
   image: assets/zach.jpg
+  link: http://hdcounseling.com/
 ---
 
 <h1>{{ page.title }}</h1>
@@ -26,7 +28,7 @@ needs:
       {% if need.image %}
       <img src="{{ site.url }}/{{ need.image }}" />
       {% endif %}
-      <h2>{{ need.title }}</h2>
+      <h2>{{ need.title }}{% if need.link %} <a href="{{ need.link }}" target="_blank"><i class="fa fa-heart-o" aria-hidden="true"></i></a>{% endif %}</h2>
       <p>{{ need.details }}</p>
     </article>
   </div>
