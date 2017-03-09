@@ -3,9 +3,17 @@ title: Care
 layout: default
 needs:
 - title: Scripture / Theology
-  details: "We've got several experts, but Ben is a good place to start."
+  details: We've got several experts, but <a href="mailto:ben@thehoyers.com">Ben</a> is a good place to start.
+  image:
 - title: Getting Connected
-  details: "Wondering how to get connected to more folks at The Cross? Troy is your best place to start. He knows everybody."
+  details: Wondering how to get connected to more folks at The Cross? <a href="mailto:troylano@gmail.com">Troy</a> is your best place to start. He knows everybody.
+  image:
+- title: Solace Counseling
+  details: We believe healing happens through honesty and compassion rather than shame and judgment, and our hope is to offer a comfortable and helpful place to move forward in your life.
+  image: assets/moores.jpg
+- title: HD Counseling
+  details: We strive to counsel individuals and groups in such a way that creates a safe place for developing the tools needed to address the circumstances presenting hindrances to the individual's ideal position. HD Counseling, LLC brings a different outlook to the benefits that counseling offers.
+  image: assets/zach.jpg
 ---
 
 <h1>{{ page.title }}</h1>
@@ -15,6 +23,9 @@ needs:
   {% for need in page.needs %}
   <div class="column">
     <article class="card">
+      {% if need.image %}
+      <img src="{{ site.url }}/{{ need.image }}" />
+      {% endif %}
       <h2>{{ need.title }}</h2>
       <p>{{ need.details }}</p>
     </article>
