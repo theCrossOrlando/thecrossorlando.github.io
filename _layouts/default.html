@@ -7,11 +7,11 @@
   {% include header.html %}
   {% include navigation.html %}
   <div class="row">
-    <div id="content" class="large-8 columns">
-      {{ content }}
-    </div>
-    <div id="sidebar" class="large-3 large-offset-1 columns">
+    <div id="sidebar" class="large-3 large-offset-1 large-push-8 columns">
       {% include sidebar.html %}
+    </div>
+    <div id="content" class="large-8 large-pull-4 columns">
+      {{ content }}
     </div>
   </div>
   {% include footer.html %}
