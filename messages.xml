@@ -32,7 +32,7 @@
       <itunes:category text="Christianity" />
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
-    {% for message in site.messages %}
+    {% for message in site.messages reversed %}
       <item>
         <title>{{ message.title | xml_escape }}</title>
         <link>{{ site.url }}{{ message.url }}</link>

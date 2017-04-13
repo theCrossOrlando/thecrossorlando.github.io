@@ -5,7 +5,7 @@ layout: default
 ---
 
 <div class="row small-up-1 medium-up-2">
-{% for message in site.messages %}
+{% for message in site.messages reversed %}
   <div class="column">
     <article class="card">
       <h2><a href="{{ message.url }}">{{ message.title }}</a></h2>
