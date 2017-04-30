@@ -1,6 +1,7 @@
 ---
 - song: More Than The Watchman (Psalm 130)
   artist: Rebecca St James
+  enabled: true
   lyrics: |-
     Out of the depths of my despair
     Oh I cry Father hear my voice
@@ -30,6 +31,7 @@
     CHORUS
 - song: Help Me Find My Own Flame
   artist: Will Reagan & United Pursuit
+  enabled: true
   lyrics: |
     I don't wanna ride on somebody else's passion.
     I don't wanna find that I am just dry bones.
@@ -70,6 +72,7 @@
     There's no better time
 - song: Come Thou Fount
   artist: Chris Tomlin
+  enabled: false
   lyrics: |
     Come thou fount of every blessing
     Tune my heart to sing thy grace
