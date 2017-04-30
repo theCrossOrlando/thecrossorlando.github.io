@@ -6,6 +6,7 @@ layout: default
 
 <div class="row small-up-1 medium-up-2">
   {% for lyric in site.data.lyrics %}
+  {% if lyric.enabled %}
   <div class="column">
     <article class="card">
       <h2>{{ lyric.song }}</h2>
@@ -13,5 +14,6 @@ layout: default
       <p>{{ lyric.lyrics | newline_to_br }}</p>
     </article>
   </div>
+  {% endif %}
   {% endfor %}
 </div>
