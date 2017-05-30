@@ -1,7 +1,183 @@
 ---
+- song: Trials and Troubles No More
+  artist: Tribulations, Estil C. Ball
+  enabled: false
+  lyrics: |-
+    Trials, troubles, tribulations,
+    Soon from all of these to soar
+    When our Savior comes to get us,
+    Peace shall reign forever more
+
+    (Refrain)
+    When our Lord comes down from Heaven
+    and stretches out His hand to me
+    I’ll be carried home by Jesus
+    There forever with Him be
+
+    The promised grace will come upon you,
+    All the earth shall be restored
+    The sky and sea and every mountain,
+    Glory as not known before
+
+    The sun and moon depart the sky,
+    We’ve no need for them to stay
+    The Lamb of God will be our light,
+    Brighter than the brightest day
+- song: Rock of Ages
+  artist: Augustus M. Toplady
+  enabled: false
+  lyrics: |-
+    Rock of Ages, cleft for me,
+    Let me hide myself in Thee;
+    Let the water and the blood,
+    From Thy wounded side which flowed,
+    Be of sin the double cure;
+    Save from wrath and make me pure.
+
+    Not the labor of my hands
+    Can fulfill Thy law’s demands;
+    Could my zeal no respite know,
+    Could my tears forever flow,
+    All for sin could not atone;
+    Thou must save, and Thou alone.
+
+    Nothing in my hand I bring,
+    Simply to the cross I cling;
+    Naked, come to Thee for dress;
+    Helpless look to Thee for grace;
+    Foul, I to the fountain fly;
+    Wash me, Savior, or I die.
+
+    While I draw this fleeting breath,
+    When mine eyes shall close in death,
+    When I soar to worlds unknown,
+    And behold Thee on Thy throne,
+    Rock of Ages, cleft for me,
+    Let me hide myself in Thee.
+- song: Nothing But The Blood
+  artist: Robert Lowry
+  enabled: false
+  lyrics: |-
+    What can wash away my sin?
+    Nothing but the blood of Jesus;
+    What can make me whole again?
+    Nothing but the blood of Jesus.
+
+    Refrain
+
+    Oh! precious is the flow
+    That makes me white as snow;
+    No other fount I know,
+    Nothing but the blood of Jesus.
+
+    For my pardon, this I see,
+    Nothing but the blood of Jesus;
+    For my cleansing this my plea,
+    Nothing but the blood of Jesus.
+
+    Refrain
+
+    Nothing can for sin atone,
+    Nothing but the blood of Jesus;
+    Naught of good that I have done,
+    Nothing but the blood of Jesus.
+
+    Refrain
+
+    This is all my hope and peace,
+    Nothing but the blood of Jesus;
+    This is all my righteousness,
+    Nothing but the blood of Jesus.
+
+    (Additional Verses)
+
+    Now by this I’ll overcome—
+    Nothing but the blood of Jesus,
+    Now by this I’ll reach my home—
+    Nothing but the blood of Jesus.
+
+    Refrain
+
+    Glory! Glory! This I sing—
+    Nothing but the blood of Jesus,
+    All my praise for this I bring—
+    Nothing but the blood of Jesus.
+- song: It Is Well With My Soul
+  artist: Horatio G. Spafford
+  enabled: false
+  lyrics: |-
+    When peace, like a river, attendeth my way,
+    When sorrows like sea billows roll;
+    Whatever my lot, Thou has taught me to say,
+    It is well, it is well, with my soul.
+
+    Refrain
+
+    It is well, with my soul,
+    It is well, with my soul,
+    It is well, it is well, with my soul.
+
+    Though Satan should buffet, though trials should come,
+    Let this blest assurance control,
+    That Christ has regarded my helpless estate,
+    And hath shed His own blood for my soul.
+
+    Refrain
+
+    My sin, oh, the bliss of this glorious thought!
+    My sin, not in part but the whole,
+    Is nailed to the cross, and I bear it no more,
+    Praise the Lord, praise the Lord, O my soul!
+
+    Refrain
+
+    And Lord, haste the day when my faith shall be sight,
+    The clouds be rolled back as a scroll;
+    The trump shall resound, and the Lord shall descend,
+    Even so, it is well with my soul.
+
+    (Additional Verses)
+
+    For me, be it Christ, be it Christ hence to live:
+    If Jordan above me shall roll,
+    No pang shall be mine, for in death as in life
+    Thou wilt whisper Thy peace to my soul.
+
+    But, Lord, ‘tis for Thee, for Thy coming we wait,
+    The sky, not the grave, is our goal;
+    Oh trump of the angel! Oh voice of the Lord!
+    Blessèd hope, blessèd rest of my soul!
+- song: Come Ye Sinners, Poor And Needy
+  artist: Joseph Hart
+  enabled: false
+  lyrics: |-
+    Come, ye sinners, poor and needy,
+    Weak and wounded, sick and sore;
+    Jesus ready stands to save you,
+    Full of pity, love and power.
+
+    Refrain
+
+    I will arise and go to Jesus,
+    He will embrace me in His arms;
+    In the arms of my dear Savior,
+    O there are ten thousand charms.
+
+    Come, ye thirsty, come, and welcome,
+    God’s free bounty glorify;
+    True belief and true repentance,
+    Every grace that brings you nigh.
+
+    Refrain
+
+    Come, ye weary, heavy laden,
+    Lost and ruined by the fall;
+    If you tarry till you’re better,
+    You will never come at all.
+
+    Refrain
 - song: More Than The Watchman (Psalm 130)
   artist: Rebecca St James
-  enabled: true
   lyrics: |-
     Out of the depths of my despair
     Oh I cry Father hear my voice
@@ -31,7 +207,6 @@
     CHORUS
 - song: Help Me Find My Own Flame
   artist: Will Reagan & United Pursuit
-  enabled: true
   lyrics: |
     I don't wanna ride on somebody else's passion.
     I don't wanna find that I am just dry bones.
@@ -73,7 +248,7 @@
 - song: Come Thou Fount
   artist: Chris Tomlin
   enabled: false
-  lyrics: |
+  lyrics: |-
     Come thou fount of every blessing
     Tune my heart to sing thy grace
     Streams of mercy never ceasing
