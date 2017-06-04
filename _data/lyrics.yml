@@ -1,4 +1,111 @@
 ---
+- song: Hail The Day That Sees Him Rise
+  artist: Charles Wesley
+  enabled: false
+  lyrics: |-
+    Hail the day that sees Him rise
+    To His throne above the skies
+    Christ, awhile to mortals given
+    Reascends His native heaven
+
+    There the glorious triumph waits
+    Lift your heads, eternal gates
+    Christ hath conquered death and sin
+    Take the King of glory in
+
+    Circled round with angel powers
+    Their triumphant Lord, and ours
+    Conqueror over death and sin
+    Take the King of glory in
+
+    Him though highest Heav’n receives
+    Still He loves the earth He leaves
+    Though returning to His throne
+    Still He calls mankind His own
+
+    Circled round with angel powers
+    Their triumphant Lord, and ours
+    Conqueror over death and sin
+    Take the King of glory in
+
+    See! He lifts His hands above
+    See! He shows the prints of love
+    Hark! His gracious lips bestow
+    Blessings on His church below
+
+    Alleluia
+    Alleluia
+    Alleluia
+
+    Ever upward let us move
+    Wafted on the wings of love
+    Looking when our Lord shall come
+    Longing, gasping after home
+
+    There we shall with Thee remain
+    Partners of Thy endless reign
+    There Thy face unclouded see
+    Find our heaven of heavens in Thee
+- song: Closer Walk With Thee
+  artist: ''
+  enabled: false
+  lyrics: |-
+    I am weak, but Thou art strong;
+    Jesus, keep me from all wrong;
+    I’ll be satisfied as long
+    As I walk, let me walk close to Thee.
+
+    Refrain:
+    Just a closer walk with Thee,
+    Grant it, Jesus, is my plea,
+    Daily walking close to Thee,
+    Let it be, dear Lord, let it be.
+
+    In this life of toil and snares,
+    If I falter, Lord, who cares?
+    Who with me my burden shares?
+    None but Thee, dear Lord, none but Thee.
+
+    When my feeble life is o’er,
+    Time for me will be no more;
+    Guide me gently, safely o’er
+    To Thy kingdom shore, to Thy shore.
+- song: Be Thou My Vision
+  artist: Dallan Forgaill
+  enabled: false
+  lyrics: |-
+    Be Thou my Vision, O Lord of my heart;
+    Naught be all else to me, save that Thou art;
+    Thou my best Thought, by day or by night,
+    Waking or sleeping, Thy presence my light.
+
+    Be Thou my Wisdom, and Thou my true Word;
+    I ever with Thee and Thou with me, Lord;
+    Thou my great Father, I Thy true son;
+    Thou in me dwelling, and I with Thee one.
+
+    Riches I heed not, nor man’s empty praise,
+    Thou mine Inheritance, now and always:
+    Thou and Thou only, first in my heart,
+    High King of Heaven, my Treasure Thou art.
+
+    High King of Heaven, my victory won,
+    May I reach Heaven’s joys, O bright Heaven’s Sun!
+    Heart of my own heart, whatever befall,
+    Still be my Vision, O Ruler of all.
+- song: All Creatures of Our God and King
+  artist: Francis of Assisi
+  enabled: false
+  lyrics: "All creatures of our God and King\nLift up your voice and with us sing,
+    \  \nAlleluia! Alleluia!    \n\nThou burning sun with golden beam, \nThou silver
+    moon with softer gleam!\n   \nO praise Him! O praise Him!    \nAlleluia! Alleluia!
+    Alleluia!\n\nThou rushing wind that art so strong \nYe clouds that sail in Heaven
+    along,    \nO praise Him! Alleluia!    \n\nThou rising moon, in praise rejoice,
+    \nYe lights of evening, find a voice!   \n\nO praise Him! O praise Him!    \nAlleluia!
+    Alleluia! Alleluia!\n\nLet all things their Creator bless, \nAnd worship Him in
+    humbleness,  \nO praise Him! Alleluia!    \n\nPraise, praise the Father, praise
+    the Son, \nAnd praise the Spirit, Three in One!   \n\nO praise Him! O praise Him!
+    \ \nAlleluia! Alleluia! \nAlleluia!"
 - song: Trials and Troubles No More
   artist: Tribulations, Estil C. Ball
   enabled: false
