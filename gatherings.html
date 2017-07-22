@@ -28,6 +28,13 @@ gatherings:
     an informal potluck where we hear each other’s stories and catch up on any church
     business.
   image: assets/be-the-church.jpg
+- title: Habitat for Humanity
+  body: "Ty Willison is one of our own. He works with Habitat of Orange County organizing
+    a cool neighborhood revitalization project. We're designating group work days to
+    help him out once a month. If you're interested in getting involved, click
+    [here](http://www.habitat-orlando.org/group-volunteer-signup-a0v1a0000039abzeai/)
+    to sign up for the next one."
+  image: assets/habitat-for-humanity.jpg
 ---
 
 <h1>{{ page.title }}</h1>
@@ -40,7 +47,7 @@ gatherings:
       <img src="{{ site.url }}/{{ gathering.image }}" />
       {% endif %}
       <h2>{{ gathering.title }}</h2>
-      <p>{{ gathering.body }}</p>
+      <p>{{ gathering.body | markdownify }}</p>
     </article>
   </div>
   {% endfor %}
