@@ -1,13 +1,12 @@
 ---
-- song: Let It Rain
-  artist: Jesus Culture
+- artist: Jesus Culture
   enabled: true
   lyrics: "Let it rain, let it rain.\nOpen the floodgates of Heaven.\n\nI feel the
     rains of Your Love, \nI feel the winds of Your Spirit,\nAnd now the heartbeat
     of Heaven,\nLet us hear.\n\nBecause we want to see You;\nShow us Your Glory.\nAnd
     we want to know You, Lord."
-- song: Scandal of Grace
-  artist: Hillsong UNITED
+  song: Let It Rain
+- artist: Hillsong UNITED
   enabled: true
   lyrics: |-
     [Verse 1]
@@ -65,15 +64,15 @@
     Give all I have just to know You
     Jesus, there's no one besides You
     Forever the hope in my heart
-- song: Where Did My Hope Go
-  artist: Kat Porter
+  song: Scandal of Grace
+- artist: Kat Porter
   enabled: true
-  lyrics: "Where did your hope go? \n\LWhere did your hope go? \n\nI'll follow where
-    Your voice beckons to me\L \nMy spirit is willing even when my heart's weak \nTo
-    put one foot in front of the other\L \nWhile gazing into Your eyes my Lover \n\nWhere
-    did my hope go?\L \nWhere did my hope go? \n\nYou are the joy set before me "
-- song: The House Of God, Forever
-  artist: Jon Foreman
+  lyrics: "Where did your hope go? \nWhere did your hope go? \n\nI'll follow where
+    Your voice beckons to me\nMy spirit is willing even when my heart's weak \nTo
+    put one foot in front of the other\nWhile gazing into Your eyes my Lover \n\nWhere
+    did my hope go?\nWhere did my hope go? \n\nYou are the joy set before me "
+  song: Where Did My Hope Go
+- artist: Jon Foreman
   enabled: true
   lyrics: |-
     God is my shepherd
@@ -120,8 +119,8 @@
 
     In the house of God forever
     In the house of God forever
-- song: Until These Tears Are Gone
-  artist: Young Oceans
+  song: The House Of God, Forever
+- artist: Young Oceans
   enabled: false
   lyrics: |-
     Flood this heart with assurance of Your mercy
@@ -141,8 +140,8 @@
     I’ll fix my eyes on eternity above
 
     Where every lie, every shadow is uncovered by Your love
-- song: None But Thee
-  artist: Young Oceans
+  song: Until These Tears Are Gone
+- artist: Young Oceans
   enabled: false
   lyrics: |-
     Jesus, mighty King of Heaven
@@ -172,8 +171,8 @@
     Captives of Thy bless’d grace
     Offering our lives hereafter
     We resolve to seek Thy face
-- song: Let This Heart Not Wander
-  artist: Young Oceans
+  song: None But Thee
+- artist: Young Oceans
   enabled: false
   lyrics: |-
     Let my eyes see nothing
@@ -195,8 +194,8 @@
     I will ever praise You
     I will ever praise You
     You are worthy, my Lord
-- song: Come Holy One
-  artist: Young Oceans
+  song: Let This Heart Not Wander
+- artist: Young Oceans
   enabled: false
   lyrics: |-
     Hasten now, O loving Lord to us
@@ -220,8 +219,8 @@
     I am yours, only yours
     We are yours, only yours
     We are yours, only yours
-- song: Hail The Day That Sees Him Rise
-  artist: Charles Wesley
+  song: Come Holy One
+- artist: Charles Wesley
   enabled: false
   lyrics: |-
     Hail the day that sees Him rise
@@ -267,8 +266,8 @@
     Partners of Thy endless reign
     There Thy face unclouded see
     Find our heaven of heavens in Thee
-- song: Closer Walk With Thee
-  artist: ''
+  song: Hail The Day That Sees Him Rise
+- artist: ''
   enabled: false
   lyrics: |-
     I am weak, but Thou art strong;
@@ -291,8 +290,8 @@
     Time for me will be no more;
     Guide me gently, safely o’er
     To Thy kingdom shore, to Thy shore.
-- song: Be Thou My Vision
-  artist: Dallan Forgaill
+  song: Closer Walk With Thee
+- artist: Dallan Forgaill
   enabled: false
   lyrics: |-
     Be Thou my Vision, O Lord of my heart;
@@ -314,8 +313,8 @@
     May I reach Heaven’s joys, O bright Heaven’s Sun!
     Heart of my own heart, whatever befall,
     Still be my Vision, O Ruler of all.
-- song: All Creatures of Our God and King
-  artist: Francis of Assisi
+  song: Be Thou My Vision
+- artist: Francis of Assisi
   enabled: false
   lyrics: "All creatures of our God and King\nLift up your voice and with us sing,
     \  \nAlleluia! Alleluia!    \n\nThou burning sun with golden beam, \nThou silver
@@ -327,8 +326,8 @@
     humbleness,  \nO praise Him! Alleluia!    \n\nPraise, praise the Father, praise
     the Son, \nAnd praise the Spirit, Three in One!   \n\nO praise Him! O praise Him!
     \ \nAlleluia! Alleluia! \nAlleluia!"
-- song: Trials and Troubles No More
-  artist: Tribulations, Estil C. Ball
+  song: All Creatures of Our God and King
+- artist: Tribulations, Estil C. Ball
   enabled: false
   lyrics: |-
     Trials, troubles, tribulations,
@@ -351,8 +350,8 @@
     We’ve no need for them to stay
     The Lamb of God will be our light,
     Brighter than the brightest day
-- song: Rock of Ages
-  artist: Augustus M. Toplady
+  song: Trials and Troubles No More
+- artist: Augustus M. Toplady
   enabled: false
   lyrics: |-
     Rock of Ages, cleft for me,
@@ -382,8 +381,8 @@
     And behold Thee on Thy throne,
     Rock of Ages, cleft for me,
     Let me hide myself in Thee.
-- song: Nothing But The Blood
-  artist: Robert Lowry
+  song: Rock of Ages
+- artist: Robert Lowry
   enabled: false
   lyrics: |-
     What can wash away my sin?
@@ -430,8 +429,8 @@
     Nothing but the blood of Jesus,
     All my praise for this I bring—
     Nothing but the blood of Jesus.
-- song: It Is Well With My Soul
-  artist: Horatio G. Spafford
+  song: Nothing But The Blood
+- artist: Horatio G. Spafford
   enabled: false
   lyrics: |-
     When peace, like a river, attendeth my way,
@@ -475,8 +474,8 @@
     The sky, not the grave, is our goal;
     Oh trump of the angel! Oh voice of the Lord!
     Blessèd hope, blessèd rest of my soul!
-- song: Come Ye Sinners, Poor And Needy
-  artist: Joseph Hart
+  song: It Is Well With My Soul
+- artist: Joseph Hart
   enabled: false
   lyrics: |-
     Come, ye sinners, poor and needy,
@@ -504,8 +503,8 @@
     You will never come at all.
 
     Refrain
-- song: More Than The Watchman (Psalm 130)
-  artist: Rebecca St James
+  song: Come Ye Sinners, Poor And Needy
+- artist: Rebecca St James
   lyrics: |-
     Out of the depths of my despair
     Oh I cry Father hear my voice
@@ -533,8 +532,8 @@
     But in Your goodness there is mercy & forgiveness
 
     CHORUS
-- song: Help Me Find My Own Flame
-  artist: Will Reagan & United Pursuit
+  song: More Than The Watchman (Psalm 130)
+- artist: Will Reagan & United Pursuit
   lyrics: |
     I don't wanna ride on somebody else's passion.
     I don't wanna find that I am just dry bones.
@@ -573,8 +572,8 @@
     I want your burning desire
     Do what only you can do, in my heart tonight
     There's no better time
-- song: Come Thou Fount
-  artist: Chris Tomlin
+  song: Help Me Find My Own Flame
+- artist: Chris Tomlin
   enabled: false
   lyrics: |-
     Come thou fount of every blessing
@@ -604,3 +603,4 @@
     prone to leave the God I love
     Here's my heart, O take and seal it,
     seal it for thy courts above
+  song: Come Thou Fount
