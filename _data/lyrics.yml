@@ -1,6 +1,139 @@
 ---
-- artist: Hillsong UNITED
+- artist: Young Oceans
   enabled: true
+  lyrics: |-
+    Hasten now, O loving Lord to us
+    We’re thirsty
+    Fill these souls, Spirit, every hour
+    We need Thee
+
+    Refrain
+
+    Come, come Holy One
+    Come meet us
+    All, all for Your glory
+    Lord Jesus
+
+    Lead us on, the perfect path O Lord And may we
+    Sin no more. This
+    spotless bride, the Church
+    Is Yours
+
+    I am yours, only yours
+    I am yours, only yours
+    We are yours, only yours
+    We are yours, only yours
+  song: Come Holy One
+- artist: Jon Foreman
+  enabled: true
+  lyrics: |-
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    With quiet streams
+
+    Even though I walk
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You are with me
+
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
+
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    By quiet streams
+
+    Even while I'm walking
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You're always with me
+
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
+
+    In the house of God forever
+    In the house of God forever
+  song: The House Of God, Forever
+- artist: Public Radio
+  enabled: true
+  lyrics: |-
+    Cuz we want to know your ways
+    And to trust them all the same
+    Be our light and center stage
+    Be the wind and be the waves
+    Be the sunset of our days
+    Cuz we like to
+    Be romanced to
+    Cuz we want to know your ways
+    And to trust them all the same
+    Be our light and center stage
+    Be the wind and be the waves
+    Be the sunset of our days
+    Cuz we like to
+    Be romanced to
+    Be romanced to
+    Be romanced to
+    Open up the doors
+    Turn the lights on
+    Hear the love song
+    Picking up again
+    Cuz I'm an outlaw
+    Running from you
+    Come arrest me
+    I surrender to you
+    Though you slay me
+    I will trust you
+    Though offended
+    I will cling to you
+    Cuz I want to
+    Be a witness
+    Of your power
+    Of your goodness
+    Open up the doors
+    Turn thee lights on
+    Hear the love song
+    Picking up agian
+    Cuz I'm an outlaw
+    Running from you
+    Come arrest me
+    I surrender to you
+    Open up the doors
+    Turn the lights on
+    Hear the love song
+    Picking up again
+    Cuz I'm an outlaw
+    Running from you
+    Come arrest me
+    I surrender to you
+    Though you slay me
+    I will trust you
+    Though offended
+    I will cling to you
+    Cuz I want to
+    Be a witness
+    Of your power
+    Of your goodness
+  song: Outlaw
+- artist: Hillsong UNITED
+  enabled: false
   lyrics: |-
     [Verse 1]
     Grace, what have You done?
@@ -59,62 +192,14 @@
     Forever the hope in my heart
   song: Scandal of Grace
 - artist: Kat Porter
-  enabled: true
+  enabled: false
   lyrics: "Where did your hope go? \nWhere did your hope go? \n\nI'll follow where
     Your voice beckons to me\nMy spirit is willing even when my heart's weak \nTo
     put one foot in front of the other\nWhile gazing into Your eyes my Lover \n\nWhere
     did my hope go?\nWhere did my hope go? \n\nYou are the joy set before me "
   song: Where Did My Hope Go
-- artist: Jon Foreman
-  enabled: true
-  lyrics: |-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest
-    In fields of green
-    With quiet streams
-
-    Even though I walk
-    Through the valley
-    Of death and dying
-    I will not fear
-    Cause you are with me
-    You are with me
-
-    Your shepherd's staff comforts me
-    You are my feast
-    In the presence of enemies
-    Surely goodness will follow me
-    Follow me
-    In the house of God forever
-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest
-    In fields of green
-    By quiet streams
-
-    Even while I'm walking
-    Through the valley
-    Of death and dying
-    I will not fear
-    Cause you are with me
-    You're always with me
-
-    Your shepherd's staff comforts me
-    You are my feast
-    In the presence of enemies
-    Surely goodness will follow me
-    Follow me
-    In the house of God forever
-
-    In the house of God forever
-    In the house of God forever
-  song: The House Of God, Forever
 - artist: Jesus Culture
-  enabled: true
+  enabled: false
   lyrics: "Let it rain, let it rain.\nOpen the floodgates of Heaven.\n\nI feel the
     rains of Your Love, \nI feel the winds of Your Spirit,\nAnd now the heartbeat
     of Heaven,\nLet us hear.\n\nBecause we want to see You;\nShow us Your Glory.\nAnd
@@ -195,31 +280,6 @@
     I will ever praise You
     You are worthy, my Lord
   song: Let This Heart Not Wander
-- artist: Young Oceans
-  enabled: false
-  lyrics: |-
-    Hasten now, O loving Lord to us
-    We’re thirsty
-    Fill these souls, Spirit, every hour
-    We need Thee
-
-    Refrain
-
-    Come, come Holy One
-    Come meet us
-    All, all for Your glory
-    Lord Jesus
-
-    Lead us on, the perfect path O Lord And may we
-    Sin no more. This
-    spotless bride, the Church
-    Is Yours
-
-    I am yours, only yours
-    I am yours, only yours
-    We are yours, only yours
-    We are yours, only yours
-  song: Come Holy One
 - artist: Charles Wesley
   enabled: false
   lyrics: |-
