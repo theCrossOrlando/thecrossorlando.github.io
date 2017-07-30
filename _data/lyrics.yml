@@ -24,6 +24,37 @@
     We are yours, only yours
     We are yours, only yours
   song: Come Holy One
+- artist: All Sons & Daughters
+  enabled: true
+  lyrics: |
+    Will your grace run out
+    If I let you down
+    'Cause all I know
+    Is how to run
+
+    'Cause I am a sinner
+    If it's not one thing it's another
+    Caught up in words
+    Tangled in lies
+    But You are a Savior
+    And You take brokenness aside
+    And make it beautiful
+    Beautiful
+
+    Will You call me child
+    When I tell you lies
+    'Cause all I know
+    Is how to cry
+
+    'Cause I am a sinner
+    If it's not one thing it's another
+    Caught up in words
+    Tangled in lies
+    But You are a Savior
+    And You take brokenness aside
+    And make it beautiful
+    Beautiful
+  song: Brokenness Aside
 - artist: Jon Foreman
   enabled: true
   lyrics: |-
@@ -72,8 +103,34 @@
     In the house of God forever
     In the house of God forever
   song: The House Of God, Forever
-- artist: Public Radio
+- artist: Rebecca St James
+  lyrics: |-
+    Out of the depths I cry to my Lord, he lifted me up, he lifted me up
+    Out of the depths I cry to my Lord, he lifted me up, he lifted me
+
+    If you kept a record of sins who could stand, my Lord
+    Who could stand up, Lord, who could stand up?
+    If you kept a record of sins who could stand, my Lord
+    Who could stand up, Lord, who could stand up?
+
+    With you, oh Lord, there is forgiveness
+    With you, oh Lord, unfailing love
+    With you, oh Lord, full redemption
+    You have bought back my soul from the dead with your blood
+
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morning sun
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morn
+
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morning sun
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morn
+  song: More Than The Watchman (Psalm 130)
   enabled: true
+- artist: Public Radio
+  enabled: false
   lyrics: |-
     Cuz we want to know your ways
     And to trust them all the same
@@ -564,35 +621,6 @@
 
     Refrain
   song: Come Ye Sinners, Poor And Needy
-- artist: Rebecca St James
-  lyrics: |-
-    Out of the depths of my despair
-    Oh I cry Father hear my voice
-    Open Your ears to hear my mercy cry
-
-    And if You kept a book of sin
-    Oh Father, who'd be standing?
-    But in Your goodness there is mercy & forgiveness
-
-    CHORUS:
-    More than the watchmen wait for morning
-    My soul it waits for You
-    More than the watchmen wait for morning
-
-    More than the watchmen wait for morning
-    My soul it waits for You
-    More than the watchmen wait for morning
-
-    Out of the depths of my despair
-    Oh I cry Father hear my voice
-    Open Your ears to hear my mercy cry
-
-    And if You kept a book of sin
-    Oh Father, who'd be standing?
-    But in Your goodness there is mercy & forgiveness
-
-    CHORUS
-  song: More Than The Watchman (Psalm 130)
 - artist: Will Reagan & United Pursuit
   lyrics: |
     I don't wanna ride on somebody else's passion.
