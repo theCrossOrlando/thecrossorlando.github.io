@@ -1,5 +1,5 @@
 ---
-date: 07/23/2017 10:00 AM
+date: 07/23/2017 10:00
 duration: '26:30'
 file: http://crosssermons.cflcn.org/2017-07-23-the_merciful_are_shown_mercy.m4a
 layout: message
