@@ -1,6 +1,57 @@
 ---
-- artist: Young Oceans
+- artist: George Matheson
   enabled: true
+  lyrics: |-
+    O Love that will not let me go,
+    I rest my weary soul in thee;
+    I give thee back the life I owe,
+    That in thine ocean depths its flow
+    May richer, fuller be.
+
+    O Light that foll’west all my way,
+    I yield my flick’ring torch to thee;
+    My heart restores its borrowed ray,
+    That in thy sunshine’s blaze its day
+    May brighter, fairer be.
+
+    O Joy that seekest me through pain,
+    I cannot close my heart to thee;
+    I trace the rainbow through the rain,
+    And feel the promise is not vain,
+    That morn shall tearless be.
+
+    O Cross that liftest up my head,
+    I dare not ask to fly from thee;
+    I lay in dust life’s glory dead,
+    And from the ground there blossoms red
+    Life that shall endless be.
+  song: O Love That Will Not Let Me Go
+- artist: Unknown
+  enabled: true
+  lyrics: |-
+    I am weak, but Thou art strong;
+    Jesus, keep me from all wrong;
+    I’ll be satisfied as long
+    As I walk, let me walk close to Thee.
+
+    Refrain:
+    Just a closer walk with Thee,
+    Grant it, Jesus, is my plea,
+    Daily walking close to Thee,
+    Let it be, dear Lord, let it be.
+
+    In this life of toil and snares,
+    If I falter, Lord, who cares?
+    Who with me my burden shares?
+    None but Thee, dear Lord, none but Thee.
+
+    When my feeble life is o’er,
+    Time for me will be no more;
+    Guide me gently, safely o’er
+    To Thy kingdom shore, to Thy shore.
+  song: Closer Walk With Thee
+- artist: Young Oceans
+  enabled: false
   lyrics: |-
     Hasten now, O loving Lord to us
     We’re thirsty
@@ -25,7 +76,7 @@
     We are yours, only yours
   song: Come Holy One
 - artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |
     Will your grace run out
     If I let you down
@@ -56,7 +107,7 @@
     Beautiful
   song: Brokenness Aside
 - artist: Jon Foreman
-  enabled: true
+  enabled: false
   lyrics: |-
     God is my shepherd
     I won't be wanting
@@ -104,6 +155,7 @@
     In the house of God forever
   song: The House Of God, Forever
 - artist: Rebecca St James
+  enabled: false
   lyrics: |-
     Out of the depths I cry to my Lord, he lifted me up, he lifted me up
     Out of the depths I cry to my Lord, he lifted me up, he lifted me
@@ -128,7 +180,6 @@
     So my soul waits for the Lord more than watchmen wait
     More than watchman who wait for the morn
   song: More Than The Watchman (Psalm 130)
-  enabled: true
 - artist: Public Radio
   enabled: false
   lyrics: |-
@@ -384,30 +435,6 @@
     There Thy face unclouded see
     Find our heaven of heavens in Thee
   song: Hail The Day That Sees Him Rise
-- artist: ''
-  enabled: false
-  lyrics: |-
-    I am weak, but Thou art strong;
-    Jesus, keep me from all wrong;
-    I’ll be satisfied as long
-    As I walk, let me walk close to Thee.
-
-    Refrain:
-    Just a closer walk with Thee,
-    Grant it, Jesus, is my plea,
-    Daily walking close to Thee,
-    Let it be, dear Lord, let it be.
-
-    In this life of toil and snares,
-    If I falter, Lord, who cares?
-    Who with me my burden shares?
-    None but Thee, dear Lord, none but Thee.
-
-    When my feeble life is o’er,
-    Time for me will be no more;
-    Guide me gently, safely o’er
-    To Thy kingdom shore, to Thy shore.
-  song: Closer Walk With Thee
 - artist: Dallan Forgaill
   enabled: false
   lyrics: |-
