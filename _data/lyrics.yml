@@ -1,4 +1,95 @@
 ---
+- artist: Gungor
+  enabled: true
+  lyrics: |2-
+
+    All this pain
+    I wonder if I’ll ever find my way
+    I wonder if my life could really change at all
+    All this earth
+    Could all that is lost ever be found
+    Could a garden come up from this ground at all
+
+    You make beautiful things
+    You make beautiful things out of the dust
+    You make beautiful things
+    You make beautiful things out of us
+
+    All around
+    Hope is springing up from this old ground
+    Out of chaos life is being found in You
+
+    You make beautiful things
+    You make beautiful things out of the dust
+    You make beautiful things
+    You make beautiful things out of us
+
+    You make beautiful things
+    You make beautiful things out of the dust
+    You make beautiful things
+    You make beautiful things out of us
+
+    You make me new, You are making me new
+    You make me new, You are making me new
+
+    You make beautiful things
+    You make beautiful things out of the dust
+    You make beautiful things
+    You make beautiful things out of us
+  song: Beautiful Things
+- artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    Oh, I've heard a thousand stories of what they think you're like
+    But I've heard the tender whispers of love in the dead of night
+    And you tell me that you're pleased
+    And that I'm never alone
+
+    You're a Good, Good Father
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    It's who I am, it's who I am, it's who I am
+
+    Oh, and I've seen many searching for answers far and wide
+    But I know we're all searching
+    For answers only you provide
+    'Cause you know just what we need
+    Before we say a word
+
+    You're a Good, Good Father
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    It's who I am, it's who I am, it's who I am
+
+    'cause you are perfect in all of your ways
+    You are perfect in all of your ways
+    You are perfect in all of your ways to us
+
+    You are perfect in all of your ways
+    You are perfect in all of your ways
+    You are perfect in all of your ways to us
+
+    Oh, it's love so undeniable
+    I, I can hardly speak
+    Peace so unexplainable
+    I, I can hardly think
+
+    As you call me deeper still [3x]
+    Into love, love, love
+
+    [3x:]
+    You're a Good, Good Father
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    It's who I am, it's who I am, it's who I am
+
+    You're a Good, Good Father
+    (you are perfect in all of your ways)
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    (you are perfect in all of your ways)
+    It's who I am, it's who I am it's who I am
+  song: Good Good Father
 - artist: Unknown
   enabled: true
   lyrics: |-
