@@ -1,4 +1,15 @@
 ---
+- artist: Sandra McCracken
+  enabled: true
+  lyrics: "Hallelujah, give praise, you servants \nPraise the name of the LORD \nLet
+    the name of the LORD be blessed \nfrom now and forevermore. \n\nFrom the rising
+    of the sun, to it’s going down \nLet the name of the LORD be praised, from the
+    rising of the sun. \n\nThe LORD is high above all nations, and his glory above
+    the heavens, \nWho is like the LORD our God? Who sits enthroned on high? \nWho
+    is like the LORD our God? Who stoops to behold, \nThe heavens and the earth? \n\nFrom
+    the rising of the sun, to it’s going down \nLet the name of the LORD be praised,
+    from the rising of the sun."
+  song: From The Rising Of The Sun (Psalm 113)
 - artist: Hillsong United
   enabled: true
   lyrics: |-
@@ -41,17 +52,32 @@
     My soul will rest in Your embrace
     I am Yours and You are mine
   song: Oceans (Where Feet May Fail)Oceans (Where Feet May Fail)
-- artist: Sandra McCracken
+- artist: Jesus Culture
   enabled: true
-  lyrics: "Hallelujah, give praise, you servants \nPraise the name of the LORD \nLet
-    the name of the LORD be blessed \nfrom now and forevermore. \n\nFrom the rising
-    of the sun, to it’s going down \nLet the name of the LORD be praised, from the
-    rising of the sun. \n\nThe LORD is high above all nations, and his glory above
-    the heavens, \nWho is like the LORD our God? Who sits enthroned on high? \nWho
-    is like the LORD our God? Who stoops to behold, \nThe heavens and the earth? \n\nFrom
-    the rising of the sun, to it’s going down \nLet the name of the LORD be praised,
-    from the rising of the sun."
-  song: From The Rising Of The Sun (Psalm 113)
+  lyrics: |-
+    [Lead:]
+    There is power in the name of Jesus [3x]
+    to break every chain, break every chain, break every chain. [2x]
+
+    [Chorus:]
+    There is power in the name of Jesus [3x]
+    to break every chain, break every chain, break every chain. [2x]
+
+    [Lead:]
+    There's an army rising up. [3x]
+    To break every chain, break every chain, break every chain. [2x]
+
+    [Chorus:]
+    There's an army rising up. [3x]
+    To break every chain, break every chain, break every chain. [2x]
+
+    [Vamp:]
+    I hear the chains falling.
+
+    [End:]
+    There is power in the name of Jesus
+    to break every chain, break every chain, break every chain.
+  song: Break Every Chain (There Is Power In Thhe Name of Jesus)
 - artist: Rebecca St James
   enabled: true
   lyrics: |-
@@ -117,7 +143,7 @@
     You make beautiful things out of us
   song: Beautiful Things
 - artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, I've heard a thousand stories of what they think you're like
     But I've heard the tender whispers of love in the dead of night
