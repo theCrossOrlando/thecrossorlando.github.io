@@ -1,6 +1,85 @@
 ---
-- artist: Gungor
+- artist: Hillsong United
   enabled: true
+  lyrics: |-
+    You call me out upon the waters
+    The great unknown where feet may fail
+    And there I find You in the mystery
+    In oceans deep
+    My faith will stand
+
+    And I will call upon Your name
+    And keep my eyes above the waves
+    When oceans rise
+    My soul will rest in Your embrace
+    For I am Yours and You are mine
+
+    Your grace abounds in deepest waters
+    Your sovereign hand
+    Will be my guide
+    Where feet may fail and fear surrounds me
+    You've never failed and You won't start now
+
+    So I will call upon Your name
+    And keep my eyes above the waves
+    When oceans rise
+    My soul will rest in Your embrace
+    For I am Yours and You are mine
+
+    [6x]
+    Spirit lead me where my trust is without borders
+    Let me walk upon the waters
+    Wherever You would call me
+    Take me deeper than my feet could ever wander
+    And my faith will be made stronger
+    In the presence of my Savior
+
+    Oh, Jesus, you're my God!
+
+    I will call upon Your name
+    Keep my eyes above the waves
+    My soul will rest in Your embrace
+    I am Yours and You are mine
+  song: Oceans (Where Feet May Fail)Oceans (Where Feet May Fail)
+- artist: Sandra McCracken
+  enabled: true
+  lyrics: "Hallelujah, give praise, you servants \nPraise the name of the LORD \nLet
+    the name of the LORD be blessed \nfrom now and forevermore. \n\nFrom the rising
+    of the sun, to it’s going down \nLet the name of the LORD be praised, from the
+    rising of the sun. \n\nThe LORD is high above all nations, and his glory above
+    the heavens, \nWho is like the LORD our God? Who sits enthroned on high? \nWho
+    is like the LORD our God? Who stoops to behold, \nThe heavens and the earth? \n\nFrom
+    the rising of the sun, to it’s going down \nLet the name of the LORD be praised,
+    from the rising of the sun."
+  song: From The Rising Of The Sun (Psalm 113)
+- artist: Rebecca St James
+  enabled: true
+  lyrics: |-
+    Out of the depths I cry to my Lord, he lifted me up, he lifted me up
+    Out of the depths I cry to my Lord, he lifted me up, he lifted me
+
+    If you kept a record of sins who could stand, my Lord
+    Who could stand up, Lord, who could stand up?
+    If you kept a record of sins who could stand, my Lord
+    Who could stand up, Lord, who could stand up?
+
+    With you, oh Lord, there is forgiveness
+    With you, oh Lord, unfailing love
+    With you, oh Lord, full redemption
+    You have bought back my soul from the dead with your blood
+
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morning sun
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morn
+
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morning sun
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morn
+  song: More Than The Watchman (Psalm 130)
+- artist: Gungor
+  enabled: false
   lyrics: |2-
 
     All this pain
@@ -245,32 +324,6 @@
     In the house of God forever
     In the house of God forever
   song: The House Of God, Forever
-- artist: Rebecca St James
-  enabled: false
-  lyrics: |-
-    Out of the depths I cry to my Lord, he lifted me up, he lifted me up
-    Out of the depths I cry to my Lord, he lifted me up, he lifted me
-
-    If you kept a record of sins who could stand, my Lord
-    Who could stand up, Lord, who could stand up?
-    If you kept a record of sins who could stand, my Lord
-    Who could stand up, Lord, who could stand up?
-
-    With you, oh Lord, there is forgiveness
-    With you, oh Lord, unfailing love
-    With you, oh Lord, full redemption
-    You have bought back my soul from the dead with your blood
-
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morning sun
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morn
-
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morning sun
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morn
-  song: More Than The Watchman (Psalm 130)
 - artist: Public Radio
   enabled: false
   lyrics: |-
