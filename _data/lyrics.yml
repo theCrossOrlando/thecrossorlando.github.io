@@ -1,5 +1,6 @@
 ---
-- artist: Sandra McCracken
+- song: From The Rising Of The Sun (Psalm 113)
+  artist: Sandra McCracken
   enabled: true
   lyrics: "Hallelujah, give praise, you servants \nPraise the name of the LORD \nLet
     the name of the LORD be blessed \nfrom now and forevermore. \n\nFrom the rising
@@ -9,8 +10,8 @@
     is like the LORD our God? Who stoops to behold, \nThe heavens and the earth? \n\nFrom
     the rising of the sun, to it’s going down \nLet the name of the LORD be praised,
     from the rising of the sun."
-  song: From The Rising Of The Sun (Psalm 113)
-- artist: Hillsong United
+- song: Oceans (Where Feet May Fail)Oceans (Where Feet May Fail)
+  artist: Hillsong United
   enabled: true
   lyrics: |-
     You call me out upon the waters
@@ -51,8 +52,8 @@
     Keep my eyes above the waves
     My soul will rest in Your embrace
     I am Yours and You are mine
-  song: Oceans (Where Feet May Fail)Oceans (Where Feet May Fail)
-- artist: Jesus Culture
+- song: Break Every Chain (There Is Power In Thhe Name of Jesus)
+  artist: Jesus Culture
   enabled: true
   lyrics: |-
     [Lead:]
@@ -77,8 +78,8 @@
     [End:]
     There is power in the name of Jesus
     to break every chain, break every chain, break every chain.
-  song: Break Every Chain (There Is Power In Thhe Name of Jesus)
-- artist: Rebecca St James
+- song: More Than The Watchman (Psalm 130)
+  artist: Rebecca St James
   enabled: true
   lyrics: |-
     Out of the depths I cry to my Lord, he lifted me up, he lifted me up
@@ -103,8 +104,8 @@
     More than watchman who wait for the morning sun
     So my soul waits for the Lord more than watchmen wait
     More than watchman who wait for the morn
-  song: More Than The Watchman (Psalm 130)
-- artist: Gungor
+- song: Beautiful Things
+  artist: Gungor
   enabled: false
   lyrics: |2-
 
@@ -141,8 +142,8 @@
     You make beautiful things out of the dust
     You make beautiful things
     You make beautiful things out of us
-  song: Beautiful Things
-- artist: Chris Tomlin
+- song: Good Good Father
+  artist: Chris Tomlin
   enabled: false
   lyrics: |-
     Oh, I've heard a thousand stories of what they think you're like
@@ -194,8 +195,8 @@
     And I'm loved by you
     (you are perfect in all of your ways)
     It's who I am, it's who I am it's who I am
-  song: Good Good Father
-- artist: Unknown
+- song: Closer Walk With Thee
+  artist: Unknown
   enabled: false
   lyrics: |-
     I am weak, but Thou art strong;
@@ -218,8 +219,8 @@
     Time for me will be no more;
     Guide me gently, safely o’er
     To Thy kingdom shore, to Thy shore.
-  song: Closer Walk With Thee
-- artist: George Matheson
+- song: O Love That Will Not Let Me Go
+  artist: George Matheson
   enabled: true
   lyrics: |-
     O Love that will not let me go,
@@ -245,8 +246,8 @@
     I lay in dust life’s glory dead,
     And from the ground there blossoms red
     Life that shall endless be.
-  song: O Love That Will Not Let Me Go
-- artist: Young Oceans
+- song: Come Holy One
+  artist: Young Oceans
   enabled: false
   lyrics: |-
     Hasten now, O loving Lord to us
@@ -270,8 +271,8 @@
     I am yours, only yours
     We are yours, only yours
     We are yours, only yours
-  song: Come Holy One
-- artist: All Sons & Daughters
+- song: Brokenness Aside
+  artist: All Sons & Daughters
   enabled: false
   lyrics: |
     Will your grace run out
@@ -301,8 +302,8 @@
     And You take brokenness aside
     And make it beautiful
     Beautiful
-  song: Brokenness Aside
-- artist: Jon Foreman
+- song: The House Of God, Forever
+  artist: Jon Foreman
   enabled: false
   lyrics: |-
     God is my shepherd
@@ -349,8 +350,8 @@
 
     In the house of God forever
     In the house of God forever
-  song: The House Of God, Forever
-- artist: Public Radio
+- song: Outlaw
+  artist: Public Radio
   enabled: false
   lyrics: |-
     Cuz we want to know your ways
@@ -409,8 +410,8 @@
     Be a witness
     Of your power
     Of your goodness
-  song: Outlaw
-- artist: Hillsong UNITED
+- song: Scandal of Grace
+  artist: Hillsong UNITED
   enabled: false
   lyrics: |-
     [Verse 1]
@@ -468,22 +469,22 @@
     Give all I have just to know You
     Jesus, there's no one besides You
     Forever the hope in my heart
-  song: Scandal of Grace
-- artist: Kat Porter
+- song: Where Did My Hope Go
+  artist: Kat Porter
   enabled: false
   lyrics: "Where did your hope go? \nWhere did your hope go? \n\nI'll follow where
     Your voice beckons to me\nMy spirit is willing even when my heart's weak \nTo
     put one foot in front of the other\nWhile gazing into Your eyes my Lover \n\nWhere
     did my hope go?\nWhere did my hope go? \n\nYou are the joy set before me "
-  song: Where Did My Hope Go
-- artist: Jesus Culture
+- song: Let It Rain
+  artist: Jesus Culture
   enabled: false
   lyrics: "Let it rain, let it rain.\nOpen the floodgates of Heaven.\n\nI feel the
     rains of Your Love, \nI feel the winds of Your Spirit,\nAnd now the heartbeat
     of Heaven,\nLet us hear.\n\nBecause we want to see You;\nShow us Your Glory.\nAnd
     we want to know You, Lord."
-  song: Let It Rain
-- artist: Young Oceans
+- song: Until These Tears Are Gone
+  artist: Young Oceans
   enabled: false
   lyrics: |-
     Flood this heart with assurance of Your mercy
@@ -503,8 +504,8 @@
     I’ll fix my eyes on eternity above
 
     Where every lie, every shadow is uncovered by Your love
-  song: Until These Tears Are Gone
-- artist: Young Oceans
+- song: None But Thee
+  artist: Young Oceans
   enabled: false
   lyrics: |-
     Jesus, mighty King of Heaven
@@ -534,8 +535,8 @@
     Captives of Thy bless’d grace
     Offering our lives hereafter
     We resolve to seek Thy face
-  song: None But Thee
-- artist: Young Oceans
+- song: Let This Heart Not Wander
+  artist: Young Oceans
   enabled: false
   lyrics: |-
     Let my eyes see nothing
@@ -557,8 +558,8 @@
     I will ever praise You
     I will ever praise You
     You are worthy, my Lord
-  song: Let This Heart Not Wander
-- artist: Charles Wesley
+- song: Hail The Day That Sees Him Rise
+  artist: Charles Wesley
   enabled: false
   lyrics: |-
     Hail the day that sees Him rise
@@ -604,8 +605,8 @@
     Partners of Thy endless reign
     There Thy face unclouded see
     Find our heaven of heavens in Thee
-  song: Hail The Day That Sees Him Rise
-- artist: Dallan Forgaill
+- song: Be Thou My Vision
+  artist: Dallan Forgaill
   enabled: false
   lyrics: |-
     Be Thou my Vision, O Lord of my heart;
@@ -627,8 +628,8 @@
     May I reach Heaven’s joys, O bright Heaven’s Sun!
     Heart of my own heart, whatever befall,
     Still be my Vision, O Ruler of all.
-  song: Be Thou My Vision
-- artist: Francis of Assisi
+- song: All Creatures of Our God and King
+  artist: Francis of Assisi
   enabled: false
   lyrics: "All creatures of our God and King\nLift up your voice and with us sing,
     \  \nAlleluia! Alleluia!    \n\nThou burning sun with golden beam, \nThou silver
@@ -640,8 +641,8 @@
     humbleness,  \nO praise Him! Alleluia!    \n\nPraise, praise the Father, praise
     the Son, \nAnd praise the Spirit, Three in One!   \n\nO praise Him! O praise Him!
     \ \nAlleluia! Alleluia! \nAlleluia!"
-  song: All Creatures of Our God and King
-- artist: Tribulations, Estil C. Ball
+- song: Trials and Troubles No More
+  artist: Tribulations, Estil C. Ball
   enabled: false
   lyrics: |-
     Trials, troubles, tribulations,
@@ -664,8 +665,8 @@
     We’ve no need for them to stay
     The Lamb of God will be our light,
     Brighter than the brightest day
-  song: Trials and Troubles No More
-- artist: Augustus M. Toplady
+- song: Rock of Ages
+  artist: Augustus M. Toplady
   enabled: false
   lyrics: |-
     Rock of Ages, cleft for me,
@@ -695,8 +696,8 @@
     And behold Thee on Thy throne,
     Rock of Ages, cleft for me,
     Let me hide myself in Thee.
-  song: Rock of Ages
-- artist: Robert Lowry
+- song: Nothing But The Blood
+  artist: Robert Lowry
   enabled: false
   lyrics: |-
     What can wash away my sin?
@@ -743,8 +744,8 @@
     Nothing but the blood of Jesus,
     All my praise for this I bring—
     Nothing but the blood of Jesus.
-  song: Nothing But The Blood
-- artist: Horatio G. Spafford
+- song: It Is Well With My Soul
+  artist: Horatio G. Spafford
   enabled: false
   lyrics: |-
     When peace, like a river, attendeth my way,
@@ -788,8 +789,8 @@
     The sky, not the grave, is our goal;
     Oh trump of the angel! Oh voice of the Lord!
     Blessèd hope, blessèd rest of my soul!
-  song: It Is Well With My Soul
-- artist: Joseph Hart
+- song: Come Ye Sinners, Poor And Needy
+  artist: Joseph Hart
   enabled: false
   lyrics: |-
     Come, ye sinners, poor and needy,
@@ -817,8 +818,8 @@
     You will never come at all.
 
     Refrain
-  song: Come Ye Sinners, Poor And Needy
-- artist: Will Reagan & United Pursuit
+- song: Help Me Find My Own Flame
+  artist: Will Reagan & United Pursuit
   lyrics: |
     I don't wanna ride on somebody else's passion.
     I don't wanna find that I am just dry bones.
@@ -857,8 +858,8 @@
     I want your burning desire
     Do what only you can do, in my heart tonight
     There's no better time
-  song: Help Me Find My Own Flame
-- artist: Chris Tomlin
+- song: Come Thou Fount
+  artist: Chris Tomlin
   enabled: false
   lyrics: |-
     Come thou fount of every blessing
@@ -888,4 +889,3 @@
     prone to leave the God I love
     Here's my heart, O take and seal it,
     seal it for thy courts above
-  song: Come Thou Fount
