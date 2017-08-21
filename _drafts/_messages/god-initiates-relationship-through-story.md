@@ -9,5 +9,7 @@ duration: '43:00'
 excerpt: 'The scriptures are a story of God''s work in the world. It may be easier
   if they were a text book or a list of doctrines, but God is more interested in being
   known than understood. '
-summary: ''
+summary: 'The scriptures are a story of God''s work in the world. It may be easier
+  if they were a text book or a list of doctrines, but God is more interested in being
+  known than understood. '
 ---
