@@ -1,0 +1,19 @@
+---
+hide_body: false
+fields:
+- type: text
+  label: Song
+  name: song
+  config:
+    required: true
+- name: artist
+  type: text
+  label: Artist
+  config:
+    required: true
+- type: textarea
+  label: Lyrics
+  name: lyrics
+- name: enabled
+  type: boolean
+  label: Enabled

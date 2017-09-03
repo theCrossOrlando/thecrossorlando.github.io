@@ -1,0 +1,53 @@
+---
+pages:
+- _messages/god-initiates-relationship-through-story.md
+- _messages/persecuted-get-the-kingdom.md
+- _messages/the-peacemakers-will-be-called-children-of-god.md
+- _messages/hunger-and-thirst.md
+- _messages/pure-in-heart-will-see-god.md
+- _messages/the-merciful-are-shown-mercy.md
+- _messages/meek-inherit-the-earth.md
+- _messages/2017-05-21.md
+- _messages/2017-05-14.md
+- _messages/2017-04-16.md
+- _messages/2017-03-19.md
+- _messages/2017-02-19.md
+- _messages/2017-02-26.md
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  default: ''
+  config:
+    required: true
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: 2017-07-17 13:54:35 +0000
+- name: file
+  label: File
+  type: text
+  hidden: false
+  default: http://crosssermons.cflcn.org/
+- name: excerpt
+  label: Excerpt
+  type: text
+  hidden: false
+  default: ''
+- name: summary
+  label: Summary
+  type: textarea
+  hidden: false
+  default: ''
+- name: duration
+  label: Duration
+  type: text
+  hidden: false
+  default: ''
+- name: length
+  label: Length
+  type: text
+  hidden: false
+  default: ''
