@@ -1,15 +1,12 @@
 ---
 layout: message
 permalink: "/messages/:year/:month/:day/"
-title: Story
-date: 2017-09-18 00:00:00 +0000
-file: http://crosssermons.cflcn.org/2017-08-20-story.m4a
-excerpt: 'The Cross Orlando values Story because God starts relationship through story,
-  not an encyclopedia or compendium of doctrine. God is more interested in being known
-  than understood. '
-summary: 'The Cross Orlando values Story because God starts relationship through story,
-  not an encyclopedia or compendium of doctrine. God is more interested in being known
-  than understood. '
+title: The Cross Orlando Values_Peace
+date: 2017-09-03 05:25:23 -0400
+file: http://crosssermons.cflcn.org/2017-09-03-peace.m4a
+excerpt: 'The peace of God comes with the presence of his reign. It goes with his
+  people wherever they go. '
+summary: ''
 duration: ''
 length: ''
 ---
