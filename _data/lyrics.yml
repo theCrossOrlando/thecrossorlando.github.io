@@ -1,7 +1,160 @@
 ---
-- song: Only You
-  artist: Young Oceans
+- artist: Matt Redman
   enabled: true
+  lyrics: |-
+    Come, come let us return to the Lord
+    Come, come let us return to the Lord
+    In brokenness of heart, we consecrate our lives singing
+    Come, come let us return to the Lord
+
+    With a rending of the heart
+    With the bowing of a knee
+    Oh we are returning
+    With a prayer and with a fast
+    With a song in minor key
+    Lord we are repenting
+
+    Even now, even now
+    With all of our hearts
+    You may turn, You may leave a blessing behind
+
+    In Your mercy You will come
+    In Your mercy You will come
+    Surely as the rising sun
+    Surely as the rising sun
+  song: Come Let Us Return to The Lord
+- artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    Oh, I've heard a thousand stories of what they think you're like
+    But I've heard the tender whispers of love in the dead of night
+    And you tell me that you're pleased
+    And that I'm never alone
+
+    You're a Good, Good Father
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    It's who I am, it's who I am, it's who I am
+
+    Oh, and I've seen many searching for answers far and wide
+    But I know we're all searching
+    For answers only you provide
+    'Cause you know just what we need
+    Before we say a word
+
+    You're a Good, Good Father
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    It's who I am, it's who I am, it's who I am
+
+    'cause you are perfect in all of your ways
+    You are perfect in all of your ways
+    You are perfect in all of your ways to us
+
+    You are perfect in all of your ways
+    You are perfect in all of your ways
+    You are perfect in all of your ways to us
+
+    Oh, it's love so undeniable
+    I, I can hardly speak
+    Peace so unexplainable
+    I, I can hardly think
+
+    As you call me deeper still [3x]
+    Into love, love, love
+
+    [3x:]
+    You're a Good, Good Father
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    It's who I am, it's who I am, it's who I am
+
+    You're a Good, Good Father
+    (you are perfect in all of your ways)
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    (you are perfect in all of your ways)
+    It's who I am, it's who I am it's who I am
+  song: Good Good Father
+- artist: Chris Tomlin
+  enabled: true
+  lyrics: "Come, Thou long expected Jesus \nBorn to set Thy people free; \nFrom our
+    fears and sins release us, \nLet us find our rest in Thee. \nIsrael's strength
+    and consolation, \nHope of all the earth Thou art; \nDear desire of every nation,
+    \nJoy of every longing heart. \n\nBorn Thy people to deliver, \nBorn a child and
+    yet a King, \nBorn to reign in us forever, \nNow Thy gracious kingdom bring. \nBy
+    Thine own eternal Spirit \nRule in all our hearts alone; \nBy Thine all sufficient
+    merit, \nRaise us to Thy glorious throne. \n\nBy Thine all sufficient merit, \nRaise
+    us to Thy glorious throne."
+  song: " Come Thou Long Expected Jesus"
+- artist: Will Reagan & United Pursuit
+  lyrics: |
+    I don't wanna ride on somebody else's passion.
+    I don't wanna find that I am just dry bones.
+    I wanna burn with unquenchable fire.
+    Deep down inside see it coming alive
+
+    Help me find my own flame.
+    Help me find my own fire.
+    I want the real thing,
+    I want your burning desire
+
+    I don't wanna ride on somebody else's passion.
+    I don't wanna find that I am just dry bones.
+    I wanna burn with unquenchable fire.
+    Deep down inside see it coming alive
+    Help me find my own flame.
+    Help me find my own fire.
+    I want the real thing,
+    I want your burning desire
+
+    Do what only you can do, in my heart tonight
+    There's no better time
+    Help me find my own flame.
+    Help me find my own fire.
+    I want the real thing,
+    I want your burning desire
+    I don't wanna ride on somebody else's passion.
+    I don't wanna find that I am just dry bones.
+    I wanna burn with unquenchable fire.
+    Deep down inside see it coming alive
+    I wanna burn with unquenchable fire.
+    Deep down inside see it coming alive
+    Help me find my own flame.
+    Help me find my own fire.
+    I want the real thing,
+    I want your burning desire
+    Do what only you can do, in my heart tonight
+    There's no better time
+  song: Help Me Find My Own Flame
+  enabled: true
+- artist: Third Day
+  enabled: true
+  lyrics: |-
+    You are so good to me
+    You heal my broken heart
+    You are my Father in heaven [2x]
+
+    You ride upon the clouds
+    You lead me to the truth
+    You are the Spirit inside me [2x]
+
+    You poured out all your blood
+    You died upon the cross
+    You are my Jesus who loves me [2x]
+
+    [Chorus:]
+    You are beautiful my sweet, sweet, song [3x]
+    I will sing again
+
+    [Bridge:]
+    You are my strong melody
+    You are my dancing rhythm
+    You are my perfect rhyme
+    And I want to sing forever
+  song: You Are So Good To Me
+- artist: Young Oceans
+  enabled: false
   lyrics: |-
     Did You say, 'seek, you will surely find'?
     I am searching, Lord turn Your eyes to mine
@@ -28,8 +181,9 @@
     I wanna see the sick and weary be made new
     I wanna swim inside the blessings
     I wanna swim inside the blessings of the Lord
+  song: Only You
 - artist: William McDowe
-  enabled: true
+  enabled: false
   lyrics: "I've been captured by a love I can't explain \nAnd now you have me and
     I'm forever changed\nI've abandoned everything I've ever known \nNow I surrender
     my life is not my own\nI belong to you, I belong to you [x4]\n[Repeat x3]\n\nMy
@@ -370,59 +524,6 @@
     You make beautiful things
     You make beautiful things out of us
   song: Beautiful Things
-- artist: Chris Tomlin
-  enabled: false
-  lyrics: |-
-    Oh, I've heard a thousand stories of what they think you're like
-    But I've heard the tender whispers of love in the dead of night
-    And you tell me that you're pleased
-    And that I'm never alone
-
-    You're a Good, Good Father
-    It's who you are, it's who you are, it's who you are
-    And I'm loved by you
-    It's who I am, it's who I am, it's who I am
-
-    Oh, and I've seen many searching for answers far and wide
-    But I know we're all searching
-    For answers only you provide
-    'Cause you know just what we need
-    Before we say a word
-
-    You're a Good, Good Father
-    It's who you are, it's who you are, it's who you are
-    And I'm loved by you
-    It's who I am, it's who I am, it's who I am
-
-    'cause you are perfect in all of your ways
-    You are perfect in all of your ways
-    You are perfect in all of your ways to us
-
-    You are perfect in all of your ways
-    You are perfect in all of your ways
-    You are perfect in all of your ways to us
-
-    Oh, it's love so undeniable
-    I, I can hardly speak
-    Peace so unexplainable
-    I, I can hardly think
-
-    As you call me deeper still [3x]
-    Into love, love, love
-
-    [3x:]
-    You're a Good, Good Father
-    It's who you are, it's who you are, it's who you are
-    And I'm loved by you
-    It's who I am, it's who I am, it's who I am
-
-    You're a Good, Good Father
-    (you are perfect in all of your ways)
-    It's who you are, it's who you are, it's who you are
-    And I'm loved by you
-    (you are perfect in all of your ways)
-    It's who I am, it's who I am it's who I am
-  song: Good Good Father
 - artist: George Matheson
   enabled: true
   lyrics: |-
@@ -940,46 +1041,6 @@
 
     Refrain
   song: Come Ye Sinners, Poor And Needy
-- artist: Will Reagan & United Pursuit
-  lyrics: |
-    I don't wanna ride on somebody else's passion.
-    I don't wanna find that I am just dry bones.
-    I wanna burn with unquenchable fire.
-    Deep down inside see it coming alive
-
-    Help me find my own flame.
-    Help me find my own fire.
-    I want the real thing,
-    I want your burning desire
-
-    I don't wanna ride on somebody else's passion.
-    I don't wanna find that I am just dry bones.
-    I wanna burn with unquenchable fire.
-    Deep down inside see it coming alive
-    Help me find my own flame.
-    Help me find my own fire.
-    I want the real thing,
-    I want your burning desire
-
-    Do what only you can do, in my heart tonight
-    There's no better time
-    Help me find my own flame.
-    Help me find my own fire.
-    I want the real thing,
-    I want your burning desire
-    I don't wanna ride on somebody else's passion.
-    I don't wanna find that I am just dry bones.
-    I wanna burn with unquenchable fire.
-    Deep down inside see it coming alive
-    I wanna burn with unquenchable fire.
-    Deep down inside see it coming alive
-    Help me find my own flame.
-    Help me find my own fire.
-    I want the real thing,
-    I want your burning desire
-    Do what only you can do, in my heart tonight
-    There's no better time
-  song: Help Me Find My Own Flame
 - artist: Chris Tomlin
   enabled: true
   lyrics: |-
