@@ -617,7 +617,7 @@
     You make beautiful things out of us
   song: Beautiful Things
 - artist: George Matheson
-  enabled: true
+  enabled: false
   lyrics: |-
     O Love that will not let me go,
     I rest my weary soul in thee;
@@ -1134,7 +1134,6 @@
     Refrain
   song: Come Ye Sinners, Poor And Needy
 - artist: Chris Tomlin
-  enabled: true
   lyrics: |-
     Come thou fount of every blessing
     Tune my heart to sing thy grace
