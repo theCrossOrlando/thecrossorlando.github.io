@@ -1,6 +1,98 @@
 ---
-- artist: Matt Redman
+- artist: Joachim Neander
   enabled: true
+  lyrics: "Praise to the Lord, the Almighty, \nthe King of creation!\nO my soul, praise
+    him, \nfor he is your health and salvation!\nLet all who hear\nNow to his temple
+    draw near,\nJoining in glad adoration!\n\nPraise to the Lord, who over all \nThings
+    is wondrously reigning \nAnd, as on wings of an eagle, \nuplifting, sustaining.\nHave
+    you not seen\nAll that is needful has been\nSent by his gracious ordaining?\n\nPraise
+    to the Lord, who will \nProsper your work and defend you;\nSurely his goodness
+    and mercy\nShall daily attend you.\nPonder anew\nWhat the almighty can do\nAs
+    with his love he befriends you.\n\nPraise to the Lord! Oh, let all\nThat is in
+    me adore him!\nAll that has life and breath, \nCome now with praises before him!\nLet
+    the amen\nSound from his people again.\nGladly forever adore him!"
+  song: Praise to the Lord, the Almighty
+- artist: Edward Mote
+  enabled: true
+  lyrics: |-
+    1. My hope is built on nothing less
+    Than Jesus' blood and righteousness;
+    I dare not trust the sweetest frame,
+    But wholly lean on Jesus' name.
+    On Christ, the solid Rock, I stand;
+    All other ground is sinking sand.
+
+    2. When darkness veils His lovely face,
+    I rest on His unchanging grace;
+    In every high and stormy gale
+    My anchor holds within the veil.
+    On Christ, the solid Rock, I stand;
+    All other ground is sinking sand.
+
+    3. His oath, His covenant, and blood
+    Support me in the whelming flood;
+    When every earthly prop gives way,
+    He then is all my Hope and Stay.
+    On Christ, the solid Rock, I stand;
+    All other ground is sinking sand.
+
+    4. When He shall come with trumpet sound,
+    Oh, may I then in Him be found,
+    Clothed in His righteousness alone,
+    Faultless to stand before the throne!
+    On Christ, the solid Rock, I stand;
+    All other ground is sinking sand.
+  song: My Hope is Built on Nothing Less
+- artist: Frances R. Havergal
+  enabled: true
+  lyrics: |-
+    1. Take my life and let it be
+    Consecrated, Lord, to Thee;
+    Take my moments and my days,
+    Let them flow in ceaseless praise.
+
+    2. Take my hands and let them move
+    At the impulse of Thy love;
+    Take my feet and let them be
+    Swift and beautiful for Thee.
+
+    3. Take my voice and let me sing
+    Always, only, for my King;
+    Take my lips and let them be
+    Filled with messages from Thee.
+
+    4. Take my silver and my gold,
+    Not a mite would I withhold;
+    Take my intellect and use
+    Every power as Thou shalt choose.
+
+    5. Take my will and make it Thine,
+    It shall be no longer mine;
+    Take my heart, it is Thine own,
+    It shall be Thy royal throne.
+
+    6. Take my love, my Lord, I pour
+    At Thy feet its treasure-store;
+    Take myself, and I will be
+    Ever, only, all, for Thee.
+  song: Take My Life and Let It Be
+- artist: Will Reagan & United Pursuit
+  enabled: true
+  lyrics: "No place I would rather be\nNo place I would rather be\nNo place I would
+    rather be\nThan here in your love, here in your love\n\nSet a fire down in my
+    soul\nThat I can't contain that I can't control\nI want more of You, God\nI want
+    more of You, God\n\nI want more, I want more \nI want more, I want more \nI want
+    more, I want more of you\nPour it out\n\nSet a fire down in my soul\nThat I can't
+    contain that I can't control\nI want more of You, God\nI want more of You, God\n\nNo
+    place I would rather be\nNo place I would rather be\nNo place I would rather be\nThan
+    here in your love, here in your love\n\nSet a fire down in my soul\nThat I can't
+    contain that I can't control\nI want more of You, God\nI want more of You, God\n\nI
+    want more, I want more \nI want more, I want more \nI want more, I want more of
+    you\nPour it out\n\nSet a fire down in my soul\nThat I can't contain that I can't
+    control\nI want more of You, God\nI want more of You, God"
+  song: Set a Fire
+- artist: Matt Redman
+  enabled: false
   lyrics: |-
     Come, come let us return to the Lord
     Come, come let us return to the Lord
@@ -24,7 +116,7 @@
     Surely as the rising sun
   song: Come Let Us Return to The Lord
 - artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, I've heard a thousand stories of what they think you're like
     But I've heard the tender whispers of love in the dead of night
@@ -77,7 +169,7 @@
     It's who I am, it's who I am it's who I am
   song: Good Good Father
 - artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: "Come, Thou long expected Jesus \nBorn to set Thy people free; \nFrom our
     fears and sins release us, \nLet us find our rest in Thee. \nIsrael's strength
     and consolation, \nHope of all the earth Thou art; \nDear desire of every nation,
@@ -88,6 +180,7 @@
     us to Thy glorious throne."
   song: " Come Thou Long Expected Jesus"
 - artist: Will Reagan & United Pursuit
+  enabled: false
   lyrics: |
     I don't wanna ride on somebody else's passion.
     I don't wanna find that I am just dry bones.
@@ -127,9 +220,8 @@
     Do what only you can do, in my heart tonight
     There's no better time
   song: Help Me Find My Own Flame
-  enabled: true
 - artist: Third Day
-  enabled: true
+  enabled: false
   lyrics: |-
     You are so good to me
     You heal my broken heart
