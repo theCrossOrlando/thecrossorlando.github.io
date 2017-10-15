@@ -1,6 +1,145 @@
 ---
-- artist: Joachim Neander
+- artist: Jesus Culture
   enabled: true
+  lyrics: |-
+    [Verse 1]
+
+    There’s nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
+
+    [Chorus]
+
+    Holy Spirit, You are welcome here
+    Come flood this place
+    And fill the atmosphere
+    Your glory, God
+    Is what our hearts long for
+    To be overcome
+    By Your presence, Lord
+    Your presence, Lord
+
+    [Verse 2]
+
+    I’ve tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    [Bridge]
+
+    [4x]
+    Let us become more aware of Your presence
+    Let us experience the glory of Your goodness
+  song: Holy Spirit
+- artist: Young Oceans
+  enabled: true
+  lyrics: |-
+    Hasten now, O loving Lord to us
+    We’re thirsty
+    Fill these souls, Spirit, every hour
+    We need Thee
+
+    Refrain
+
+    Come, come Holy One
+    Come meet us
+    All, all for Your glory
+    Lord Jesus
+
+    Lead us on, the perfect path O Lord And may we
+    Sin no more. This
+    spotless bride, the Church
+    Is Yours
+
+    I am yours, only yours
+    I am yours, only yours
+    We are yours, only yours
+    We are yours, only yours
+  song: Come Holy One
+- artist: Hillsong Worship
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+    You were the Word at the beginning
+    One With God the Lord Most High
+    Your hidden glory in creation
+    Now revealed in You Our Christ
+
+    [Chorus 1]
+    What a beautiful Name it is, what a beautiful Name it is
+    The Name of Jesus Christ my King
+    What a beautiful Name it is, nothing compares to this
+    What a beautiful Name it is, the Name of Jesus
+
+    [Verse 2]
+    You didn't want heaven without us
+    So Jesus You brought heaven down
+    My sin was great, Your love was greater
+    What could seperate us now
+
+    [Chorus 2]
+    What a wonderful Name it is, what a wonderful Name it is
+    The Name of Jesus Christ my King
+    What a wonderful Name it is, nothing compares to this
+    What a wonderful Name it is, the Name of Jesus
+    What a wonderful Name it is, the Name of Jesus
+
+    [Bridge 1]
+    Death could not hold You, the veil tore before You
+    You silenced the boast of sin and grave
+    The heavens are roaring, the praise of Your glory
+    For You are raised to life again
+
+    [Bridge 2]
+    You have no rival, You have no equal
+    Now and forever God you reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name above all names
+
+    [Chorus 3]
+    What a powerful Name it is, What a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, Nothing can stand against
+    What a powerful Name it is, The Name of Jesus
+
+    [Chorus 3]
+    What a powerful Name it is, what a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, nothing can stand against
+    What a powerful Name it is, the Name of Jesus
+
+    [Bridge 2]
+    You have no rival, You have no equal
+    Now and forever God you reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name above all names
+
+    [Chorus 3]
+    What a powerful Name it is, What a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, Nothing can stand against
+    What a powerful Name it is, The Name of Jesus
+
+    [Bridge 2]
+    You have no rival, You have no equal
+    Now and forever God you reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name above all names
+
+    [Chorus 3]
+    What a powerful Name it is, what a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, nothing can stand against
+    What a powerful Name it is, the Name of Jesus
+    What a powerful Name it is, The Name of Jesus
+    What a powerful Name it is, The Name of Jesus
+  song: What a Wonderful Name
+- artist: Joachim Neander
+  enabled: false
   lyrics: "Praise to the Lord, the Almighty, \nthe King of creation!\nO my soul, praise
     him, \nfor he is your health and salvation!\nLet all who hear\nNow to his temple
     draw near,\nJoining in glad adoration!\n\nPraise to the Lord, who over all \nThings
@@ -13,7 +152,7 @@
     the amen\nSound from his people again.\nGladly forever adore him!"
   song: Praise to the Lord, the Almighty
 - artist: Edward Mote
-  enabled: true
+  enabled: false
   lyrics: |-
     1. My hope is built on nothing less
     Than Jesus' blood and righteousness;
@@ -44,7 +183,7 @@
     All other ground is sinking sand.
   song: My Hope is Built on Nothing Less
 - artist: Frances R. Havergal
-  enabled: true
+  enabled: false
   lyrics: |-
     1. Take my life and let it be
     Consecrated, Lord, to Thee;
@@ -77,7 +216,7 @@
     Ever, only, all, for Thee.
   song: Take My Life and Let It Be
 - artist: Will Reagan & United Pursuit
-  enabled: true
+  enabled: false
   lyrics: "No place I would rather be\nNo place I would rather be\nNo place I would
     rather be\nThan here in your love, here in your love\n\nSet a fire down in my
     soul\nThat I can't contain that I can't control\nI want more of You, God\nI want
@@ -643,31 +782,6 @@
     And from the ground there blossoms red
     Life that shall endless be.
   song: O Love That Will Not Let Me Go
-- artist: Young Oceans
-  enabled: false
-  lyrics: |-
-    Hasten now, O loving Lord to us
-    We’re thirsty
-    Fill these souls, Spirit, every hour
-    We need Thee
-
-    Refrain
-
-    Come, come Holy One
-    Come meet us
-    All, all for Your glory
-    Lord Jesus
-
-    Lead us on, the perfect path O Lord And may we
-    Sin no more. This
-    spotless bride, the Church
-    Is Yours
-
-    I am yours, only yours
-    I am yours, only yours
-    We are yours, only yours
-    We are yours, only yours
-  song: Come Holy One
 - artist: All Sons & Daughters
   enabled: false
   lyrics: |
