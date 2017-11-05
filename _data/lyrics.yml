@@ -1,6 +1,95 @@
 ---
-- artist: Matt Redman
+- artist: Dustin Kensrue
   enabled: true
+  lyrics: |-
+    Before the throne of God above
+    I have a strong and perfect plea.
+    A great high Priest whose Name is Love
+    Who ever lives and pleads for me
+    My name is graven on His hands
+    My name is written on His heart.
+    I know that while in Heaven He stands
+    No tongue can bid me thence depart
+    My life is hid with Christ on high
+
+    When Satan tempts me to despair
+    And tells me of the guilt within
+    Upward I look and see Him there
+    Who made an end of all my sin
+    Because the sinless Savior died
+    My sinful soul is counted free
+    For God the just is satisfied
+    To look on Him and pardon me.
+
+    Behold Him there the risen Lamb
+    My perfect spotless righteousness
+    The great unchangeable I AM
+    The King of glory and of grace,
+    One with Himself I cannot die
+    My soul is purchased by His blood,
+    My life is hid with Christ on high
+  song: Before the Throne
+- artist: Shane & Shane
+  enabled: true
+  lyrics: |-
+    He is exalted
+    The King is exalted on high
+    And I will praise Him
+    He is exalted
+    Forever exalted
+    And I will praise His Name
+
+    For He is the Lord
+    Forever His truth shall reign
+    Heaven and earth
+    Rejoice in His holy Name
+    He is exalted the King is exalted on high
+  song: He Is Exalted
+- artist: Waterdeep
+  enabled: true
+  lyrics: |-
+    You have redeemed my soul
+    From the pit of emptiness
+    You have redeemed my soul
+    From death
+    You have redeemed my soul
+    From the pit of emptiness
+    You have redeemed my soul
+    From death
+
+    I was a hungry child
+    A dried up river
+    I was a burned out forest
+    And no one could do anything for me
+    But You put food in my body
+    Water in my dry bed
+    And to my blackened branches,
+    You brought the springtime
+    Green of a new life
+    And nothing is impossible
+    For you
+  song: You Have Redeemed My Soul
+- artist: Michael W Smith
+  enabled: true
+  lyrics: |-
+    You are Lord of Lords
+    You are King of Kings
+    You are mighty God
+    Lord of everything
+    You're the saving God
+    You're my saving grace
+    You will reign forever
+    You are ancient of days
+
+    You're alpha, omega,
+    beginning and end
+    You're my savior, messiah,
+    redeemer, and friend
+
+    You are my prince of peace and I will live my life for you.
+  song: You Are Holy
+- artist: Matt Redman
+  enabled: false
   lyrics: |-
     Come, come let us return to the Lord
     Come, come let us return to the Lord
@@ -24,7 +113,7 @@
     Surely as the rising sun
   song: Come Let Us Return to The Lord
 - artist: Jesus Culture
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
 
@@ -60,7 +149,7 @@
     Let us experience the glory of Your goodness
   song: Holy Spirit
 - artist: Phil Wickham
-  enabled: true
+  enabled: false
   lyrics: |-
     I see Your face in every sunrise
     The colors of the morning are inside Your eyes
@@ -106,7 +195,7 @@
     You're beautiful
   song: You're Beautiful
 - artist: Will Reagan & United Pursuit
-  enabled: true
+  enabled: false
   lyrics: "No place I would rather be\nNo place I would rather be\nNo place I would
     rather be\nThan here in your love, here in your love\n\nSet a fire down in my
     soul\nThat I can't contain that I can't control\nI want more of You, God\nI want
