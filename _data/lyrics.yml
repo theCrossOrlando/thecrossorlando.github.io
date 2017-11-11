@@ -1,6 +1,76 @@
 ---
-- artist: Dustin Kensrue
+- artist: Crowder
   enabled: true
+  lyrics: |-
+    There's gonna be a great rejoicing
+    There's gonna be a great rejoicing
+
+    The troubles of this world
+    Will wither up and die
+    That river of tears made by the lonely
+    Someday will be dry
+    There's gonna be a great rejoicing
+
+    There's gonna be a great joy river
+    There's gonna be a great joy river
+
+    Questions of this world
+    Someday will be known
+    Who's robbing you of peace
+    And who's the giver
+    There's gonna be a great joy river
+
+    Someday you will find me
+    Guarded in His fortress
+    Open heart and wings
+    That never touch the ground
+    Someday we will gather
+    In a grand reunion
+    Debts of this old world
+    Are nowhere to be found
+    Nowhere to be found
+
+
+    There's gonna be a great rejoicing
+    There's gonna be a great rejoicing
+  song: Great Rejoicing
+- artist: United Pursuit
+  enabled: true
+  lyrics: "Take a moment to remember\nWho God is and who I am\nThere you go, lifting
+    my load again \nTake a moment to remember\nWho God is and who I am\nThere you
+    go, lifting my load again \n\nNo longer am I held by\nThe yoke of this world\nI
+    come up under the yoke of Jesus\nHis yoke is easy, his burden is so light\n\nYou’re
+    lifting my load\nYou’re lifting my load\nYou’re lifting my load\nYou’re lifting
+    my load\n\nYour love carries\nYour love carries me through\nAll the valleys\nAnd
+    the darkest places"
+  song: Take a Moment
+- artist: Hymn
+  enabled: true
+  lyrics: "What wondrous love is this, O my soul, O my soul!\nWhat wondrous love is
+    this, O my soul!\nWhat wondrous love is this\nThat caused the Lord of bliss\nTo
+    bear the dreadful curse for my soul, for my soul,\nTo bear the dreadful curse
+    for my soul!\n\nWhen I was sinking down, sinking down, sinking down,\nWhen I was
+    sinking down, sinking down,\nWhen I was sinking down\nBeneath God’s righteous
+    frown,\nChrist laid aside His crown for my soul for my soul,\nChrist laid aside
+    His crown for my soul.\n\nTo God and to the Lamb I will sing, I will sing;\nTo
+    God and to the Lamb I will sing; \nTo God and to the Lamb, \nWho is the great
+    I AM, \nWhile millions join the theme, I will sing, I will sing,\nWhile millions
+    join the theme, I will sing.\n\nAnd when from death I’m free, I’ll sing on, I’ll
+    sing on;\nAnd when from death I’m free, I’ll sing on.\nAnd when from death I’m
+    free \nI’ll sing His love for me,\nAnd through eternity I’ll sing on, I’ll sing
+    on,\nAnd through eternity I’ll sing on."
+  song: What Wondrous Love is This?
+- artist: United Pursuit Band
+  enabled: true
+  lyrics: "I lean not on my own understanding,\nMy life is in the hands of the maker
+    of heaven\n\nI Give it all to you God, \nTrusting that you'll make something beautiful
+    out of me\n\nI will climb this mountain \nWith my hands wide open\nI will climb
+    this mountain \nWith my hands wide open\n\nThere is nothing I hold on to\nThere
+    is nothing I hold on to\nThere is nothing I hold on to\nThere is nothing I hold
+    on to\n\nAll Glory To God, Forever. Amen"
+  song: Nothing I Hold On To
+- artist: Dustin Kensrue
+  enabled: false
   lyrics: |-
     Before the throne of God above
     I have a strong and perfect plea.
@@ -30,7 +100,7 @@
     My life is hid with Christ on high
   song: Before the Throne
 - artist: Shane & Shane
-  enabled: true
+  enabled: false
   lyrics: |-
     He is exalted
     The King is exalted on high
@@ -46,7 +116,7 @@
     He is exalted the King is exalted on high
   song: He Is Exalted
 - artist: Waterdeep
-  enabled: true
+  enabled: false
   lyrics: |-
     You have redeemed my soul
     From the pit of emptiness
@@ -70,7 +140,7 @@
     For you
   song: You Have Redeemed My Soul
 - artist: Michael W Smith
-  enabled: true
+  enabled: false
   lyrics: |-
     You are Lord of Lords
     You are King of Kings
@@ -597,15 +667,6 @@
     Oh once and for all
     Once and for all
   song: Once and For All
-- artist: United Pursuit Band
-  enabled: false
-  lyrics: "I lean not on my own understanding,\nMy life is in the hands of the maker
-    of heaven\n\nI Give it all to you God, \nTrusting that you'll make something beautiful
-    out of me\n\nI will climb this mountain \nWith my hands wide open\nI will climb
-    this mountain \nWith my hands wide open\n\nThere is nothing I hold on to\nThere
-    is nothing I hold on to\nThere is nothing I hold on to\nThere is nothing I hold
-    on to\n\nAll Glory To God, Forever. Amen"
-  song: Nothing I Hold On To
 - artist: Jon Foreman
   enabled: false
   lyrics: "Heavenly Father \nYou always amaze me\nLet Your kingdom come in my world
