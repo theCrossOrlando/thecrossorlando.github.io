@@ -1,6 +1,80 @@
 ---
-- artist: Crowder
+- artist: Will Reagan
   enabled: true
+  lyrics: |-
+    We have come to give You glory
+    We have come to give You praise
+
+    You’re welcome in this place
+
+    Have Your way
+    Have Your way
+    Have Your way, God
+
+    Bless the Lord oh my soul
+    And let all that’s within me shout out
+  song: We Have Come
+- artist: Hillsong UNITED
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+    Grace, what have You done?
+    Murdered for me on that cross
+    Accused in absence of wrong
+    My sin washed away in Your blood
+
+    [Pre-Chorus 1]
+    Too much to make sense of it all
+    I know that Your love breaks my fall
+    The scandal of grace, You died in my place
+    So my soul will live
+
+    [Chorus]
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+
+    [Verse 2]
+    Death, where is your sting?
+    Your power is as dead as my sin
+    The cross has taught me to live
+    And mercy, my heart now to sing
+
+    [Pre-Chorus 2]
+    The day and its trouble shall come
+    I know that Your strength is enough
+    The scandal of grace, You died in my place
+    So my soul will live
+
+    [Chorus]
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+
+    [Bridge]
+    And it's all, because of You, Jesus
+    It's all, because of You, Jesus
+    It's all, because of Your love
+    That my soul will live
+
+    [Chorus]
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+  song: Scandal of Grace
+- artist: Crowder
+  enabled: false
   lyrics: |-
     There's gonna be a great rejoicing
     There's gonna be a great rejoicing
@@ -35,7 +109,7 @@
     There's gonna be a great rejoicing
   song: Great Rejoicing
 - artist: United Pursuit
-  enabled: true
+  enabled: false
   lyrics: "Take a moment to remember\nWho God is and who I am\nThere you go, lifting
     my load again \nTake a moment to remember\nWho God is and who I am\nThere you
     go, lifting my load again \n\nNo longer am I held by\nThe yoke of this world\nI
@@ -45,7 +119,7 @@
     the darkest places"
   song: Take a Moment
 - artist: Hymn
-  enabled: true
+  enabled: false
   lyrics: "What wondrous love is this, O my soul, O my soul!\nWhat wondrous love is
     this, O my soul!\nWhat wondrous love is this\nThat caused the Lord of bliss\nTo
     bear the dreadful curse for my soul, for my soul,\nTo bear the dreadful curse
@@ -61,7 +135,7 @@
     on,\nAnd through eternity I’ll sing on."
   song: What Wondrous Love is This?
 - artist: United Pursuit Band
-  enabled: true
+  enabled: false
   lyrics: "I lean not on my own understanding,\nMy life is in the hands of the maker
     of heaven\n\nI Give it all to you God, \nTrusting that you'll make something beautiful
     out of me\n\nI will climb this mountain \nWith my hands wide open\nI will climb
@@ -702,65 +776,6 @@
     Follow me
     In the house of God, forever
   song: House of God, Forever
-- artist: Hillsong UNITED
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-    Grace, what have You done?
-    Murdered for me on that cross
-    Accused in absence of wrong
-    My sin washed away in Your blood
-
-    [Pre-Chorus 1]
-    Too much to make sense of it all
-    I know that Your love breaks my fall
-    The scandal of grace, You died in my place
-    So my soul will live
-
-    [Chorus]
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-
-    [Verse 2]
-    Death, where is your sting?
-    Your power is as dead as my sin
-    The cross has taught me to live
-    And mercy, my heart now to sing
-
-    [Pre-Chorus 2]
-    The day and its trouble shall come
-    I know that Your strength is enough
-    The scandal of grace, You died in my place
-    So my soul will live
-
-    [Chorus]
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-
-    [Bridge]
-    And it's all, because of You, Jesus
-    It's all, because of You, Jesus
-    It's all, because of Your love
-    That my soul will live
-
-    [Chorus]
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-  song: Scandal of Grace
 - artist: Unknown
   enabled: false
   lyrics: |-
