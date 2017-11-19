@@ -1,4 +1,9 @@
 ---
+- artist: U2, Will Reagan
+  enabled: true
+  lyrics: "And You give Yourself away.\n\nWhy Wait for Tomorrow? \LWhen we can have
+    you today."
+  song: Reprise / Call For Worship
 - artist: Will Reagan
   enabled: true
   lyrics: |-
