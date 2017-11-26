@@ -1,26 +1,84 @@
 ---
-- artist: U2, Will Reagan
-  enabled: true
-  lyrics: "And You give Yourself away.\n\nWhy Wait for Tomorrow? \LWhen we can have
-    you today."
-  song: Reprise / Call For Worship
-- artist: Will Reagan
+- artist: Sufjan Stevens
   enabled: true
   lyrics: |-
-    We have come to give You glory
-    We have come to give You praise
+    O come, O come, Emmanuel
+    And ransom captive Israel
+    That mourns in lonely exile here
+    Until the Son of God appear
+    Rejoice! Rejoice! Rejoice!
+    Rejoice! Rejoice! Rejoice!
 
-    You’re welcome in this place
+    O come, Thou Day-Spring, come and cheer
+    Our spirits by Thine advent here
+    Disperse the gloomy clouds of night
+    And death's dark shadows put to flight.
+    Rejoice! Rejoice! Rejoice!
+    Emmanuel
+    And ransom captive Israel
+    Rejoice! Rejoice! Rejoice!
+    Rejoice! Rejoice! Rejoice!
 
-    Have Your way
-    Have Your way
-    Have Your way, God
-
-    Bless the Lord oh my soul
-    And let all that’s within me shout out
-  song: We Have Come
-- artist: Hillsong UNITED
+    O come, O come, Thou Lord of might,
+    Who to Thy tribes, on Sinai's height,
+    In ancient times did'st give the Law,
+    In cloud, and majesty and awe.
+    Rejoice! Rejoice! Rejoice!
+    Rejoice! Rejoice! Rejoice!
+  song: O Come, O Come Emmanuel
+- artist: Kat Porter
   enabled: true
+  lyrics: "Where did your hope go? \nWhere did your hope go? \n\nI'll follow where
+    Your voice beckons to me\nMy spirit is willing even when my heart's weak \nTo
+    put one foot in front of the other\nWhile gazing into Your eyes my Lover \n\nWhere
+    did my hope go?\nWhere did my hope go? \n\nYou are the joy set before me "
+  song: Where Did My Hope Go
+- artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    Come, Thou long expected Jesus
+    Born to set Thy people free;
+    From our fears and sins release us,
+    Let us find our rest in Thee.
+
+    Israel's strength and consolation,
+    Hope of all the earth Thou art;
+    Dear desire of every nation,
+    Joy of every longing heart.
+
+    Born Thy people to deliver,
+    Born a child and yet a King,
+    Born to reign in us forever,
+    Now Thy gracious kingdom bring.
+
+    By Thine own eternal Spirit
+    Rule in all our hearts alone;
+    By Thine all sufficient merit,
+    Raise us to Thy glorious throne.
+  song: " Come Thou Long Expected Jesus"
+- artist: Jesus Culture
+  enabled: true
+  lyrics: |-
+    There is power in the name of Jesus
+    There is power in the name of Jesus
+    There is power in the name of Jesus
+
+    To break every chain
+    Break every chain
+    Break every chain
+
+    All sufficient sacrifice
+    So freely given
+    Such a price
+    Bought our redemption
+    Heaven's gates swing wide
+
+    There's an army rising up
+    There's an army rising up
+    There's an army rising up
+  song: Break Every Chain (There Is Power In Thhe Name of Jesus)
+- artist: Hillsong UNITED
+  enabled: false
   lyrics: |-
     [Verse 1]
     Grace, what have You done?
@@ -78,6 +136,26 @@
     Jesus, there's no one besides You
     Forever the hope in my heart
   song: Scandal of Grace
+- artist: U2, Will Reagan
+  enabled: false
+  lyrics: "And You give Yourself away.\n\nWhy Wait for Tomorrow? \LWhen we can have
+    you today."
+  song: Reprise / Call For Worship
+- artist: Will Reagan
+  enabled: false
+  lyrics: |-
+    We have come to give You glory
+    We have come to give You praise
+
+    You’re welcome in this place
+
+    Have Your way
+    Have Your way
+    Have Your way, God
+
+    Bless the Lord oh my soul
+    And let all that’s within me shout out
+  song: We Have Come
 - artist: Crowder
   enabled: false
   lyrics: |-
@@ -591,17 +669,6 @@
     (you are perfect in all of your ways)
     It's who I am, it's who I am it's who I am
   song: Good Good Father
-- artist: Chris Tomlin
-  enabled: false
-  lyrics: "Come, Thou long expected Jesus \nBorn to set Thy people free; \nFrom our
-    fears and sins release us, \nLet us find our rest in Thee. \nIsrael's strength
-    and consolation, \nHope of all the earth Thou art; \nDear desire of every nation,
-    \nJoy of every longing heart. \n\nBorn Thy people to deliver, \nBorn a child and
-    yet a King, \nBorn to reign in us forever, \nNow Thy gracious kingdom bring. \nBy
-    Thine own eternal Spirit \nRule in all our hearts alone; \nBy Thine all sufficient
-    merit, \nRaise us to Thy glorious throne. \n\nBy Thine all sufficient merit, \nRaise
-    us to Thy glorious throne."
-  song: " Come Thou Long Expected Jesus"
 - artist: Will Reagan & United Pursuit
   enabled: false
   lyrics: |
@@ -704,6 +771,41 @@
     my life is not my own\nI belong to you, I belong to you [x4]\n[Repeat x3]\n\nMy
     life is not my own to you I belong \nI give myself I give myself to you \n[x8]"
   song: I Belong To You
+- artist: Jon Foreman
+  enabled: false
+  lyrics: "Heavenly Father \nYou always amaze me\nLet Your kingdom come in my world
+    \nAnd in my life\n\nGive me the food I need to live through today\nAnd forgive
+    me as I forgive the people that wrong me\n\nLead me far from temptation\nDeliver
+    me from the evil one\n\nI look out the window\nThe birds are composing\nNot a
+    note is out of tune\nOr out of place\n\nI walk to the meadow\nAnd stare at the
+    flowers\nBetter dressed than any girl\nOn her wedding day\n\nSo why should I worry?\nWhy
+    do I freak out?\nGod knows what I need!\nYou know what I need!\n\nYour love is
+    strong\n\nThe Kingdom of the Heavens \nIs now advancing\nInvade my heart\nInvade
+    this broken town\n\nThe Kingdom of the Heavens \nIs buried treasure\nWould you
+    sell yourself\nTo buy the one you've found?\n\nTwo things You told me\nThat You
+    are strong\nAnd You love me,\nYes You love me\n\nYour love is strong\n\nOur God
+    in heaven\nHallowed be thy name above all names\nYour kingdom come\nYour will
+    be done\nOn earth as it is in heaven\nGive us, today, our daily bread\nForgive
+    us weary sinners\nKeep us far from our vices and\nDeliver us from these prisons"
+  song: Your Love Is Strong
+- artist: Jon Foreman
+  enabled: false
+  lyrics: |-
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest in fields of green with quiet streams
+    Even though I walk through the valley of death and dying
+    I will not fear 'cause you are with me
+    You are with me
+
+    Your shepherd staff Comforts me
+    You are my feast in the presence of enemy
+    Surely goodness
+    Will follow me
+    Follow me
+    In the house of God, forever
+  song: House of God, Forever
 - artist: Lauren Daigle
   enabled: false
   lyrics: |-
@@ -746,41 +848,6 @@
     Oh once and for all
     Once and for all
   song: Once and For All
-- artist: Jon Foreman
-  enabled: false
-  lyrics: "Heavenly Father \nYou always amaze me\nLet Your kingdom come in my world
-    \nAnd in my life\n\nGive me the food I need to live through today\nAnd forgive
-    me as I forgive the people that wrong me\n\nLead me far from temptation\nDeliver
-    me from the evil one\n\nI look out the window\nThe birds are composing\nNot a
-    note is out of tune\nOr out of place\n\nI walk to the meadow\nAnd stare at the
-    flowers\nBetter dressed than any girl\nOn her wedding day\n\nSo why should I worry?\nWhy
-    do I freak out?\nGod knows what I need!\nYou know what I need!\n\nYour love is
-    strong\n\nThe Kingdom of the Heavens \nIs now advancing\nInvade my heart\nInvade
-    this broken town\n\nThe Kingdom of the Heavens \nIs buried treasure\nWould you
-    sell yourself\nTo buy the one you've found?\n\nTwo things You told me\nThat You
-    are strong\nAnd You love me,\nYes You love me\n\nYour love is strong\n\nOur God
-    in heaven\nHallowed be thy name above all names\nYour kingdom come\nYour will
-    be done\nOn earth as it is in heaven\nGive us, today, our daily bread\nForgive
-    us weary sinners\nKeep us far from our vices and\nDeliver us from these prisons"
-  song: Your Love Is Strong
-- artist: Jon Foreman
-  enabled: false
-  lyrics: |-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest in fields of green with quiet streams
-    Even though I walk through the valley of death and dying
-    I will not fear 'cause you are with me
-    You are with me
-
-    Your shepherd staff Comforts me
-    You are my feast in the presence of enemy
-    Surely goodness
-    Will follow me
-    Follow me
-    In the house of God, forever
-  song: House of God, Forever
 - artist: Unknown
   enabled: false
   lyrics: |-
@@ -881,32 +948,6 @@
     My soul will rest in Your embrace
     I am Yours and You are mine
   song: Oceans (Where Feet May Fail)Oceans (Where Feet May Fail)
-- artist: Jesus Culture
-  enabled: false
-  lyrics: |-
-    [Lead:]
-    There is power in the name of Jesus [3x]
-    to break every chain, break every chain, break every chain. [2x]
-
-    [Chorus:]
-    There is power in the name of Jesus [3x]
-    to break every chain, break every chain, break every chain. [2x]
-
-    [Lead:]
-    There's an army rising up. [3x]
-    To break every chain, break every chain, break every chain. [2x]
-
-    [Chorus:]
-    There's an army rising up. [3x]
-    To break every chain, break every chain, break every chain. [2x]
-
-    [Vamp:]
-    I hear the chains falling.
-
-    [End:]
-    There is power in the name of Jesus
-    to break every chain, break every chain, break every chain.
-  song: Break Every Chain (There Is Power In Thhe Name of Jesus)
 - artist: Rebecca St James
   enabled: false
   lyrics: |-
@@ -1137,13 +1178,6 @@
     Of your power
     Of your goodness
   song: Outlaw
-- artist: Kat Porter
-  enabled: false
-  lyrics: "Where did your hope go? \nWhere did your hope go? \n\nI'll follow where
-    Your voice beckons to me\nMy spirit is willing even when my heart's weak \nTo
-    put one foot in front of the other\nWhile gazing into Your eyes my Lover \n\nWhere
-    did my hope go?\nWhere did my hope go? \n\nYou are the joy set before me "
-  song: Where Did My Hope Go
 - artist: Jesus Culture
   enabled: false
   lyrics: "Let it rain, let it rain.\nOpen the floodgates of Heaven.\n\nI feel the
