@@ -1,4 +1,42 @@
 ---
+- artist: Andrew Peterson
+  enabled: false
+  lyrics: |-
+    While shepherds watched their flocks by night
+    All seated on the ground
+    The angel of the Lord came down
+    And glory shone around
+
+    "Fear not!" said he; for mighty dread
+    Had seized their troubled minds
+    "Glad tidings of great joy I bring
+    To you and all mankind
+
+    To you in David's house this day
+    Is born of David's line
+    The Savior who is Christ the Lord
+    And this shall be the sign:
+
+    The heavenly babe you there shall find
+    To human view displayed
+    All meanly wrapped in swaddling bands
+    And in a manger laid"
+
+    Hallelujah, Hallelujah
+    Hallelujah, Christ is born
+    Hallelujah, Hallelujah
+    Hallelujah, Christ is born
+
+    "All glory be to God on high
+    And to the earth be peace
+    Good will henceforth from God to man
+    Begin and never cease"
+
+    Hallelujah, Hallelujah
+    Hallelujah, Christ is born
+    Hallelujah, Hallelujah
+    Hallelujah, Christ is born
+  song: While Shepherds Watched Their Flocks
 - artist: Joy To The World
   enabled: false
   lyrics: "Joy to The world! the Lord is come\nLet earth receive her King\nLet ev'ry
