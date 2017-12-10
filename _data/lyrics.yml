@@ -1,4 +1,18 @@
 ---
+- artist: Joy To The World
+  enabled: false
+  lyrics: "Joy to The world! the Lord is come\nLet earth receive her King\nLet ev'ry
+    heart prepare him room\nAnd heaven and nature sing\nAnd heaven and nature sing\nAnd
+    heaven and nature sing\n\nJoy to the world! the Savior reigns\nLet men their songs
+    employ\nWhile fields and floods, rocks, hills and plains\nRepeat the sounding
+    joy\nRepeat the sounding joy\nRepeat the sounding joy\n\nHe rules the world with
+    truth and grace\nAnd makes the nations prove The glories of His righteousness\nAnd
+    wonders of His love \nAnd wonders of His love \nAnd wonder wonders of His love"
+  song: Joy To The World
+- artist: ''
+  enabled: false
+  lyrics: ''
+  song: ''
 - artist: Christmas Carol
   enabled: true
   lyrics: |-
