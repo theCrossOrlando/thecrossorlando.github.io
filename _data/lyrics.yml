@@ -1,6 +1,44 @@
 ---
+- artist: Andrew Peterson
+  enabled: true
+  lyrics: |-
+    While shepherds watched their flocks by night
+    All seated on the ground
+    The angel of the Lord came down
+    And glory shone around
+
+    "Fear not!" said he; for mighty dread
+    Had seized their troubled minds
+    "Glad tidings of great joy I bring
+    To you and all mankind
+
+    To you in David's house this day
+    Is born of David's line
+    The Savior who is Christ the Lord
+    And this shall be the sign:
+
+    The heavenly babe you there shall find
+    To human view displayed
+    All meanly wrapped in swaddling bands
+    And in a manger laid"
+
+    Hallelujah, Hallelujah
+    Hallelujah, Christ is born
+    Hallelujah, Hallelujah
+    Hallelujah, Christ is born
+
+    "All glory be to God on high
+    And to the earth be peace
+    Good will henceforth from God to man
+    Begin and never cease"
+
+    Hallelujah, Hallelujah
+    Hallelujah, Christ is born
+    Hallelujah, Hallelujah
+    Hallelujah, Christ is born
+  song: While Shepherds Watched Their Flocks
 - artist: Come Thou Long Expected Jesus
-  enabled: false
+  enabled: true
   lyrics: |-
     Come, Thou long expected Jesus
     Born to set Thy people free;
@@ -40,56 +78,8 @@
     Let us find our rest in Thee.
     Let us find our rest in Thee.
   song: Come Thou Long Expected Jesus
-- artist: Andrew Peterson
-  enabled: false
-  lyrics: |-
-    While shepherds watched their flocks by night
-    All seated on the ground
-    The angel of the Lord came down
-    And glory shone around
-
-    "Fear not!" said he; for mighty dread
-    Had seized their troubled minds
-    "Glad tidings of great joy I bring
-    To you and all mankind
-
-    To you in David's house this day
-    Is born of David's line
-    The Savior who is Christ the Lord
-    And this shall be the sign:
-
-    The heavenly babe you there shall find
-    To human view displayed
-    All meanly wrapped in swaddling bands
-    And in a manger laid"
-
-    Hallelujah, Hallelujah
-    Hallelujah, Christ is born
-    Hallelujah, Hallelujah
-    Hallelujah, Christ is born
-
-    "All glory be to God on high
-    And to the earth be peace
-    Good will henceforth from God to man
-    Begin and never cease"
-
-    Hallelujah, Hallelujah
-    Hallelujah, Christ is born
-    Hallelujah, Hallelujah
-    Hallelujah, Christ is born
-  song: While Shepherds Watched Their Flocks
-- artist: Joy To The World
-  enabled: false
-  lyrics: "Joy to The world! the Lord is come\nLet earth receive her King\nLet ev'ry
-    heart prepare him room\nAnd heaven and nature sing\nAnd heaven and nature sing\nAnd
-    heaven and nature sing\n\nJoy to the world! the Savior reigns\nLet men their songs
-    employ\nWhile fields and floods, rocks, hills and plains\nRepeat the sounding
-    joy\nRepeat the sounding joy\nRepeat the sounding joy\n\nHe rules the world with
-    truth and grace\nAnd makes the nations prove The glories of His righteousness\nAnd
-    wonders of His love \nAnd wonders of His love \nAnd wonder wonders of His love"
-  song: Joy To The World
 - artist: Angels We Have Heard on High
-  enabled: false
+  enabled: true
   lyrics: |-
     Angels we have heard on high
     Sweetly singing o'er the plains
@@ -115,6 +105,16 @@
     Gloria, in excelsis Deo
     Gloria, in excelsis Deo
   song: Angels We Have Heard on High
+- artist: Joy To The World
+  enabled: true
+  lyrics: "Joy to The world! the Lord is come\nLet earth receive her King\nLet ev'ry
+    heart prepare him room\nAnd heaven and nature sing\nAnd heaven and nature sing\nAnd
+    heaven and nature sing\n\nJoy to the world! the Savior reigns\nLet men their songs
+    employ\nWhile fields and floods, rocks, hills and plains\nRepeat the sounding
+    joy\nRepeat the sounding joy\nRepeat the sounding joy\n\nHe rules the world with
+    truth and grace\nAnd makes the nations prove The glories of His righteousness\nAnd
+    wonders of His love \nAnd wonders of His love \nAnd wonder wonders of His love"
+  song: Joy To The World
 - artist: Christmas Carol
   enabled: false
   lyrics: |-
