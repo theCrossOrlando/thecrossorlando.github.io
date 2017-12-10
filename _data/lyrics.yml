@@ -1,6 +1,41 @@
 ---
-- artist: Ascend The Hill
+- artist: Christmas Carol
   enabled: true
+  lyrics: |-
+    [Verse 1]
+    Joy to the World, the Lord has come!
+    Let earth receive her King;
+    Let every heart prepare Him room,
+    And Heaven and nature sing,
+    And Heaven and nature sing,
+    And Heaven, and Heaven, and nature sing.
+
+    [Verse 2]
+    Joy to the World, the Savior reigns!
+    Let men their songs employ;
+    While fields and floods, rocks, hills and plains
+    Repeat the sounding joy,
+    Repeat the sounding joy,
+    Repeat, repeat, the sounding joy.
+
+    [Verse 3]
+    No more let sins and sorrows grow,
+    Nor thorns infest the ground;
+    He comes to make His blessings flow
+    Far as the curse is found,
+    Far as the curse is found,
+    Far as, far as, the curse is found.
+
+    [Verse 4]
+    He rules the world with truth and grace,
+    And makes the nations prove
+    The glories of His righteousness,
+    And wonders of His love,
+    And wonders of His love,
+    And wonders, wonders, of His love
+  song: Joy to the World
+- artist: Ascend The Hill
+  enabled: false
   lyrics: "I was far away from You\nJesus brought me near\nI was broken off from you\nJesus
     brought me near\nI was far away from You\nJesus brought me near\nI was broken
     off from you\nJesus brought me near (x2)\nMy hope, my song, my sacrifice of praise\nIs
@@ -10,7 +45,7 @@
     power in the Name\nJesus"
   song: The Power is In the Name of Jesus
 - artist: Roquemaure / Adams
-  enabled: true
+  enabled: false
   lyrics: |-
     O holy night! The stars are brightly shining,
     It is the night of our dear Saviour's birth.
@@ -41,7 +76,7 @@
     Behold your King, Before Him lowly bend!
   song: O Holy Night
 - artist: Joseph Mohr
-  enabled: true
+  enabled: false
   lyrics: |-
     Silent night, holy night
     All is calm, All is bright
@@ -65,7 +100,7 @@
     Jesus Lord at thy birth.
   song: Silent Night
 - artist: James Chadwick
-  enabled: true
+  enabled: false
   lyrics: |-
     Angels we have heard on high
     Sweetly singing o'er the plains
