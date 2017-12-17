@@ -1,274 +1,31 @@
 ---
-- artist: Andrew Peterson
+- artist: Young Oceans
   enabled: true
   lyrics: |-
-    While shepherds watched their flocks by night
-    All seated on the ground
-    The angel of the Lord came down
-    And glory shone around
+    Hasten now, O loving Lord to us
+    We’re thirsty
+    Fill these souls, Spirit, every hour
+    We need Thee
 
-    "Fear not!" said he; for mighty dread
-    Had seized their troubled minds
-    "Glad tidings of great joy I bring
-    To you and all mankind
+    Refrain
 
-    To you in David's house this day
-    Is born of David's line
-    The Savior who is Christ the Lord
-    And this shall be the sign:
+    Come, come Holy One
+    Come meet us
+    All, all for Your glory
+    Lord Jesus
 
-    The heavenly babe you there shall find
-    To human view displayed
-    All meanly wrapped in swaddling bands
-    And in a manger laid"
+    Lead us on, the perfect path O Lord And may we
+    Sin no more. This
+    spotless bride, the Church
+    Is Yours
 
-    Hallelujah, Hallelujah
-    Hallelujah, Christ is born
-    Hallelujah, Hallelujah
-    Hallelujah, Christ is born
-
-    "All glory be to God on high
-    And to the earth be peace
-    Good will henceforth from God to man
-    Begin and never cease"
-
-    Hallelujah, Hallelujah
-    Hallelujah, Christ is born
-    Hallelujah, Hallelujah
-    Hallelujah, Christ is born
-  song: While Shepherds Watched Their Flocks
-- artist: Chris Tomlin
-  enabled: true
-  lyrics: |-
-    Come, Thou long expected Jesus
-    Born to set Thy people free;
-    From our fears and sins release us,
-    Let us find our rest in Thee.
-
-    Israel's strength and consolation,
-    Hope of all the earth Thou art;
-    Dear desire of every nation,
-    Joy of every longing heart.
-
-    Born Thy people to deliver,
-    Born a child and yet a King,
-    Born to reign in us forever,
-    Now Thy gracious kingdom bring.
-
-    Come, Thou long expected Jesus
-    Born to set Thy people free;
-    From our fears and sins release us,
-    Let us find our rest in Thee.
-
-    By Thine own eternal Spirit
-    Rule in all our hearts alone;
-    By Thine all sufficient merit,
-    Raise us to Thy glorious throne.
-
-    Born Thy people to deliver,
-    Born a child and yet a King,
-    Born to reign in us forever,
-    Now Thy gracious kingdom bring.
-
-    Come, Thou long expected Jesus
-    Born to set Thy people free;
-    From our fears and sins release us,
-    Let us find our rest in Thee.
-
-    Let us find our rest in Thee.
-    Let us find our rest in Thee.
-  song: Come Thou Long Expected Jesus
-- artist: ''
-  enabled: true
-  lyrics: |-
-    Angels we have heard on high
-    Sweetly singing o'er the plains
-    And the mountains in reply
-    Echoing their joyous strains
-
-    Gloria, in excelsis Deo
-    Gloria, in excelsis Deo
-
-    Shepherds, why this jubilee?
-    Why your joyous strains prolong?
-    What the gladsome tidings be
-    Which inspire your heavenly song?
-
-    Gloria, in excelsis Deo
-    Gloria, in excelsis Deo
-
-    Come to Bethlehem and see
-    Him whose birth the angels sing,
-    Come, adore on bended knee,
-    Christ the Lord, the newborn King.
-
-    Gloria, in excelsis Deo
-    Gloria, in excelsis Deo
-  song: Angels We Have Heard on High
-- artist: ''
-  enabled: true
-  lyrics: "Joy to The world! the Lord is come\nLet earth receive her King\nLet ev'ry
-    heart prepare him room\nAnd heaven and nature sing\nAnd heaven and nature sing\nAnd
-    heaven and nature sing\n\nJoy to the world! the Savior reigns\nLet men their songs
-    employ\nWhile fields and floods, rocks, hills and plains\nRepeat the sounding
-    joy\nRepeat the sounding joy\nRepeat the sounding joy\n\nHe rules the world with
-    truth and grace\nAnd makes the nations prove The glories of His righteousness\nAnd
-    wonders of His love \nAnd wonders of His love \nAnd wonder wonders of His love"
-  song: Joy To The World
-- artist: Christmas Carol
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-    Joy to the World, the Lord has come!
-    Let earth receive her King;
-    Let every heart prepare Him room,
-    And Heaven and nature sing,
-    And Heaven and nature sing,
-    And Heaven, and Heaven, and nature sing.
-
-    [Verse 2]
-    Joy to the World, the Savior reigns!
-    Let men their songs employ;
-    While fields and floods, rocks, hills and plains
-    Repeat the sounding joy,
-    Repeat the sounding joy,
-    Repeat, repeat, the sounding joy.
-
-    [Verse 3]
-    No more let sins and sorrows grow,
-    Nor thorns infest the ground;
-    He comes to make His blessings flow
-    Far as the curse is found,
-    Far as the curse is found,
-    Far as, far as, the curse is found.
-
-    [Verse 4]
-    He rules the world with truth and grace,
-    And makes the nations prove
-    The glories of His righteousness,
-    And wonders of His love,
-    And wonders of His love,
-    And wonders, wonders, of His love
-  song: Joy to the World
-- artist: Ascend The Hill
-  enabled: false
-  lyrics: "I was far away from You\nJesus brought me near\nI was broken off from you\nJesus
-    brought me near\nI was far away from You\nJesus brought me near\nI was broken
-    off from you\nJesus brought me near (x2)\nMy hope, my song, my sacrifice of praise\nIs
-    Christ crucified for me\nMy strength, my boast, my sacrifice of praise\nIs the
-    mention of your name \nIs the mention of your name\n\nJesus\n\nThere is power
-    in the Name\nThere is power in the Name\nThere is power in the Name\nThere is
-    power in the Name\nJesus"
-  song: The Power is In the Name of Jesus
-- artist: Roquemaure / Adams
-  enabled: false
-  lyrics: |-
-    O holy night! The stars are brightly shining,
-    It is the night of our dear Saviour's birth.
-    Long lay the world in sin and error pining,
-    'Til He appear'd and the soul felt its worth.
-
-    A thrill of hope the weary world rejoices,
-    For yonder breaks a new and glorious morn.
-
-    Fall on your knees! O hear the angel voices!
-    O night div-ine, O night  when Christ was born;
-    O night div-ine,  O night, O night Divine.
-
-    Truly He taught us to love one another;
-    His law is love and His gospel is peace.
-    Chains shall He break for the slave is our brother;
-    And in His name all oppression shall cease.
-
-    Sweet hymns of joy in grateful chorus raise we,
-    Let all within us praise His holy name.
-
-    Christ is the Lord! O praise His Name forever,
-    His power and glory evermore proclaim.
-    His power and  glory evermore proclaim.
-
-    He knows our need, our weakness is no stranger,
-    Behold your King! Before Him lowly bend!
-    Behold your King, Before Him lowly bend!
-  song: O Holy Night
-- artist: Joseph Mohr
-  enabled: false
-  lyrics: |-
-    Silent night, holy night
-    All is calm, All is bright
-    Round yon Virgin, Mother and Child
-    Holy Infant so Tender and mild,
-    Sleep in heavenly peace,
-    Sleep in heavenly peace.
-
-    Silent night, holy night
-    Shepherds quake at the sight,
-    Glories stream from heaven afar,
-    Heavenly hosts sing Alleluia
-    Christ the Saviour is born!
-    Christ the saviour is born.
-
-    Silent night, holy night
-    Son of God, love's pure light
-    Radiant beams from Thy holy face
-    with the dawn of redeeming grace,
-    Jesus Lord at thy birth,
-    Jesus Lord at thy birth.
-  song: Silent Night
-- artist: James Chadwick
-  enabled: false
-  lyrics: |-
-    Angels we have heard on high
-    Sweetly singing o'er the plains
-    And the mountains in reply
-    Echoing their joyous strains
-    Angels we have heard on high
-    Sweetly, sweetly through the night
-    And the mountains in reply
-    Echoing their brief delight
-
-    Gloria, in excelsis Deo
-    Gloria, in excelsis Deo
-
-    Shepherds, why this jubilee?
-    Why your joyous strains prolong?
-    What the gladsome tidings be
-    Which inspire your heavenly song?
-
-    Gloria, in excelsis Deo
-    Gloria, in excelsis Deo
-
-    Come to Bethlehem and see
-    Him whose birth the angels sing,
-    Come, adore on bended knee,
-    Christ the Lord, the newborn King.
-
-    Gloria, in excelsis Deo
-    Gloria, in excelsis Deo
-  song: Angels We Have Heard on High
-- artist: Jesus Culture
-  enabled: false
-  lyrics: |-
-    There is power in the name of Jesus
-    There is power in the name of Jesus
-    There is power in the name of Jesus
-
-    To break every chain
-    Break every chain
-    Break every chain
-
-    All sufficient sacrifice
-    So freely given
-    Such a price
-    Bought our redemption
-    Heaven's gates swing wide
-
-    There's an army rising up
-    There's an army rising up
-    There's an army rising up
-  song: Break Every Chain (There Is Power In The Name of Jesus)
+    I am yours, only yours
+    I am yours, only yours
+    We are yours, only yours
+    We are yours, only yours
+  song: Come Holy One
 - artist: Sufjan Stevens
-  enabled: false
+  enabled: true
   lyrics: |-
     O come, O come, Emmanuel
     And ransom captive Israel
@@ -294,38 +51,8 @@
     Rejoice! Rejoice! Rejoice!
     Rejoice! Rejoice! Rejoice!
   song: O Come, O Come Emmanuel
-- artist: Kat Porter
-  enabled: false
-  lyrics: "Where did your hope go? \nWhere did your hope go? \n\nI'll follow where
-    Your voice beckons to me\nMy spirit is willing even when my heart's weak \nTo
-    put one foot in front of the other\nWhile gazing into Your eyes my Lover \n\nWhere
-    did my hope go?\nWhere did my hope go? \n\nYou are the joy set before me "
-  song: Where Did My Hope Go
-- artist: Chris Tomlin
-  enabled: false
-  lyrics: |-
-    Come, Thou long expected Jesus
-    Born to set Thy people free;
-    From our fears and sins release us,
-    Let us find our rest in Thee.
-
-    Israel's strength and consolation,
-    Hope of all the earth Thou art;
-    Dear desire of every nation,
-    Joy of every longing heart.
-
-    Born Thy people to deliver,
-    Born a child and yet a King,
-    Born to reign in us forever,
-    Now Thy gracious kingdom bring.
-
-    By Thine own eternal Spirit
-    Rule in all our hearts alone;
-    By Thine all sufficient merit,
-    Raise us to Thy glorious throne.
-  song: " Come Thou Long Expected Jesus"
 - artist: Hillsong UNITED
-  enabled: false
+  enabled: true
   lyrics: |-
     [Verse 1]
     Grace, what have You done?
@@ -383,6 +110,304 @@
     Jesus, there's no one besides You
     Forever the hope in my heart
   song: Scandal of Grace
+- artist: Joseph Mohr
+  enabled: true
+  lyrics: |-
+    Silent night, holy night
+    All is calm, All is bright
+    Round yon Virgin, Mother and Child
+    Holy Infant so Tender and mild,
+    Sleep in heavenly peace,
+    Sleep in heavenly peace.
+
+    Silent night, holy night
+    Shepherds quake at the sight,
+    Glories stream from heaven afar,
+    Heavenly hosts sing Alleluia
+    Christ the Saviour is born!
+    Christ the saviour is born.
+
+    Silent night, holy night
+    Son of God, love's pure light
+    Radiant beams from Thy holy face
+    with the dawn of redeeming grace,
+    Jesus Lord at thy birth,
+    Jesus Lord at thy birth.
+  song: Silent Night
+- artist: ''
+  enabled: false
+  lyrics: |-
+    Angels we have heard on high
+    Sweetly singing o'er the plains
+    And the mountains in reply
+    Echoing their joyous strains
+
+    Gloria, in excelsis Deo
+    Gloria, in excelsis Deo
+
+    Shepherds, why this jubilee?
+    Why your joyous strains prolong?
+    What the gladsome tidings be
+    Which inspire your heavenly song?
+
+    Gloria, in excelsis Deo
+    Gloria, in excelsis Deo
+
+    Come to Bethlehem and see
+    Him whose birth the angels sing,
+    Come, adore on bended knee,
+    Christ the Lord, the newborn King.
+
+    Gloria, in excelsis Deo
+    Gloria, in excelsis Deo
+  song: Angels We Have Heard on High
+- artist: Andrew Peterson
+  enabled: false
+  lyrics: |-
+    While shepherds watched their flocks by night
+    All seated on the ground
+    The angel of the Lord came down
+    And glory shone around
+
+    "Fear not!" said he; for mighty dread
+    Had seized their troubled minds
+    "Glad tidings of great joy I bring
+    To you and all mankind
+
+    To you in David's house this day
+    Is born of David's line
+    The Savior who is Christ the Lord
+    And this shall be the sign:
+
+    The heavenly babe you there shall find
+    To human view displayed
+    All meanly wrapped in swaddling bands
+    And in a manger laid"
+
+    Hallelujah, Hallelujah
+    Hallelujah, Christ is born
+    Hallelujah, Hallelujah
+    Hallelujah, Christ is born
+
+    "All glory be to God on high
+    And to the earth be peace
+    Good will henceforth from God to man
+    Begin and never cease"
+
+    Hallelujah, Hallelujah
+    Hallelujah, Christ is born
+    Hallelujah, Hallelujah
+    Hallelujah, Christ is born
+  song: While Shepherds Watched Their Flocks
+- artist: ''
+  enabled: false
+  lyrics: "Joy to The world! the Lord is come\nLet earth receive her King\nLet ev'ry
+    heart prepare him room\nAnd heaven and nature sing\nAnd heaven and nature sing\nAnd
+    heaven and nature sing\n\nJoy to the world! the Savior reigns\nLet men their songs
+    employ\nWhile fields and floods, rocks, hills and plains\nRepeat the sounding
+    joy\nRepeat the sounding joy\nRepeat the sounding joy\n\nHe rules the world with
+    truth and grace\nAnd makes the nations prove The glories of His righteousness\nAnd
+    wonders of His love \nAnd wonders of His love \nAnd wonder wonders of His love"
+  song: Joy To The World
+- artist: Christmas Carol
+  enabled: false
+  lyrics: |-
+    [Verse 1]
+    Joy to the World, the Lord has come!
+    Let earth receive her King;
+    Let every heart prepare Him room,
+    And Heaven and nature sing,
+    And Heaven and nature sing,
+    And Heaven, and Heaven, and nature sing.
+
+    [Verse 2]
+    Joy to the World, the Savior reigns!
+    Let men their songs employ;
+    While fields and floods, rocks, hills and plains
+    Repeat the sounding joy,
+    Repeat the sounding joy,
+    Repeat, repeat, the sounding joy.
+
+    [Verse 3]
+    No more let sins and sorrows grow,
+    Nor thorns infest the ground;
+    He comes to make His blessings flow
+    Far as the curse is found,
+    Far as the curse is found,
+    Far as, far as, the curse is found.
+
+    [Verse 4]
+    He rules the world with truth and grace,
+    And makes the nations prove
+    The glories of His righteousness,
+    And wonders of His love,
+    And wonders of His love,
+    And wonders, wonders, of His love
+  song: Joy to the World
+- artist: Ascend The Hill
+  enabled: false
+  lyrics: "I was far away from You\nJesus brought me near\nI was broken off from you\nJesus
+    brought me near\nI was far away from You\nJesus brought me near\nI was broken
+    off from you\nJesus brought me near (x2)\nMy hope, my song, my sacrifice of praise\nIs
+    Christ crucified for me\nMy strength, my boast, my sacrifice of praise\nIs the
+    mention of your name \nIs the mention of your name\n\nJesus\n\nThere is power
+    in the Name\nThere is power in the Name\nThere is power in the Name\nThere is
+    power in the Name\nJesus"
+  song: The Power is In the Name of Jesus
+- artist: Chris Tomlin
+  enabled: false
+  lyrics: |-
+    Come, Thou long expected Jesus
+    Born to set Thy people free;
+    From our fears and sins release us,
+    Let us find our rest in Thee.
+
+    Israel's strength and consolation,
+    Hope of all the earth Thou art;
+    Dear desire of every nation,
+    Joy of every longing heart.
+
+    Born Thy people to deliver,
+    Born a child and yet a King,
+    Born to reign in us forever,
+    Now Thy gracious kingdom bring.
+
+    Come, Thou long expected Jesus
+    Born to set Thy people free;
+    From our fears and sins release us,
+    Let us find our rest in Thee.
+
+    By Thine own eternal Spirit
+    Rule in all our hearts alone;
+    By Thine all sufficient merit,
+    Raise us to Thy glorious throne.
+
+    Born Thy people to deliver,
+    Born a child and yet a King,
+    Born to reign in us forever,
+    Now Thy gracious kingdom bring.
+
+    Come, Thou long expected Jesus
+    Born to set Thy people free;
+    From our fears and sins release us,
+    Let us find our rest in Thee.
+
+    Let us find our rest in Thee.
+    Let us find our rest in Thee.
+  song: Come Thou Long Expected Jesus
+- artist: James Chadwick
+  enabled: false
+  lyrics: |-
+    Angels we have heard on high
+    Sweetly singing o'er the plains
+    And the mountains in reply
+    Echoing their joyous strains
+    Angels we have heard on high
+    Sweetly, sweetly through the night
+    And the mountains in reply
+    Echoing their brief delight
+
+    Gloria, in excelsis Deo
+    Gloria, in excelsis Deo
+
+    Shepherds, why this jubilee?
+    Why your joyous strains prolong?
+    What the gladsome tidings be
+    Which inspire your heavenly song?
+
+    Gloria, in excelsis Deo
+    Gloria, in excelsis Deo
+
+    Come to Bethlehem and see
+    Him whose birth the angels sing,
+    Come, adore on bended knee,
+    Christ the Lord, the newborn King.
+
+    Gloria, in excelsis Deo
+    Gloria, in excelsis Deo
+  song: Angels We Have Heard on High
+- artist: Roquemaure / Adams
+  enabled: false
+  lyrics: |-
+    O holy night! The stars are brightly shining,
+    It is the night of our dear Saviour's birth.
+    Long lay the world in sin and error pining,
+    'Til He appear'd and the soul felt its worth.
+
+    A thrill of hope the weary world rejoices,
+    For yonder breaks a new and glorious morn.
+
+    Fall on your knees! O hear the angel voices!
+    O night div-ine, O night  when Christ was born;
+    O night div-ine,  O night, O night Divine.
+
+    Truly He taught us to love one another;
+    His law is love and His gospel is peace.
+    Chains shall He break for the slave is our brother;
+    And in His name all oppression shall cease.
+
+    Sweet hymns of joy in grateful chorus raise we,
+    Let all within us praise His holy name.
+
+    Christ is the Lord! O praise His Name forever,
+    His power and glory evermore proclaim.
+    His power and  glory evermore proclaim.
+
+    He knows our need, our weakness is no stranger,
+    Behold your King! Before Him lowly bend!
+    Behold your King, Before Him lowly bend!
+  song: O Holy Night
+- artist: Jesus Culture
+  enabled: false
+  lyrics: |-
+    There is power in the name of Jesus
+    There is power in the name of Jesus
+    There is power in the name of Jesus
+
+    To break every chain
+    Break every chain
+    Break every chain
+
+    All sufficient sacrifice
+    So freely given
+    Such a price
+    Bought our redemption
+    Heaven's gates swing wide
+
+    There's an army rising up
+    There's an army rising up
+    There's an army rising up
+  song: Break Every Chain (There Is Power In The Name of Jesus)
+- artist: Kat Porter
+  enabled: false
+  lyrics: "Where did your hope go? \nWhere did your hope go? \n\nI'll follow where
+    Your voice beckons to me\nMy spirit is willing even when my heart's weak \nTo
+    put one foot in front of the other\nWhile gazing into Your eyes my Lover \n\nWhere
+    did my hope go?\nWhere did my hope go? \n\nYou are the joy set before me "
+  song: Where Did My Hope Go
+- artist: Chris Tomlin
+  enabled: false
+  lyrics: |-
+    Come, Thou long expected Jesus
+    Born to set Thy people free;
+    From our fears and sins release us,
+    Let us find our rest in Thee.
+
+    Israel's strength and consolation,
+    Hope of all the earth Thou art;
+    Dear desire of every nation,
+    Joy of every longing heart.
+
+    Born Thy people to deliver,
+    Born a child and yet a King,
+    Born to reign in us forever,
+    Now Thy gracious kingdom bring.
+
+    By Thine own eternal Spirit
+    Rule in all our hearts alone;
+    By Thine all sufficient merit,
+    Raise us to Thy glorious throne.
+  song: " Come Thou Long Expected Jesus"
 - artist: U2, Will Reagan
   enabled: false
   lyrics: "And You give Yourself away.\n\nWhy Wait for Tomorrow? \LWhen we can have
@@ -683,31 +708,6 @@
     you\nPour it out\n\nSet a fire down in my soul\nThat I can't contain that I can't
     control\nI want more of You, God\nI want more of You, God"
   song: Set a Fire
-- artist: Young Oceans
-  enabled: false
-  lyrics: |-
-    Hasten now, O loving Lord to us
-    We’re thirsty
-    Fill these souls, Spirit, every hour
-    We need Thee
-
-    Refrain
-
-    Come, come Holy One
-    Come meet us
-    All, all for Your glory
-    Lord Jesus
-
-    Lead us on, the perfect path O Lord And may we
-    Sin no more. This
-    spotless bride, the Church
-    Is Yours
-
-    I am yours, only yours
-    I am yours, only yours
-    We are yours, only yours
-    We are yours, only yours
-  song: Come Holy One
 - artist: Hillsong Worship
   enabled: false
   lyrics: |-
