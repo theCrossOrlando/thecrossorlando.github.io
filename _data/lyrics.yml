@@ -145,7 +145,7 @@
     And then forevermore
   song: 10,000 Reasons
 - artist: Young Oceans
-  enabled: true
+  enabled: false
   lyrics: |-
     Hasten now, O loving Lord to us
     We’re thirsty
@@ -170,7 +170,7 @@
     We are yours, only yours
   song: Come Holy One
 - artist: Sufjan Stevens
-  enabled: true
+  enabled: false
   lyrics: |-
     O come, O come, Emmanuel
     And ransom captive Israel
@@ -197,7 +197,7 @@
     Rejoice! Rejoice! Rejoice!
   song: O Come, O Come Emmanuel
 - artist: Hillsong UNITED
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     Grace, what have You done?
@@ -256,7 +256,7 @@
     Forever the hope in my heart
   song: Scandal of Grace
 - artist: Joseph Mohr
-  enabled: true
+  enabled: false
   lyrics: |-
     Silent night, holy night
     All is calm, All is bright
