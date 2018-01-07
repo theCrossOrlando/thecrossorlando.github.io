@@ -1,4 +1,149 @@
 ---
+- artist: Hymn
+  enabled: true
+  lyrics: |-
+    Oh Lord my God
+    When I in awesome wonder
+    Consider all the worlds
+    Thy hands have made
+    I see the stars
+    I hear the rolling thunder
+    Thy power throughout
+    The universe displayed
+
+    Then sings my soul
+    My Savior, God, to Thee
+    How great thou art
+    How great thou art
+    Then sings my soul
+    My Savior, God, to Thee
+    How great Thou art
+    How great Thou art
+
+    And when I think of God,
+    His son not sparing,
+    Sent Him to die,
+    I scarce can take it in;
+    That on the cross, my burden
+    gladly bearing He bled and died
+    to take away my sin
+
+    Then sings my soul
+    My Savior, God, to Thee
+    How great thou art
+    How great thou art
+    Then sings my soul
+    My Savior, God, to Thee
+    How great Thou art
+    How great Thou art
+
+    When Christ shall come
+    With shout of acclamation
+    And take me home
+    What joy shall fill my heart
+    Then I shall bow
+    With humble adoration
+    And then proclaim My God
+    How great Thou art
+
+    Then sings my soul
+    My Savior, God, to Thee
+    How great Thou art
+    How great Thou art
+    Then sings my soul
+    My Savior, God, to Thee
+    How great Thou art
+    How great Thou art
+
+    How great Thou art
+    How great Thou art
+  song: How Great Thou Art
+- artist: John Mark McMillan & Sarah McMillan
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+    There is not a man or beast
+    Nothing on the land or underneath
+    Oh nothing that could ever come between
+    The love You have for me
+
+    [Pre-Chorus]
+    I could lay my head in sheol
+    I could make my bed
+    At the bottom of darkness deep
+    Oh but there is not a place I could escape You
+
+    [Chorus]
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Coming after me
+
+    [Verse 2]
+    There is not an angel of the stars
+    There is not a devil in the dark
+    Oh nothing that could change the way You are
+    The love You have for me
+
+    [Pre-Chorus]
+    I could lay my head in sheol
+    I could make my bed
+    At the bottom of darkness deep
+    Oh but there is not a place I could escape You
+  song: Heart Won't Stop
+- artist: Matt Redman
+  enabled: true
+  lyrics: "Even though I walk through the valley of the shadow of death\nYour perfect
+    love is casting out fear\nAnd even when I'm caught in the middle of the storms
+    of this life\nI won't turn back\nI know You are near\n\nAnd I will fear no evil\nFor
+    my God is with me\nAnd if my God is with me\nWhom then shall I fear?\nWhom then
+    shall I fear?\n\nChorus:\nOh no, You never let go\nThrough the calm and through
+    the storm\nOh no, You never let go\nIn every high and every low\nOh no, You never
+    let go\nLord, You never let go of me\n\nAnd I can see a light that is coming for
+    the heart that holds on\nA glorious light beyond all compare\nAnd there will be
+    an end to these troubles\nBut until that day comes\nWe'll live to know You here
+    on the earth\n\nChorus:\n\nYes, I can see a light that is coming for the heart
+    that holds on\nAnd there will be an end to these troubles \nBut until that day
+    comes\nStill I will praise You, still I will praise You\n\nChorus: (2x's)"
+  song: You Never Let Go
+- artist: Matt Redman
+  enabled: true
+  lyrics: |-
+    Bless the Lord O my soul
+    O my soul
+    Worship His Holy name
+    Sing like never before
+    O my soul
+    I’ll worship Your Holy name
+
+    The sun comes up
+    It’s a new day dawning
+    It’s time to sing Your song again
+    Whatever may pass
+    And whatever lies before me
+    Let me be singing
+    When the evening comes
+
+    You’re rich in love
+    And You’re slow to anger
+    Your name is great
+    And Your heart is kind
+    For all Your goodness
+    I will keep on singing
+
+    Ten thousand reasons
+    For my heart to find
+
+    And on that day
+    When my strength is failing
+    The end draws near
+    And my time has come
+    Still my soul will
+    Sing Your praise unending
+
+    Ten thousand years
+    And then forevermore
+  song: 10,000 Reasons
 - artist: Young Oceans
   enabled: true
   lyrics: |-
