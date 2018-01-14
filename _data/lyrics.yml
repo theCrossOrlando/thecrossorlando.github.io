@@ -1,6 +1,166 @@
 ---
-- artist: Hymn
+- artist: Francis of Assisi
   enabled: true
+  lyrics: |-
+    All creatures of our God and King
+    Lift up your voice and with us sing,
+
+    Alleluia! Alleluia!
+
+    Thou burning sun with golden beam,
+    Thou silver moon with softer gleam!
+
+    O praise Him! O praise Him!
+    Alleluia! Alleluia! Alleluia!
+
+    Thou rushing wind that art so strong
+    Ye clouds that sail in Heaven along,
+    O praise Him! Alleluia!
+
+    Thou rising moon, in praise rejoice,
+    Ye lights of evening, find a voice!
+
+    O praise Him! O praise Him!
+    Alleluia! Alleluia! Alleluia!
+
+    Let all things their Creator bless,
+    And worship Him in humbleness,
+    O praise Him! Alleluia!
+
+    Praise, praise the Father, praise the Son,
+    And praise the Spirit, Three in One!
+
+    O praise Him! O praise Him!
+    Alleluia! Alleluia!  Alleluia!
+  song: All Creatures of Our God and King
+- artist: John Mark McMillan
+  enabled: true
+  lyrics: |-
+    You hold the reins on the sun and the moon
+    Like horses driven by kings
+    You cover the mountains, the valleys below
+    With the breadth of Your mighty wings
+    All treasures of wisdom and things to be known
+    Are hidden inside Your hand
+    And in this fortunate turn of events
+    You ask me to be Your friend
+    You ask me to be Your friend
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
+    [x2]
+    The constellations are swimming inside
+    The breadth of Your desire
+    Where could I run, where could I hide
+    From Your heart's jealous fire
+    All treasures of wisdom and things to be known
+    Are hidden inside Your hand
+    And in this fortunate turn of events
+    You ask me to be Your friend
+    You ask me to be Your friend
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
+    [x2]
+    You are the beginning and the end [x3]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
+    [x3]
+  song: Future/Past
+- artist: Jon Foreman
+  enabled: true
+  lyrics: |-
+    Heavenly Father, You always amaze me
+    Let Your kingdom come in my world and in my life
+    Give me the food I need
+    To live through today
+    And forgive me as I forgive
+    The people that wrong me
+    Lead me far from temptation
+    Deliver me from the evil one
+    I look out the window
+    The birds are composing
+    Not a note is out of tune
+    Or out of place
+    I walk to the meadow
+    And stare at the flowers
+    Better dressed than any girl
+    On her wedding day
+    So why should I worry?
+    Why do I freak out?
+    God knows what I need
+    You know what I need
+    Your love is, Your love is
+    Your love is strong
+    Your love is, Your love is
+    Your love is strong
+    Your love is, Your love is
+    Your love is strong
+    The Kingdom of the Heavens
+    Is now advancing
+    Invade my heart
+    Invade this broken town
+    The Kingdom of the Heavens
+    Is buried treasure
+    Would you sell yourself
+    To buy the one you've found?
+    Two things You told me
+    That You are strong
+    And You love me
+    Yes, You love me
+    Your love is, Your love is
+    Your love is strong
+    Your love is, Your love is
+    Your love is strong
+    Your love is, Your love is
+    Your love is strong
+    Your love is, Your love is
+    Your love is strong
+    Our God in Heaven
+    Hallowed be Thy name
+    Above all names
+    Your kingdom come
+    Your will be done
+    On earth as it is in Heaven
+    Give us today our daily bread
+    Forgive us weary sinners
+    Keep us far from our vices
+    And deliver us from these prisons
+  song: Your Love is Strong
+- artist: Casting Crowns
+  enabled: true
+  lyrics: |-
+    'Tis so sweet to trust in Jesus,
+    Just to take Him at His Word
+    Just to rest upon His promise,
+    Just to know, "Thus saith the Lord!"
+
+    Jesus, Jesus, how I trust Him!
+    How I've proved Him o'er and o'er
+    Jesus, Jesus, precious Jesus!
+    Oh, for grace to trust Him more!
+
+    I'm so glad I learned to trust Him,
+    Precious Jesus, Savior, Friend
+    And I know that He is with me,
+    Will be with me to the end.
+
+    Oh, how sweet to trust in Jesus,
+    Just to trust His cleansing blood
+    And in simple faith to plunge me
+    'Neath the healing, cleansing flood!
+
+    Yes, 'tis sweet to trust in Jesus,
+    Just from sin and self to cease
+    Just from Jesus simply taking
+    Life and rest, and joy and peace.
+  song: "'Tis So Sweet to Trust in Jesus"
+- artist: Hymn
+  enabled: false
   lyrics: |-
     Oh Lord my God
     When I in awesome wonder
@@ -59,7 +219,7 @@
     How great Thou art
   song: How Great Thou Art
 - artist: John Mark McMillan & Sarah McMillan
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     There is not a man or beast
@@ -92,7 +252,7 @@
     Oh but there is not a place I could escape You
   song: Heart Won't Stop
 - artist: Matt Redman
-  enabled: true
+  enabled: false
   lyrics: "Even though I walk through the valley of the shadow of death\nYour perfect
     love is casting out fear\nAnd even when I'm caught in the middle of the storms
     of this life\nI won't turn back\nI know You are near\n\nAnd I will fear no evil\nFor
@@ -107,7 +267,7 @@
     comes\nStill I will praise You, still I will praise You\n\nChorus: (2x's)"
   song: You Never Let Go
 - artist: Matt Redman
-  enabled: true
+  enabled: false
   lyrics: |-
     Bless the Lord O my soul
     O my soul
@@ -853,6 +1013,19 @@
     you\nPour it out\n\nSet a fire down in my soul\nThat I can't contain that I can't
     control\nI want more of You, God\nI want more of You, God"
   song: Set a Fire
+- artist: Francis of Assisi
+  enabled: false
+  lyrics: "All creatures of our God and King\nLift up your voice and with us sing,
+    \  \nAlleluia! Alleluia!    \n\nThou burning sun with golden beam, \nThou silver
+    moon with softer gleam!\n   \nO praise Him! O praise Him!    \nAlleluia! Alleluia!
+    Alleluia!\n\nThou rushing wind that art so strong \nYe clouds that sail in Heaven
+    along,    \nO praise Him! Alleluia!    \n\nThou rising moon, in praise rejoice,
+    \nYe lights of evening, find a voice!   \n\nO praise Him! O praise Him!    \nAlleluia!
+    Alleluia! Alleluia!\n\nLet all things their Creator bless, \nAnd worship Him in
+    humbleness,  \nO praise Him! Alleluia!    \n\nPraise, praise the Father, praise
+    the Son, \nAnd praise the Spirit, Three in One!   \n\nO praise Him! O praise Him!
+    \ \nAlleluia! Alleluia! \nAlleluia!"
+  song: All Creatures of Our God and King
 - artist: Hillsong Worship
   enabled: false
   lyrics: |-
@@ -1699,19 +1872,6 @@
     There Thy face unclouded see
     Find our heaven of heavens in Thee
   song: Hail The Day That Sees Him Rise
-- artist: Francis of Assisi
-  enabled: false
-  lyrics: "All creatures of our God and King\nLift up your voice and with us sing,
-    \  \nAlleluia! Alleluia!    \n\nThou burning sun with golden beam, \nThou silver
-    moon with softer gleam!\n   \nO praise Him! O praise Him!    \nAlleluia! Alleluia!
-    Alleluia!\n\nThou rushing wind that art so strong \nYe clouds that sail in Heaven
-    along,    \nO praise Him! Alleluia!    \n\nThou rising moon, in praise rejoice,
-    \nYe lights of evening, find a voice!   \n\nO praise Him! O praise Him!    \nAlleluia!
-    Alleluia! Alleluia!\n\nLet all things their Creator bless, \nAnd worship Him in
-    humbleness,  \nO praise Him! Alleluia!    \n\nPraise, praise the Father, praise
-    the Son, \nAnd praise the Spirit, Three in One!   \n\nO praise Him! O praise Him!
-    \ \nAlleluia! Alleluia! \nAlleluia!"
-  song: All Creatures of Our God and King
 - artist: Tribulations, Estil C. Ball
   enabled: false
   lyrics: |-
