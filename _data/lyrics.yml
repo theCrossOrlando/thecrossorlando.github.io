@@ -1,5 +1,153 @@
-- song: Come Thou Fount
+- song: We Are Blessed
   enabled: true
+  lyrics: |-
+    We are loved at the end of our rope
+    When we're less there is more of the Lord
+    In the fight for our souls we must learn to let go
+    And abandon who we are
+
+    We are loved when we feel all is lost
+    When the shadows are cast on the cross
+    Only then can we know the embrace of the one
+    Who's carried us along
+
+    We are blessed, we are blessed
+    We are blessed, we are blessed
+
+    We are loved when we feel most content
+    With who we are, nothing more nothing less
+    We'll inherit the earth declaring Your worth
+    Bring glory to Your name
+
+    We are blessed, we are blessed
+    We are blessed, we are blessed
+    We are blessed, we are blessed
+    We are blessed, we are blessed
+
+    We're blessed, we're loved
+    Our hearts, our souls, we now rejoice, rejoice
+    We're blessed, we're loved
+    Our hearts, our souls, we now rejoice, rejoice
+  artist: All Sons and Daughters
+- song: Our God Alone
+  enabled: true
+  lyrics: |-
+    Who formed the mountains and filled the oceans?
+    Our god alone, our god alone
+    Who took the dust, breathed life in us?
+    Our god alone, our god alone
+
+    Alleluia
+
+    Who came from heaven for our redemption?
+    Our god alone, our god alone
+    Who died for sin that we may live?
+    Our god alone, our god alone
+
+    Alleluia
+
+    Who rose again? death could not win
+    Our god alone, our god alone
+    Who is returning bringing our kingdom?
+    Our god alone, our god alone
+
+    We will worship, we will worship
+    Our god alone, our god alone
+    We will worship, we will worship
+    Our god alone, our god alone
+
+    Alleluia
+  artist: The Brilliance
+- song: Good Good Father
+  enabled: true
+  lyrics: |-
+    I've heard a thousand stories of what they think you're like
+    But I've heard the tender whispers of love in the dead of night
+    And you tell me that you're pleased
+    And that I'm never alone
+
+    You're a good good father
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    It's who I am, it's who I am, it's who I am
+
+    I've seen many searching for answers far and wide
+    But I know we're all searching
+    For answers only you provide
+    'Cause you know just what we need
+    Before we say a word
+
+    You're a good good father
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    It's who I am, it's who I am, it's who I am
+
+    Because you are perfect in all of your ways
+    You are perfect in all of your ways
+    You are perfect in all of your ways to us
+
+    You are…
+  artist: Chris Tomlin
+- song: Your Love Is Strong
+  enabled: true
+  lyrics: |-
+    Heavenly Father 
+    You always amaze me
+    Let Your kingdom come in my world 
+    And in my life
+
+    Give me the food I need to live through today
+    And forgive me as I forgive the people that wrong me
+
+    Lead me far from temptation
+    Deliver me from the evil one
+
+    I look out the window
+    The birds are composing
+    Not a note is out of tune
+    Or out of place
+
+    I walk to the meadow
+    And stare at the flowers
+    Better dressed than any girl
+    On her wedding day
+
+    So why should I worry?
+    Why do I freak out?
+    God knows what I need!
+    You know what I need!
+
+    Your love is strong
+
+    The Kingdom of the Heavens 
+    Is now advancing
+    Invade my heart
+    Invade this broken town
+
+    The Kingdom of the Heavens 
+    Is buried treasure
+    Would you sell yourself
+    To buy the one you've found?
+
+    Two things You told me
+    That You are strong
+    And You love me,
+    Yes You love me
+
+    Your love is strong
+
+    Our God in heaven
+    Hallowed be thy name above all names
+    Your kingdom come
+    Your will be done
+    On earth as it is in heaven
+    Give us, today, our daily bread
+    Forgive us weary sinners
+    Keep us far from our vices and
+    Deliver us from these prisons
+  artist: Jon Foreman
+- song: Come Thou Fount
+  enabled: false
   lyrics: |-
     Come thou fount of every blessing
     Tune my heart to sing thy grace
@@ -30,7 +178,7 @@
     seal it for thy courts above
   artist: Chris Tomlin
 - song: This is My Father's World
-  enabled: true
+  enabled: false
   lyrics: |-
     This is My Father's World
     This is my father's world
@@ -63,7 +211,7 @@
     And earth and Heav’n be one.
   artist: Amy Grant
 - song: Christ Be All Around Me
-  enabled: true
+  enabled: false
   lyrics: |-
     As I rise, strength of God
     Go before, lift me up
@@ -98,7 +246,7 @@
     Every moment
   artist: Michael W Smith
 - song: Amazing Grace (My Chains Are Gone)
-  enabled: true
+  enabled: false
   lyrics: |-
     Amazing grace
     How sweet the sound
