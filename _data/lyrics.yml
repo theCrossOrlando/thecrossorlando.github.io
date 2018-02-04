@@ -1,5 +1,194 @@
-- song: We Are Blessed
+- song: Holy, Holy, Holy
   enabled: true
+  lyrics: |-
+    Holy, holy, holy! Lord God Almighty!
+    Early in the morning 
+    our song shall rise to thee
+    There is a sign at the sight of theee,
+    Merciful and mighty
+    God in three Persons, 
+    God in three Persons,
+    Blessed Trinity
+
+    Holy, holy, holy!
+    Though the darkness hide thee,
+    Though the eye of sinful man 
+    Thy glory may not see;
+    Only Thou art holy; 
+    There is none beside thee,
+    Perfect in power 
+    Perfect in power
+    In love, and purity
+
+    Holy, holy, holy! Lord God Almighty!
+    All thy works shall praise thy Name, in 
+    Earth, and sky, and sea
+    There is a sign at the sight of theee,
+    There is none beside thee,
+    God in three Persons, 
+    God in three Persons,
+    God in three Persons,
+    God in three Persons,
+    Blessed Trinity
+  artist: Hymn
+- song: Canons
+  enabled: true
+  lyrics: |-
+    It's falling from the clouds
+    A strange and lovely sound
+    I hear it in the thunder and rain
+    It's ringing in the skies
+    Like cannons in the night
+    The music of the universe plays
+
+    Singing, You are holy, great and mighty
+    The moon and the stars declare who You are
+    I'm so unworthy, but still You love me
+    Forever my heart will sing of how great You are
+
+    Beautiful and free
+    The song of galaxies
+    Reaching far beyond the Milky Way
+    Let's join in with the sound
+    Come on let's sing it out
+    As the music of the universe plays
+
+    All glory, honor, power is Yours, Amen
+    All glory, honor, power is Yours, Amen
+    All glory, honor, power is Yours, forever Amen
+  artist: Phil Wickham
+- song: What a Beautiful Name
+  enabled: true
+  lyrics: |-
+    You were the Word at the beginning
+    One With God the Lord Most High
+    Your hidden glory in creation
+    Now revealed in You our Christ
+
+    What a beautiful Name it is
+    What a beautiful Name it is
+    The Name of Jesus Christ my King
+
+    What a beautiful Name it is
+    Nothing compares to this
+    What a beautiful Name it is
+    The Name of Jesus
+
+    You didn't want heaven without us
+    So Jesus, You brought heaven down
+    My sin was great, Your love was greater
+    What could separate us now
+
+    What a wonderful Name it is
+    What a wonderful Name it is
+    The Name of Jesus Christ my King
+
+    What a wonderful Name it is
+    Nothing compares to this
+    What a wonderful Name it is
+    The Name of Jesus
+    What a wonderful Name it is
+    The Name of Jesus
+
+    Death could not hold You, the veil tore before You
+    You silenced the boast, of sin and grave
+    The heavens are roaring, the praise of Your glory
+    For You are raised to life again
+
+    You have no rival, You have no equal
+    Now and forever, God You reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name, above all names
+
+    What a powerful Name it is
+    What a powerful Name it is
+    The Name of Jesus Christ my King
+
+    What a powerful Name it is
+    Nothing can stand against
+    What a powerful Name it is
+    The Name of Jesus
+
+    You have no rival, You have no equal
+    Now and forever, God You reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name, above all names
+
+    What a powerful Name it is
+    What a powerful Name it is
+    The Name of Jesus Christ my King
+
+    What a powerful Name it is
+    Nothing can stand against
+    What a powerful Name it is
+    The Name of Jesus
+
+    What a powerful Name it is
+    The Name of Jesus
+    What a powerful Name it is
+    The Name of Jesus
+  artist: Hillsong United
+- song: 10,000 Reasons
+  enabled: true
+  lyrics: |-
+    [Chorus]
+    Bless the Lord, O my soul
+    O my soul
+    Worship His holy name
+    Sing like never before
+    O my soul
+    I'll worship Your holy name
+
+    The sun comes up, it's a new day dawning
+    It's time to sing Your song again
+    Whatever may pass, and whatever lies before me
+    Let me be singing when the evening comes
+
+    [Chorus]
+    Bless the Lord, O my soul
+    O my soul
+    Worship His holy name
+    Sing like never before
+    O my soul
+    I'll worship Your holy name
+
+    You're rich in love, and You're slow to anger
+    Your name is great, and Your heart is kind
+    For all Your goodness I will keep on singing
+    Ten thousand reasons for my heart to find
+
+    [Chorus]
+    Bless the Lord, O my soul
+    O my soul
+    Worship His holy name
+    Sing like never before
+    O my soul
+    I'll worship Your holy name
+
+    And on that day when my strength is failing
+    The end draws near and my time has come
+    Still my soul will sing Your praise unending
+    Ten thousand years and then forevermore
+
+    [Chorus x2]
+    Bless the Lord, O my soul
+    O my soul
+    Worship His holy name
+    Sing like never before
+    O my soul
+    I'll worship Your holy name
+
+    Jesus, I'll worship Your holy name
+    Lord, I'll worship Your holy name
+
+    Sing like never before
+    O my soul
+    I'll worship Your holy name
+    Jesus, I'll worship Your holy name
+    I'll worship Your holy name
+  artist: Matt Redman
+- song: We Are Blessed
+  enabled: false
   lyrics: |-
     We are loved at the end of our rope
     When we're less there is more of the Lord
@@ -30,7 +219,7 @@
     Our hearts, our souls, we now rejoice, rejoice
   artist: All Sons and Daughters
 - song: Our God Alone
-  enabled: true
+  enabled: false
   lyrics: |-
     Who formed the mountains and filled the oceans?
     Our god alone, our god alone
@@ -59,7 +248,7 @@
     Alleluia
   artist: The Brilliance
 - song: Good Good Father
-  enabled: true
+  enabled: false
   lyrics: |-
     I've heard a thousand stories of what they think you're like
     But I've heard the tender whispers of love in the dead of night
@@ -89,7 +278,7 @@
     You are…
   artist: Chris Tomlin
 - song: Your Love Is Strong
-  enabled: true
+  enabled: false
   lyrics: |-
     Heavenly Father 
     You always amaze me
