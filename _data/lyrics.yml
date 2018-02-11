@@ -1,38 +1,168 @@
-- song: Holy, Holy, Holy
+- song: How Deep the Father's Love for Us
   enabled: true
   lyrics: |-
+    How deep the Father's love for us
+    How vast beyond all measure
+    That He would give His only Son
+    To make a wretch His treasure
+    How great the pain of searing loss
+    The Father turns His face away
+    As wounds which mar the chosen One
+    Bring many sons to glory
+
+    Behold the Man upon a cross
+    My guilt upon His shoulders
+    Ashamed, I hear my mocking voice
+    Call out among the scoffers
+    It was my sin that held Him there
+    Until it was accomplished
+    His dying breath has brought me life
+    I know that it is finished
+
+    I will not boast in anything
+    No gifts, no powr's, no wisdom
+    But I will boast in Jesus Christ
+    His death and resurrection
+    Why should I gain from His  reward?
+    I cannot give an answer
+    But this I know with all my heart
+    His wounds have paid my ransom
+    Why should I gain from His reward?
+    I cannot give an answer
+    But this I know with all my heart
+    His wounds have paid my ransom
+    But this I know with all my heart
+    His wounds have paid my ransom
+  artist: Selah
+- song: Here Is Love
+  enabled: true
+  lyrics: |-
+    Here is love, vast as the ocean
+    Loving-kindness as the flood
+    When the Prince of Life, our ransom
+    Shed for us His precious blood
+
+    Who His love will not remember?
+    Who can cease to sing His praise?
+    He can never be forgotten
+    Throughout heaven's eternal days
+
+    On the mount of crucifixion
+    Fountains open deep and wide
+    Through the floodgates of God's mercy
+    Flowed a vast and gracious tide
+
+    Grace and love, like mighty rivers
+    Poured incessant from above.
+    Heaven's peace and perfect justice
+    Kissed a guilty world in love
+    Heaven's peace and perfect justice
+    Kissed a guilty world in love
+
+    Here is love, vast as the ocean
+    Loving-kindness as the flood
+    When the Prince of Life, our ransom
+    Shed for us His precious blood
+
+    Who His love will not remember?
+    Who can cease to sing His praise?
+    He can never be forgotten
+    Throughout heaven's eternal days
+
+    Grace and love, like mighty rivers
+    Poured incessant from above.
+    Heaven's peace and perfect justice
+    Kissed a guilty world in love
+    Heaven's peace and perfect justice
+    Kissed a guilty world in love
+  artist: Matt Redman
+- song: Come, Ye Sinners
+  enabled: true
+  lyrics: |-
+    Come ye sinners, poor and needy; Weak and wounded, sick and sore
+    Jesus ready stands to save you; Full of pity, love and power
+
+    Come ye thirsty, come and welcome; God's free bounty glorify
+    True belief and true repentance; Every grace that brings you nigh
+
+    I will arise and go to Jesus; He will embrace me in His arms
+    And in the arms of my great Savior, there are ten thousand charms
+
+    Come ye weary, heavy laden; Lost and ruined by the fall
+    If you tarry until you're better, you will never come at all
+
+    I will arise and go to Jesus; He will embrace me in His arms
+    And in the arms of my great Savior, there are ten thousand charms
+
+    I will arise and go to Jesus; He will embrace me in His arms
+    And in the arms of my great Savior, there are ten thousand charms
+
+    I will arise and go to Jesus; He will embrace me in His arms
+    And in the arms of my great Savior, there are ten thousand charms
+
+    There are ten thousand charms; There are ten thousand charms
+  artist: Fernando Ortega
+- song: Jesus Paid It All
+  enabled: true
+  lyrics: |-
+    I hear the Savior say, “Thy strength indeed is small;
+    Child of weakness, watch and pray. Find in Me thine all and all.”
+
+    Jesus paid it all, All to Him I owe;
+    Sin had left a crimson stain, He washed it white as snow.
+    Lord, now indeed I find Thy power and thine alone,
+    Can change the leper’s spots And melt this heart of stone.
+
+    Jesus paid it all, All to Him I owe;
+    Sin had left a crimson stain, He washed it white as snow.
+
+    And when, before the throne I stand in Him complete,
+    “Jesus died my soul to save,” My lips shall still repeat.
+
+    Jesus paid it all, All to Him I owe;
+    Sin had left a crimson stain, He washed it white as snow.
+
+    O praise the One who paid my debt
+    And raised this life up from the dead
+
+    Jesus paid it all, All to Him I owe;
+    Sin had left a crimson stain, He washed it white as snow.
+  artist: Kristian Stanfill
+- song: Holy, Holy, Holy
+  enabled: false
+  lyrics: |-
     Holy, holy, holy! Lord God Almighty!
-    Early in the morning 
+    Early in the morning
     our song shall rise to thee
     There is a sign at the sight of theee,
     Merciful and mighty
-    God in three Persons, 
+    God in three Persons,
     God in three Persons,
     Blessed Trinity
 
     Holy, holy, holy!
     Though the darkness hide thee,
-    Though the eye of sinful man 
+    Though the eye of sinful man
     Thy glory may not see;
-    Only Thou art holy; 
+    Only Thou art holy;
     There is none beside thee,
-    Perfect in power 
+    Perfect in power
     Perfect in power
     In love, and purity
 
     Holy, holy, holy! Lord God Almighty!
-    All thy works shall praise thy Name, in 
+    All thy works shall praise thy Name, in
     Earth, and sky, and sea
     There is a sign at the sight of theee,
     There is none beside thee,
-    God in three Persons, 
+    God in three Persons,
     God in three Persons,
     God in three Persons,
     God in three Persons,
     Blessed Trinity
   artist: Hymn
 - song: Canons
-  enabled: true
+  enabled: false
   lyrics: |-
     It's falling from the clouds
     A strange and lovely sound
@@ -58,7 +188,7 @@
     All glory, honor, power is Yours, forever Amen
   artist: Phil Wickham
 - song: What a Beautiful Name
-  enabled: true
+  enabled: false
   lyrics: |-
     You were the Word at the beginning
     One With God the Lord Most High
@@ -129,7 +259,7 @@
     The Name of Jesus
   artist: Hillsong United
 - song: 10,000 Reasons
-  enabled: true
+  enabled: false
   lyrics: |-
     [Chorus]
     Bless the Lord, O my soul
@@ -280,9 +410,9 @@
 - song: Your Love Is Strong
   enabled: false
   lyrics: |-
-    Heavenly Father 
+    Heavenly Father
     You always amaze me
-    Let Your kingdom come in my world 
+    Let Your kingdom come in my world
     And in my life
 
     Give me the food I need to live through today
@@ -308,12 +438,12 @@
 
     Your love is strong
 
-    The Kingdom of the Heavens 
+    The Kingdom of the Heavens
     Is now advancing
     Invade my heart
     Invade this broken town
 
-    The Kingdom of the Heavens 
+    The Kingdom of the Heavens
     Is buried treasure
     Would you sell yourself
     To buy the one you've found?
@@ -374,22 +504,22 @@
     And to my listening ears
     All nature sings, and round me rings
     The music of the spheres
-    
+
     This is my father's world
     I rest me in the thought
     Of rocks and trees, of skies and seas
     His hand the wonders wrought
-    
+
     This is my father's world
     Dreaming, I see His face
     Open my eyes, and in glad surprise
     Cry "The Lord is in this place"
-    
+
     This is my father's world
     From the shining courts above
     The beloved One, His only Son
     Came a pledge of deathless love
-    
+
     This is my Father’s world
     Oh, let me ne’er forget
     That though the wrong seems oft so strong,
