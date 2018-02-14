@@ -1,5 +1,112 @@
-- song: How Deep the Father's Love for Us
+- song: Come Thou Fount
   enabled: true
+  lyrics: |-
+    Come thou fount of every blessing
+    Tune my heart to sing thy grace
+    Streams of mercy never ceasing
+    Call for songs of loudest praise
+    Teach me some melodious sonnet
+    Sung by flaming tongues above
+    I'll praise the mount I'm fixed upon it
+    Mount of thy redeeming love
+
+    Here I raise my Ebenezer
+    Hither by thy help I come
+    And I hope by thy good pleasure
+    Safely to arrive at home
+
+    Jesus sought me when a stranger
+    Wondering from the fold of God
+    He, to rescue me from danger
+    Interposed His precious blood
+
+    O to grace how great a debtor daily
+    I'm constrained to be!
+    Let thy goodness like a fetter,
+    bind my wandering heart to thee
+    Prone to wander Lord I feel it,
+    prone to leave the God I love
+    Here's my heart, O take and seal it,
+    seal it for thy courts above
+  artist: Chris Tomlin
+- song: Brokenness Aside
+  enabled: true
+  lyrics: |-
+    Will your grace run out
+    If I let you down
+    'Cause all I know
+    Is how to run
+
+    'Cause I am a sinner
+    If it's not one thing it's another
+    Caught up in words
+    Tangled in lies
+    But You are a Savior
+    And You take brokenness aside
+    And make it beautiful
+    Beautiful
+
+    Will You call me child
+    When I tell you lies
+    'Cause all I know
+    Is how to cry
+
+    'Cause I am a sinner
+    If it's not one thing it's another
+    Caught up in words
+    Tangled in lies
+    But You are a Savior
+    And You take brokenness aside
+    And make it beautiful
+    Beautiful
+
+    You make it beautiful
+    You make it beautiful
+
+    You make it beautiful
+    You make it beautiful
+
+    'Cause I am a sinner
+    If it's not one thing it's another
+    Caught up in words
+    Tangled in lies
+    But You are a Savior
+    And You take brokenness aside
+    And make it beautiful
+    Beautiful, oh yeah
+  artist: All Sons and Daughters
+- song: Grace Greater than Our Sin
+  enabled: true
+  lyrics: |-
+    Marvelous grace of our loving Lord
+    Grace that exceeds our sin and our guilt
+    Yonder on Calvary's mount outpoured
+    There where the blood of the Lamb was spilt!
+
+    Grace, grace, God's grace
+    Grace that will pardon and cleanse within!
+    Grace, grace, God's grace
+    Grace that is greater than all our sin!
+
+    Sin and despair, like the sea waves cold
+    Threaten the soul with infinite loss
+    Grace that is greater, yes, grace untold
+    Points to the refuge, the mighty Cross
+
+    Grace that will pardon and cleanse within!
+    Grace, grace, God's grace
+    Grace that is greater than all our sin!
+
+    Dark is the stain that we cannot hide
+    What can avail to wash it away?
+    Look! There is flowing a crimson tide
+    Younger than every yesterday
+
+    Grace that will pardon and cleanse within!
+    Grace, grace, God's grace
+    Grace that is greater than all our sin!
+- song: How Deep the Father's Love for Us
+  enabled: false
   lyrics: |-
     How deep the Father's love for us
     How vast beyond all measure
@@ -35,7 +142,7 @@
     His wounds have paid my ransom
   artist: Selah
 - song: Here Is Love
-  enabled: true
+  enabled: false
   lyrics: |-
     Here is love, vast as the ocean
     Loving-kindness as the flood
@@ -77,7 +184,7 @@
     Kissed a guilty world in love
   artist: Matt Redman
 - song: Come, Ye Sinners
-  enabled: true
+  enabled: false
   lyrics: |-
     Come ye sinners, poor and needy; Weak and wounded, sick and sore
     Jesus ready stands to save you; Full of pity, love and power
@@ -103,7 +210,7 @@
     There are ten thousand charms; There are ten thousand charms
   artist: Fernando Ortega
 - song: Jesus Paid It All
-  enabled: true
+  enabled: false
   lyrics: |-
     I hear the Savior say, “Thy strength indeed is small;
     Child of weakness, watch and pray. Find in Me thine all and all.”
@@ -465,37 +572,6 @@
     Keep us far from our vices and
     Deliver us from these prisons
   artist: Jon Foreman
-- song: Come Thou Fount
-  enabled: false
-  lyrics: |-
-    Come thou fount of every blessing
-    Tune my heart to sing thy grace
-    Streams of mercy never ceasing
-    Call for songs of loudest praise
-    Teach me some melodious sonnet
-    Sung by flaming tongues above
-    I'll praise the mount I'm fixed upon it
-    Mount of thy redeeming love
-
-    Here I raise my Ebenezer
-    Hither by thy help I come
-    And I hope by thy good pleasure
-    Safely to arrive at home
-
-    Jesus sought me when a stranger
-    Wondering from the fold of God
-    He, to rescue me from danger
-    Interposed His precious blood
-
-    O to grace how great a debtor daily
-    I'm constrained to be!
-    Let thy goodness like a fetter,
-    bind my wandering heart to thee
-    Prone to wander Lord I feel it,
-    prone to leave the God I love
-    Here's my heart, O take and seal it,
-    seal it for thy courts above
-  artist: Chris Tomlin
 - song: This is My Father's World
   enabled: false
   lyrics: |-
