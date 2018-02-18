@@ -1,5 +1,127 @@
-- song: Come Thou Fount
+- song: All Creatures of Our God and King
   enabled: true
+  lyrics: |-
+    All creatures of our God and King
+    Lift up your voice and with us sing,
+    Alleluia! Alleluia!
+
+    Thou burning sun with golden beam,
+    Thou silver moon with softer gleam!
+    O praise Him! O praise Him!
+    Alleluia! Alleluia! Alleluia!
+
+    Thou rushing wind that art so strong
+    Ye clouds that sail in Heaven along,
+    O praise Him! Alleluia!
+
+    Thou rising moon, in praise rejoice,
+    Ye lights of evening, find a voice!
+    O praise Him! O praise Him!
+    Alleluia! Alleluia! Alleluia!
+
+    Oh water flow, pure and clear,
+    Make music for thy Lord to hear,
+    Thou fire masterful and bright,
+    That showers me with warmth and light.
+
+    Let all things their Creator bless,
+    And worship Him in humbleness,
+    O praise Him! Alleluia!
+
+    Praise, praise the Father, praise the Son,
+    And praise the Spirit, Three in One!
+    O praise Him! O praise Him!
+    Alleluia! Alleluia! Alleluia! Allelu – ia!
+  artist: William Henry Draper
+- song: How Great is Our God
+  enabled: true
+  lyrics: |-
+    The splendor of the King, clothed in majesty,
+    Let all the earth rejoice, all the earth rejoice.
+
+    He wraps Himself in light, and darkness tries to hide,
+    And trembles at his voice, trembles at his voice
+
+    How great is our God, sing with me,
+    How great is our God, all will see,
+    How great, how great is our God
+
+    Age to age He stands, and time is in His hands,
+    Beginning and the end, beginning and the end.
+
+    The Godhead, three in one: Father, Spirit, Son,
+    The Lion and the Lamb, the Lion and the Lamb
+
+    How great is our God, sing with me,
+    How great is our God, all will see,
+    How great, how great is our God
+
+    Name above all names, Worthy of all praise,
+    My heart will sing how great is our God
+    Name above all names, Worthy of all praise,
+    My heart will sing how great is our God
+
+    How great is our God, sing with me,
+    How great is our God, all will see,
+    How great, how great is our God
+  artist: Chris Tomlin
+- song: Our God Alone
+  enabled: true
+  lyrics: |-
+    Who formed the mountains and filled the oceans?
+    Our god alone, our god alone
+    Who took the dust, breathed life in us?
+    Our god alone, our god alone
+
+    Alleluia
+
+    Who came from heaven for our redemption?
+    Our god alone, our god alone
+    Who died for sin that we may live?
+    Our god alone, our god alone
+
+    Alleluia
+
+    Who rose again? death could not win
+    Our god alone, our god alone
+    Who is returning bringing our kingdom?
+    Our god alone, our god alone
+
+    We will worship, we will worship
+    Our god alone, our god alone
+    We will worship, we will worship
+    Our god alone, our god alone
+
+    Alleluia
+  artist: The Brilliance
+- song: All the Poor and Powerless
+  enabled: true
+  lyrics: |-
+    All the poor and powerless and all the lost and lonely
+    All the thieves will come confess and know that You are ho – ly
+    Will know that You are ho – ly
+
+    All will sing out hallelujah
+    We will cry out hallelujah
+
+    All the hearts who are content and all who feel unworthy
+    All who hurt will nothing left will know that You are ho – ly
+
+    All will sing out hallelujah
+    We will cry out hallelujah
+    All will sing out hallelujah
+    We will cry out hallelujah
+
+    Shout it, go on and scream it from the mountains
+    Go on and tell it to the masses
+    That He is God
+
+    We will sing out hallelujah
+    We will cry out hallelujah
+    We will sing out hallelujah, God
+  artist: All Sons and Daughters
+- song: Come Thou Fount
+  enabled: false
   lyrics: |-
     Come thou fount of every blessing
     Tune my heart to sing thy grace
@@ -30,7 +152,7 @@
     seal it for thy courts above
   artist: Chris Tomlin
 - song: Brokenness Aside
-  enabled: true
+  enabled: false
   lyrics: |-
     Will your grace run out
     If I let you down
@@ -76,7 +198,7 @@
     Beautiful, oh yeah
   artist: All Sons and Daughters
 - song: Grace Greater than Our Sin
-  enabled: true
+  enabled: false
   lyrics: |-
     Marvelous grace of our loving Lord
     Grace that exceeds our sin and our guilt
@@ -455,35 +577,6 @@
     We're blessed, we're loved
     Our hearts, our souls, we now rejoice, rejoice
   artist: All Sons and Daughters
-- song: Our God Alone
-  enabled: false
-  lyrics: |-
-    Who formed the mountains and filled the oceans?
-    Our god alone, our god alone
-    Who took the dust, breathed life in us?
-    Our god alone, our god alone
-
-    Alleluia
-
-    Who came from heaven for our redemption?
-    Our god alone, our god alone
-    Who died for sin that we may live?
-    Our god alone, our god alone
-
-    Alleluia
-
-    Who rose again? death could not win
-    Our god alone, our god alone
-    Who is returning bringing our kingdom?
-    Our god alone, our god alone
-
-    We will worship, we will worship
-    Our god alone, our god alone
-    We will worship, we will worship
-    Our god alone, our god alone
-
-    Alleluia
-  artist: The Brilliance
 - song: Good Good Father
   enabled: false
   lyrics: |-
