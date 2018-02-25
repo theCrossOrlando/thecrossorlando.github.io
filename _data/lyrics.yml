@@ -1,5 +1,134 @@
-- song: All Creatures of Our God and King
+- song: Holy, Holy, Holy
   enabled: true
+  lyrics: |-
+    Holy, holy, holy! Lord God Almighty!
+    Early in the morning
+    our song shall rise to thee
+    There is a sign at the sight of theee,
+    Merciful and mighty
+    God in three Persons,
+    God in three Persons,
+    Blessed Trinity
+
+    Holy, holy, holy!
+    Though the darkness hide thee,
+    Though the eye of sinful man
+    Thy glory may not see;
+    Only Thou art holy;
+    There is none beside thee,
+    Perfect in power
+    Perfect in power
+    In love, and purity
+
+    Holy, holy, holy! Lord God Almighty!
+    All thy works shall praise thy Name, in
+    Earth, and sky, and sea
+    There is a sign at the sight of theee,
+    There is none beside thee,
+    God in three Persons,
+    God in three Persons,
+    God in three Persons,
+    God in three Persons,
+    Blessed Trinity
+  artist: Hymn
+- song: Earnestly I Seek Thee
+  enabled: true
+  lyrics: |-
+    In life’s troubles, sorrows and pain, earnestly I seek Thee
+    Fill my soul with peace again; earnestly I seek Thee
+
+    None but You, and You alone
+    Take my life, make it Your own
+    In my offering, build Your home
+    Earnestly I seek Thee
+
+    In life triumphs, victories, earnestly I seek Thee
+    In the shadow of the Almighty, earnestly I seek Thee
+
+    None but You, and You alone
+    Take my life, make it Your own
+    In my offering, build Your home
+    Earnestly I seek Thee
+
+    I sing to You because You’re good
+    And Your love is better than life
+    I will live to bring You praise
+    I will bless You always
+
+    Who am I that You would care? Earnestly I seek Thee
+    All my days, my nights, You’re there; earnestly I seek Thee
+
+    None but You, and You alone
+    Take my life, make it Your own
+    In my offering, build Your home
+    Earnestly I seek Thee
+
+    None but You, and You alone
+    Take my life, make it Your own
+    In my offering, build Your home
+    Earnestly I seek Thee
+  artist: Aaron Gillespie
+- song: Be Thou My Vision
+  enabled: true
+  lyrics: |-
+    Be Thou my vision, O Lord of my heart
+    Naught be all else to me, save that Thou art
+    Thou my best thought by day or by night
+    Waking or sleeping, Thy presence my light
+
+    Be Thou my wisdom and Thou my true Word
+    I ever with Thee and Thou with me Lord
+    Thou my great Father, and I Thy true son
+    Thou in me dwelling, and I with Thee one
+
+    Riches I heed not, nor man’s empty praise
+    Thou mine inheritance, now and always
+    Thou and Thou only, first in my heart
+    High King of heaven, my Treasure Thou art
+
+    High King of Heaven, my victory won
+    May I reach Heaven’s joys, O bright Heaven’s sun
+    Heart of my own heart, whatever befall
+    Still be my Vision, O Ruler of all
+    Still be my Vision, O Ruler of all
+  artist: Hymn
+- song: My Hope is Built on Nothing Less
+  enabled: true
+  lyrics: |-
+    My hope is built on nothing less
+    Than Jesus’ blood and righteousness.
+    I dare not trust the sweetest frame,
+    But wholly lean on Jesus’ Name.
+
+    When darkness veils His lovely face,
+    I rest in His unchanging grace.
+    In every high and stormy gale,
+    My anchor holds within the veil.
+
+    On Christ the solid Rock I stand,
+    All other ground is sinking sand;
+    All other ground is sinking sand.
+
+    His oath, His covenant, His blood,
+    Support me in the whelming flood.
+    When all around my soul gives way,
+    He then is all my Hope and Stay.
+
+    On Christ the solid Rock I stand,
+    All other ground is sinking sand;
+    All other ground is sinking sand.
+
+    When He shall call with trumpet sound,
+    O may I then in Him be found.
+    Dressed in His Righteousness alone,
+    Faultless to stand before the throne.
+
+    On Christ the solid Rock I stand,
+    All other ground is sinking sand;
+    All other ground is sinking sand.
+  artist: Hymn
+- song: All Creatures of Our God and King
+  enabled: false
   lyrics: |-
     All creatures of our God and King
     Lift up your voice and with us sing,
@@ -34,7 +163,7 @@
     Alleluia! Alleluia! Alleluia! Allelu – ia!
   artist: William Henry Draper
 - song: How Great is Our God
-  enabled: true
+  enabled: false
   lyrics: |-
     The splendor of the King, clothed in majesty,
     Let all the earth rejoice, all the earth rejoice.
@@ -66,7 +195,7 @@
     How great, how great is our God
   artist: Chris Tomlin
 - song: Our God Alone
-  enabled: true
+  enabled: false
   lyrics: |-
     Who formed the mountains and filled the oceans?
     Our god alone, our god alone
@@ -95,7 +224,7 @@
     Alleluia
   artist: The Brilliance
 - song: All the Poor and Powerless
-  enabled: true
+  enabled: false
   lyrics: |-
     All the poor and powerless and all the lost and lonely
     All the thieves will come confess and know that You are ho – ly
@@ -357,39 +486,6 @@
     Jesus paid it all, All to Him I owe;
     Sin had left a crimson stain, He washed it white as snow.
   artist: Kristian Stanfill
-- song: Holy, Holy, Holy
-  enabled: false
-  lyrics: |-
-    Holy, holy, holy! Lord God Almighty!
-    Early in the morning
-    our song shall rise to thee
-    There is a sign at the sight of theee,
-    Merciful and mighty
-    God in three Persons,
-    God in three Persons,
-    Blessed Trinity
-
-    Holy, holy, holy!
-    Though the darkness hide thee,
-    Though the eye of sinful man
-    Thy glory may not see;
-    Only Thou art holy;
-    There is none beside thee,
-    Perfect in power
-    Perfect in power
-    In love, and purity
-
-    Holy, holy, holy! Lord God Almighty!
-    All thy works shall praise thy Name, in
-    Earth, and sky, and sea
-    There is a sign at the sight of theee,
-    There is none beside thee,
-    God in three Persons,
-    God in three Persons,
-    God in three Persons,
-    God in three Persons,
-    Blessed Trinity
-  artist: Hymn
 - song: Canons
   enabled: false
   lyrics: |-
