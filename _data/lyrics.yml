@@ -1,5 +1,132 @@
-- song: How Deep the Father's Love for Us
+- song: Come Thou Fount
   enabled: true
+  lyrics: |-
+    Come thou fount of every blessing
+    Tune my heart to sing thy grace
+    Streams of mercy never ceasing
+    Call for songs of loudest praise
+    Teach me some melodious sonnet
+    Sung by flaming tongues above
+    I'll praise the mount I'm fixed upon it
+    Mount of thy redeeming love
+
+    Here I raise my Ebenezer
+    Hither by thy help I come
+    And I hope by thy good pleasure
+    Safely to arrive at home
+
+    Jesus sought me when a stranger
+    Wondering from the fold of God
+    He, to rescue me from danger
+    Interposed His precious blood
+
+    O to grace how great a debtor daily
+    I'm constrained to be!
+    Let thy goodness like a fetter,
+    bind my wandering heart to thee
+    Prone to wander Lord I feel it,
+    prone to leave the God I love
+    Here's my heart, O take and seal it,
+    seal it for thy courts above
+  artist: Chris Tomlin
+- song: Constant
+  enabled: true
+  lyrics: |-
+    Just like the sunshine
+    You have been our light
+    Leading us into beautiful places
+    We've walked through fire
+    But You made us brighter
+    Leading us into beautiful places
+
+    Faithful Jesus, healing savior
+    Compass, center, bread of life
+    Faithful Jesus, cherished treasure
+    Our portion, wisdom God's great light
+
+    And just like the starlight
+    You shine in the black night
+    Leading us into beautiful places
+    And just like the atmosphere
+    You've come to surround us here
+    Leading us into beautiful places
+
+    Faithful Jesus, healing savior
+    Compass, center, bread of life
+    Faithful Jesus, cherished treasure
+    Our portion, wisdom God's great light
+
+    God You are here with us
+    Constantly here with us
+    You are our everything
+    Faithful and true
+
+    God You are here with us
+    Constantly here with us
+    You are our everything
+    Faithful and true
+
+    Faithful Jesus, healing savior
+    Compass, center, bread of life
+    Faithful Jesus, cherished treasure
+    Our portion, wisdom God's great light
+  artist: Charlie Hall
+- song: House of God, Forever
+  enabled: true
+  lyrics: |-
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+
+    He makes me rest
+    In fields of green
+    With quiet streams
+
+    Even though I walk
+    Through the valley
+    Of death and dying
+
+    I will not fear
+    Cause you are with me
+    You are with me
+
+    Your shepherd's staff
+    Comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness
+    Will follow me
+    Follow me
+    In the house of God forever
+  artist: Jon Foreman
+- song: Jesus Paid It All
+  enabled: true
+  lyrics: |-
+    I hear the Savior say, “Thy strength indeed is small;
+    Child of weakness, watch and pray. Find in Me thine all and all.”
+
+    Jesus paid it all, All to Him I owe;
+    Sin had left a crimson stain, He washed it white as snow.
+    Lord, now indeed I find Thy power and thine alone,
+    Can change the leper’s spots And melt this heart of stone.
+
+    Jesus paid it all, All to Him I owe;
+    Sin had left a crimson stain, He washed it white as snow.
+
+    And when, before the throne I stand in Him complete,
+    “Jesus died my soul to save,” My lips shall still repeat.
+
+    Jesus paid it all, All to Him I owe;
+    Sin had left a crimson stain, He washed it white as snow.
+
+    O praise the One who paid my debt
+    And raised this life up from the dead
+
+    Jesus paid it all, All to Him I owe;
+    Sin had left a crimson stain, He washed it white as snow.
+  artist: Kristian Stanfill
+- song: How Deep the Father's Love for Us
+  enabled: false
   lyrics: |-
     How deep the Father's love for us
     How vast beyond all measure
@@ -35,7 +162,7 @@
     His wounds have paid my ransom
   artist: Selah
 - song: Christ is Risen
-  enabled: true
+  enabled: false
   lyrics: |-
     Let no one caught in sin remain
     Inside the lie of inward shame
@@ -105,7 +232,7 @@
     Rise up from the grave
   artist: Matt Maher
 - song: Scandal of Grace
-  enabled: true
+  enabled: false
   lyrics: |-
     Grace, what have you done?
     Murdered for me on that cross
@@ -153,7 +280,7 @@
     Forever the hope in my heart
   artist: Joel Houston and Matt Crocker
 - song: Called Me Higher
-  enabled: true
+  enabled: false
   lyrics: |-
     I could just sit, I could just sit and wait for all Your goodness
     Hope to feel Your presence
@@ -450,37 +577,6 @@
     We will cry out hallelujah
     We will sing out hallelujah, God
   artist: All Sons and Daughters
-- song: Come Thou Fount
-  enabled: false
-  lyrics: |-
-    Come thou fount of every blessing
-    Tune my heart to sing thy grace
-    Streams of mercy never ceasing
-    Call for songs of loudest praise
-    Teach me some melodious sonnet
-    Sung by flaming tongues above
-    I'll praise the mount I'm fixed upon it
-    Mount of thy redeeming love
-
-    Here I raise my Ebenezer
-    Hither by thy help I come
-    And I hope by thy good pleasure
-    Safely to arrive at home
-
-    Jesus sought me when a stranger
-    Wondering from the fold of God
-    He, to rescue me from danger
-    Interposed His precious blood
-
-    O to grace how great a debtor daily
-    I'm constrained to be!
-    Let thy goodness like a fetter,
-    bind my wandering heart to thee
-    Prone to wander Lord I feel it,
-    prone to leave the God I love
-    Here's my heart, O take and seal it,
-    seal it for thy courts above
-  artist: Chris Tomlin
 - song: Brokenness Aside
   enabled: false
   lyrics: |-
@@ -625,32 +721,6 @@
 
     There are ten thousand charms; There are ten thousand charms
   artist: Fernando Ortega
-- song: Jesus Paid It All
-  enabled: false
-  lyrics: |-
-    I hear the Savior say, “Thy strength indeed is small;
-    Child of weakness, watch and pray. Find in Me thine all and all.”
-
-    Jesus paid it all, All to Him I owe;
-    Sin had left a crimson stain, He washed it white as snow.
-    Lord, now indeed I find Thy power and thine alone,
-    Can change the leper’s spots And melt this heart of stone.
-
-    Jesus paid it all, All to Him I owe;
-    Sin had left a crimson stain, He washed it white as snow.
-
-    And when, before the throne I stand in Him complete,
-    “Jesus died my soul to save,” My lips shall still repeat.
-
-    Jesus paid it all, All to Him I owe;
-    Sin had left a crimson stain, He washed it white as snow.
-
-    O praise the One who paid my debt
-    And raised this life up from the dead
-
-    Jesus paid it all, All to Him I owe;
-    Sin had left a crimson stain, He washed it white as snow.
-  artist: Kristian Stanfill
 - song: Canons
   enabled: false
   lyrics: |-
