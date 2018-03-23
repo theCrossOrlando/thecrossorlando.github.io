@@ -8,6 +8,6 @@ summary: 'Jesus came to bring the life of God back into the world, outside the g
   The life of God is robust, and does not end and is given freely to his people in
   the world. '
 excerpt: ''
-duration: ''
-length: ''
+duration: '31:46'
+length: 15319755
 ---
