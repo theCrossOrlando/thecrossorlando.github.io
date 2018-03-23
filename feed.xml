@@ -27,7 +27,7 @@ layout: null
     <itunes:summary>{{ site.description }}</itunes:summary>
     <itunes:author>{{ site.podcast_author }}</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="{{ site.url }}/assets/logo.png"/>
+    <itunes:image href="http://crosssermons.cflcn.org/logo.png"/>
     <itunes:owner>
       <itunes:name>{{ site.podcast_author }}</itunes:name>
       <itunes:email>{{ site.podcast_email }}</itunes:email>
@@ -37,7 +37,7 @@ layout: null
     <itunes:subtitle>{{ site.description }}</itunes:subtitle>
     <image>
       <title>{{ site.title }}</title>
-      <url>{{ site.url }}/assets/logo.png</url>
+      <url>http://crosssermons.cflcn.org/logo.png</url>
       <link>{{ site.url }}</link>
     </image>
     <itunes:category text="News &amp; Politics">
@@ -67,7 +67,7 @@ layout: null
           <![CDATA[{{ ep.summary | expand_urls: site.url | cdata_escape }}]]>
         </itunes:summary>
         <itunes:author>{{ site.podcast_author }}</itunes:author>
-        <itunes:image href="{{ site.url }}/assets/logo.png"/>
+        <itunes:image href="http://crosssermons.cflcn.org/logo.png"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:duration>{{ ep.duration }}</itunes:duration>
       </item>
