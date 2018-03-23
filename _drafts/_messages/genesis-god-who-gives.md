@@ -2,6 +2,10 @@
 layout: message
 permalink: "/messages/:year/:month/:day/"
 title: 'Genesis: God Who Gives'
-date: 2018-03-23 00:00:00 +0000
-file: http://crosssermons.cflcn.org/
+date: 2017-10-29 10:00:01 -0400
+file: http://crosssermons.cflcn.org/2017-10-29-genesis--god-who-gives.m4a
+length: 17325857
+duration: '35:50'
+excerpt: ''
+summary: ''
 ---
