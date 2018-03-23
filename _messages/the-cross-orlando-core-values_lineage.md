@@ -7,6 +7,6 @@ file: http://crosssermons.cflcn.org/2017-08-27-lineage.m4a
 excerpt: ''
 summary: 'We value Lineage because it''s important to remember that as we follow Jesus,
   we take our place in a long line of folks who''ve done the same. '
-duration: ''
-length: ''
+duration: '34:40'
+length: 16708717
 ---
