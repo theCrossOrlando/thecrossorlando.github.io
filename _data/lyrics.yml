@@ -1,5 +1,146 @@
-- song: Canons
+- song: Oh Our Lord
   enabled: true
+  lyrics: |-
+    Oh oh oh Our Lord
+    Oh oh oh Our Lord
+    How majestic is Your name in all the earth
+
+    We behold the rising sun
+    The earth awakes, Your hope is come
+    We look to You, we long for You, Oh Lord
+
+    We behold the breaking dawn
+    The light that shines over everyone
+    We look to You, we long for You, oh Lord
+
+    Oh oh oh Our Lord
+    Oh oh oh Our Lord
+    How majestic is Your name in all the earth
+
+    We behold the fallen rain
+    Like waters rise, come flood this place
+    We reach for You, we cling to You, oh Lord
+
+    Oh oh oh Our Lord
+    Oh oh oh Our Lord
+    How majestic is Your name in all the earth
+
+    Oh Your name is a light in the darkness
+    Oh Your name is the word of truth
+    Oh Your name, Oh Your name
+
+    Oh oh oh Our Lord
+    Oh oh oh Our Lord
+    How majestic is Your name in all the earth
+  artist: David Leonard and Leslie Jordan
+- song: Before the Throne of God Above
+  enabled: true
+  lyrics: |-
+    Before the throne of God above I have a strong and perfect plea,
+    A great High Priest whose name is “Love,” whoever lives and pleads for me.
+    My name is gra–ven on His hands, My name is wri–tten on His heart;
+    I know that while in heav’n He stands no tongue can bid me thence de – part,
+    No tongue can bid me thence de – part.
+
+    When Satan tempts me to despair, and tells me of the guilt within,
+    Upward I look and see Him there Who made an end to all my sin.
+    Because the sin–less Savior died, my sinful soul is counted free;
+    For God, the Just, is satisfied to look on Him and par – don me,
+    To look on Him and par – don me.
+
+    Behold Him there, the risen Lamb, my perfect, spotless Righteousness,
+    The great unchang – a – ble I Am, the King of glory and of grace!
+    One with Himself I cannot die, My soul is pur–chased by His blood;
+    My life is hid with Christ on high, with Christ, my Savior and my God,
+    With Christ my savior and my God.
+  artist: Charite Bancroft and Vikki Cook
+- song: Brokenness Aside
+  enabled: true
+  lyrics: |-
+    Will your grace run out
+    If I let you down
+    'Cause all I know
+    Is how to run
+
+    'Cause I am a sinner
+    If it's not one thing it's another
+    Caught up in words
+    Tangled in lies
+    But You are a Savior
+    And You take brokenness aside
+    And make it beautiful
+    Beautiful
+
+    Will You call me child
+    When I tell you lies
+    'Cause all I know
+    Is how to cry
+
+    'Cause I am a sinner
+    If it's not one thing it's another
+    Caught up in words
+    Tangled in lies
+    But You are a Savior
+    And You take brokenness aside
+    And make it beautiful
+    Beautiful
+
+    You make it beautiful
+    You make it beautiful
+
+    You make it beautiful
+    You make it beautiful
+
+    'Cause I am a sinner
+    If it's not one thing it's another
+    Caught up in words
+    Tangled in lies
+    But You are a Savior
+    And You take brokenness aside
+    And make it beautiful
+    Beautiful, oh yeah
+  artist: David Leonard and Leslie Jordan
+- song: Amazing Grace (My Chains Are Gone)
+  enabled: true
+  lyrics: |-
+    Amazing grace
+    How sweet the sound
+    That saved a wretch like me
+    I once was lost, but now I'm found
+    Was blind, but now I see
+
+    'Twas grace that taught my heart to fear
+    And grace my fears relieved
+    How precious did that grace appear
+    The hour I first believed
+
+    My chains are gone
+    I've been set free
+    My God, my Savior has ransomed me
+    And like a flood His mercy reigns
+    Unending love, amazing grace
+
+    The Lord has promised good to me
+    His word my hope secures
+    He will my shield and portion be
+    As long as life endures
+
+    [2x]
+    My chains are gone
+    I've been set free
+    My God, my Savior has ransomed me
+    And like a flood His mercy reigns
+    Unending love, amazing grace
+
+    The earth shall soon dissolve like snow
+    The sun forbear to shine
+    But God, Who called me here below,
+    Will be forever mine.
+    Will be forever mine.
+    You are forever mine.
+  artist: Hymn and Chris Tomlin
+- song: Canons
+  enabled: false
   lyrics: |-
     It's falling from the clouds
     A strange and lovely sound
@@ -25,7 +166,7 @@
     All glory, honor, power is Yours, forever Amen
   artist: Phil Wickham
 - song: This is My Father's World
-  enabled: true
+  enabled: false
   lyrics: |-
     This is My Father's World
     This is my father's world
@@ -58,7 +199,7 @@
     And earth and Heav’n be one.
   artist: Amy Grant
 - song: Our God Alone
-  enabled: true
+  enabled: false
   lyrics: |-
     Who formed the mountains and filled the oceans?
     Our god alone, our god alone
@@ -87,7 +228,7 @@
     Alleluia
   artist: The Brilliance
 - song: How Great Thou Art
-  enabled: true
+  enabled: false
   lyrics: |-
     O Lord my God! When I in awesome wonder
     Consider all the worlds Thy hands have made.
@@ -198,7 +339,7 @@
     Our portion, wisdom God's great light
   artist: Charlie Hall
 - song: House of God, Forever
-  enabled: true
+  enabled: false
   lyrics: |-
     God is my shepherd
     I won't be wanting
@@ -226,7 +367,7 @@
     In the house of God forever
   artist: Jon Foreman
 - song: Jesus Paid It All
-  enabled: true
+  enabled: false
   lyrics: |-
     I hear the Savior say, “Thy strength indeed is small;
     Child of weakness, watch and pray. Find in Me thine all and all.”
@@ -1102,42 +1243,3 @@
     For every moment
     Every moment
   artist: Michael W Smith
-- song: Amazing Grace (My Chains Are Gone)
-  enabled: false
-  lyrics: |-
-    Amazing grace
-    How sweet the sound
-    That saved a wretch like me
-    I once was lost, but now I'm found
-    Was blind, but now I see
-
-    'Twas grace that taught my heart to fear
-    And grace my fears relieved
-    How precious did that grace appear
-    The hour I first believed
-
-    My chains are gone
-    I've been set free
-    My God, my Savior has ransomed me
-    And like a flood His mercy reigns
-    Unending love, amazing grace
-
-    The Lord has promised good to me
-    His word my hope secures
-    He will my shield and portion be
-    As long as life endures
-
-    [2x]
-    My chains are gone
-    I've been set free
-    My God, my Savior has ransomed me
-    And like a flood His mercy reigns
-    Unending love, amazing grace
-
-    The earth shall soon dissolve like snow
-    The sun forbear to shine
-    But God, Who called me here below,
-    Will be forever mine.
-    Will be forever mine.
-    You are forever mine.
-  artist: Chris Tomlin
