@@ -40,10 +40,7 @@ layout: null
       <url>http://crosssermons.cflcn.org/logo.png</url>
       <link>{{ site.url }}</link>
     </image>
-    <itunes:category text="News &amp; Politics">
-      <itunes:category text="Religion &amp; Spirituality"/>
-      <itunes:category text="Christianity"/>
-    </itunes:category>
+    <itunes:category text="Religion &amp; Spirituality"/>
     {% for ep in site.messages %}
       <item>
         <title>{{ ep.title }}</title>
