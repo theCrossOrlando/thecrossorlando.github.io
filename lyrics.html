@@ -10,7 +10,7 @@ layout: default
   <div class="column">
     <article class="card">
       <h2>{{ lyric.song }}</h2>
-      <span class="author">by {{ lyric.artist }}</span>
+      {% if lyric.artist %}<span class="author">by {{ lyric.artist }}</span>{% endif %}
       <p>{{ lyric.lyrics | newline_to_br }}</p>
     </article>
   </div>
