@@ -1,5 +1,154 @@
-- song: The Apostles' Creed
+- song: Nicene Creed
   enabled: true
+  lyrics: |-
+    I believe in one God, the Father Almighty, Maker of heaven and earth, and of all things visible and invisible.
+
+    And in one Lord Jesus Christ, the only-begotten Son of God, begotten of the Father before all worlds; God of God, Light of Light, very God of very God; begotten, not made, being of one substance with the Father, by whom all things were made.
+
+    Who, for us men for our salvation, came down from heaven, and was incarnate by the Holy Spirit of the virgin Mary, and was made man; and was crucified also for us under Pontius Pilate; He suffered and was buried; and the third day He rose again, according to the Scriptures; and ascended into heaven, and sits on the right hand of the Father; and He shall come again, with glory, to judge the quick and the dead; whose kingdom shall have no end.
+
+    And I believe in the Holy Ghost, the Lord and Giver of Life; who proceeds from the Father [and the Son]; who with the Father and the Son together is worshipped and glorified; who spoke by the prophets.
+
+    And I believe one holy catholic and apostolic Church. I acknowledge one baptism for the remission of sins; and I look for the resurrection of the dead, and the life of the world to come. Amen.
+- song: Holy, Holy, Holy
+  enabled: true
+  lyrics: |-
+    Holy, holy, holy! Lord God Almighty!
+    Early in the morning
+    our song shall rise to thee
+    There is a sign at the sight of theee,
+    Merciful and mighty
+    God in three Persons,
+    God in three Persons,
+    Blessed Trinity
+
+    Holy, holy, holy!
+    Though the darkness hide thee,
+    Though the eye of sinful man
+    Thy glory may not see;
+    Only Thou art holy;
+    There is none beside thee,
+    Perfect in power
+    Perfect in power
+    In love, and purity
+
+    Holy, holy, holy! Lord God Almighty!
+    All thy works shall praise thy Name, in
+    Earth, and sky, and sea
+    There is a sign at the sight of theee,
+    There is none beside thee,
+    God in three Persons,
+    God in three Persons,
+    God in three Persons,
+    God in three Persons,
+    Blessed Trinity
+- song: A Mighty Fortress
+  enabled: true
+  lyrics: |-
+    A mighty fortress is our God
+    A bulwark never failing
+    Our helper He, amid the flood
+    Of mortal ills prevailing
+    For still our ancient foe doth seek to work us woe
+    His craft and power are great, and armed with cruel hate
+    On earth is not his e- qual
+
+    And though this world, with devils filled
+    should threaten to undo us
+    We will not fear, for God hath willed
+    His truth to triumph through us
+    The Prince of Darkness grim, we tremble not for him
+    His rage we can endure, for lo, his doom is sure
+    One little word shall fell him
+
+    That word above all earthly powers
+    No thanks to them, abi- deth
+    The Spirit and the gifts are ours
+    Through Him Who with us sid- eth
+    Let goods and kindred go, this mortal life also
+    The body they may kill: God’s truth abideth still
+    His kingdom is for – ev – er
+- song: Your Love Is Strong
+  enabled: true
+  lyrics: |-
+    Heavenly Father
+    You always amaze me
+    Let Your kingdom come in my world
+    And in my life
+
+    Give me the food I need to live through today
+    And forgive me as I forgive the people that wrong me
+
+    Lead me far from temptation
+    Deliver me from the evil one
+
+    I look out the window
+    The birds are composing
+    Not a note is out of tune
+    Or out of place
+
+    I walk to the meadow
+    And stare at the flowers
+    Better dressed than any girl
+    On her wedding day
+
+    So why should I worry?
+    Why do I freak out?
+    God knows what I need!
+    You know what I need!
+
+    Your love is strong
+
+    The Kingdom of the Heavens
+    Is now advancing
+    Invade my heart
+    Invade this broken town
+
+    The Kingdom of the Heavens
+    Is buried treasure
+    Would you sell yourself
+    To buy the one you've found?
+
+    Two things You told me
+    That You are strong
+    And You love me,
+    Yes You love me
+
+    Your love is strong
+
+    Our God in heaven
+    Hallowed be thy name above all names
+    Your kingdom come
+    Your will be done
+    On earth as it is in heaven
+    Give us, today, our daily bread
+    Forgive us weary sinners
+    Keep us far from our vices and
+    Deliver us from these prisons
+  artist: Jon Foreman
+- song: Before the Throne of God Above
+  enabled: true
+  lyrics: |-
+    Before the throne of God above I have a strong and perfect plea,
+    A great High Priest whose name is “Love,” whoever lives and pleads for me.
+    My name is gra–ven on His hands, My name is wri–tten on His heart;
+    I know that while in heav’n He stands no tongue can bid me thence de – part,
+    No tongue can bid me thence de – part.
+
+    When Satan tempts me to despair, and tells me of the guilt within,
+    Upward I look and see Him there Who made an end to all my sin.
+    Because the sin–less Savior died, my sinful soul is counted free;
+    For God, the Just, is satisfied to look on Him and par – don me,
+    To look on Him and par – don me.
+
+    Behold Him there, the risen Lamb, my perfect, spotless Righteousness,
+    The great unchang – a – ble I Am, the King of glory and of grace!
+    One with Himself I cannot die, My soul is pur–chased by His blood;
+    My life is hid with Christ on high, with Christ, my Savior and my God,
+    With Christ my savior and my God.
+  artist: Charite Bancroft and Vikki Cook
+- song: The Apostles' Creed
+  enabled: false
   lyrics: |-
     I believe in God the Father Almighty, Maker of heaven and earth.
 
@@ -7,7 +156,7 @@
 
     I believe in the Holy Ghost; the holy catholic Church; the communion of saints; the forgiveness of sins; the resurrection of the body; and the life everlasting. AMEN.
 - song: My Hope is Built on Nothing Less
-  enabled: true
+  enabled: false
   lyrics: |-
     My hope is built on nothing less
     Than Jesus’ blood and righteousness.
@@ -42,7 +191,7 @@
     All other ground is sinking sand.
   artist: Hymn
 - song: Heart Won't Stop
-  enabled: true
+  enabled: false
   lyrics: |-
     There is not a man or beast
     Nothing on the land or underneath
@@ -89,7 +238,7 @@
     Your heart won't stop, coming after, coming after me
   artist: John Mark McMillan
 - song: I Am Set Free
-  enabled: true
+  enabled: false
   lyrics: |-
     You broke my chains of sin and shame
     And You covered me with grace
@@ -128,7 +277,7 @@
     \'Cause You are the hand that reaches out to save
   artist: All Sons and Daughters
 - song: Come Ye Sinners
-  enabled: true
+  enabled: false
   lyrics: |-
     Come ye sinners, poor and needy; Weak and wounded, sick and sore
     Jesus ready stands to save you; Full of pity, love and power
@@ -434,27 +583,6 @@
     Oh oh oh Our Lord
     How majestic is Your name in all the earth
   artist: David Leonard and Leslie Jordan
-- song: Before the Throne of God Above
-  enabled: false
-  lyrics: |-
-    Before the throne of God above I have a strong and perfect plea,
-    A great High Priest whose name is “Love,” whoever lives and pleads for me.
-    My name is gra–ven on His hands, My name is wri–tten on His heart;
-    I know that while in heav’n He stands no tongue can bid me thence de – part,
-    No tongue can bid me thence de – part.
-
-    When Satan tempts me to despair, and tells me of the guilt within,
-    Upward I look and see Him there Who made an end to all my sin.
-    Because the sin–less Savior died, my sinful soul is counted free;
-    For God, the Just, is satisfied to look on Him and par – don me,
-    To look on Him and par – don me.
-
-    Behold Him there, the risen Lamb, my perfect, spotless Righteousness,
-    The great unchang – a – ble I Am, the King of glory and of grace!
-    One with Himself I cannot die, My soul is pur–chased by His blood;
-    My life is hid with Christ on high, with Christ, my Savior and my God,
-    With Christ my savior and my God.
-  artist: Charite Bancroft and Vikki Cook
 - song: Brokenness Aside
   enabled: false
   lyrics: |-
@@ -924,39 +1052,6 @@
     And I’ll go where You will lead me, Lord
     Where You lead me, Lord
   artist: All Sons and Daughters
-- song: Holy, Holy, Holy
-  enabled: false
-  lyrics: |-
-    Holy, holy, holy! Lord God Almighty!
-    Early in the morning
-    our song shall rise to thee
-    There is a sign at the sight of theee,
-    Merciful and mighty
-    God in three Persons,
-    God in three Persons,
-    Blessed Trinity
-
-    Holy, holy, holy!
-    Though the darkness hide thee,
-    Though the eye of sinful man
-    Thy glory may not see;
-    Only Thou art holy;
-    There is none beside thee,
-    Perfect in power
-    Perfect in power
-    In love, and purity
-
-    Holy, holy, holy! Lord God Almighty!
-    All thy works shall praise thy Name, in
-    Earth, and sky, and sea
-    There is a sign at the sight of theee,
-    There is none beside thee,
-    God in three Persons,
-    God in three Persons,
-    God in three Persons,
-    God in three Persons,
-    Blessed Trinity
-  artist: Hymn
 - song: Earnestly I Seek Thee
   enabled: false
   lyrics: |-
@@ -1481,64 +1576,6 @@
 
     You are…
   artist: Chris Tomlin
-- song: Your Love Is Strong
-  enabled: false
-  lyrics: |-
-    Heavenly Father
-    You always amaze me
-    Let Your kingdom come in my world
-    And in my life
-
-    Give me the food I need to live through today
-    And forgive me as I forgive the people that wrong me
-
-    Lead me far from temptation
-    Deliver me from the evil one
-
-    I look out the window
-    The birds are composing
-    Not a note is out of tune
-    Or out of place
-
-    I walk to the meadow
-    And stare at the flowers
-    Better dressed than any girl
-    On her wedding day
-
-    So why should I worry?
-    Why do I freak out?
-    God knows what I need!
-    You know what I need!
-
-    Your love is strong
-
-    The Kingdom of the Heavens
-    Is now advancing
-    Invade my heart
-    Invade this broken town
-
-    The Kingdom of the Heavens
-    Is buried treasure
-    Would you sell yourself
-    To buy the one you've found?
-
-    Two things You told me
-    That You are strong
-    And You love me,
-    Yes You love me
-
-    Your love is strong
-
-    Our God in heaven
-    Hallowed be thy name above all names
-    Your kingdom come
-    Your will be done
-    On earth as it is in heaven
-    Give us, today, our daily bread
-    Forgive us weary sinners
-    Keep us far from our vices and
-    Deliver us from these prisons
-  artist: Jon Foreman
 - song: Christ Be All Around Me
   enabled: false
   lyrics: |-
