@@ -1,5 +1,6 @@
 ---
 pages:
+- _messages/acts-2.md
 - _messages/we-gather-to-be-reminded-of-who-we-are.md
 - _messages/easter-sunday.md
 - _messages/genesis-22-psalm-43.md
@@ -35,6 +36,7 @@ pages:
 - _messages/2017-02-19.md
 - _messages/2017-02-26.md
 hide_body: false
+is_partial: false
 fields:
 - type: text
   name: title
