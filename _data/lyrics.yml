@@ -1,5 +1,171 @@
-- song: Nicene Creed
+- song: Yes You Have
   enabled: true
+  lyrics: |-
+    Every tree and every stone, every rushing wind that moans
+    They sing Your praise, my God, they sing Your praise
+    Every star and open sky tell of Your glory divine
+    They shout Your praise, they shout Your praise, yeah
+
+    You’ve stolen my heart, yes, You have!
+    You’ve stolen my heart, yes, You have!
+    You’ve wiped away the stains
+    And broke away the chains, yes, You have!
+
+    With Your love You set me free, three nails gave me liberty
+    So I’ll sing Your praise, my God, I’ll sing Your praise
+    Oh, with Your love You forgave my sin,
+    Forgot my past and brought me back again
+    So I’ll sing Your praise, I’ll sing Your praise, yeah
+
+    You’ve stolen my heart, yes, You have!
+    You’ve stolen my heart, yes, You have!
+    You’ve wiped away the stains
+    And broke away the chains, yes, You have!
+
+    If I ascend into the sky, or hide behind the night
+    I can not run Your love is chasing me if I fall into the sea
+    Your hand will rescue me, No one will take Your place
+    Because this is all for You
+    Yes, this is all for You
+    You’re the King of the world
+    You’re the King of the world
+
+    You’re the King of the world
+    You’re the King of the world
+    You’re the King of the world
+    You’re the King of the world
+
+    You’ve stolen my heart, yes, You have!
+    You’ve stolen my heart, yes, You have!
+    You’ve wiped away the stains
+    And broke away the chains, yes, You have!
+  artist: Leeland Mooring
+- song: Our God Alone
+  enabled: true
+  lyrics: |-
+    Who formed the mountains and filled the oceans?
+    Our god alone, our god alone
+    Who took the dust, breathed life in us?
+    Our god alone, our god alone
+
+    Alleluia
+
+    Who came from heaven for our redemption?
+    Our god alone, our god alone
+    Who died for sin that we may live?
+    Our god alone, our god alone
+
+    Alleluia
+
+    Who rose again? death could not win
+    Our god alone, our god alone
+    Who is returning bringing our kingdom?
+    Our god alone, our god alone
+
+    We will worship, we will worship
+    Our god alone, our god alone
+    We will worship, we will worship
+    Our god alone, our god alone
+
+    Alleluia
+  artist: The Brilliance
+- song: Scandal of Grace
+  enabled: true
+  lyrics: |-
+    Grace, what have you done?
+    Murdered for me on that cross
+    Accused in absence of wrong
+    My sin washed away in your blood
+
+    Too much to make sense of it all
+    I know that your love breaks my fall
+    The scandal of grace, you died in my place
+    So my soul will live
+
+    Oh to be like you
+    Give all I have just to know you
+    Jesus, there's no one besides you
+    Forever the hope in my heart
+
+    Death, where is your sting?
+    Your power is as dead as my sin
+    The cross has taught me to live
+    In mercy, my heart now to sing
+
+    The day and its trouble shall come
+    I know that your strength is enough
+    The scandal of grace, you died in my place
+    So my soul will live
+
+    Oh to be like you
+    Give all I have just to know you
+    Jesus, there's no one besides you
+    Forever the hope in my heart
+
+    Oh to be like you
+    Give all I have just to know you
+    Jesus, there's no one besides you
+    Forever the hope in my heart
+
+    And it's all because of you, Jesus
+    It's all because of you, Jesus
+    It's all because of your love
+    And my soul will live
+
+    Oh to be like you
+    Give all I have just to know you
+    Jesus, there's no one besides you
+    Forever the hope in my heart
+  artist: Joel Houston and Matt Crocker
+- song: Called Me Higher
+  enabled: true
+  lyrics: |-
+    I could just sit, I could just sit and wait for all Your goodness
+    Hope to feel Your presence
+    I could just stay, I could just stay right where I am and hope to feel You
+    Hope to feel something again
+
+    I could hold on, I could on to who I am and never let You
+    Change me from the inside
+    I could be safe, I could be safe here in Your arms and never leave home
+    Never let these walls down
+
+    But You have called me higher, You have called me deeper
+    And I’ll go where You will lead me, Lord
+    But You have called me higher, You have called me deeper
+    And I’ll go where You will lead me, Lord
+    Where You lead me
+
+    I could hold on, I could on to who I am and never let You
+    Change me from the inside
+    I could be safe, I could be safe here in Your arms and never leave home
+    Never let these walls down
+
+    But You have called me higher, You have called me deeper
+    And I’ll go where You will lead me, Lord
+    But You have called me higher, You have called me deeper
+    And I’ll go where You will lead me, Lord
+    Where You lead me, Lord
+
+    And I will be Yours; I will be Yours for all my life
+    And I will be Yours; I will be Yours for all my life
+    And I will be Yours; I will be Yours for all my life, so let Your mercy
+    And I will be Yours; I will be Yours for all my life
+    So let Your mercy light the path before me
+
+    But You have called me higher, You have called me deeper
+    And I’ll go where You will lead me, Lord
+    But You have called me higher, You have called me deeper
+    And I’ll go where You will lead me, Lord
+
+    But You have called me higher, You have called me deeper
+    And I’ll go where You will lead me, Lord
+    But You have called me higher, You have called me deeper
+    And I’ll go where You will lead me, Lord
+    Where You lead me, Lord
+  artist: All Sons and Daughters
+- song: Nicene Creed
+  enabled: false
   lyrics: |-
     I believe in one God, the Father Almighty, Maker of heaven and earth, and of all things visible and invisible.
 
@@ -11,7 +177,7 @@
 
     And I believe one holy catholic and apostolic Church. I acknowledge one baptism for the remission of sins; and I look for the resurrection of the dead, and the life of the world to come. Amen.
 - song: Holy, Holy, Holy
-  enabled: true
+  enabled: false
   lyrics: |-
     Holy, holy, holy! Lord God Almighty!
     Early in the morning
@@ -43,7 +209,7 @@
     God in three Persons,
     Blessed Trinity
 - song: A Mighty Fortress
-  enabled: true
+  enabled: false
   lyrics: |-
     A mighty fortress is our God
     A bulwark never failing
@@ -69,7 +235,7 @@
     The body they may kill: God’s truth abideth still
     His kingdom is for – ev – er
 - song: Your Love Is Strong
-  enabled: true
+  enabled: false
   lyrics: |-
     Heavenly Father
     You always amaze me
@@ -127,7 +293,7 @@
     Deliver us from these prisons
   artist: Jon Foreman
 - song: Before the Throne of God Above
-  enabled: true
+  enabled: false
   lyrics: |-
     Before the throne of God above I have a strong and perfect plea,
     A great High Priest whose name is “Love,” whoever lives and pleads for me.
@@ -727,35 +893,6 @@
     Jesus who died shall be satisfied,
     And earth and Heav’n be one.
   artist: Amy Grant
-- song: Our God Alone
-  enabled: false
-  lyrics: |-
-    Who formed the mountains and filled the oceans?
-    Our god alone, our god alone
-    Who took the dust, breathed life in us?
-    Our god alone, our god alone
-
-    Alleluia
-
-    Who came from heaven for our redemption?
-    Our god alone, our god alone
-    Who died for sin that we may live?
-    Our god alone, our god alone
-
-    Alleluia
-
-    Who rose again? death could not win
-    Our god alone, our god alone
-    Who is returning bringing our kingdom?
-    Our god alone, our god alone
-
-    We will worship, we will worship
-    Our god alone, our god alone
-    We will worship, we will worship
-    Our god alone, our god alone
-
-    Alleluia
-  artist: The Brilliance
 - song: How Great Thou Art
   enabled: false
   lyrics: |-
@@ -957,101 +1094,6 @@
     But this I know with all my heart
     His wounds have paid my ransom
   artist: Selah
-- song: Scandal of Grace
-  enabled: false
-  lyrics: |-
-    Grace, what have you done?
-    Murdered for me on that cross
-    Accused in absence of wrong
-    My sin washed away in your blood
-
-    Too much to make sense of it all
-    I know that your love breaks my fall
-    The scandal of grace, you died in my place
-    So my soul will live
-
-    Oh to be like you
-    Give all I have just to know you
-    Jesus, there's no one besides you
-    Forever the hope in my heart
-
-    Death, where is your sting?
-    Your power is as dead as my sin
-    The cross has taught me to live
-    In mercy, my heart now to sing
-
-    The day and its trouble shall come
-    I know that your strength is enough
-    The scandal of grace, you died in my place
-    So my soul will live
-
-    Oh to be like you
-    Give all I have just to know you
-    Jesus, there's no one besides you
-    Forever the hope in my heart
-
-    Oh to be like you
-    Give all I have just to know you
-    Jesus, there's no one besides you
-    Forever the hope in my heart
-
-    And it's all because of you, Jesus
-    It's all because of you, Jesus
-    It's all because of your love
-    And my soul will live
-
-    Oh to be like you
-    Give all I have just to know you
-    Jesus, there's no one besides you
-    Forever the hope in my heart
-  artist: Joel Houston and Matt Crocker
-- song: Called Me Higher
-  enabled: false
-  lyrics: |-
-    I could just sit, I could just sit and wait for all Your goodness
-    Hope to feel Your presence
-    I could just stay, I could just stay right where I am and hope to feel You
-    Hope to feel something again
-
-    I could hold on, I could on to who I am and never let You
-    Change me from the inside
-    I could be safe, I could be safe here in Your arms and never leave home
-    Never let these walls down
-
-    But You have called me higher, You have called me deeper
-    And I’ll go where You will lead me, Lord
-    But You have called me higher, You have called me deeper
-    And I’ll go where You will lead me, Lord
-    Where You lead me
-
-    I could hold on, I could on to who I am and never let You
-    Change me from the inside
-    I could be safe, I could be safe here in Your arms and never leave home
-    Never let these walls down
-
-    But You have called me higher, You have called me deeper
-    And I’ll go where You will lead me, Lord
-    But You have called me higher, You have called me deeper
-    And I’ll go where You will lead me, Lord
-    Where You lead me, Lord
-
-    And I will be Yours; I will be Yours for all my life
-    And I will be Yours; I will be Yours for all my life
-    And I will be Yours; I will be Yours for all my life, so let Your mercy
-    And I will be Yours; I will be Yours for all my life
-    So let Your mercy light the path before me
-
-    But You have called me higher, You have called me deeper
-    And I’ll go where You will lead me, Lord
-    But You have called me higher, You have called me deeper
-    And I’ll go where You will lead me, Lord
-
-    But You have called me higher, You have called me deeper
-    And I’ll go where You will lead me, Lord
-    But You have called me higher, You have called me deeper
-    And I’ll go where You will lead me, Lord
-    Where You lead me, Lord
-  artist: All Sons and Daughters
 - song: Earnestly I Seek Thee
   enabled: false
   lyrics: |-
