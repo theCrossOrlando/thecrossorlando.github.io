@@ -50,7 +50,7 @@ fields:
   label: Date
   type: datetime
   hidden: false
-  default: 2018-04-29 10:50:47 -0400
+  default: 2018-04-29 10:00:49 -0400
   config:
     required: true
 - name: file
