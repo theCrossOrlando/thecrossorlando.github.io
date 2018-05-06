@@ -1,5 +1,165 @@
-- song: Yes You Have
+- song: How Deep the Father's Love for Us
   enabled: true
+  lyrics: |-
+    How deep the Father's love for us
+    How vast beyond all measure
+    That He would give His only Son
+    To make a wretch His treasure
+    How great the pain of searing loss
+    The Father turns His face away
+    As wounds which mar the chosen One
+    Bring many sons to glory
+
+    Behold the Man upon a cross
+    My guilt upon His shoulders
+    Ashamed, I hear my mocking voice
+    Call out among the scoffers
+    It was my sin that held Him there
+    Until it was accomplished
+    His dying breath has brought me life
+    I know that it is finished
+
+    I will not boast in anything
+    No gifts, no powr's, no wisdom
+    But I will boast in Jesus Christ
+    His death and resurrection
+    Why should I gain from His  reward?
+    I cannot give an answer
+    But this I know with all my heart
+    His wounds have paid my ransom
+    Why should I gain from His reward?
+    I cannot give an answer
+    But this I know with all my heart
+    His wounds have paid my ransom
+    But this I know with all my heart
+    His wounds have paid my ransom
+- song: Here Is Love
+  enabled: true
+  lyrics: |-
+    Here is love, vast as the ocean
+    Loving-kindness as the flood
+    When the Prince of Life, our ransom
+    Shed for us His precious blood
+
+    Who His love will not remember?
+    Who can cease to sing His praise?
+    He can never be forgotten
+    Throughout heaven's eternal days
+
+    On the mount of crucifixion
+    Fountains open deep and wide
+    Through the floodgates of God's mercy
+    Flowed a vast and gracious tide
+
+    Grace and love, like mighty rivers
+    Poured incessant from above.
+    Heaven's peace and perfect justice
+    Kissed a guilty world in love
+    Heaven's peace and perfect justice
+    Kissed a guilty world in love
+
+    Here is love, vast as the ocean
+    Loving-kindness as the flood
+    When the Prince of Life, our ransom
+    Shed for us His precious blood
+
+    Who His love will not remember?
+    Who can cease to sing His praise?
+    He can never be forgotten
+    Throughout heaven's eternal days
+
+    Grace and love, like mighty rivers
+    Poured incessant from above.
+    Heaven's peace and perfect justice
+    Kissed a guilty world in love
+    Heaven's peace and perfect justice
+    Kissed a guilty world in love
+- song: God With Us
+  enabled: true
+  lyrics: |-
+    You've come
+    To bring peace
+    To be love
+    To be nearer to us
+
+    You've come
+    To bring life
+    To be light
+    To shine brighter in us
+    Oh Emmanuel
+    God with us
+
+    Our Deliverer
+    You are Savior
+    In Your presence we find our strength
+
+    Over everything
+    Our redemption
+    God with us
+    You are God with us
+
+    You've come
+    To be hope
+    To this world
+    For Your honor and name
+
+    You've come
+    To take sin
+    To bear shame
+    And to conquer the grave
+    Oh Emmanuel
+    God with us
+
+    Our Deliverer
+    You are Savior
+    In Your presence we find our strength
+
+    Over everything
+    Our redemption
+    God with us
+    You are God with us
+
+    You are here and
+    You are holy
+    We are standing
+    In Your glory (Lord)
+
+    Our Deliverer
+    You are Savior
+    In Your presence we find our strength
+
+    Over everything
+    Our redemption
+    God with us
+    You are God with us
+  artist: Jason Ingram and Leslie Jordan
+- song: Jesus Paid It All
+  enabled: true
+  lyrics: |-
+    I hear the Savior say, “Thy strength indeed is small;
+    Child of weakness, watch and pray. Find in Me thine all and all.”
+
+    Jesus paid it all, All to Him I owe;
+    Sin had left a crimson stain, He washed it white as snow.
+    Lord, now indeed I find Thy power and thine alone,
+    Can change the leper’s spots And melt this heart of stone.
+
+    Jesus paid it all, All to Him I owe;
+    Sin had left a crimson stain, He washed it white as snow.
+
+    And when, before the throne I stand in Him complete,
+    “Jesus died my soul to save,” My lips shall still repeat.
+
+    Jesus paid it all, All to Him I owe;
+    Sin had left a crimson stain, He washed it white as snow.
+
+    O praise the One who paid my debt
+    And raised this life up from the dead
+
+    Jesus paid it all, All to Him I owe;
+    Sin had left a crimson stain, He washed it white as snow.
+- song: Yes You Have
+  enabled: false
   lyrics: |-
     Every tree and every stone, every rushing wind that moans
     They sing Your praise, my God, they sing Your praise
@@ -41,7 +201,7 @@
     And broke away the chains, yes, You have!
   artist: Leeland Mooring
 - song: Our God Alone
-  enabled: true
+  enabled: false
   lyrics: |-
     Who formed the mountains and filled the oceans?
     Our god alone, our god alone
@@ -70,7 +230,7 @@
     Alleluia
   artist: The Brilliance
 - song: Scandal of Grace
-  enabled: true
+  enabled: false
   lyrics: |-
     Grace, what have you done?
     Murdered for me on that cross
@@ -118,7 +278,7 @@
     Forever the hope in my heart
   artist: Joel Houston and Matt Crocker
 - song: Called Me Higher
-  enabled: true
+  enabled: false
   lyrics: |-
     I could just sit, I could just sit and wait for all Your goodness
     Hope to feel Your presence
@@ -1032,68 +1192,6 @@
     Follow me
     In the house of God forever
   artist: Jon Foreman
-- song: Jesus Paid It All
-  enabled: false
-  lyrics: |-
-    I hear the Savior say, “Thy strength indeed is small;
-    Child of weakness, watch and pray. Find in Me thine all and all.”
-
-    Jesus paid it all, All to Him I owe;
-    Sin had left a crimson stain, He washed it white as snow.
-    Lord, now indeed I find Thy power and thine alone,
-    Can change the leper’s spots And melt this heart of stone.
-
-    Jesus paid it all, All to Him I owe;
-    Sin had left a crimson stain, He washed it white as snow.
-
-    And when, before the throne I stand in Him complete,
-    “Jesus died my soul to save,” My lips shall still repeat.
-
-    Jesus paid it all, All to Him I owe;
-    Sin had left a crimson stain, He washed it white as snow.
-
-    O praise the One who paid my debt
-    And raised this life up from the dead
-
-    Jesus paid it all, All to Him I owe;
-    Sin had left a crimson stain, He washed it white as snow.
-  artist: Kristian Stanfill
-- song: How Deep the Father's Love for Us
-  enabled: false
-  lyrics: |-
-    How deep the Father's love for us
-    How vast beyond all measure
-    That He would give His only Son
-    To make a wretch His treasure
-    How great the pain of searing loss
-    The Father turns His face away
-    As wounds which mar the chosen One
-    Bring many sons to glory
-
-    Behold the Man upon a cross
-    My guilt upon His shoulders
-    Ashamed, I hear my mocking voice
-    Call out among the scoffers
-    It was my sin that held Him there
-    Until it was accomplished
-    His dying breath has brought me life
-    I know that it is finished
-
-    I will not boast in anything
-    No gifts, no powr's, no wisdom
-    But I will boast in Jesus Christ
-    His death and resurrection
-    Why should I gain from His  reward?
-    I cannot give an answer
-    But this I know with all my heart
-    His wounds have paid my ransom
-    Why should I gain from His reward?
-    I cannot give an answer
-    But this I know with all my heart
-    His wounds have paid my ransom
-    But this I know with all my heart
-    His wounds have paid my ransom
-  artist: Selah
 - song: Earnestly I Seek Thee
   enabled: false
   lyrics: |-
@@ -1359,48 +1457,6 @@
     Grace that will pardon and cleanse within!
     Grace, grace, God's grace
     Grace that is greater than all our sin!
-- song: Here Is Love
-  enabled: false
-  lyrics: |-
-    Here is love, vast as the ocean
-    Loving-kindness as the flood
-    When the Prince of Life, our ransom
-    Shed for us His precious blood
-
-    Who His love will not remember?
-    Who can cease to sing His praise?
-    He can never be forgotten
-    Throughout heaven's eternal days
-
-    On the mount of crucifixion
-    Fountains open deep and wide
-    Through the floodgates of God's mercy
-    Flowed a vast and gracious tide
-
-    Grace and love, like mighty rivers
-    Poured incessant from above.
-    Heaven's peace and perfect justice
-    Kissed a guilty world in love
-    Heaven's peace and perfect justice
-    Kissed a guilty world in love
-
-    Here is love, vast as the ocean
-    Loving-kindness as the flood
-    When the Prince of Life, our ransom
-    Shed for us His precious blood
-
-    Who His love will not remember?
-    Who can cease to sing His praise?
-    He can never be forgotten
-    Throughout heaven's eternal days
-
-    Grace and love, like mighty rivers
-    Poured incessant from above.
-    Heaven's peace and perfect justice
-    Kissed a guilty world in love
-    Heaven's peace and perfect justice
-    Kissed a guilty world in love
-  artist: Matt Redman
 - song: Come, Ye Sinners
   enabled: false
   lyrics: |-
