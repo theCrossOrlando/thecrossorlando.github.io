@@ -1970,7 +1970,7 @@
     Nothing but the blood of Jesus.
   song: Nothing But The Blood
 - artist: Horatio G. Spafford
-  enabled: false
+  enabled: true
   lyrics: |-
     When peace, like a river, attendeth my way,
     When sorrows like sea billows roll;
