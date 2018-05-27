@@ -1,552 +1,74 @@
-- song: Oh Our Lord
+---
+- artist: Francis of Assisi
   enabled: true
   lyrics: |-
-    Oh oh oh Our Lord
-    Oh oh oh Our Lord
-    How majestic is Your name in all the earth
+    All creatures of our God and King
+    Lift up your voice and with us sing,
 
-    We behold the rising sun
-    The earth awakes, Your hope is come
-    We look to You, we long for You, Oh Lord
+    Alleluia! Alleluia!
 
-    We behold the breaking dawn
-    The light that shines over everyone
-    We look to You, we long for You, oh Lord
+    Thou burning sun with golden beam,
+    Thou silver moon with softer gleam!
 
-    Oh oh oh Our Lord
-    Oh oh oh Our Lord
-    How majestic is Your name in all the earth
+    O praise Him! O praise Him!
+    Alleluia! Alleluia! Alleluia!
 
-    We behold the fallen rain
-    Like waters rise, come flood this place
-    We reach for You, we cling to You, oh Lord
+    Thou rushing wind that art so strong
+    Ye clouds that sail in Heaven along,
+    O praise Him! Alleluia!
 
-    Oh oh oh Our Lord
-    Oh oh oh Our Lord
-    How majestic is Your name in all the earth
+    Thou rising moon, in praise rejoice,
+    Ye lights of evening, find a voice!
 
-    Oh Your name is a light in the darkness
-    Oh Your name is the word of truth
-    Oh Your name, Oh Your name
+    O praise Him! O praise Him!
+    Alleluia! Alleluia! Alleluia!
 
-    Oh oh oh Our Lord
-    Oh oh oh Our Lord
-    How majestic is Your name in all the earth
-  artist: David Leonard and Leslie Jordan
-- song: This is my Father's World
+    Let all things their Creator bless,
+    And worship Him in humbleness,
+    O praise Him! Alleluia!
+
+    Praise, praise the Father, praise the Son,
+    And praise the Spirit, Three in One!
+
+    O praise Him! O praise Him!
+    Alleluia! Alleluia!  Alleluia!
+  song: All Creatures of Our God and King
+- artist: John Mark McMillan
   enabled: true
   lyrics: |-
-    This is my Father's World
-    This is my father's world
-    And to my listening ears
-    All nature sings, and round me rings
-    The music of the spheres
+    [Verse 1]
+    You hold the reigns on the sun and the moon
+    Like horses driven by kings
+    You cover the mountains, the valleys below
+    With the breadth of Your mighty wings
 
-    This is my father's world
-    I rest me in the thought
-    Of rocks and trees, of skies and seas
-    His hand the wonders wrought
-
-    This is my father's world
-    Dreaming, I see His face
-    Open my eyes, and in glad surprise
-    Cry "The Lord is in this place"
-
-    This is my father's world
-    From the shining courts above
-    The beloved One, His only Son
-    Came a pledge of deathless love
-
-    This is my Father’s world
-    Oh, let me ne’er forget
-    That though the wrong seems oft so strong,
-    God is the ruler yet.
-    This is my Father’s world,
-    The battle is not done
-    Jesus who died shall be satisfied,
-    And earth and Heav’n be one.
-  artist: Maltbie D Babcock
-- song: Be Thou My Vision
-  enabled: true
-  lyrics: |-
-    Be Thou my vision, O Lord of my heart
-    Naught be all else to me, save that Thou art
-    Thou my best thought by day or by night
-    Waking or sleeping, Thy presence my light
-
-    Be Thou my wisdom and Thou my true Word
-    I ever with Thee and Thou with me Lord
-    Thou my great Father, and I Thy true son
-    Thou in me dwelling, and I with Thee one
-
-    Riches I heed not, nor man’s empty praise
-    Thou mine inheritance, now and always
-    Thou and Thou only, first in my heart
-    High King of heaven, my Treasure Thou art
-
-    High King of Heaven, my victory won
-    May I reach Heaven’s joys, O bright Heaven’s sun
-    Heart of my own heart, whatever befall
-    Still be my Vision, O Ruler of all
-    Still be my Vision, O Ruler of all
-  artist: Hymn
-- song: 10,000 Reasons (Bless the Lord)
-  enabled: true
-  lyrics: |-
-    [Chorus]
-    Bless the Lord, O my soul
-    O my soul
-    Worship His holy name
-    Sing like never before
-    O my soul
-    I'll worship Your holy name
-
-    The sun comes up, it's a new day dawning
-    It's time to sing Your song again
-    Whatever may pass, and whatever lies before me
-    Let me be singing when the evening comes
+    [Pre-Chorus]
+    All treasures of wisdom
+    And things to be known
+    Are hidden inside Your hand
+    And in this fortunate turn of events
+    You ask me to be Your friend
+    Ask me to be Your friend
 
     [Chorus]
-    Bless the Lord, O my soul
-    O my soul
-    Worship His holy name
-    Sing like never before
-    O my soul
-    I'll worship Your holy name
-
-    You're rich in love, and You're slow to anger
-    Your name is great, and Your heart is kind
-    For all Your goodness I will keep on singing
-    Ten thousand reasons for my heart to find
-
-    [Chorus]
-    Bless the Lord, O my soul
-    O my soul
-    Worship His holy name
-    Sing like never before
-    O my soul
-    I'll worship Your holy name
-
-    And on that day when my strength is failing
-    The end draws near and my time has come
-    Still my soul will sing Your praise unending
-    Ten thousand years and then forevermore
-
-    [Chorus x2]
-    Bless the Lord, O my soul
-    O my soul
-    Worship His holy name
-    Sing like never before
-    O my soul
-    I'll worship Your holy name
-
-    Jesus, I'll worship Your holy name
-    Lord, I'll worship Your holy name
-
-    Sing like never before
-    O my soul
-    I'll worship Your holy name
-    Jesus, I'll worship Your holy name
-    I'll worship Your holy name
-  artist: Matt Redman
-- song: How Deep the Father's Love for Us
-  enabled: false
-  lyrics: |-
-    How deep the Father's love for us
-    How vast beyond all measure
-    That He would give His only Son
-    To make a wretch His treasure
-    How great the pain of searing loss
-    The Father turns His face away
-    As wounds which mar the chosen One
-    Bring many sons to glory
-
-    Behold the Man upon a cross
-    My guilt upon His shoulders
-    Ashamed, I hear my mocking voice
-    Call out among the scoffers
-    It was my sin that held Him there
-    Until it was accomplished
-    His dying breath has brought me life
-    I know that it is finished
-
-    I will not boast in anything
-    No gifts, no powr's, no wisdom
-    But I will boast in Jesus Christ
-    His death and resurrection
-    Why should I gain from His  reward?
-    I cannot give an answer
-    But this I know with all my heart
-    His wounds have paid my ransom
-    Why should I gain from His reward?
-    I cannot give an answer
-    But this I know with all my heart
-    His wounds have paid my ransom
-    But this I know with all my heart
-    His wounds have paid my ransom
-- song: Here Is Love
-  enabled: false
-  lyrics: |-
-    Here is love, vast as the ocean
-    Loving-kindness as the flood
-    When the Prince of Life, our ransom
-    Shed for us His precious blood
-
-    Who His love will not remember?
-    Who can cease to sing His praise?
-    He can never be forgotten
-    Throughout heaven's eternal days
-
-    On the mount of crucifixion
-    Fountains open deep and wide
-    Through the floodgates of God's mercy
-    Flowed a vast and gracious tide
-
-    Grace and love, like mighty rivers
-    Poured incessant from above.
-    Heaven's peace and perfect justice
-    Kissed a guilty world in love
-    Heaven's peace and perfect justice
-    Kissed a guilty world in love
-
-    Here is love, vast as the ocean
-    Loving-kindness as the flood
-    When the Prince of Life, our ransom
-    Shed for us His precious blood
-
-    Who His love will not remember?
-    Who can cease to sing His praise?
-    He can never be forgotten
-    Throughout heaven's eternal days
-
-    Grace and love, like mighty rivers
-    Poured incessant from above.
-    Heaven's peace and perfect justice
-    Kissed a guilty world in love
-    Heaven's peace and perfect justice
-    Kissed a guilty world in love
-- song: God With Us
-  enabled: false
-  lyrics: |-
-    You've come
-    To bring peace
-    To be love
-    To be nearer to us
-
-    You've come
-    To bring life
-    To be light
-    To shine brighter in us
-    Oh Emmanuel
-    God with us
-
-    Our Deliverer
-    You are Savior
-    In Your presence we find our strength
-
-    Over everything
-    Our redemption
-    God with us
-    You are God with us
-
-    You've come
-    To be hope
-    To this world
-    For Your honor and name
-
-    You've come
-    To take sin
-    To bear shame
-    And to conquer the grave
-    Oh Emmanuel
-    God with us
-
-    Our Deliverer
-    You are Savior
-    In Your presence we find our strength
-
-    Over everything
-    Our redemption
-    God with us
-    You are God with us
-
-    You are here and
-    You are holy
-    We are standing
-    In Your glory (Lord)
-
-    Our Deliverer
-    You are Savior
-    In Your presence we find our strength
-
-    Over everything
-    Our redemption
-    God with us
-    You are God with us
-  artist: Jason Ingram and Leslie Jordan
-- song: Jesus Paid It All
-  enabled: false
-  lyrics: |-
-    I hear the Savior say, “Thy strength indeed is small;
-    Child of weakness, watch and pray. Find in Me thine all and all.”
-
-    Jesus paid it all, All to Him I owe;
-    Sin had left a crimson stain, He washed it white as snow.
-    Lord, now indeed I find Thy power and thine alone,
-    Can change the leper’s spots And melt this heart of stone.
-
-    Jesus paid it all, All to Him I owe;
-    Sin had left a crimson stain, He washed it white as snow.
-
-    And when, before the throne I stand in Him complete,
-    “Jesus died my soul to save,” My lips shall still repeat.
-
-    Jesus paid it all, All to Him I owe;
-    Sin had left a crimson stain, He washed it white as snow.
-
-    O praise the One who paid my debt
-    And raised this life up from the dead
-
-    Jesus paid it all, All to Him I owe;
-    Sin had left a crimson stain, He washed it white as snow.
-- song: Yes You Have
-  enabled: false
-  lyrics: |-
-    Every tree and every stone, every rushing wind that moans
-    They sing Your praise, my God, they sing Your praise
-    Every star and open sky tell of Your glory divine
-    They shout Your praise, they shout Your praise, yeah
-
-    You’ve stolen my heart, yes, You have!
-    You’ve stolen my heart, yes, You have!
-    You’ve wiped away the stains
-    And broke away the chains, yes, You have!
-
-    With Your love You set me free, three nails gave me liberty
-    So I’ll sing Your praise, my God, I’ll sing Your praise
-    Oh, with Your love You forgave my sin,
-    Forgot my past and brought me back again
-    So I’ll sing Your praise, I’ll sing Your praise, yeah
-
-    You’ve stolen my heart, yes, You have!
-    You’ve stolen my heart, yes, You have!
-    You’ve wiped away the stains
-    And broke away the chains, yes, You have!
-
-    If I ascend into the sky, or hide behind the night
-    I can not run Your love is chasing me if I fall into the sea
-    Your hand will rescue me, No one will take Your place
-    Because this is all for You
-    Yes, this is all for You
-    You’re the King of the world
-    You’re the King of the world
-
-    You’re the King of the world
-    You’re the King of the world
-    You’re the King of the world
-    You’re the King of the world
-
-    You’ve stolen my heart, yes, You have!
-    You’ve stolen my heart, yes, You have!
-    You’ve wiped away the stains
-    And broke away the chains, yes, You have!
-  artist: Leeland Mooring
-- song: Our God Alone
-  enabled: false
-  lyrics: |-
-    Who formed the mountains and filled the oceans?
-    Our god alone, our god alone
-    Who took the dust, breathed life in us?
-    Our god alone, our god alone
-
-    Alleluia
-
-    Who came from heaven for our redemption?
-    Our god alone, our god alone
-    Who died for sin that we may live?
-    Our god alone, our god alone
-
-    Alleluia
-
-    Who rose again? death could not win
-    Our god alone, our god alone
-    Who is returning bringing our kingdom?
-    Our god alone, our god alone
-
-    We will worship, we will worship
-    Our god alone, our god alone
-    We will worship, we will worship
-    Our god alone, our god alone
-
-    Alleluia
-  artist: The Brilliance
-- song: Scandal of Grace
-  enabled: false
-  lyrics: |-
-    Grace, what have you done?
-    Murdered for me on that cross
-    Accused in absence of wrong
-    My sin washed away in your blood
-
-    Too much to make sense of it all
-    I know that your love breaks my fall
-    The scandal of grace, you died in my place
-    So my soul will live
-
-    Oh to be like you
-    Give all I have just to know you
-    Jesus, there's no one besides you
-    Forever the hope in my heart
-
-    Death, where is your sting?
-    Your power is as dead as my sin
-    The cross has taught me to live
-    In mercy, my heart now to sing
-
-    The day and its trouble shall come
-    I know that your strength is enough
-    The scandal of grace, you died in my place
-    So my soul will live
-
-    Oh to be like you
-    Give all I have just to know you
-    Jesus, there's no one besides you
-    Forever the hope in my heart
-
-    Oh to be like you
-    Give all I have just to know you
-    Jesus, there's no one besides you
-    Forever the hope in my heart
-
-    And it's all because of you, Jesus
-    It's all because of you, Jesus
-    It's all because of your love
-    And my soul will live
-
-    Oh to be like you
-    Give all I have just to know you
-    Jesus, there's no one besides you
-    Forever the hope in my heart
-  artist: Joel Houston and Matt Crocker
-- song: Called Me Higher
-  enabled: false
-  lyrics: |-
-    I could just sit, I could just sit and wait for all Your goodness
-    Hope to feel Your presence
-    I could just stay, I could just stay right where I am and hope to feel You
-    Hope to feel something again
-
-    I could hold on, I could on to who I am and never let You
-    Change me from the inside
-    I could be safe, I could be safe here in Your arms and never leave home
-    Never let these walls down
-
-    But You have called me higher, You have called me deeper
-    And I’ll go where You will lead me, Lord
-    But You have called me higher, You have called me deeper
-    And I’ll go where You will lead me, Lord
-    Where You lead me
-
-    I could hold on, I could on to who I am and never let You
-    Change me from the inside
-    I could be safe, I could be safe here in Your arms and never leave home
-    Never let these walls down
-
-    But You have called me higher, You have called me deeper
-    And I’ll go where You will lead me, Lord
-    But You have called me higher, You have called me deeper
-    And I’ll go where You will lead me, Lord
-    Where You lead me, Lord
-
-    And I will be Yours; I will be Yours for all my life
-    And I will be Yours; I will be Yours for all my life
-    And I will be Yours; I will be Yours for all my life, so let Your mercy
-    And I will be Yours; I will be Yours for all my life
-    So let Your mercy light the path before me
-
-    But You have called me higher, You have called me deeper
-    And I’ll go where You will lead me, Lord
-    But You have called me higher, You have called me deeper
-    And I’ll go where You will lead me, Lord
-
-    But You have called me higher, You have called me deeper
-    And I’ll go where You will lead me, Lord
-    But You have called me higher, You have called me deeper
-    And I’ll go where You will lead me, Lord
-    Where You lead me, Lord
-  artist: All Sons and Daughters
-- song: Nicene Creed
-  enabled: false
-  lyrics: |-
-    I believe in one God, the Father Almighty, Maker of heaven and earth, and of all things visible and invisible.
-
-    And in one Lord Jesus Christ, the only-begotten Son of God, begotten of the Father before all worlds; God of God, Light of Light, very God of very God; begotten, not made, being of one substance with the Father, by whom all things were made.
-
-    Who, for us men for our salvation, came down from heaven, and was incarnate by the Holy Spirit of the virgin Mary, and was made man; and was crucified also for us under Pontius Pilate; He suffered and was buried; and the third day He rose again, according to the Scriptures; and ascended into heaven, and sits on the right hand of the Father; and He shall come again, with glory, to judge the quick and the dead; whose kingdom shall have no end.
-
-    And I believe in the Holy Ghost, the Lord and Giver of Life; who proceeds from the Father [and the Son]; who with the Father and the Son together is worshipped and glorified; who spoke by the prophets.
-
-    And I believe one holy catholic and apostolic Church. I acknowledge one baptism for the remission of sins; and I look for the resurrection of the dead, and the life of the world to come. Amen.
-- song: Holy, Holy, Holy
-  enabled: false
-  lyrics: |-
-    Holy, holy, holy! Lord God Almighty!
-    Early in the morning
-    our song shall rise to thee
-    There is a sign at the sight of theee,
-    Merciful and mighty
-    God in three Persons,
-    God in three Persons,
-    Blessed Trinity
-
-    Holy, holy, holy!
-    Though the darkness hide thee,
-    Though the eye of sinful man
-    Thy glory may not see;
-    Only Thou art holy;
-    There is none beside thee,
-    Perfect in power
-    Perfect in power
-    In love, and purity
-
-    Holy, holy, holy! Lord God Almighty!
-    All thy works shall praise thy Name, in
-    Earth, and sky, and sea
-    There is a sign at the sight of theee,
-    There is none beside thee,
-    God in three Persons,
-    God in three Persons,
-    God in three Persons,
-    God in three Persons,
-    Blessed Trinity
-- song: A Mighty Fortress
-  enabled: false
-  lyrics: |-
-    A mighty fortress is our God
-    A bulwark never failing
-    Our helper He, amid the flood
-    Of mortal ills prevailing
-    For still our ancient foe doth seek to work us woe
-    His craft and power are great, and armed with cruel hate
-    On earth is not his e- qual
-
-    And though this world, with devils filled
-    should threaten to undo us
-    We will not fear, for God hath willed
-    His truth to triumph through us
-    The Prince of Darkness grim, we tremble not for him
-    His rage we can endure, for lo, his doom is sure
-    One little word shall fell him
-
-    That word above all earthly powers
-    No thanks to them, abi- deth
-    The Spirit and the gifts are ours
-    Through Him Who with us sid- eth
-    Let goods and kindred go, this mortal life also
-    The body they may kill: God’s truth abideth still
-    His kingdom is for – ev – er
-- song: Your Love Is Strong
-  enabled: false
+    And You
+    You are my first
+    You are my last
+    You are my future and my past
+
+    Yeah You
+    You are my first
+    You are my last
+    You are my future and my past
+
+    [Verse 3]
+    The constellations are swimming inside
+    The breadth of Your desire
+    So where could I run, where could I hide
+    From Your heart’s jealous fire?
+  song: Future/Past
+- artist: Jon Foreman
+  enabled: true
   lyrics: |-
     Heavenly Father
     You always amaze me
@@ -588,7 +110,7 @@
 
     Two things You told me
     That You are strong
-    And You love me,
+    And You love me
     Yes You love me
 
     Your love is strong
@@ -602,432 +124,1483 @@
     Forgive us weary sinners
     Keep us far from our vices and
     Deliver us from these prisons
-  artist: Jon Foreman
-- song: Before the Throne of God Above
+  song: Your Love is Strong
+- artist: Casting Crowns
+  enabled: true
+  lyrics: |-
+    'Tis so sweet to trust in Jesus,
+    Just to take Him at His Word
+    Just to rest upon His promise,
+    Just to know, "Thus saith the Lord!"
+
+    Jesus, Jesus, how I trust Him!
+    How I've proved Him o'er and o'er
+    Jesus, Jesus, precious Jesus!
+    Oh, for grace to trust Him more!
+
+    I'm so glad I learned to trust Him,
+    Precious Jesus, Savior, Friend
+    And I know that He is with me,
+    Will be with me to the end.
+
+    Oh, how sweet to trust in Jesus,
+    Just to trust His cleansing blood
+    And in simple faith to plunge me
+    'Neath the healing, cleansing flood!
+
+    Yes, 'tis sweet to trust in Jesus,
+    Just from sin and self to cease
+    Just from Jesus simply taking
+    Life and rest, and joy and peace.
+  song: "'Tis So Sweet to Trust in Jesus"
+- artist: Hymn
   enabled: false
   lyrics: |-
-    Before the throne of God above I have a strong and perfect plea,
-    A great High Priest whose name is “Love,” whoever lives and pleads for me.
-    My name is gra–ven on His hands, My name is wri–tten on His heart;
-    I know that while in heav’n He stands no tongue can bid me thence de – part,
-    No tongue can bid me thence de – part.
+    Oh Lord my God
+    When I in awesome wonder
+    Consider all the worlds
+    Thy hands have made
+    I see the stars
+    I hear the rolling thunder
+    Thy power throughout
+    The universe displayed
 
-    When Satan tempts me to despair, and tells me of the guilt within,
-    Upward I look and see Him there Who made an end to all my sin.
-    Because the sin–less Savior died, my sinful soul is counted free;
-    For God, the Just, is satisfied to look on Him and par – don me,
-    To look on Him and par – don me.
+    Then sings my soul
+    My Savior, God, to Thee
+    How great thou art
+    How great thou art
+    Then sings my soul
+    My Savior, God, to Thee
+    How great Thou art
+    How great Thou art
 
-    Behold Him there, the risen Lamb, my perfect, spotless Righteousness,
-    The great unchang – a – ble I Am, the King of glory and of grace!
-    One with Himself I cannot die, My soul is pur–chased by His blood;
-    My life is hid with Christ on high, with Christ, my Savior and my God,
-    With Christ my savior and my God.
-  artist: Charite Bancroft and Vikki Cook
-- song: The Apostles' Creed
+    And when I think of God,
+    His son not sparing,
+    Sent Him to die,
+    I scarce can take it in;
+    That on the cross, my burden
+    gladly bearing He bled and died
+    to take away my sin
+
+    Then sings my soul
+    My Savior, God, to Thee
+    How great thou art
+    How great thou art
+    Then sings my soul
+    My Savior, God, to Thee
+    How great Thou art
+    How great Thou art
+
+    When Christ shall come
+    With shout of acclamation
+    And take me home
+    What joy shall fill my heart
+    Then I shall bow
+    With humble adoration
+    And then proclaim My God
+    How great Thou art
+
+    Then sings my soul
+    My Savior, God, to Thee
+    How great Thou art
+    How great Thou art
+    Then sings my soul
+    My Savior, God, to Thee
+    How great Thou art
+    How great Thou art
+
+    How great Thou art
+    How great Thou art
+  song: How Great Thou Art
+- artist: John Mark McMillan & Sarah McMillan
   enabled: false
   lyrics: |-
-    I believe in God the Father Almighty, Maker of heaven and earth.
-
-    And in Jesus Christ his only Son our Lord; who was conceived by the Holy Ghost, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, dead, and buried; he descended into hell; the third day he rose again from the dead; he ascended into heaven, and sitteth on the right hand of God the Father Almighty; from thence he shall come to judge the quick and the dead.
-
-    I believe in the Holy Ghost; the holy catholic Church; the communion of saints; the forgiveness of sins; the resurrection of the body; and the life everlasting. AMEN.
-- song: My Hope is Built on Nothing Less
-  enabled: false
-  lyrics: |-
-    My hope is built on nothing less
-    Than Jesus’ blood and righteousness.
-    I dare not trust the sweetest frame,
-    But wholly lean on Jesus’ Name.
-
-    When darkness veils His lovely face,
-    I rest in His unchanging grace.
-    In every high and stormy gale,
-    My anchor holds within the veil.
-
-    On Christ the solid Rock I stand,
-    All other ground is sinking sand;
-    All other ground is sinking sand.
-
-    His oath, His covenant, His blood,
-    Support me in the whelming flood.
-    When all around my soul gives way,
-    He then is all my Hope and Stay.
-
-    On Christ the solid Rock I stand,
-    All other ground is sinking sand;
-    All other ground is sinking sand.
-
-    When He shall call with trumpet sound,
-    O may I then in Him be found.
-    Dressed in His Righteousness alone,
-    Faultless to stand before the throne.
-
-    On Christ the solid Rock I stand,
-    All other ground is sinking sand;
-    All other ground is sinking sand.
-  artist: Hymn
-- song: Heart Won't Stop
-  enabled: false
-  lyrics: |-
+    [Verse 1]
     There is not a man or beast
     Nothing on the land or underneath
     Oh nothing that could ever come between
     The love You have for me
 
+    [Pre-Chorus]
     I could lay my head in sheol
     I could make my bed
     At the bottom of darkness deep
     Oh but there is not a place I could escape You
 
+    [Chorus]
     Your heart won't stop, coming after me
     Your heart won't stop, coming after me
     Your heart won't stop, coming after me
     Coming after me
 
+    [Verse 2]
     There is not an angel of the stars
     There is not a devil in the dark
     Oh nothing that could change the way You are
     The love You have for me
 
+    [Pre-Chorus]
     I could lay my head in sheol
     I could make my bed
     At the bottom of darkness deep
     Oh but there is not a place I could escape You
-
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after me
-    Coming after me
-
-    I could lay my head; in sheol
-    And I could make my bed
-    At the bottom of the darkness deep
-    Oh but there is not a place I could escape You
-
-    I could lay my head; in sheol
-    And I could make my bed
-    At the bottom of the darkness deep
-    Oh but there is not a place I could escape You
-
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after, coming after me
-  artist: John Mark McMillan
-- song: I Am Set Free
+  song: Heart Won't Stop
+- artist: Matt Redman
+  enabled: false
+  lyrics: "Even though I walk through the valley of the shadow of death\nYour perfect
+    love is casting out fear\nAnd even when I'm caught in the middle of the storms
+    of this life\nI won't turn back\nI know You are near\n\nAnd I will fear no evil\nFor
+    my God is with me\nAnd if my God is with me\nWhom then shall I fear?\nWhom then
+    shall I fear?\n\nChorus:\nOh no, You never let go\nThrough the calm and through
+    the storm\nOh no, You never let go\nIn every high and every low\nOh no, You never
+    let go\nLord, You never let go of me\n\nAnd I can see a light that is coming for
+    the heart that holds on\nA glorious light beyond all compare\nAnd there will be
+    an end to these troubles\nBut until that day comes\nWe'll live to know You here
+    on the earth\n\nChorus:\n\nYes, I can see a light that is coming for the heart
+    that holds on\nAnd there will be an end to these troubles \nBut until that day
+    comes\nStill I will praise You, still I will praise You\n\nChorus: (2x's)"
+  song: You Never Let Go
+- artist: Matt Redman
   enabled: false
   lyrics: |-
-    You broke my chains of sin and shame
-    And You covered me with grace
-    And You mend my life with Your holy fire
-    You cover me with grace
+    Bless the Lord O my soul
+    O my soul
+    Worship His Holy name
+    Sing like never before
+    O my soul
+    I’ll worship Your Holy name
 
-    And You are the hand that reaches out to save
+    The sun comes up
+    It’s a new day dawning
+    It’s time to sing Your song again
+    Whatever may pass
+    And whatever lies before me
+    Let me be singing
+    When the evening comes
 
-    And I am set free, oh oh oh
-    I am set free, oh oh oh
-    It is for freedom that I am set free
+    You’re rich in love
+    And You’re slow to anger
+    Your name is great
+    And Your heart is kind
+    For all Your goodness
+    I will keep on singing
 
-    You broke my chains of sin and shame
-    And You covered me with grace
-    And You mend my life with Your holy fire
-    You cover me with grace
+    Ten thousand reasons
+    For my heart to find
 
-    And You are the hand that reaches out to save
+    And on that day
+    When my strength is failing
+    The end draws near
+    And my time has come
+    Still my soul will
+    Sing Your praise unending
 
-    And I am set free, oh oh oh
-    I am set free, oh oh oh
-    It is for freedom that I am set free
-    [x2]
-
-    And yes Lord
-    We are grateful
-    For Your grace
-    And for Your love
-
-    Yes Lord
-    We are grateful
-    For Your grace
-    And for Your love
-    [x3]
-
-    \'Cause You are the hand that reaches out to save
-  artist: All Sons and Daughters
-- song: Come Ye Sinners
+    Ten thousand years
+    And then forevermore
+  song: 10,000 Reasons
+- artist: Young Oceans
   enabled: false
   lyrics: |-
-    Come ye sinners, poor and needy; Weak and wounded, sick and sore
-    Jesus ready stands to save you; Full of pity, love and power
+    Hasten now, O loving Lord to us
+    We’re thirsty
+    Fill these souls, Spirit, every hour
+    We need Thee
 
-    Come ye thirsty, come and welcome; God's free bounty glorify
-    True belief and true repentance; Every grace that brings you nigh
+    Refrain
 
-    I will arise and go to Jesus; He will embrace me in His arms
-    And in the arms of my great Savior, there are ten thousand charms
+    Come, come Holy One
+    Come meet us
+    All, all for Your glory
+    Lord Jesus
 
-    Come ye weary, heavy laden; Lost and ruined by the fall
-    If you tarry until you're better, you will never come at all
+    Lead us on, the perfect path O Lord And may we
+    Sin no more. This
+    spotless bride, the Church
+    Is Yours
 
-    I will arise and go to Jesus; He will embrace me in His arms
-    And in the arms of my great Savior, there are ten thousand charms
-
-    I will arise and go to Jesus; He will embrace me in His arms
-    And in the arms of my great Savior, there are ten thousand charms
-
-    I will arise and go to Jesus; He will embrace me in His arms
-    And in the arms of my great Savior, there are ten thousand charms
-    There are ten thousand charms; There are ten thousand charms
-  artist: Joseph Hart
-- song: Nothing but the Blood of Jesus
+    I am yours, only yours
+    I am yours, only yours
+    We are yours, only yours
+    We are yours, only yours
+  song: Come Holy One
+- artist: Sufjan Stevens
   enabled: false
   lyrics: |-
-    What can wash away my sin?
-    Nothing but the blood of Jesus
-    What can make me whole again?
-    Nothing but the blood of Jesus
+    O come, O come, Emmanuel
+    And ransom captive Israel
+    That mourns in lonely exile here
+    Until the Son of God appear
+    Rejoice! Rejoice! Rejoice!
+    Rejoice! Rejoice! Rejoice!
 
-    What can wash away my sin?
-    Nothing but the blood of Jesus
-    What can make me whole again?
-    Nothing but the blood of Jesus
+    O come, Thou Day-Spring, come and cheer
+    Our spirits by Thine advent here
+    Disperse the gloomy clouds of night
+    And death's dark shadows put to flight.
+    Rejoice! Rejoice! Rejoice!
+    Emmanuel
+    And ransom captive Israel
+    Rejoice! Rejoice! Rejoice!
+    Rejoice! Rejoice! Rejoice!
 
-    How precious is the flow
-    That makes me white as snow
-    No other fount I know
-    Nothing but the blood of Jesus
-
-    Nothing can for sin atone
-    Nothing but the blood of Jesus
-    Naught of good that I have done
-    Nothing but the blood of Jesus
-
-    How precious is the flow
-    That makes me white as snow
-    No other fount I know
-    Nothing but the blood of Jesus
-
-    This is all my hope and peace
-    This is all my righteousness
-
-    This is all my hope and peace
-    Nothing but the blood of Jesus
-    This is all my righteousness
-    Nothing buy the blood of Jesus
-
-    How precious is the flow
-    That makes me white as snow
-    No other fount I know
-    Nothing but the blood of Jesus
-
-    How precious is the flow
-    That makes me white as snow
-    No other fount I know
-    Nothing but the blood of Jesus
-  artist: Hymn
-- song: Ain't No Grave
+    O come, O come, Thou Lord of might,
+    Who to Thy tribes, on Sinai's height,
+    In ancient times did'st give the Law,
+    In cloud, and majesty and awe.
+    Rejoice! Rejoice! Rejoice!
+    Rejoice! Rejoice! Rejoice!
+  song: O Come, O Come Emmanuel
+- artist: Hillsong UNITED
   enabled: false
   lyrics: |-
-    There ain't no grave can hold my body down
-    There ain't no grave can hold my body down
+    [Verse 1]
+    Grace, what have You done?
+    Murdered for me on that cross
+    Accused in absence of wrong
+    My sin washed away in Your blood
 
-    When I hear that trumpet sound I'm gonna rise right out of the ground
-    Ain't no grave can hold my body down
+    [Pre-Chorus 1]
+    Too much to make sense of it all
+    I know that Your love breaks my fall
+    The scandal of grace, You died in my place
+    So my soul will live
 
-    Well, look way down the river, what do you think I see?
-    I see a band of angels and they're coming after me
+    [Chorus]
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
 
-    Ain't no grave can hold my body down
-    There ain't no grave can hold my body down
+    [Verse 2]
+    Death, where is your sting?
+    Your power is as dead as my sin
+    The cross has taught me to live
+    And mercy, my heart now to sing
 
-    Well, look down yonder Gabriel, put your feet on the land and see
-    But Gabriel don't you blow your trumpet 'til you hear it from me
+    [Pre-Chorus 2]
+    The day and its trouble shall come
+    I know that Your strength is enough
+    The scandal of grace, You died in my place
+    So my soul will live
 
-    There ain't no grave can hold my body down
-    Ain't no grave can hold my body down
+    [Chorus]
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
 
-    Well, meet me Jesus, meet me. Meet me in the middle of the air
-    And if these wings don't fail me I will meet you anywhere
+    [Bridge]
+    And it's all, because of You, Jesus
+    It's all, because of You, Jesus
+    It's all, because of Your love
+    That my soul will live
 
-    Ain't no grave can hold my body down
-    There ain't no grave can hold my body down
-
-    Well, meet me mother and father, meet me down the river road
-    And momma you know that I'll be there when I check in my load
-
-    Ain't no grave can hold my body down
-    There ain't no grave can hold my body down
-  artist: Johnny Cash
-- song: Death in His Grave
-  lyrics: |-
-    Though the earth cried out for blood
-    Satisfied her hunger was
-    Billows calmed on raging seas
-    For the souls of men she craved
-
-    Sun and moon from balcony
-    Turned their head in disbelief
-    Precious love would taste the sting
-    Disfigured and disdained
-
-    On Friday a thief
-    On Sunday a king
-    Laid down in grief
-    But woke with the keys
-
-    Of hell on that day
-    First born of the slain
-    The man Jesus Christ laid
-    Death in his grave
-
-    So three days in darkness slept
-    The morning sun of righteousness
-    But rose to shame the throes of death
-    And overturn his rule
-
-    Now daughters and the sons of men
-    Would pay not their dues again
-    The debt of blood they owed was rent
-    When the day rolled anew
-
-    On Friday a thief
-    On Sunday a king
-    Laid down in grief
-    But woke holding keys
-
-    To hell on that day
-    The first born of the slain
-    The man Jesus Christ laid
-    Death in his grave
-
-    On Friday a thief
-    On Sunday a king
-    Laid down in grief
-    But woke with the keys
-
-    Of hell on that day
-    First born of the slain
-    The man Jesus Christ laid
-    Death in his grave
-
-    He has cheated hell
-    And seated us above the fall
-    In desperate places he paid our wages
-    One time, once and for all
-  artist: John Mark McMillan
-- song: All Things New
+    [Chorus]
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+  song: Scandal of Grace
+- artist: Joseph Mohr
   enabled: false
   lyrics: |-
-    Come broken and weary
-    Come battered and bruised
-    My Jesus makes all things new
-    All things new
+    Silent night, holy night
+    All is calm, All is bright
+    Round yon Virgin, Mother and Child
+    Holy Infant so Tender and mild,
+    Sleep in heavenly peace,
+    Sleep in heavenly peace.
 
-    Come lost and abandoned
-    Come blown by the wind
-    He'll bring you back home again
-    Home again
+    Silent night, holy night
+    Shepherds quake at the sight,
+    Glories stream from heaven afar,
+    Heavenly hosts sing Alleluia
+    Christ the Saviour is born!
+    Christ the saviour is born.
 
-    Rise up, oh you sleeper, awake, (Rise up, oh you sleeper.)
-    The light of the dawn is upon you
-    Rise up, oh you sleeper, awake, (Rise up, oh you sleeper.)
-    He makes all things new
-    All things new
-
-    Come frozen with shame
-    Come burning with guilt
-    My Jesus, he loves you still
-    He loves you still
-
-    So, rise up, oh you sleeper, awake, (Rise up, oh you sleeper.)
-    The light of the dawn is upon you
-    Rise up, oh you sleeper, awake, (Rise up, oh you sleeper.)
-    He makes all things new
-    He makes all things new
-
-    The world was good, the world is fallen
-    The world will be redeemed
-    The world was good, the world is fallen
-    The world will be redeemed
-
-    So hold on to the promise
-    The stories are true that Jesus makes all things new
-
-    (The dawn is upon you.)
-    Rise up, oh you sleeper, awake, (Rise up, oh you sleeper.)
-    The light of the dawn is upon you
-    Rise up, oh you sleeper, awake, (Rise up, oh you sleeper.)
-    He makes all things new
-
-    Rise up, oh you sleeper, awake, (Rise up, oh you sleeper.)
-    The light of the dawn is upon you
-    Rise up, oh you sleeper, awake, (Rise up, oh you sleeper.)
-    He makes all things new
-    He makes all things new
-
-    All things new. (All things new.)
-    All things new. (All things new.)
-    He makes all things new
-  artist: Andrew Peterson
-- song: Christ is Risen
+    Silent night, holy night
+    Son of God, love's pure light
+    Radiant beams from Thy holy face
+    with the dawn of redeeming grace,
+    Jesus Lord at thy birth,
+    Jesus Lord at thy birth.
+  song: Silent Night
+- artist: ''
   enabled: false
   lyrics: |-
-    Let no one caught in sin remain
-    Inside the lie of inward shame
-    We fix our eyes upon the cross
-    And run to Him who showed great love
-    And bled for us
-    Freely You've bled for us
+    Angels we have heard on high
+    Sweetly singing o'er the plains
+    And the mountains in reply
+    Echoing their joyous strains
 
-    Christ is risen from the dead
-    Trampling over death by death
-    Come awake, come awake
-    Come and rise up from the grave
+    Gloria, in excelsis Deo
+    Gloria, in excelsis Deo
 
-    Christ is risen from the dead
-    We are one with Him again
-    Come awake, come awake
-    Come and rise up from the grave
+    Shepherds, why this jubilee?
+    Why your joyous strains prolong?
+    What the gladsome tidings be
+    Which inspire your heavenly song?
 
-    Beneath the weight of all our sin
-    You bowed to none but Heaven's will
-    No scheme of Hell, no scoffer's crown
-    No burden great can hold You down
-    In strength You reign
-    Forever let Your church proclaim
+    Gloria, in excelsis Deo
+    Gloria, in excelsis Deo
 
-    Christ is risen from the dead
-    Trampling over death by death
-    Come awake, come awake
-    Come and rise up from the grave
+    Come to Bethlehem and see
+    Him whose birth the angels sing,
+    Come, adore on bended knee,
+    Christ the Lord, the newborn King.
 
-    Christ is risen from the dead
-    We are one with Him again
-    Come awake, come awake
-    Come and rise up from the grave
-
-    O death, where is your sting?
-    O hell, where is your victory?
-    O church, come stand in the light
-    The glory of God has defeated the night
-
-    O death, where is your sting?
-    O hell, where is your victory?
-    O church, come stand in the light
-    Our God is not dead, He's alive, He's alive
-
-    Christ is risen from the dead
-    Trampling over death by death
-    Come awake, come awake
-    Come and rise up from the grave
-
-    Christ is risen from the dead
-    We are one with Him again
-    Come awake, come awake
-    Come and rise up from the grave
-  artist: Matt Maher
-- song: Brokenness Aside
+    Gloria, in excelsis Deo
+    Gloria, in excelsis Deo
+  song: Angels We Have Heard on High
+- artist: Andrew Peterson
   enabled: false
   lyrics: |-
+    While shepherds watched their flocks by night
+    All seated on the ground
+    The angel of the Lord came down
+    And glory shone around
+
+    "Fear not!" said he; for mighty dread
+    Had seized their troubled minds
+    "Glad tidings of great joy I bring
+    To you and all mankind
+
+    To you in David's house this day
+    Is born of David's line
+    The Savior who is Christ the Lord
+    And this shall be the sign:
+
+    The heavenly babe you there shall find
+    To human view displayed
+    All meanly wrapped in swaddling bands
+    And in a manger laid"
+
+    Hallelujah, Hallelujah
+    Hallelujah, Christ is born
+    Hallelujah, Hallelujah
+    Hallelujah, Christ is born
+
+    "All glory be to God on high
+    And to the earth be peace
+    Good will henceforth from God to man
+    Begin and never cease"
+
+    Hallelujah, Hallelujah
+    Hallelujah, Christ is born
+    Hallelujah, Hallelujah
+    Hallelujah, Christ is born
+  song: While Shepherds Watched Their Flocks
+- artist: ''
+  enabled: false
+  lyrics: "Joy to The world! the Lord is come\nLet earth receive her King\nLet ev'ry
+    heart prepare him room\nAnd heaven and nature sing\nAnd heaven and nature sing\nAnd
+    heaven and nature sing\n\nJoy to the world! the Savior reigns\nLet men their songs
+    employ\nWhile fields and floods, rocks, hills and plains\nRepeat the sounding
+    joy\nRepeat the sounding joy\nRepeat the sounding joy\n\nHe rules the world with
+    truth and grace\nAnd makes the nations prove The glories of His righteousness\nAnd
+    wonders of His love \nAnd wonders of His love \nAnd wonder wonders of His love"
+  song: Joy To The World
+- artist: Christmas Carol
+  enabled: false
+  lyrics: |-
+    [Verse 1]
+    Joy to the World, the Lord has come!
+    Let earth receive her King;
+    Let every heart prepare Him room,
+    And Heaven and nature sing,
+    And Heaven and nature sing,
+    And Heaven, and Heaven, and nature sing.
+
+    [Verse 2]
+    Joy to the World, the Savior reigns!
+    Let men their songs employ;
+    While fields and floods, rocks, hills and plains
+    Repeat the sounding joy,
+    Repeat the sounding joy,
+    Repeat, repeat, the sounding joy.
+
+    [Verse 3]
+    No more let sins and sorrows grow,
+    Nor thorns infest the ground;
+    He comes to make His blessings flow
+    Far as the curse is found,
+    Far as the curse is found,
+    Far as, far as, the curse is found.
+
+    [Verse 4]
+    He rules the world with truth and grace,
+    And makes the nations prove
+    The glories of His righteousness,
+    And wonders of His love,
+    And wonders of His love,
+    And wonders, wonders, of His love
+  song: Joy to the World
+- artist: Ascend The Hill
+  enabled: false
+  lyrics: "I was far away from You\nJesus brought me near\nI was broken off from you\nJesus
+    brought me near\nI was far away from You\nJesus brought me near\nI was broken
+    off from you\nJesus brought me near (x2)\nMy hope, my song, my sacrifice of praise\nIs
+    Christ crucified for me\nMy strength, my boast, my sacrifice of praise\nIs the
+    mention of your name \nIs the mention of your name\n\nJesus\n\nThere is power
+    in the Name\nThere is power in the Name\nThere is power in the Name\nThere is
+    power in the Name\nJesus"
+  song: The Power is In the Name of Jesus
+- artist: Chris Tomlin
+  enabled: false
+  lyrics: |-
+    Come, Thou long expected Jesus
+    Born to set Thy people free;
+    From our fears and sins release us,
+    Let us find our rest in Thee.
+
+    Israel's strength and consolation,
+    Hope of all the earth Thou art;
+    Dear desire of every nation,
+    Joy of every longing heart.
+
+    Born Thy people to deliver,
+    Born a child and yet a King,
+    Born to reign in us forever,
+    Now Thy gracious kingdom bring.
+
+    Come, Thou long expected Jesus
+    Born to set Thy people free;
+    From our fears and sins release us,
+    Let us find our rest in Thee.
+
+    By Thine own eternal Spirit
+    Rule in all our hearts alone;
+    By Thine all sufficient merit,
+    Raise us to Thy glorious throne.
+
+    Born Thy people to deliver,
+    Born a child and yet a King,
+    Born to reign in us forever,
+    Now Thy gracious kingdom bring.
+
+    Come, Thou long expected Jesus
+    Born to set Thy people free;
+    From our fears and sins release us,
+    Let us find our rest in Thee.
+
+    Let us find our rest in Thee.
+    Let us find our rest in Thee.
+  song: Come Thou Long Expected Jesus
+- artist: James Chadwick
+  enabled: false
+  lyrics: |-
+    Angels we have heard on high
+    Sweetly singing o'er the plains
+    And the mountains in reply
+    Echoing their joyous strains
+    Angels we have heard on high
+    Sweetly, sweetly through the night
+    And the mountains in reply
+    Echoing their brief delight
+
+    Gloria, in excelsis Deo
+    Gloria, in excelsis Deo
+
+    Shepherds, why this jubilee?
+    Why your joyous strains prolong?
+    What the gladsome tidings be
+    Which inspire your heavenly song?
+
+    Gloria, in excelsis Deo
+    Gloria, in excelsis Deo
+
+    Come to Bethlehem and see
+    Him whose birth the angels sing,
+    Come, adore on bended knee,
+    Christ the Lord, the newborn King.
+
+    Gloria, in excelsis Deo
+    Gloria, in excelsis Deo
+  song: Angels We Have Heard on High
+- artist: Roquemaure / Adams
+  enabled: false
+  lyrics: |-
+    O holy night! The stars are brightly shining,
+    It is the night of our dear Saviour's birth.
+    Long lay the world in sin and error pining,
+    'Til He appear'd and the soul felt its worth.
+
+    A thrill of hope the weary world rejoices,
+    For yonder breaks a new and glorious morn.
+
+    Fall on your knees! O hear the angel voices!
+    O night div-ine, O night  when Christ was born;
+    O night div-ine,  O night, O night Divine.
+
+    Truly He taught us to love one another;
+    His law is love and His gospel is peace.
+    Chains shall He break for the slave is our brother;
+    And in His name all oppression shall cease.
+
+    Sweet hymns of joy in grateful chorus raise we,
+    Let all within us praise His holy name.
+
+    Christ is the Lord! O praise His Name forever,
+    His power and glory evermore proclaim.
+    His power and  glory evermore proclaim.
+
+    He knows our need, our weakness is no stranger,
+    Behold your King! Before Him lowly bend!
+    Behold your King, Before Him lowly bend!
+  song: O Holy Night
+- artist: Jesus Culture
+  enabled: false
+  lyrics: |-
+    There is power in the name of Jesus
+    There is power in the name of Jesus
+    There is power in the name of Jesus
+
+    To break every chain
+    Break every chain
+    Break every chain
+
+    All sufficient sacrifice
+    So freely given
+    Such a price
+    Bought our redemption
+    Heaven's gates swing wide
+
+    There's an army rising up
+    There's an army rising up
+    There's an army rising up
+  song: Break Every Chain (There Is Power In The Name of Jesus)
+- artist: Kat Porter
+  enabled: false
+  lyrics: "Where did your hope go? \nWhere did your hope go? \n\nI'll follow where
+    Your voice beckons to me\nMy spirit is willing even when my heart's weak \nTo
+    put one foot in front of the other\nWhile gazing into Your eyes my Lover \n\nWhere
+    did my hope go?\nWhere did my hope go? \n\nYou are the joy set before me "
+  song: Where Did My Hope Go
+- artist: Chris Tomlin
+  enabled: false
+  lyrics: |-
+    Come, Thou long expected Jesus
+    Born to set Thy people free;
+    From our fears and sins release us,
+    Let us find our rest in Thee.
+
+    Israel's strength and consolation,
+    Hope of all the earth Thou art;
+    Dear desire of every nation,
+    Joy of every longing heart.
+
+    Born Thy people to deliver,
+    Born a child and yet a King,
+    Born to reign in us forever,
+    Now Thy gracious kingdom bring.
+
+    By Thine own eternal Spirit
+    Rule in all our hearts alone;
+    By Thine all sufficient merit,
+    Raise us to Thy glorious throne.
+  song: " Come Thou Long Expected Jesus"
+- artist: U2, Will Reagan
+  enabled: false
+  lyrics: "And You give Yourself away.\n\nWhy Wait for Tomorrow? \LWhen we can have
+    you today."
+  song: Reprise / Call For Worship
+- artist: Will Reagan
+  enabled: false
+  lyrics: |-
+    We have come to give You glory
+    We have come to give You praise
+
+    You’re welcome in this place
+
+    Have Your way
+    Have Your way
+    Have Your way, God
+
+    Bless the Lord oh my soul
+    And let all that’s within me shout out
+  song: We Have Come
+- artist: Crowder
+  enabled: false
+  lyrics: |-
+    There's gonna be a great rejoicing
+    There's gonna be a great rejoicing
+
+    The troubles of this world
+    Will wither up and die
+    That river of tears made by the lonely
+    Someday will be dry
+    There's gonna be a great rejoicing
+
+    There's gonna be a great joy river
+    There's gonna be a great joy river
+
+    Questions of this world
+    Someday will be known
+    Who's robbing you of peace
+    And who's the giver
+    There's gonna be a great joy river
+
+    Someday you will find me
+    Guarded in His fortress
+    Open heart and wings
+    That never touch the ground
+    Someday we will gather
+    In a grand reunion
+    Debts of this old world
+    Are nowhere to be found
+    Nowhere to be found
+
+
+    There's gonna be a great rejoicing
+    There's gonna be a great rejoicing
+  song: Great Rejoicing
+- artist: United Pursuit
+  enabled: false
+  lyrics: "Take a moment to remember\nWho God is and who I am\nThere you go, lifting
+    my load again \nTake a moment to remember\nWho God is and who I am\nThere you
+    go, lifting my load again \n\nNo longer am I held by\nThe yoke of this world\nI
+    come up under the yoke of Jesus\nHis yoke is easy, his burden is so light\n\nYou’re
+    lifting my load\nYou’re lifting my load\nYou’re lifting my load\nYou’re lifting
+    my load\n\nYour love carries\nYour love carries me through\nAll the valleys\nAnd
+    the darkest places"
+  song: Take a Moment
+- artist: Hymn
+  enabled: false
+  lyrics: "What wondrous love is this, O my soul, O my soul!\nWhat wondrous love is
+    this, O my soul!\nWhat wondrous love is this\nThat caused the Lord of bliss\nTo
+    bear the dreadful curse for my soul, for my soul,\nTo bear the dreadful curse
+    for my soul!\n\nWhen I was sinking down, sinking down, sinking down,\nWhen I was
+    sinking down, sinking down,\nWhen I was sinking down\nBeneath God’s righteous
+    frown,\nChrist laid aside His crown for my soul for my soul,\nChrist laid aside
+    His crown for my soul.\n\nTo God and to the Lamb I will sing, I will sing;\nTo
+    God and to the Lamb I will sing; \nTo God and to the Lamb, \nWho is the great
+    I AM, \nWhile millions join the theme, I will sing, I will sing,\nWhile millions
+    join the theme, I will sing.\n\nAnd when from death I’m free, I’ll sing on, I’ll
+    sing on;\nAnd when from death I’m free, I’ll sing on.\nAnd when from death I’m
+    free \nI’ll sing His love for me,\nAnd through eternity I’ll sing on, I’ll sing
+    on,\nAnd through eternity I’ll sing on."
+  song: What Wondrous Love is This?
+- artist: United Pursuit Band
+  enabled: false
+  lyrics: "I lean not on my own understanding,\nMy life is in the hands of the maker
+    of heaven\n\nI Give it all to you God, \nTrusting that you'll make something beautiful
+    out of me\n\nI will climb this mountain \nWith my hands wide open\nI will climb
+    this mountain \nWith my hands wide open\n\nThere is nothing I hold on to\nThere
+    is nothing I hold on to\nThere is nothing I hold on to\nThere is nothing I hold
+    on to\n\nAll Glory To God, Forever. Amen"
+  song: Nothing I Hold On To
+- artist: Dustin Kensrue
+  enabled: true
+  lyrics: |-
+    Before the throne of God above
+    I have a strong and perfect plea.
+    A great high Priest whose Name is Love
+    Who ever lives and pleads for me
+    My name is graven on His hands
+    My name is written on His heart.
+    I know that while in Heaven He stands
+    No tongue can bid me thence depart
+    My life is hid with Christ on high
+
+    When Satan tempts me to despair
+    And tells me of the guilt within
+    Upward I look and see Him there
+    Who made an end of all my sin
+    Because the sinless Savior died
+    My sinful soul is counted free
+    For God the just is satisfied
+    To look on Him and pardon me.
+
+    Behold Him there the risen Lamb
+    My perfect spotless righteousness
+    The great unchangeable I AM
+    The King of glory and of grace,
+    One with Himself I cannot die
+    My soul is purchased by His blood,
+    My life is hid with Christ on high
+  song: Before the Throne
+- artist: Shane & Shane
+  enabled: false
+  lyrics: |-
+    He is exalted
+    The King is exalted on high
+    And I will praise Him
+    He is exalted
+    Forever exalted
+    And I will praise His Name
+
+    For He is the Lord
+    Forever His truth shall reign
+    Heaven and earth
+    Rejoice in His holy Name
+    He is exalted the King is exalted on high
+  song: He Is Exalted
+- artist: Waterdeep
+  enabled: false
+  lyrics: |-
+    You have redeemed my soul
+    From the pit of emptiness
+    You have redeemed my soul
+    From death
+    You have redeemed my soul
+    From the pit of emptiness
+    You have redeemed my soul
+    From death
+
+    I was a hungry child
+    A dried up river
+    I was a burned out forest
+    And no one could do anything for me
+    But You put food in my body
+    Water in my dry bed
+    And to my blackened branches,
+    You brought the springtime
+    Green of a new life
+    And nothing is impossible
+    For you
+  song: You Have Redeemed My Soul
+- artist: Michael W Smith
+  enabled: false
+  lyrics: |-
+    You are Lord of Lords
+    You are King of Kings
+    You are mighty God
+    Lord of everything
+    You're the saving God
+    You're my saving grace
+    You will reign forever
+    You are ancient of days
+
+    You're alpha, omega,
+    beginning and end
+    You're my savior, messiah,
+    redeemer, and friend
+
+    You are my prince of peace and I will live my life for you.
+  song: You Are Holy
+- artist: Matt Redman
+  enabled: false
+  lyrics: |-
+    Come, come let us return to the Lord
+    Come, come let us return to the Lord
+    In brokenness of heart, we consecrate our lives singing
+    Come, come let us return to the Lord
+
+    With a rending of the heart
+    With the bowing of a knee
+    Oh we are returning
+    With a prayer and with a fast
+    With a song in minor key
+    Lord we are repenting
+
+    Even now, even now
+    With all of our hearts
+    You may turn, You may leave a blessing behind
+
+    In Your mercy You will come
+    In Your mercy You will come
+    Surely as the rising sun
+    Surely as the rising sun
+  song: Come Let Us Return to The Lord
+- artist: Jesus Culture
+  enabled: false
+  lyrics: |-
+    [Verse 1]
+
+    There’s nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
+
+    [Chorus]
+
+    Holy Spirit, You are welcome here
+    Come flood this place
+    And fill the atmosphere
+    Your glory, God
+    Is what our hearts long for
+    To be overcome
+    By Your presence, Lord
+    Your presence, Lord
+
+    [Verse 2]
+
+    I’ve tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    [Bridge]
+
+    [4x]
+    Let us become more aware of Your presence
+    Let us experience the glory of Your goodness
+  song: Holy Spirit
+- artist: Phil Wickham
+  enabled: false
+  lyrics: |-
+    I see Your face in every sunrise
+    The colors of the morning are inside Your eyes
+    The world awakens in the light of the day
+    I look up to the sky and say
+    You're beautiful
+    (Oh, Oh, Oh, Oh)
+
+    I see Your power in the moonlit night
+    Where planets are in motion and galaxies are bright
+    We are amazed in the light of the stars
+    It's all proclaiming who You are
+    You're beautiful
+    (Oh, Oh, You're beautiful, Oh, Oh)
+
+    I see You there hanging on a tree
+    You bled and then you died and then you rose again for me
+    Now You are sitting on Your heavenly throne
+    Soon we will be coming home
+    You're beautiful
+    (Oh, Oh, You're beautiful, Oh, Oh)
+
+    (We're singing out)
+    When we arrive at eternity's shore
+    Where death is just a memory and tears are no more
+    We'll enter in as the wedding bells ring
+    Your bride will come together and we'll sing
+    You're beautiful
+    Oh, You're beautiful
+
+    I see Your face, You're beautiful
+    You're beautiful
+    You're beautiful
+
+    I see Your face, You're beautiful
+    You're beautiful
+    You're beautiful
+
+    I see Your face
+    I see Your face
+    I see Your face, You're beautiful
+    You're beautiful
+    You're beautiful
+  song: You're Beautiful
+- artist: Will Reagan & United Pursuit
+  enabled: false
+  lyrics: "No place I would rather be\nNo place I would rather be\nNo place I would
+    rather be\nThan here in your love, here in your love\n\nSet a fire down in my
+    soul\nThat I can't contain that I can't control\nI want more of You, God\nI want
+    more of You, God\n\nI want more, I want more \nI want more, I want more \nI want
+    more, I want more of you\nPour it out\n\nSet a fire down in my soul\nThat I can't
+    contain that I can't control\nI want more of You, God\nI want more of You, God\n\nNo
+    place I would rather be\nNo place I would rather be\nNo place I would rather be\nThan
+    here in your love, here in your love\n\nSet a fire down in my soul\nThat I can't
+    contain that I can't control\nI want more of You, God\nI want more of You, God\n\nI
+    want more, I want more \nI want more, I want more \nI want more, I want more of
+    you\nPour it out\n\nSet a fire down in my soul\nThat I can't contain that I can't
+    control\nI want more of You, God\nI want more of You, God"
+  song: Set a Fire
+- artist: Francis of Assisi
+  enabled: false
+  lyrics: "All creatures of our God and King\nLift up your voice and with us sing,
+    \  \nAlleluia! Alleluia!    \n\nThou burning sun with golden beam, \nThou silver
+    moon with softer gleam!\n   \nO praise Him! O praise Him!    \nAlleluia! Alleluia!
+    Alleluia!\n\nThou rushing wind that art so strong \nYe clouds that sail in Heaven
+    along,    \nO praise Him! Alleluia!    \n\nThou rising moon, in praise rejoice,
+    \nYe lights of evening, find a voice!   \n\nO praise Him! O praise Him!    \nAlleluia!
+    Alleluia! Alleluia!\n\nLet all things their Creator bless, \nAnd worship Him in
+    humbleness,  \nO praise Him! Alleluia!    \n\nPraise, praise the Father, praise
+    the Son, \nAnd praise the Spirit, Three in One!   \n\nO praise Him! O praise Him!
+    \ \nAlleluia! Alleluia! \nAlleluia!"
+  song: All Creatures of Our God and King
+- artist: Hillsong Worship
+  enabled: false
+  lyrics: |-
+    [Verse 1]
+    You were the Word at the beginning
+    One With God the Lord Most High
+    Your hidden glory in creation
+    Now revealed in You Our Christ
+
+    [Chorus 1]
+    What a beautiful Name it is, what a beautiful Name it is
+    The Name of Jesus Christ my King
+    What a beautiful Name it is, nothing compares to this
+    What a beautiful Name it is, the Name of Jesus
+
+    [Verse 2]
+    You didn't want heaven without us
+    So Jesus You brought heaven down
+    My sin was great, Your love was greater
+    What could seperate us now
+
+    [Chorus 2]
+    What a wonderful Name it is, what a wonderful Name it is
+    The Name of Jesus Christ my King
+    What a wonderful Name it is, nothing compares to this
+    What a wonderful Name it is, the Name of Jesus
+    What a wonderful Name it is, the Name of Jesus
+
+    [Bridge 1]
+    Death could not hold You, the veil tore before You
+    You silenced the boast of sin and grave
+    The heavens are roaring, the praise of Your glory
+    For You are raised to life again
+
+    [Bridge 2]
+    You have no rival, You have no equal
+    Now and forever God you reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name above all names
+
+    [Chorus 3]
+    What a powerful Name it is, What a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, Nothing can stand against
+    What a powerful Name it is, The Name of Jesus
+
+    [Chorus 3]
+    What a powerful Name it is, what a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, nothing can stand against
+    What a powerful Name it is, the Name of Jesus
+
+    [Bridge 2]
+    You have no rival, You have no equal
+    Now and forever God you reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name above all names
+
+    [Chorus 3]
+    What a powerful Name it is, What a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, Nothing can stand against
+    What a powerful Name it is, The Name of Jesus
+
+    [Bridge 2]
+    You have no rival, You have no equal
+    Now and forever God you reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name above all names
+
+    [Chorus 3]
+    What a powerful Name it is, what a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, nothing can stand against
+    What a powerful Name it is, the Name of Jesus
+    What a powerful Name it is, The Name of Jesus
+    What a powerful Name it is, The Name of Jesus
+  song: What a Wonderful Name
+- artist: Joachim Neander
+  enabled: false
+  lyrics: "Praise to the Lord, the Almighty, \nthe King of creation!\nO my soul, praise
+    him, \nfor he is your health and salvation!\nLet all who hear\nNow to his temple
+    draw near,\nJoining in glad adoration!\n\nPraise to the Lord, who over all \nThings
+    is wondrously reigning \nAnd, as on wings of an eagle, \nuplifting, sustaining.\nHave
+    you not seen\nAll that is needful has been\nSent by his gracious ordaining?\n\nPraise
+    to the Lord, who will \nProsper your work and defend you;\nSurely his goodness
+    and mercy\nShall daily attend you.\nPonder anew\nWhat the almighty can do\nAs
+    with his love he befriends you.\n\nPraise to the Lord! Oh, let all\nThat is in
+    me adore him!\nAll that has life and breath, \nCome now with praises before him!\nLet
+    the amen\nSound from his people again.\nGladly forever adore him!"
+  song: Praise to the Lord, the Almighty
+- artist: Edward Mote
+  enabled: false
+  lyrics: |-
+    1. My hope is built on nothing less
+    Than Jesus' blood and righteousness;
+    I dare not trust the sweetest frame,
+    But wholly lean on Jesus' name.
+    On Christ, the solid Rock, I stand;
+    All other ground is sinking sand.
+
+    2. When darkness veils His lovely face,
+    I rest on His unchanging grace;
+    In every high and stormy gale
+    My anchor holds within the veil.
+    On Christ, the solid Rock, I stand;
+    All other ground is sinking sand.
+
+    3. His oath, His covenant, and blood
+    Support me in the whelming flood;
+    When every earthly prop gives way,
+    He then is all my Hope and Stay.
+    On Christ, the solid Rock, I stand;
+    All other ground is sinking sand.
+
+    4. When He shall come with trumpet sound,
+    Oh, may I then in Him be found,
+    Clothed in His righteousness alone,
+    Faultless to stand before the throne!
+    On Christ, the solid Rock, I stand;
+    All other ground is sinking sand.
+  song: My Hope is Built on Nothing Less
+- artist: Frances R. Havergal
+  enabled: false
+  lyrics: |-
+    1. Take my life and let it be
+    Consecrated, Lord, to Thee;
+    Take my moments and my days,
+    Let them flow in ceaseless praise.
+
+    2. Take my hands and let them move
+    At the impulse of Thy love;
+    Take my feet and let them be
+    Swift and beautiful for Thee.
+
+    3. Take my voice and let me sing
+    Always, only, for my King;
+    Take my lips and let them be
+    Filled with messages from Thee.
+
+    4. Take my silver and my gold,
+    Not a mite would I withhold;
+    Take my intellect and use
+    Every power as Thou shalt choose.
+
+    5. Take my will and make it Thine,
+    It shall be no longer mine;
+    Take my heart, it is Thine own,
+    It shall be Thy royal throne.
+
+    6. Take my love, my Lord, I pour
+    At Thy feet its treasure-store;
+    Take myself, and I will be
+    Ever, only, all, for Thee.
+  song: Take My Life and Let It Be
+- artist: Chris Tomlin
+  enabled: false
+  lyrics: |-
+    Oh, I've heard a thousand stories of what they think you're like
+    But I've heard the tender whispers of love in the dead of night
+    And you tell me that you're pleased
+    And that I'm never alone
+
+    You're a Good, Good Father
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    It's who I am, it's who I am, it's who I am
+
+    Oh, and I've seen many searching for answers far and wide
+    But I know we're all searching
+    For answers only you provide
+    'Cause you know just what we need
+    Before we say a word
+
+    You're a Good, Good Father
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    It's who I am, it's who I am, it's who I am
+
+    'cause you are perfect in all of your ways
+    You are perfect in all of your ways
+    You are perfect in all of your ways to us
+
+    You are perfect in all of your ways
+    You are perfect in all of your ways
+    You are perfect in all of your ways to us
+
+    Oh, it's love so undeniable
+    I, I can hardly speak
+    Peace so unexplainable
+    I, I can hardly think
+
+    As you call me deeper still [3x]
+    Into love, love, love
+
+    [3x:]
+    You're a Good, Good Father
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    It's who I am, it's who I am, it's who I am
+
+    You're a Good, Good Father
+    (you are perfect in all of your ways)
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    (you are perfect in all of your ways)
+    It's who I am, it's who I am it's who I am
+  song: Good Good Father
+- artist: Will Reagan & United Pursuit
+  enabled: false
+  lyrics: |
+    I don't wanna ride on somebody else's passion.
+    I don't wanna find that I am just dry bones.
+    I wanna burn with unquenchable fire.
+    Deep down inside see it coming alive
+
+    Help me find my own flame.
+    Help me find my own fire.
+    I want the real thing,
+    I want your burning desire
+
+    I don't wanna ride on somebody else's passion.
+    I don't wanna find that I am just dry bones.
+    I wanna burn with unquenchable fire.
+    Deep down inside see it coming alive
+    Help me find my own flame.
+    Help me find my own fire.
+    I want the real thing,
+    I want your burning desire
+
+    Do what only you can do, in my heart tonight
+    There's no better time
+    Help me find my own flame.
+    Help me find my own fire.
+    I want the real thing,
+    I want your burning desire
+    I don't wanna ride on somebody else's passion.
+    I don't wanna find that I am just dry bones.
+    I wanna burn with unquenchable fire.
+    Deep down inside see it coming alive
+    I wanna burn with unquenchable fire.
+    Deep down inside see it coming alive
+    Help me find my own flame.
+    Help me find my own fire.
+    I want the real thing,
+    I want your burning desire
+    Do what only you can do, in my heart tonight
+    There's no better time
+  song: Help Me Find My Own Flame
+- artist: Third Day
+  enabled: false
+  lyrics: |-
+    You are so good to me
+    You heal my broken heart
+    You are my Father in heaven [2x]
+
+    You ride upon the clouds
+    You lead me to the truth
+    You are the Spirit inside me [2x]
+
+    You poured out all your blood
+    You died upon the cross
+    You are my Jesus who loves me [2x]
+
+    [Chorus:]
+    You are beautiful my sweet, sweet, song [3x]
+    I will sing again
+
+    [Bridge:]
+    You are my strong melody
+    You are my dancing rhythm
+    You are my perfect rhyme
+    And I want to sing forever
+  song: You Are So Good To Me
+- artist: Young Oceans
+  enabled: false
+  lyrics: |-
+    Did You say, 'seek, you will surely find'?
+    I am searching, Lord turn Your eyes to mine
+    But I'm weary, pacing at these gates
+    Jesus come, come now, don't delay
+
+    Like a child, ever faithful may I be
+    This I ask, God of mercy hear my plea
+    I have wandered with a soul impure
+    For this scorn, Father, send a cure
+
+    I come to You my one and only
+    I promise not to turn my eyes again
+    And yes I know we're but a breath
+    But I wanna taste and see and feel You nonetheless
+    Yeah the years they keep on turning
+    And I'm battered but I'm burning for You Lord
+
+    I wanna wake and feel Your glory
+    I wanna speak in tongues of angels for You Lord
+    I wanna sing a song eternal
+    I wanna trample on the curses of the earth
+    I wanna call upon Your healing
+    I wanna see the sick and weary be made new
+    I wanna swim inside the blessings
+    I wanna swim inside the blessings of the Lord
+  song: Only You
+- artist: William McDowe
+  enabled: false
+  lyrics: "I've been captured by a love I can't explain \nAnd now you have me and
+    I'm forever changed\nI've abandoned everything I've ever known \nNow I surrender
+    my life is not my own\nI belong to you, I belong to you [x4]\n[Repeat x3]\n\nMy
+    life is not my own to you I belong \nI give myself I give myself to you \n[x8]"
+  song: I Belong To You
+- artist: Jon Foreman
+  enabled: false
+  lyrics: "Heavenly Father \nYou always amaze me\nLet Your kingdom come in my world
+    \nAnd in my life\n\nGive me the food I need to live through today\nAnd forgive
+    me as I forgive the people that wrong me\n\nLead me far from temptation\nDeliver
+    me from the evil one\n\nI look out the window\nThe birds are composing\nNot a
+    note is out of tune\nOr out of place\n\nI walk to the meadow\nAnd stare at the
+    flowers\nBetter dressed than any girl\nOn her wedding day\n\nSo why should I worry?\nWhy
+    do I freak out?\nGod knows what I need!\nYou know what I need!\n\nYour love is
+    strong\n\nThe Kingdom of the Heavens \nIs now advancing\nInvade my heart\nInvade
+    this broken town\n\nThe Kingdom of the Heavens \nIs buried treasure\nWould you
+    sell yourself\nTo buy the one you've found?\n\nTwo things You told me\nThat You
+    are strong\nAnd You love me,\nYes You love me\n\nYour love is strong\n\nOur God
+    in heaven\nHallowed be thy name above all names\nYour kingdom come\nYour will
+    be done\nOn earth as it is in heaven\nGive us, today, our daily bread\nForgive
+    us weary sinners\nKeep us far from our vices and\nDeliver us from these prisons"
+  song: Your Love Is Strong
+- artist: Jon Foreman
+  enabled: false
+  lyrics: |-
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest in fields of green with quiet streams
+    Even though I walk through the valley of death and dying
+    I will not fear 'cause you are with me
+    You are with me
+
+    Your shepherd staff Comforts me
+    You are my feast in the presence of enemy
+    Surely goodness
+    Will follow me
+    Follow me
+    In the house of God, forever
+  song: House of God, Forever
+- artist: Lauren Daigle
+  enabled: false
+  lyrics: |-
+    God I give You all I can today
+    These scattered ashes that I hid away
+    I lay them all at Your feet
+
+    From the corners of my deepest shame
+    The empty places where I've worn Your name
+    Show me the love I say I believe
+
+    Oh Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    There is victory in my Saviors loss
+    And In the crimson flowing from the cross
+    Pour over me, pour over me yes
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    Oh Lord I lay it down
+    Oh Lord I lay it down
+    Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My Lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all
+
+    Once and for all
+    Oh once and for all
+    Once and for all
+  song: Once and For All
+- artist: Unknown
+  enabled: false
+  lyrics: |-
+    I am weak, but Thou art strong;
+    Jesus, keep me from all wrong;
+    I’ll be satisfied as long
+    As I walk, let me walk close to Thee.
+
+    Refrain:
+    Just a closer walk with Thee,
+    Grant it, Jesus, is my plea,
+    Daily walking close to Thee,
+    Let it be, dear Lord, let it be.
+
+    In this life of toil and snares,
+    If I falter, Lord, who cares?
+    Who with me my burden shares?
+    None but Thee, dear Lord, none but Thee.
+
+    When my feeble life is o’er,
+    Time for me will be no more;
+    Guide me gently, safely o’er
+    To Thy kingdom shore, to Thy shore.
+  song: Closer Walk With Thee
+- artist: Dallan Forgaill
+  enabled: false
+  lyrics: |-
+    Be Thou my Vision, O Lord of my heart;
+    Naught be all else to me, save that Thou art;
+    Thou my best Thought, by day or by night,
+    Waking or sleeping, Thy presence my light.
+
+    Be Thou my Wisdom, and Thou my true Word;
+    I ever with Thee and Thou with me, Lord;
+    Thou my great Father, I Thy true son;
+    Thou in me dwelling, and I with Thee one.
+
+    Riches I heed not, nor man’s empty praise,
+    Thou mine Inheritance, now and always:
+    Thou and Thou only, first in my heart,
+    High King of Heaven, my Treasure Thou art.
+
+    High King of Heaven, my victory won,
+    May I reach Heaven’s joys, O bright Heaven’s Sun!
+    Heart of my own heart, whatever befall,
+    Still be my Vision, O Ruler of all.
+  song: Be Thou My Vision
+- artist: Sandra McCracken
+  enabled: false
+  lyrics: "Hallelujah, give praise, you servants \nPraise the name of the LORD \nLet
+    the name of the LORD be blessed \nfrom now and forevermore. \n\nFrom the rising
+    of the sun, to it’s going down \nLet the name of the LORD be praised, from the
+    rising of the sun. \n\nThe LORD is high above all nations, and his glory above
+    the heavens, \nWho is like the LORD our God? Who sits enthroned on high? \nWho
+    is like the LORD our God? Who stoops to behold, \nThe heavens and the earth? \n\nFrom
+    the rising of the sun, to it’s going down \nLet the name of the LORD be praised,
+    from the rising of the sun."
+  song: From The Rising Of The Sun (Psalm 113)
+- artist: Hillsong United
+  enabled: false
+  lyrics: |-
+    You call me out upon the waters
+    The great unknown where feet may fail
+    And there I find You in the mystery
+    In oceans deep
+    My faith will stand
+
+    And I will call upon Your name
+    And keep my eyes above the waves
+    When oceans rise
+    My soul will rest in Your embrace
+    For I am Yours and You are mine
+
+    Your grace abounds in deepest waters
+    Your sovereign hand
+    Will be my guide
+    Where feet may fail and fear surrounds me
+    You've never failed and You won't start now
+
+    So I will call upon Your name
+    And keep my eyes above the waves
+    When oceans rise
+    My soul will rest in Your embrace
+    For I am Yours and You are mine
+
+    [6x]
+    Spirit lead me where my trust is without borders
+    Let me walk upon the waters
+    Wherever You would call me
+    Take me deeper than my feet could ever wander
+    And my faith will be made stronger
+    In the presence of my Savior
+
+    Oh, Jesus, you're my God!
+
+    I will call upon Your name
+    Keep my eyes above the waves
+    My soul will rest in Your embrace
+    I am Yours and You are mine
+  song: Oceans (Where Feet May Fail)Oceans (Where Feet May Fail)
+- artist: Rebecca St James
+  enabled: false
+  lyrics: |-
+    Out of the depths I cry to my Lord, he lifted me up, he lifted me up
+    Out of the depths I cry to my Lord, he lifted me up, he lifted me
+
+    If you kept a record of sins who could stand, my Lord
+    Who could stand up, Lord, who could stand up?
+    If you kept a record of sins who could stand, my Lord
+    Who could stand up, Lord, who could stand up?
+
+    With you, oh Lord, there is forgiveness
+    With you, oh Lord, unfailing love
+    With you, oh Lord, full redemption
+    You have bought back my soul from the dead with your blood
+
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morning sun
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morn
+
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morning sun
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morn
+  song: More Than The Watchman (Psalm 130)
+- artist: Gungor
+  enabled: false
+  lyrics: |2-
+
+    All this pain
+    I wonder if I’ll ever find my way
+    I wonder if my life could really change at all
+    All this earth
+    Could all that is lost ever be found
+    Could a garden come up from this ground at all
+
+    You make beautiful things
+    You make beautiful things out of the dust
+    You make beautiful things
+    You make beautiful things out of us
+
+    All around
+    Hope is springing up from this old ground
+    Out of chaos life is being found in You
+
+    You make beautiful things
+    You make beautiful things out of the dust
+    You make beautiful things
+    You make beautiful things out of us
+
+    You make beautiful things
+    You make beautiful things out of the dust
+    You make beautiful things
+    You make beautiful things out of us
+
+    You make me new, You are making me new
+    You make me new, You are making me new
+
+    You make beautiful things
+    You make beautiful things out of the dust
+    You make beautiful things
+    You make beautiful things out of us
+  song: Beautiful Things
+- artist: George Matheson
+  enabled: false
+  lyrics: |-
+    O Love that will not let me go,
+    I rest my weary soul in thee;
+    I give thee back the life I owe,
+    That in thine ocean depths its flow
+    May richer, fuller be.
+
+    O Light that foll’west all my way,
+    I yield my flick’ring torch to thee;
+    My heart restores its borrowed ray,
+    That in thy sunshine’s blaze its day
+    May brighter, fairer be.
+
+    O Joy that seekest me through pain,
+    I cannot close my heart to thee;
+    I trace the rainbow through the rain,
+    And feel the promise is not vain,
+    That morn shall tearless be.
+
+    O Cross that liftest up my head,
+    I dare not ask to fly from thee;
+    I lay in dust life’s glory dead,
+    And from the ground there blossoms red
+    Life that shall endless be.
+  song: O Love That Will Not Let Me Go
+- artist: All Sons & Daughters
+  enabled: false
+  lyrics: |
     Will your grace run out
     If I let you down
     'Cause all I know
@@ -1055,127 +1628,422 @@
     And You take brokenness aside
     And make it beautiful
     Beautiful
-
-    You make it beautiful
-    You make it beautiful
-
-    You make it beautiful
-    You make it beautiful
-
-    'Cause I am a sinner
-    If it's not one thing it's another
-    Caught up in words
-    Tangled in lies
-    But You are a Savior
-    And You take brokenness aside
-    And make it beautiful
-    Beautiful, oh yeah
-  artist: David Leonard and Leslie Jordan
-- song: Amazing Grace (My Chains Are Gone)
+  song: Brokenness Aside
+- artist: Jon Foreman
   enabled: false
   lyrics: |-
-    Amazing grace
-    How sweet the sound
-    That saved a wretch like me
-    I once was lost, but now I'm found
-    Was blind, but now I see
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    With quiet streams
 
-    'Twas grace that taught my heart to fear
-    And grace my fears relieved
-    How precious did that grace appear
-    The hour I first believed
+    Even though I walk
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You are with me
 
-    My chains are gone
-    I've been set free
-    My God, my Savior has ransomed me
-    And like a flood His mercy reigns
-    Unending love, amazing grace
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
 
-    The Lord has promised good to me
-    His word my hope secures
-    He will my shield and portion be
-    As long as life endures
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    By quiet streams
 
-    [2x]
-    My chains are gone
-    I've been set free
-    My God, my Savior has ransomed me
-    And like a flood His mercy reigns
-    Unending love, amazing grace
+    Even while I'm walking
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You're always with me
 
-    The earth shall soon dissolve like snow
-    The sun forbear to shine
-    But God, Who called me here below,
-    Will be forever mine.
-    Will be forever mine.
-    You are forever mine.
-  artist: Hymn and Chris Tomlin
-- song: Canons
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
+
+    In the house of God forever
+    In the house of God forever
+  song: The House Of God, Forever
+- artist: Public Radio
   enabled: false
   lyrics: |-
-    It's falling from the clouds
-    A strange and lovely sound
-    I hear it in the thunder and rain
-    It's ringing in the skies
-    Like cannons in the night
-    The music of the universe plays
-
-    Singing, You are holy, great and mighty
-    The moon and the stars declare who You are
-    I'm so unworthy, but still You love me
-    Forever my heart will sing of how great You are
-
-    Beautiful and free
-    The song of galaxies
-    Reaching far beyond the Milky Way
-    Let's join in with the sound
-    Come on let's sing it out
-    As the music of the universe plays
-
-    All glory, honor, power is Yours, Amen
-    All glory, honor, power is Yours, Amen
-    All glory, honor, power is Yours, forever Amen
-  artist: Phil Wickham
-- song: How Great Thou Art
+    Cuz we want to know your ways
+    And to trust them all the same
+    Be our light and center stage
+    Be the wind and be the waves
+    Be the sunset of our days
+    Cuz we like to
+    Be romanced to
+    Cuz we want to know your ways
+    And to trust them all the same
+    Be our light and center stage
+    Be the wind and be the waves
+    Be the sunset of our days
+    Cuz we like to
+    Be romanced to
+    Be romanced to
+    Be romanced to
+    Open up the doors
+    Turn the lights on
+    Hear the love song
+    Picking up again
+    Cuz I'm an outlaw
+    Running from you
+    Come arrest me
+    I surrender to you
+    Though you slay me
+    I will trust you
+    Though offended
+    I will cling to you
+    Cuz I want to
+    Be a witness
+    Of your power
+    Of your goodness
+    Open up the doors
+    Turn thee lights on
+    Hear the love song
+    Picking up agian
+    Cuz I'm an outlaw
+    Running from you
+    Come arrest me
+    I surrender to you
+    Open up the doors
+    Turn the lights on
+    Hear the love song
+    Picking up again
+    Cuz I'm an outlaw
+    Running from you
+    Come arrest me
+    I surrender to you
+    Though you slay me
+    I will trust you
+    Though offended
+    I will cling to you
+    Cuz I want to
+    Be a witness
+    Of your power
+    Of your goodness
+  song: Outlaw
+- artist: Jesus Culture
+  enabled: false
+  lyrics: "Let it rain, let it rain.\nOpen the floodgates of Heaven.\n\nI feel the
+    rains of Your Love, \nI feel the winds of Your Spirit,\nAnd now the heartbeat
+    of Heaven,\nLet us hear.\n\nBecause we want to see You;\nShow us Your Glory.\nAnd
+    we want to know You, Lord."
+  song: Let It Rain
+- artist: Young Oceans
   enabled: false
   lyrics: |-
-    O Lord my God! When I in awesome wonder
-    Consider all the worlds Thy hands have made.
-    I see the stars, I hear the rolling thunder,
-    Thy power throughout the universe displayed.
+    Flood this heart with assurance of Your mercy
+    Fill this mind with knowledge of Your love
 
-    Then sings my soul, my Savior God, to Thee;
-    How great Thou art, how great Thou art!
-    Then sings my soul, my Savior God, to Thee;
-    How great Thou art, how great Thou art!
+    Hold me fast through the deep and steady current
+    How long, how long ‘till these tears are gone
 
-    And when I think that God, His Son not sparing,
-    Sent Him to die, I scarce can take it in;
-    That on the cross, my burden gladly bearing,
-    He bled and died to take away my sin:
+    Every hour, awake me to Your presence
+    Shine Your light, brighter than the dawn
+    Send Your joy, illuminate the darkness
 
-    Then sings my soul, my Savior God, to Thee;
-    How great Thou art, how great Thou art!
-    Then sings my soul, my Savior God, to Thee;
-    How great Thou art, how great Thou art!
+    How long, how long ‘till these tears are gone
+    How long, how long ‘till these tears are gone
+    I’ll fix my eyes on eternity above
+    Where every lie, is uncovered by Your love
+    I’ll fix my eyes on eternity above
 
-    When Christ shall come with shouts of acclamation
-    And take me home, what joy shall fill my heart!
-    Then I shall bow in humble adoration,
-    And there proclaim: “My God, how great Thou art!”
-
-    Then sings my soul, my Savior God, to Thee;
-    How great Thou art, how great Thou art!
-    Then sings my soul, my Savior God, to Thee;
-    How great Thou art, how great Thou art!
-
-    Then sings my soul, my Savior God, to Thee;
-    How great Thou art, how great Thou art!
-    Then sings my soul, my Savior God, to Thee;
-    How great Thou art, how great Thou art!
-  artist: Chris Rice
-- song: Come Thou Fount
+    Where every lie, every shadow is uncovered by Your love
+  song: Until These Tears Are Gone
+- artist: Young Oceans
   enabled: false
+  lyrics: |-
+    Jesus, mighty King of Heaven
+    Thou O Lord our guide shall be
+    Thy commission we rely on
+    We will follow none but Thee
+
+    As an emblem of Thy passion
+    And Thy victory o'er the grave
+    We who know Thy great salvation
+    Are baptized now beneath the wave
+
+    CHORUS
+
+    Fall on us O Holy Lord
+    Our hearts O King are only Yours
+    By your grace we live, and we
+    Will follow none but Thee
+    Will follow none but Thee
+
+    Fearless of the worlds despising
+    We the ancient path pursue
+    Buried with our Lord and rising
+    To a life divinely new
+
+    Sin shall never be our master
+    Captives of Thy bless’d grace
+    Offering our lives hereafter
+    We resolve to seek Thy face
+  song: None But Thee
+- artist: Young Oceans
+  enabled: false
+  lyrics: |-
+    Let my eyes see nothing
+    Let my eyes see nothing
+    But Your glory, my Lord
+
+    Let my eyes see nothing
+    Let my eyes see nothing
+    But Your glory, my Lord
+
+    Let this heart not wander
+    Let this heart not wander
+    From Your mercy, my Lord
+
+    May I always linger
+    May I always linger
+    In Your presence, my Lord
+
+    I will ever praise You
+    I will ever praise You
+    You are worthy, my Lord
+  song: Let This Heart Not Wander
+- artist: Charles Wesley
+  enabled: false
+  lyrics: |-
+    Hail the day that sees Him rise
+    To His throne above the skies
+    Christ, awhile to mortals given
+    Reascends His native heaven
+
+    There the glorious triumph waits
+    Lift your heads, eternal gates
+    Christ hath conquered death and sin
+    Take the King of glory in
+
+    Circled round with angel powers
+    Their triumphant Lord, and ours
+    Conqueror over death and sin
+    Take the King of glory in
+
+    Him though highest Heav’n receives
+    Still He loves the earth He leaves
+    Though returning to His throne
+    Still He calls mankind His own
+
+    Circled round with angel powers
+    Their triumphant Lord, and ours
+    Conqueror over death and sin
+    Take the King of glory in
+
+    See! He lifts His hands above
+    See! He shows the prints of love
+    Hark! His gracious lips bestow
+    Blessings on His church below
+
+    Alleluia
+    Alleluia
+    Alleluia
+
+    Ever upward let us move
+    Wafted on the wings of love
+    Looking when our Lord shall come
+    Longing, gasping after home
+
+    There we shall with Thee remain
+    Partners of Thy endless reign
+    There Thy face unclouded see
+    Find our heaven of heavens in Thee
+  song: Hail The Day That Sees Him Rise
+- artist: Tribulations, Estil C. Ball
+  enabled: false
+  lyrics: |-
+    Trials, troubles, tribulations,
+    Soon from all of these to soar
+    When our Savior comes to get us,
+    Peace shall reign forever more
+
+    (Refrain)
+    When our Lord comes down from Heaven
+    and stretches out His hand to me
+    I’ll be carried home by Jesus
+    There forever with Him be
+
+    The promised grace will come upon you,
+    All the earth shall be restored
+    The sky and sea and every mountain,
+    Glory as not known before
+
+    The sun and moon depart the sky,
+    We’ve no need for them to stay
+    The Lamb of God will be our light,
+    Brighter than the brightest day
+  song: Trials and Troubles No More
+- artist: Augustus M. Toplady
+  enabled: false
+  lyrics: |-
+    Rock of Ages, cleft for me,
+    Let me hide myself in Thee;
+    Let the water and the blood,
+    From Thy wounded side which flowed,
+    Be of sin the double cure;
+    Save from wrath and make me pure.
+
+    Not the labor of my hands
+    Can fulfill Thy law’s demands;
+    Could my zeal no respite know,
+    Could my tears forever flow,
+    All for sin could not atone;
+    Thou must save, and Thou alone.
+
+    Nothing in my hand I bring,
+    Simply to the cross I cling;
+    Naked, come to Thee for dress;
+    Helpless look to Thee for grace;
+    Foul, I to the fountain fly;
+    Wash me, Savior, or I die.
+
+    While I draw this fleeting breath,
+    When mine eyes shall close in death,
+    When I soar to worlds unknown,
+    And behold Thee on Thy throne,
+    Rock of Ages, cleft for me,
+    Let me hide myself in Thee.
+  song: Rock of Ages
+- artist: Robert Lowry
+  enabled: false
+  lyrics: |-
+    What can wash away my sin?
+    Nothing but the blood of Jesus;
+    What can make me whole again?
+    Nothing but the blood of Jesus.
+
+    Refrain
+
+    Oh! precious is the flow
+    That makes me white as snow;
+    No other fount I know,
+    Nothing but the blood of Jesus.
+
+    For my pardon, this I see,
+    Nothing but the blood of Jesus;
+    For my cleansing this my plea,
+    Nothing but the blood of Jesus.
+
+    Refrain
+
+    Nothing can for sin atone,
+    Nothing but the blood of Jesus;
+    Naught of good that I have done,
+    Nothing but the blood of Jesus.
+
+    Refrain
+
+    This is all my hope and peace,
+    Nothing but the blood of Jesus;
+    This is all my righteousness,
+    Nothing but the blood of Jesus.
+
+    (Additional Verses)
+
+    Now by this I’ll overcome—
+    Nothing but the blood of Jesus,
+    Now by this I’ll reach my home—
+    Nothing but the blood of Jesus.
+
+    Refrain
+
+    Glory! Glory! This I sing—
+    Nothing but the blood of Jesus,
+    All my praise for this I bring—
+    Nothing but the blood of Jesus.
+  song: Nothing But The Blood
+- artist: Horatio G. Spafford
+  enabled: false
+  lyrics: |-
+    When peace, like a river, attendeth my way,
+    When sorrows like sea billows roll;
+    Whatever my lot, Thou has taught me to say,
+    It is well, it is well, with my soul.
+
+    Refrain
+
+    It is well, with my soul,
+    It is well, with my soul,
+    It is well, it is well, with my soul.
+
+    Though Satan should buffet, though trials should come,
+    Let this blest assurance control,
+    That Christ has regarded my helpless estate,
+    And hath shed His own blood for my soul.
+
+    Refrain
+
+    My sin, oh, the bliss of this glorious thought!
+    My sin, not in part but the whole,
+    Is nailed to the cross, and I bear it no more,
+    Praise the Lord, praise the Lord, O my soul!
+
+    Refrain
+
+    And Lord, haste the day when my faith shall be sight,
+    The clouds be rolled back as a scroll;
+    The trump shall resound, and the Lord shall descend,
+    Even so, it is well with my soul.
+
+    (Additional Verses)
+
+    For me, be it Christ, be it Christ hence to live:
+    If Jordan above me shall roll,
+    No pang shall be mine, for in death as in life
+    Thou wilt whisper Thy peace to my soul.
+
+    But, Lord, ‘tis for Thee, for Thy coming we wait,
+    The sky, not the grave, is our goal;
+    Oh trump of the angel! Oh voice of the Lord!
+    Blessèd hope, blessèd rest of my soul!
+  song: It Is Well With My Soul
+- artist: Joseph Hart
+  enabled: false
+  lyrics: |-
+    Come, ye sinners, poor and needy,
+    Weak and wounded, sick and sore;
+    Jesus ready stands to save you,
+    Full of pity, love and power.
+
+    Refrain
+
+    I will arise and go to Jesus,
+    He will embrace me in His arms;
+    In the arms of my dear Savior,
+    O there are ten thousand charms.
+
+    Come, ye thirsty, come, and welcome,
+    God’s free bounty glorify;
+    True belief and true repentance,
+    Every grace that brings you nigh.
+
+    Refrain
+
+    Come, ye weary, heavy laden,
+    Lost and ruined by the fall;
+    If you tarry till you’re better,
+    You will never come at all.
+
+    Refrain
+  song: Come Ye Sinners, Poor And Needy
+- artist: Chris Tomlin
   lyrics: |-
     Come thou fount of every blessing
     Tune my heart to sing thy grace
@@ -1204,508 +2072,4 @@
     prone to leave the God I love
     Here's my heart, O take and seal it,
     seal it for thy courts above
-  artist: Chris Tomlin
-- song: Constant
-  enabled: false
-  lyrics: |-
-    Just like the sunshine
-    You have been our light
-    Leading us into beautiful places
-    We've walked through fire
-    But You made us brighter
-    Leading us into beautiful places
-
-    Faithful Jesus, healing savior
-    Compass, center, bread of life
-    Faithful Jesus, cherished treasure
-    Our portion, wisdom God's great light
-
-    And just like the starlight
-    You shine in the black night
-    Leading us into beautiful places
-    And just like the atmosphere
-    You've come to surround us here
-    Leading us into beautiful places
-
-    Faithful Jesus, healing savior
-    Compass, center, bread of life
-    Faithful Jesus, cherished treasure
-    Our portion, wisdom God's great light
-
-    God You are here with us
-    Constantly here with us
-    You are our everything
-    Faithful and true
-
-    God You are here with us
-    Constantly here with us
-    You are our everything
-    Faithful and true
-
-    Faithful Jesus, healing savior
-    Compass, center, bread of life
-    Faithful Jesus, cherished treasure
-    Our portion, wisdom God's great light
-  artist: Charlie Hall
-- song: House of God, Forever
-  enabled: false
-  lyrics: |-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-
-    He makes me rest
-    In fields of green
-    With quiet streams
-
-    Even though I walk
-    Through the valley
-    Of death and dying
-
-    I will not fear
-    Cause you are with me
-    You are with me
-
-    Your shepherd's staff
-    Comforts me
-    You are my feast
-    In the presence of enemies
-    Surely goodness
-    Will follow me
-    Follow me
-    In the house of God forever
-  artist: Jon Foreman
-- song: Earnestly I Seek Thee
-  enabled: false
-  lyrics: |-
-    In life’s troubles, sorrows and pain, earnestly I seek Thee
-    Fill my soul with peace again; earnestly I seek Thee
-
-    None but You, and You alone
-    Take my life, make it Your own
-    In my offering, build Your home
-    Earnestly I seek Thee
-
-    In life triumphs, victories, earnestly I seek Thee
-    In the shadow of the Almighty, earnestly I seek Thee
-
-    None but You, and You alone
-    Take my life, make it Your own
-    In my offering, build Your home
-    Earnestly I seek Thee
-
-    I sing to You because You’re good
-    And Your love is better than life
-    I will live to bring You praise
-    I will bless You always
-
-    Who am I that You would care? Earnestly I seek Thee
-    All my days, my nights, You’re there; earnestly I seek Thee
-
-    None but You, and You alone
-    Take my life, make it Your own
-    In my offering, build Your home
-    Earnestly I seek Thee
-
-    None but You, and You alone
-    Take my life, make it Your own
-    In my offering, build Your home
-    Earnestly I seek Thee
-  artist: Aaron Gillespie
-- song: My Hope is Built on Nothing Less
-  enabled: false
-  lyrics: |-
-    My hope is built on nothing less
-    Than Jesus’ blood and righteousness.
-    I dare not trust the sweetest frame,
-    But wholly lean on Jesus’ Name.
-
-    When darkness veils His lovely face,
-    I rest in His unchanging grace.
-    In every high and stormy gale,
-    My anchor holds within the veil.
-
-    On Christ the solid Rock I stand,
-    All other ground is sinking sand;
-    All other ground is sinking sand.
-
-    His oath, His covenant, His blood,
-    Support me in the whelming flood.
-    When all around my soul gives way,
-    He then is all my Hope and Stay.
-
-    On Christ the solid Rock I stand,
-    All other ground is sinking sand;
-    All other ground is sinking sand.
-
-    When He shall call with trumpet sound,
-    O may I then in Him be found.
-    Dressed in His Righteousness alone,
-    Faultless to stand before the throne.
-
-    On Christ the solid Rock I stand,
-    All other ground is sinking sand;
-    All other ground is sinking sand.
-  artist: Hymn
-- song: All Creatures of Our God and King
-  enabled: false
-  lyrics: |-
-    All creatures of our God and King
-    Lift up your voice and with us sing,
-    Alleluia! Alleluia!
-
-    Thou burning sun with golden beam,
-    Thou silver moon with softer gleam!
-    O praise Him! O praise Him!
-    Alleluia! Alleluia! Alleluia!
-
-    Thou rushing wind that art so strong
-    Ye clouds that sail in Heaven along,
-    O praise Him! Alleluia!
-
-    Thou rising moon, in praise rejoice,
-    Ye lights of evening, find a voice!
-    O praise Him! O praise Him!
-    Alleluia! Alleluia! Alleluia!
-
-    Oh water flow, pure and clear,
-    Make music for thy Lord to hear,
-    Thou fire masterful and bright,
-    That showers me with warmth and light.
-
-    Let all things their Creator bless,
-    And worship Him in humbleness,
-    O praise Him! Alleluia!
-
-    Praise, praise the Father, praise the Son,
-    And praise the Spirit, Three in One!
-    O praise Him! O praise Him!
-    Alleluia! Alleluia! Alleluia! Allelu – ia!
-  artist: William Henry Draper
-- song: How Great is Our God
-  enabled: false
-  lyrics: |-
-    The splendor of the King, clothed in majesty,
-    Let all the earth rejoice, all the earth rejoice.
-
-    He wraps Himself in light, and darkness tries to hide,
-    And trembles at his voice, trembles at his voice
-
-    How great is our God, sing with me,
-    How great is our God, all will see,
-    How great, how great is our God
-
-    Age to age He stands, and time is in His hands,
-    Beginning and the end, beginning and the end.
-
-    The Godhead, three in one: Father, Spirit, Son,
-    The Lion and the Lamb, the Lion and the Lamb
-
-    How great is our God, sing with me,
-    How great is our God, all will see,
-    How great, how great is our God
-
-    Name above all names, Worthy of all praise,
-    My heart will sing how great is our God
-    Name above all names, Worthy of all praise,
-    My heart will sing how great is our God
-
-    How great is our God, sing with me,
-    How great is our God, all will see,
-    How great, how great is our God
-  artist: Chris Tomlin
-- song: All the Poor and Powerless
-  enabled: false
-  lyrics: |-
-    All the poor and powerless and all the lost and lonely
-    All the thieves will come confess and know that You are ho – ly
-    Will know that You are ho – ly
-
-    All will sing out hallelujah
-    We will cry out hallelujah
-
-    All the hearts who are content and all who feel unworthy
-    All who hurt will nothing left will know that You are ho – ly
-
-    All will sing out hallelujah
-    We will cry out hallelujah
-    All will sing out hallelujah
-    We will cry out hallelujah
-
-    Shout it, go on and scream it from the mountains
-    Go on and tell it to the masses
-    That He is God
-
-    We will sing out hallelujah
-    We will cry out hallelujah
-    We will sing out hallelujah, God
-  artist: All Sons and Daughters
-- song: Brokenness Aside
-  enabled: false
-  lyrics: |-
-    Will your grace run out
-    If I let you down
-    'Cause all I know
-    Is how to run
-
-    'Cause I am a sinner
-    If it's not one thing it's another
-    Caught up in words
-    Tangled in lies
-    But You are a Savior
-    And You take brokenness aside
-    And make it beautiful
-    Beautiful
-
-    Will You call me child
-    When I tell you lies
-    'Cause all I know
-    Is how to cry
-
-    'Cause I am a sinner
-    If it's not one thing it's another
-    Caught up in words
-    Tangled in lies
-    But You are a Savior
-    And You take brokenness aside
-    And make it beautiful
-    Beautiful
-
-    You make it beautiful
-    You make it beautiful
-
-    You make it beautiful
-    You make it beautiful
-
-    'Cause I am a sinner
-    If it's not one thing it's another
-    Caught up in words
-    Tangled in lies
-    But You are a Savior
-    And You take brokenness aside
-    And make it beautiful
-    Beautiful, oh yeah
-  artist: All Sons and Daughters
-- song: Grace Greater than Our Sin
-  enabled: false
-  lyrics: |-
-    Marvelous grace of our loving Lord
-    Grace that exceeds our sin and our guilt
-    Yonder on Calvary's mount outpoured
-    There where the blood of the Lamb was spilt!
-
-    Grace, grace, God's grace
-    Grace that will pardon and cleanse within!
-    Grace, grace, God's grace
-    Grace that is greater than all our sin!
-
-    Sin and despair, like the sea waves cold
-    Threaten the soul with infinite loss
-    Grace that is greater, yes, grace untold
-    Points to the refuge, the mighty Cross
-
-    Grace that will pardon and cleanse within!
-    Grace, grace, God's grace
-    Grace that is greater than all our sin!
-
-    Dark is the stain that we cannot hide
-    What can avail to wash it away?
-    Look! There is flowing a crimson tide
-    Younger than every yesterday
-
-    Grace that will pardon and cleanse within!
-    Grace, grace, God's grace
-    Grace that is greater than all our sin!
-- song: Come, Ye Sinners
-  enabled: false
-  lyrics: |-
-    Come ye sinners, poor and needy; Weak and wounded, sick and sore
-    Jesus ready stands to save you; Full of pity, love and power
-
-    Come ye thirsty, come and welcome; God's free bounty glorify
-    True belief and true repentance; Every grace that brings you nigh
-
-    I will arise and go to Jesus; He will embrace me in His arms
-    And in the arms of my great Savior, there are ten thousand charms
-
-    Come ye weary, heavy laden; Lost and ruined by the fall
-    If you tarry until you're better, you will never come at all
-
-    I will arise and go to Jesus; He will embrace me in His arms
-    And in the arms of my great Savior, there are ten thousand charms
-
-    I will arise and go to Jesus; He will embrace me in His arms
-    And in the arms of my great Savior, there are ten thousand charms
-
-    I will arise and go to Jesus; He will embrace me in His arms
-    And in the arms of my great Savior, there are ten thousand charms
-
-    There are ten thousand charms; There are ten thousand charms
-  artist: Fernando Ortega
-- song: What a Beautiful Name
-  enabled: false
-  lyrics: |-
-    You were the Word at the beginning
-    One With God the Lord Most High
-    Your hidden glory in creation
-    Now revealed in You our Christ
-
-    What a beautiful Name it is
-    What a beautiful Name it is
-    The Name of Jesus Christ my King
-
-    What a beautiful Name it is
-    Nothing compares to this
-    What a beautiful Name it is
-    The Name of Jesus
-
-    You didn't want heaven without us
-    So Jesus, You brought heaven down
-    My sin was great, Your love was greater
-    What could separate us now
-
-    What a wonderful Name it is
-    What a wonderful Name it is
-    The Name of Jesus Christ my King
-
-    What a wonderful Name it is
-    Nothing compares to this
-    What a wonderful Name it is
-    The Name of Jesus
-    What a wonderful Name it is
-    The Name of Jesus
-
-    Death could not hold You, the veil tore before You
-    You silenced the boast, of sin and grave
-    The heavens are roaring, the praise of Your glory
-    For You are raised to life again
-
-    You have no rival, You have no equal
-    Now and forever, God You reign
-    Yours is the Kingdom, Yours is the glory
-    Yours is the Name, above all names
-
-    What a powerful Name it is
-    What a powerful Name it is
-    The Name of Jesus Christ my King
-
-    What a powerful Name it is
-    Nothing can stand against
-    What a powerful Name it is
-    The Name of Jesus
-
-    You have no rival, You have no equal
-    Now and forever, God You reign
-    Yours is the Kingdom, Yours is the glory
-    Yours is the Name, above all names
-
-    What a powerful Name it is
-    What a powerful Name it is
-    The Name of Jesus Christ my King
-
-    What a powerful Name it is
-    Nothing can stand against
-    What a powerful Name it is
-    The Name of Jesus
-
-    What a powerful Name it is
-    The Name of Jesus
-    What a powerful Name it is
-    The Name of Jesus
-  artist: Hillsong United
-- song: We Are Blessed
-  enabled: false
-  lyrics: |-
-    We are loved at the end of our rope
-    When we're less there is more of the Lord
-    In the fight for our souls we must learn to let go
-    And abandon who we are
-
-    We are loved when we feel all is lost
-    When the shadows are cast on the cross
-    Only then can we know the embrace of the one
-    Who's carried us along
-
-    We are blessed, we are blessed
-    We are blessed, we are blessed
-
-    We are loved when we feel most content
-    With who we are, nothing more nothing less
-    We'll inherit the earth declaring Your worth
-    Bring glory to Your name
-
-    We are blessed, we are blessed
-    We are blessed, we are blessed
-    We are blessed, we are blessed
-    We are blessed, we are blessed
-
-    We're blessed, we're loved
-    Our hearts, our souls, we now rejoice, rejoice
-    We're blessed, we're loved
-    Our hearts, our souls, we now rejoice, rejoice
-  artist: All Sons and Daughters
-- song: Good Good Father
-  enabled: false
-  lyrics: |-
-    I've heard a thousand stories of what they think you're like
-    But I've heard the tender whispers of love in the dead of night
-    And you tell me that you're pleased
-    And that I'm never alone
-
-    You're a good good father
-    It's who you are, it's who you are, it's who you are
-    And I'm loved by you
-    It's who I am, it's who I am, it's who I am
-
-    I've seen many searching for answers far and wide
-    But I know we're all searching
-    For answers only you provide
-    'Cause you know just what we need
-    Before we say a word
-
-    You're a good good father
-    It's who you are, it's who you are, it's who you are
-    And I'm loved by you
-    It's who I am, it's who I am, it's who I am
-
-    Because you are perfect in all of your ways
-    You are perfect in all of your ways
-    You are perfect in all of your ways to us
-
-    You are…
-  artist: Chris Tomlin
-- song: Christ Be All Around Me
-  enabled: false
-  lyrics: |-
-    As I rise, strength of God
-    Go before, lift me up
-    As I wake, eyes of God
-    Look upon, be my sight
-
-    As I wait, heart of God
-    Satisfy and sustain
-    As I hear, voice of God
-    Lead me on, and be my guide
-    And be my guide
-
-    Above and below me
-    Before and behind me
-    In every eye that sees me
-    Christ be all around me
-    Above and below me
-    Before and behind me
-    In every eye that sees me
-    Christ be all around me
-    Whoa...Whoa...Christ be all around me
-
-    As I go, hand of God
-    My defense, by my side
-    As I rest, breath of God
-    Fall upon, bring me peace
-    Bring me peace
-
-    Your life, Your death
-    Your blood was shed
-    For every moment
-    Every moment
-  artist: Michael W Smith
+  song: Come Thou Fount

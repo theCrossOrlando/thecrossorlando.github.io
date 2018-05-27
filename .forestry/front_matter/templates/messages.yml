@@ -1,5 +1,47 @@
 ---
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  default: ''
+  config:
+    required: true
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: 2018-04-29 14:00:49 +0000
+  config:
+    required: true
+- name: file
+  label: File
+  type: text
+  hidden: false
+  default: http://crosssermons.cflcn.org/
+- name: excerpt
+  label: Excerpt
+  type: text
+  hidden: false
+  default: ''
+- name: summary
+  label: Summary
+  type: textarea
+  hidden: false
+  default: ''
+- name: duration
+  label: Duration
+  type: text
+  hidden: false
+  default: ''
+- name: length
+  label: Length
+  type: text
+  hidden: false
+  default: ''
 pages:
+- _messages/a-new-commandment-of-love.md
 - _messages/a-kingdom-of-priests.md
 - _messages/the-sacraments.md
 - _messages/acts-2.md
@@ -37,44 +79,3 @@ pages:
 - _messages/2017-03-19.md
 - _messages/2017-02-19.md
 - _messages/2017-02-26.md
-hide_body: true
-is_partial: false
-fields:
-- type: text
-  name: title
-  label: Title
-  default: ''
-  config:
-    required: true
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: 2018-04-29 10:00:49 -0400
-  config:
-    required: true
-- name: file
-  label: File
-  type: text
-  hidden: false
-  default: http://crosssermons.cflcn.org/
-- name: excerpt
-  label: Excerpt
-  type: text
-  hidden: false
-  default: ''
-- name: summary
-  label: Summary
-  type: textarea
-  hidden: false
-  default: ''
-- name: duration
-  label: Duration
-  type: text
-  hidden: false
-  default: ''
-- name: length
-  label: Length
-  type: text
-  hidden: false
-  default: ''
