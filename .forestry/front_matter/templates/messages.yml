@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _messages/the-body-of-christ-in-need-of-each-other.md
 - _messages/a-new-commandment-of-love.md
 - _messages/a-kingdom-of-priests.md
 - _messages/the-sacraments.md
