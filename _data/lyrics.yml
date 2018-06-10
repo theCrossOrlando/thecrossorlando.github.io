@@ -1,4 +1,177 @@
----
+- artist: Ascend the Hill
+  enabled: true
+  lyrics: |-
+    Oh, love that will not let me go
+    I rest my weary soul in thee
+    I give you back the life I owe
+    And in your ocean depths its flow
+    May richer, fuller be
+
+    My life is not my own
+    It's yours
+    My life is not my own
+    I know it's yours
+
+    Oh, light that follows all my way
+    I yield my flickering torch to thee
+    And my heart restores its borrowed ray
+    That in your sunshine's blaze its day
+    May brighter, fairer be
+
+    So light a fire in my heart
+    And I'll burn for you
+    So light a fire in my heart
+    And I'll burn for you
+
+    Oh, joy, that seeks me through the pain
+    I cannot close my heart to thee
+    I trace the rainbow through the rain
+    And feel the promise is not in vain
+    That morn shall tearless be
+
+    So anoint me with joy
+    And joyful I will be
+    So anoint me with joy
+    And joyful I will be
+
+    Oh, cross that's lifing up my head
+    I dare not ask to fly from thee
+    I lay in dust life's glory dead
+    And from the ground there blossoms red
+    Life that shall endless be
+
+    We will sing:
+    Holy, holy
+    Is the King of Kings
+    And we will sing:
+    Holy, holy
+    Is the King of Kings
+
+    On that day we will sing:
+    We will join with the angels and we will sing:
+  song: Oh Love That Will Not Let Me Go
+- artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    I could just sit
+    I could just sit and wait for all Your goodness
+    Hope to feel Your presence
+    And I could just stay
+    I could just stay right where I am and hope to feel You
+    Hope to feel something again
+
+    And I could hold on
+    I could hold on to who I am and never let You
+    Change me from the inside
+    And I could be safe
+    I could be safe here in Your arms and never leave home
+    Never let these walls down
+
+    But You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    You have called me higher
+    You have called me deeper
+    And I'll go where You lead me Lord
+    Where You lead me
+    Where You lead me Lord
+
+    And I could hold on
+    I could hold on to who I am and never let You
+    Change me from the inside
+    And I could be safe
+    I could be safe here in Your arms and never leave home
+    Never let these walls down
+
+    But You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    You have called me higher
+    You have called me deeper
+    And I'll go where You lead me Lord
+    Where You lead me
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+    So let Your mercy
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+    So let Your mercy light the path before me
+
+    Cause You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    [x4]
+
+    Where You lead me
+    Where You lead me Lord
+    [x2]
+  song: Called Me Higher
+- artist: Jon Foreman
+  enabled: true
+  lyrics: |-
+    Heavenly Father
+    You always amaze me
+    Let Your kingdom come in my world
+    And in my life
+
+    Give me the food I need to live through today
+    And forgive me as I forgive the people that wrong me
+
+    Lead me far from temptation
+    Deliver me from the evil one
+
+    I look out the window
+    The birds are composing
+    Not a note is out of tune
+    Or out of place
+
+    I walk to the meadow
+    And stare at the flowers
+    Better dressed than any girl
+    On her wedding day
+
+    So why should I worry?
+    Why do I freak out?
+    God knows what I need!
+    You know what I need!
+
+    Your love is strong
+
+    The Kingdom of the Heavens
+    Is now advancing
+    Invade my heart
+    Invade this broken town
+
+    The Kingdom of the Heavens
+    Is buried treasure
+    Would you sell yourself
+    To buy the one you've found?
+
+    Two things You told me
+    That You are strong
+    And You love me,
+    Yes You love me
+
+    Your love is strong
+
+    Our God in heaven
+    Hallowed be thy name above all names
+    Your kingdom come
+    Your will be done
+    On earth as it is in heaven
+    Give us, today, our daily bread
+    Forgive us weary sinners
+    Keep us far from our vices and
+    Deliver us from these prisons
+  song: Your Love is Strong
 - artist: Francis of Assisi
   enabled: false
   lyrics: |-
@@ -789,7 +962,7 @@
     on,\nAnd through eternity I’ll sing on."
   song: What Wondrous Love is This?
 - artist: United Pursuit Band
-  enabled: true
+  enabled: false
   lyrics: "I lean not on my own understanding,\nMy life is in the hands of the maker
     of heaven\n\nI Give it all to you God, \nTrusting that you'll make something beautiful
     out of me\n\nI will climb this mountain \nWith my hands wide open\nI will climb
@@ -798,7 +971,7 @@
     on to\n\nAll Glory To God, Forever. Amen"
   song: Nothing I Hold On To
 - artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     Before the throne of God above
     I have a strong and perfect plea.
@@ -911,7 +1084,7 @@
     Surely as the rising sun
   song: Come Let Us Return to The Lord
 - artist: Jesus Culture
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
 
@@ -1970,7 +2143,7 @@
     Nothing but the blood of Jesus.
   song: Nothing But The Blood
 - artist: Horatio G. Spafford
-  enabled: true
+  enabled: false
   lyrics: |-
     When peace, like a river, attendeth my way,
     When sorrows like sea billows roll;
