@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _messages/1-peter.md
 - _messages/the-sacraments.md
 - _messages/acts-2.md
 - _messages/the-body-of-christ-in-need-of-each-other.md
