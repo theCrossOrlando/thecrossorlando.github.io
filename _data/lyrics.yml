@@ -1,5 +1,202 @@
-- artist: All Sons & Daughters
+- artist: Will Reagan & United Pursuit
   enabled: true
+  lyrics: |
+    Your Name is high and above
+    Every name on Earth and in Heaven
+    Your Name is high and above
+    Every name on Earth and in Heaven
+
+    You are good, You are holy, You are worthy
+    You are good, You are holy, You are worthy
+
+    Praise is befitting to the One who died
+    Praise is befitting to the One who died
+
+    Your Name is high and above
+    Every name on Earth and in Heaven
+    Your Name is high and above
+    Every name on Earth and in Heaven
+
+    You are good, You are holy, You are worthy
+    You are good, You are holy, You are worthy
+    (You are good)
+    You are good, You are holy, You are worthy
+    You are good, You are holy, You are worthy
+
+    Praise is befitting to the One who died
+    Praise is befitting to the One who died
+
+    [Interlude]
+
+    (You are good)
+    You are good, You are holy, You are worthy
+    You are good, You are holy, You are worthy
+    (You are good)
+    You are good, You are holy, You are worthy
+    You are good, You are holy, You are worthy
+
+    (Sing praise)
+    Praise is befitting to the One who died
+    Praise is befitting to the One who died
+    Praise is befitting to the One who died
+    Praise is befitting to the One who died
+  song: Praise Is Befitting
+- artist:
+  enabled: true
+  lyrics: |
+    Grander earth has quaked before
+    Moved by the sound of His voice
+    Seas that are shaken and stirred
+    Can be calmed and broken for my regard
+
+    And through it all, through it all
+    My eyes are on You
+    And through it all, through it all
+    It is well
+
+    And through it all, through it all
+    My eyes are on You
+    And it is well with me
+
+    And far be it from me to not believe
+    Even when my eyes can't see
+
+    And this mountain that's in front of me
+    Will be thrown into the midst of the sea
+
+    And through it all, through it all
+    My eyes are on You
+    And through it all, through it all
+    It is well
+
+    And through it all, through it all
+    My eyes are on You
+    And it is well
+    It is well
+
+    So let go my soul and trust in Him
+    The waves and wind still know His name
+    So let go my soul and trust in Him
+    The waves and wind still know His name
+    So let go my soul and trust in Him
+    The waves and wind still know His name
+    The waves and wind still know His name
+  song: It is Well
+- artist:
+  enabled: true
+  lyrics: |
+    There's nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
+    I've tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    Holy Spirit, You are welcome here
+    Come flood this place and fill the atmosphere
+    Your glory, God, is what our hearts long for
+    To be overcome by Your presence, Lord
+    Your presence, Lord
+
+    There's nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
+
+    I've tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    Holy Spirit, You are welcome here
+    Come flood this place and fill the atmosphere
+    Your glory, God, is what our hearts long for
+    To be overcome by Your presence, Lord
+    Your presence, Lord
+
+    [x4]
+    Let us become more aware of Your presence
+    Let us experience the glory of Your goodness
+
+    Holy Spirit, You are welcome here
+    Come flood this place and fill the atmosphere
+    Your glory, God, is what our hearts long for
+    To be overcome by Your presence, Lord
+  song: Holy Spirit
+- artist:
+  enabled: true
+  lyrics: |
+    Heavenly Father, You always amaze me
+    Let Your kingdom come in my world and in my life
+    Give me the food I need
+    To live through today
+
+    And forgive me as I forgive
+    The people that wrong me
+    Lead me far from temptation
+    Deliver me from the evil one
+
+    I look out the window
+    The birds are composing
+    Not a note is out of tune
+    Or out of place
+
+    I walk to the meadow
+    And stare at the flowers
+    Better dressed than any girl
+    On her wedding day
+
+    So why should I worry?
+    Why do I freak out?
+    God knows what I need
+    You know what I need
+
+    Your love is, Your love is
+    Your love is strong
+    Your love is, Your love is
+    Your love is strong
+    Your love is, Your love is
+    Your love is strong
+
+    The Kingdom of the Heavens
+    Is now advancing
+    Invade my heart
+    Invade this broken town
+
+    The Kingdom of the Heavens
+    Is buried treasure
+    Would you sell yourself
+    To buy the one you've found?
+
+    Two things You told me
+    That You are strong
+    And You love me
+    Yes, You love me
+
+    [x4]
+    Your love is, Your love is
+    Your love is strong
+
+    Our God in Heaven
+    Hallowed be Thy name
+    Above all names
+    Your kingdom come
+    Your will be done
+
+    On earth as it is in Heaven
+    Give us today our daily bread
+    Forgive us weary sinners
+    Keep us far from our vices
+    And deliver us from these prisons
+  song: Your Love Is Strong
+- artist: All Sons & Daughters
+  enabled: false
   lyrics: |
     Will your grace run out
     If I let you down
@@ -30,7 +227,7 @@
     Beautiful
   song: Brokenness Aside
 - artist: Jesus Culture
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
 
@@ -66,7 +263,7 @@
     Let us experience the glory of Your goodness
   song: Holy Spirit
 - artist: Third Day
-  enabled: true
+  enabled: false
   lyrics: |-
     You are so good to me
     You heal my broken heart
@@ -91,7 +288,7 @@
     And I want to sing forever
   song: You Are So Good To Me
 - artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, love that will not let me go
     I rest my weary soul in thee
@@ -143,7 +340,7 @@
     We will join with the angels and we will sing:
   song: Oh Love That Will Not Let Me Go
 - artist:
-  enabled: true
+  enabled: false
   lyrics: |-
     Praise God from Whom all blessings flow
     Praise Him all creatures here below
