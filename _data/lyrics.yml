@@ -289,7 +289,7 @@
     And I want to sing forever
   song: You Are So Good To Me
 - artist: Ascend the Hill
-  enabled: false
+  enabled: true
   lyrics: |-
     Oh, love that will not let me go
     I rest my weary soul in thee
