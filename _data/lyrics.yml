@@ -1,3 +1,4 @@
+---
 - artist: Will Reagan & United Pursuit
   enabled: true
   lyrics: |
@@ -41,8 +42,8 @@
     Praise is befitting to the One who died
     Praise is befitting to the One who died
   song: Praise Is Befitting
-- artist:
-  enabled: true
+- artist: 
+  enabled: false
   lyrics: |
     Grander earth has quaked before
     Moved by the sound of His voice
@@ -82,7 +83,7 @@
     The waves and wind still know His name
     The waves and wind still know His name
   song: It is Well
-- artist:
+- artist: 
   enabled: true
   lyrics: |
     There's nothing worth more
@@ -129,7 +130,7 @@
     Your glory, God, is what our hearts long for
     To be overcome by Your presence, Lord
   song: Holy Spirit
-- artist:
+- artist: 
   enabled: true
   lyrics: |
     Heavenly Father, You always amaze me
@@ -339,7 +340,7 @@
     On that day we will sing:
     We will join with the angels and we will sing:
   song: Oh Love That Will Not Let Me Go
-- artist:
+- artist: 
   enabled: false
   lyrics: |-
     Praise God from Whom all blessings flow
