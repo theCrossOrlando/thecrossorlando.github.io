@@ -1,6 +1,114 @@
 ---
-- artist: Will Reagan & United Pursuit
+- artist:
   enabled: true
+  lyrics: |
+    How deep the Father’s love for us,
+    How vast beyond all measure,
+    That He should give His only Son
+    To make a wretch His treasure.
+    How great the pain of searing loss -
+    The Father turns His face away,
+    As wounds which mar the Chosen One
+    Bring many sons to glory.
+
+    Behold the man upon a cross,
+    My sin upon His shoulders;
+    Ashamed, I hear my mocking voice
+    Call out among the scoffers.
+    It was my sin that held Him there
+    Until it was accomplished;
+    His dying breath has brought me life -
+    I know that it is finished.
+
+    I will not boast in anything,
+    No gifts, no power, no wisdom;
+    But I will boast in Jesus Christ,
+    His death and resurrection.
+    Why should I gain from His reward?
+    I cannot give an answer;
+    But this I know with all my heart -
+    His wounds have paid my ransom.
+  song: How Deep The Father's Love For Us
+- artist: 
+  enabled: true
+  lyrics: |
+    There's nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
+    I've tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    Holy Spirit, You are welcome here
+    Come flood this place and fill the atmosphere
+    Your glory, God, is what our hearts long for
+    To be overcome by Your presence, Lord
+    Your presence, Lord
+
+    There's nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
+
+    I've tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    Holy Spirit, You are welcome here
+    Come flood this place and fill the atmosphere
+    Your glory, God, is what our hearts long for
+    To be overcome by Your presence, Lord
+    Your presence, Lord
+
+    [x4]
+    Let us become more aware of Your presence
+    Let us experience the glory of Your goodness
+
+    Holy Spirit, You are welcome here
+    Come flood this place and fill the atmosphere
+    Your glory, God, is what our hearts long for
+    To be overcome by Your presence, Lord
+  song: Holy Spirit
+- artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    Come thou fount of every blessing
+    Tune my heart to sing thy grace
+    Streams of mercy never ceasing
+    Call for songs of loudest praise
+    Teach me some melodious sonnet
+    Sung by flaming tongues above
+    I'll praise the mount I'm fixed upon it
+    Mount of thy redeeming love
+
+    Here I raise my Ebenezer
+    Hither by thy help I come
+    And I hope by thy good pleasure
+    Safely to arrive at home
+
+    Jesus sought me when a stranger
+    Wondering from the fold of God
+    He, to rescue me from danger
+    Interposed His precious blood
+
+    O to grace how great a debtor daily
+    I'm constrained to be!
+    Let thy goodness like a fetter,
+    bind my wandering heart to thee
+    Prone to wander Lord I feel it,
+    prone to leave the God I love
+    Here's my heart, O take and seal it,
+    seal it for thy courts above
+  song: Come Thou Fount
+- artist: Will Reagan & United Pursuit
+  enabled: false
   lyrics: |
     Your Name is high and above
     Every name on Earth and in Heaven
@@ -84,54 +192,7 @@
     The waves and wind still know His name
   song: It is Well
 - artist: 
-  enabled: true
-  lyrics: |
-    There's nothing worth more
-    That could ever come close
-    No thing can compare
-    You're our living hope
-    Your presence, Lord
-    I've tasted and seen
-    Of the sweetest of loves
-    Where my heart becomes free
-    And my shame is undone
-    Your presence, Lord
-
-    Holy Spirit, You are welcome here
-    Come flood this place and fill the atmosphere
-    Your glory, God, is what our hearts long for
-    To be overcome by Your presence, Lord
-    Your presence, Lord
-
-    There's nothing worth more
-    That could ever come close
-    No thing can compare
-    You're our living hope
-    Your presence, Lord
-
-    I've tasted and seen
-    Of the sweetest of loves
-    Where my heart becomes free
-    And my shame is undone
-    Your presence, Lord
-
-    Holy Spirit, You are welcome here
-    Come flood this place and fill the atmosphere
-    Your glory, God, is what our hearts long for
-    To be overcome by Your presence, Lord
-    Your presence, Lord
-
-    [x4]
-    Let us become more aware of Your presence
-    Let us experience the glory of Your goodness
-
-    Holy Spirit, You are welcome here
-    Come flood this place and fill the atmosphere
-    Your glory, God, is what our hearts long for
-    To be overcome by Your presence, Lord
-  song: Holy Spirit
-- artist: 
-  enabled: true
+  enabled: false
   lyrics: |
     Heavenly Father, You always amaze me
     Let Your kingdom come in my world and in my life
@@ -289,7 +350,7 @@
     And I want to sing forever
   song: You Are So Good To Me
 - artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, love that will not let me go
     I rest my weary soul in thee
@@ -349,37 +410,6 @@
     Praise Father Son and Holy Ghost
     Amen amen amen amen
   song: Doxology
-- artist: Chris Tomlin
-  enabled: false
-  lyrics: |-
-    Come thou fount of every blessing
-    Tune my heart to sing thy grace
-    Streams of mercy never ceasing
-    Call for songs of loudest praise
-    Teach me some melodious sonnet
-    Sung by flaming tongues above
-    I'll praise the mount I'm fixed upon it
-    Mount of thy redeeming love
-
-    Here I raise my Ebenezer
-    Hither by thy help I come
-    And I hope by thy good pleasure
-    Safely to arrive at home
-
-    Jesus sought me when a stranger
-    Wondering from the fold of God
-    He, to rescue me from danger
-    Interposed His precious blood
-
-    O to grace how great a debtor daily
-    I'm constrained to be!
-    Let thy goodness like a fetter,
-    bind my wandering heart to thee
-    Prone to wander Lord I feel it,
-    prone to leave the God I love
-    Here's my heart, O take and seal it,
-    seal it for thy courts above
-  song: Come Thou Fount
 - artist: Dallan Forgaill
   enabled: false
   lyrics: |-
