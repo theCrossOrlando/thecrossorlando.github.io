@@ -1,7 +1,115 @@
 ---
-- song: How Deep The Father's Love For Us
+- song: Your Great Name
   artist:
   enabled: true
+  lyrics: |-
+    Lost are saved, find their way, at the sound of Your great name
+    All condemned, feel no shame, at the sound of Your great name
+    Every fear, has no place, at the sound of Your great name
+    The enemy, he has to leave, at the sound of Your great name
+
+    Jesus, worthy is the lamb that was slain for us, son of God and man
+    You are high and lifted up, that all the world will praise Your great name
+
+    All the weak, find their strength, at the sound of Your great name
+    Hungry souls, receive grace, at the sound of Your great name
+    The fatherless, they find their rest, at the sound of Your great name
+    Sick are healed, and the dead are raised, at the sound of Your great name
+
+    Jesus, worthy is the lamb that was slain for us, son of god and man
+    You are high and lifted up, that all the world will praise Your great name
+    Oh, Your great name
+
+    Redeemer, my healer, almighty
+    My savior, defender, You are my king
+
+    Redeemer, my healer, almighty
+    My savior, defender, You are my king
+
+    Jesus, the name of Jesus
+    You are high and lifted up and all the world will praise Your great name
+    Slain for us, son of God and man
+    You are high and lifted up, that all the world will praise Your great name
+    Your great name, yeah
+    Your great name, yeah
+- song: Amazing Grace
+  artist:
+  enabled: true
+  lyrics: |-
+    Amazing Grace, How sweet the sound
+    That saved a wretch like me
+    I once was lost, but now am found
+    T'was blind but now I see
+
+    T'was Grace that taught my heart to fear
+    And Grace, my fears relieved
+    How precious did that grace appear
+    The hour I first believed
+
+    Through many dangers, toils and snares
+    We have already come.
+    T'was grace that brought us safe thus far
+    And grace will lead us home,
+    And grace will lead us home
+
+    Amazing grace, Howe Sweet the sound
+    That saved a wretch like me
+    I once was lost but now am found
+    T'was blind but now I see
+
+    Was blind, but now I see.
+- song: Create in Me a Clean Heart
+  artist:
+  enabled: true
+  lyrics: |-
+    Create in me a clean heart
+    And purify me, purify me
+    Create in me a clean heart
+    So I may worship Thee, everybody say it
+
+    Create in me a clean heart
+    And purify me, purify me
+    Create in me a clean heart
+    So I may worship Thee
+    Say it now, say it now
+
+    Create in me a clean heart
+    And purify me, purify me
+    Create in me a clean heart
+    So I may worship Thee
+
+    Cast me not away from thy presence
+    Please don't take your spirit from me
+    And restore the joy of salvation
+    So that I may worship Thee
+    Please Lord God
+
+    Create in me a clean heart
+    And purify me, purify me
+    Create in me a clean heart
+    So I may worship Thee
+
+    Cast me not away from thy presence
+    Please don't take your spirit from me
+    And restore the joy of salvation
+    So that I may worship Thee
+
+    Create in me a clean heart
+    And purify me, purify me
+    Create in me a clean heart
+    So I may worship Thee
+
+    Create in me a clean heart
+    And purify me, purify me
+    Create in me a clean heart
+    So I may worship Thee
+    So I may worship Thee
+    So that I may worship Thee
+    So that I may worship Thee
+    So that I may worship Thee
+- song: How Deep The Father's Love For Us
+  artist:
+  enabled: false
   lyrics: |-
     How deep the Father’s love for us,
     How vast beyond all measure,
@@ -67,7 +175,7 @@
     Let us experience the glory of Your goodness
 - song: Come Thou Fount
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     Come thou fount of every blessing
     Tune my heart to sing thy grace
