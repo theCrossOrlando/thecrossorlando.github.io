@@ -1,7 +1,127 @@
----
-- song: Your Great Name
+- song: Come Ye Sinners, Poor And Needy
+  artist: Joseph Hart
+  enabled: true
+  lyrics: |-
+    Come, ye sinners, poor and needy,
+    Weak and wounded, sick and sore;
+    Jesus ready stands to save you,
+    Full of pity, love and power.
+
+    Refrain
+
+    I will arise and go to Jesus,
+    He will embrace me in His arms;
+    In the arms of my dear Savior,
+    O there are ten thousand charms.
+
+    Come, ye thirsty, come, and welcome,
+    God’s free bounty glorify;
+    True belief and true repentance,
+    Every grace that brings you nigh.
+
+    Refrain
+
+    Come, ye weary, heavy laden,
+    Lost and ruined by the fall;
+    If you tarry till you’re better,
+    You will never come at all.
+
+    Refrain
+- song: Where Did My Hope Go
+  artist: Kat Porter
+  enabled: true
+  lyrics: |-
+    Where did your hope go?
+    Where did your hope go?
+
+    I'll follow where
+    Your voice beckons to me
+    My spirit is willing even when my heart's weak
+    To put one foot in front of the other
+    While gazing into Your eyes my Lover
+
+    Where did my hope go?
+    Where did my hope go?
+
+    You are the joy set before me
+- song: Here's My Heart Lord
   artist:
   enabled: true
+  lyrics: |-
+    Here's my heart, Lord [x3]
+    Speak what is true
+
+    I am found, I am Yours
+    I am loved, I'm made pure
+    I have life, I can breathe
+    I am healed, I am free
+
+    Here's my heart, Lord [x3]
+    Speak what is true
+
+    I am found, I am Yours
+    I am loved, I'm made pure
+    I have life, I can breathe
+    I am healed, I am free
+
+    You are strong, You are sure
+    You are life, You endure
+    You are good, always true
+    You are light breaking through
+
+    Here's my heart, Lord [x3]
+    Speak what is true
+
+    Here's my life, Lord [x3]
+    Speak what is true [x3]
+
+    I am found, I am Yours
+    I am loved, I'm made pure
+    I have life, I can breathe
+    I am healed, I am free
+
+    You are strong, You are sure
+    You are life, You endure
+    You are good, always true
+    You are light breaking through
+
+    You are more than enough
+    You are here, You are love
+    You are hope, You are grace
+    You're all I have, You're everything
+
+    Here's my heart, Lord [x3]
+    Speak what is true
+
+    Here's my life, Lord [x3]
+    Speak what is true [x3]
+- song: Closer Walk With Thee
+  artist:
+  enabled: true
+  lyrics: |-
+    I am weak, but Thou art strong;
+    Jesus, keep me from all wrong;
+    I’ll be satisfied as long
+    As I walk, let me walk close to Thee.
+
+    Refrain:
+    Just a closer walk with Thee,
+    Grant it, Jesus, is my plea,
+    Daily walking close to Thee,
+    Let it be, dear Lord, let it be.
+
+    In this life of toil and snares,
+    If I falter, Lord, who cares?
+    Who with me my burden shares?
+    None but Thee, dear Lord, none but Thee.
+
+    When my feeble life is o’er,
+    Time for me will be no more;
+    Guide me gently, safely o’er
+    To Thy kingdom shore, to Thy shore.
+- song: Your Great Name
+  artist:
+  enabled: false
   lyrics: |-
     Lost are saved, find their way, at the sound of Your great name
     All condemned, feel no shame, at the sound of Your great name
@@ -34,7 +154,7 @@
     Your great name, yeah
 - song: Amazing Grace
   artist:
-  enabled: true
+  enabled: false
   lyrics: |-
     Amazing Grace, How sweet the sound
     That saved a wretch like me
@@ -60,7 +180,7 @@
     Was blind, but now I see.
 - song: Create in Me a Clean Heart
   artist:
-  enabled: true
+  enabled: false
   lyrics: |-
     Create in me a clean heart
     And purify me, purify me
@@ -1421,23 +1541,6 @@
     There's an army rising up
     There's an army rising up
     There's an army rising up
-- song: Where Did My Hope Go
-  artist: Kat Porter
-  enabled: false
-  lyrics: |-
-    Where did your hope go?
-    Where did your hope go?
-
-    I'll follow where
-    Your voice beckons to me
-    My spirit is willing even when my heart's weak
-    To put one foot in front of the other
-    While gazing into Your eyes my Lover
-
-    Where did my hope go?
-    Where did my hope go?
-
-    You are the joy set before me
 - song: Come Thou Long Expected Jesus
   artist: Chris Tomlin
   enabled: false
@@ -2188,30 +2291,6 @@
     Once and for all
     Oh once and for all
     Once and for all
-- song: Closer Walk With Thee
-  artist: Unknown
-  enabled: false
-  lyrics: |-
-    I am weak, but Thou art strong;
-    Jesus, keep me from all wrong;
-    I’ll be satisfied as long
-    As I walk, let me walk close to Thee.
-
-    Refrain:
-    Just a closer walk with Thee,
-    Grant it, Jesus, is my plea,
-    Daily walking close to Thee,
-    Let it be, dear Lord, let it be.
-
-    In this life of toil and snares,
-    If I falter, Lord, who cares?
-    Who with me my burden shares?
-    None but Thee, dear Lord, none but Thee.
-
-    When my feeble life is o’er,
-    Time for me will be no more;
-    Guide me gently, safely o’er
-    To Thy kingdom shore, to Thy shore.
 - song: From The Rising Of The Sun (Psalm 113)
   artist: Sandra McCracken
   enabled: false
@@ -2757,32 +2836,3 @@
     The sky, not the grave, is our goal;
     Oh trump of the angel! Oh voice of the Lord!
     Blessèd hope, blessèd rest of my soul!
-- song: Come Ye Sinners, Poor And Needy
-  artist: Joseph Hart
-  enabled: false
-  lyrics: |-
-    Come, ye sinners, poor and needy,
-    Weak and wounded, sick and sore;
-    Jesus ready stands to save you,
-    Full of pity, love and power.
-
-    Refrain
-
-    I will arise and go to Jesus,
-    He will embrace me in His arms;
-    In the arms of my dear Savior,
-    O there are ten thousand charms.
-
-    Come, ye thirsty, come, and welcome,
-    God’s free bounty glorify;
-    True belief and true repentance,
-    Every grace that brings you nigh.
-
-    Refrain
-
-    Come, ye weary, heavy laden,
-    Lost and ruined by the fall;
-    If you tarry till you’re better,
-    You will never come at all.
-
-    Refrain
