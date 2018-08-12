@@ -1,6 +1,106 @@
+- song: Brokenness Aside
+  artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    Will your grace run out
+    If I let you down
+    'Cause all I know
+    Is how to run
+
+    'Cause I am a sinner
+    If it's not one thing it's another
+    Caught up in words
+    Tangled in lies
+    But You are a Savior
+    And You take brokenness aside
+    And make it beautiful
+    Beautiful
+
+    Will You call me child
+    When I tell you lies
+    'Cause all I know
+    Is how to cry
+
+    'Cause I am a sinner
+    If it's not one thing it's another
+    Caught up in words
+    Tangled in lies
+    But You are a Savior
+    And You take brokenness aside
+    And make it beautiful
+    Beautiful
+- song: Jesus Paid it All
+  artist:
+  enabled: true
+  lyrics: |-
+    I hear the savior say, thy strength indeed is small
+    Child of weakness, watch and pray, find in me thine all in all
+
+    \'Cause Jesus paid it all
+    All to him I owe
+    Sin had left a crimson stain, he washed it white as snow
+
+    Lord, now indeed I find thy power and thine alone
+    Can change the leper's spots and melt the heart of stone
+
+    \'Cause Jesus paid it all
+    All to him I owe
+    My sin had left this crimson stain, he washed it white as snow
+
+    It's washed away, all my sin
+    And all my shame
+
+    And when before the throne I stand in him complete
+    \"Jesus died my soul to save\" my lips shall still repeat
+
+    Jesus paid it all
+    All to him I owe
+    (Sin had left a crimson stain, he washed it white as snow)
+    (He washed it white as snow)
+
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    Well praise the one who paid my debt and raised this life up from the dead
+    Jesus
+    You are the one
+    The son of god
+    Conqueror of death
+    King of kings
+    The sacrificial lamb
+
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    Well praise the one who paid my debt and raised this life up from the dead
+    Jesus
+- song: House of God, Forever
+  artist: Jon Foreman
+  enabled: true
+  lyrics: |-
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest in fields of green with quiet streams
+    Even though I walk through the valley of death and dying
+    I will not fear \'cause you are with me
+    You are with me
+
+    Your shepherd staff Comforts me
+    You are my feast in the presence of enemy
+    Surely goodness
+    Will follow me
+    Follow me
+    In the house of God, forever
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
-  enabled: true
+  enabled: false
   lyrics: |-
     Come, ye sinners, poor and needy,
     Weak and wounded, sick and sore;
@@ -29,7 +129,7 @@
     Refrain
 - song: Where Did My Hope Go
   artist: Kat Porter
-  enabled: true
+  enabled: false
   lyrics: |-
     Where did your hope go?
     Where did your hope go?
@@ -46,7 +146,7 @@
     You are the joy set before me
 - song: Here's My Heart Lord
   artist:
-  enabled: true
+  enabled: false
   lyrics: |-
     Here's my heart, Lord [x3]
     Speak what is true
@@ -97,7 +197,7 @@
     Speak what is true [x3]
 - song: Closer Walk With Thee
   artist:
-  enabled: true
+  enabled: false
   lyrics: |-
     I am weak, but Thou art strong;
     Jesus, keep me from all wrong;
@@ -474,37 +574,6 @@
     Forgive us weary sinners
     Keep us far from our vices
     And deliver us from these prisons
-- song: Brokenness Aside
-  artist: All Sons & Daughters
-  enabled: false
-  lyrics: |-
-    Will your grace run out
-    If I let you down
-    'Cause all I know
-    Is how to run
-
-    'Cause I am a sinner
-    If it's not one thing it's another
-    Caught up in words
-    Tangled in lies
-    But You are a Savior
-    And You take brokenness aside
-    And make it beautiful
-    Beautiful
-
-    Will You call me child
-    When I tell you lies
-    'Cause all I know
-    Is how to cry
-
-    'Cause I am a sinner
-    If it's not one thing it's another
-    Caught up in words
-    Tangled in lies
-    But You are a Savior
-    And You take brokenness aside
-    And make it beautiful
-    Beautiful
 - song: You Are So Good To Me
   artist: Third Day
   enabled: false
@@ -2231,24 +2300,6 @@
     Forgive us weary sinners
     Keep us far from our vices and
     Deliver us from these prisons
-- song: House of God, Forever
-  artist: Jon Foreman
-  enabled: false
-  lyrics: |-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest in fields of green with quiet streams
-    Even though I walk through the valley of death and dying
-    I will not fear \'cause you are with me
-    You are with me
-
-    Your shepherd staff Comforts me
-    You are my feast in the presence of enemy
-    Surely goodness
-    Will follow me
-    Follow me
-    In the house of God, forever
 - song: Once and For All
   artist: Lauren Daigle
   enabled: false
