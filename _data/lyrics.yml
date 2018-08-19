@@ -1,6 +1,140 @@
+- song: 10,000 Reasons
+  artist: Matt Redman
+  enabled: true
+  lyrics: |-
+    Bless the Lord O my soul
+    O my soul
+    Worship His Holy name
+    Sing like never before
+    O my soul
+    I’ll worship Your Holy name
+
+    The sun comes up
+    It’s a new day dawning
+    It’s time to sing Your song again
+    Whatever may pass
+    And whatever lies before me
+    Let me be singing
+    When the evening comes
+
+    You’re rich in love
+    And You’re slow to anger
+    Your name is great
+    And Your heart is kind
+    For all Your goodness
+    I will keep on singing
+
+    Ten thousand reasons
+    For my heart to find
+
+    And on that day
+    When my strength is failing
+    The end draws near
+    And my time has come
+    Still my soul will
+    Sing Your praise unending
+
+    Ten thousand years
+    And then forevermore
+- song: Before the Throne
+  artist: Dustin Kensrue
+  enabled: true
+  lyrics: |-
+    Before the throne of God above
+    I have a strong and perfect plea.
+    A great high Priest whose Name is Love
+    Who ever lives and pleads for me
+    My name is graven on His hands
+    My name is written on His heart.
+    I know that while in Heaven He stands
+    No tongue can bid me thence depart
+    My life is hid with Christ on high
+
+    When Satan tempts me to despair
+    And tells me of the guilt within
+    Upward I look and see Him there
+    Who made an end of all my sin
+    Because the sinless Savior died
+    My sinful soul is counted free
+    For God the just is satisfied
+    To look on Him and pardon me.
+
+    Behold Him there the risen Lamb
+    My perfect spotless righteousness
+    The great unchangeable I AM
+    The King of glory and of grace,
+    One with Himself I cannot die
+    My soul is purchased by His blood,
+    My life is hid with Christ on high
+- song: Holy Spirit
+  artist: Jesus Culture
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+
+    There’s nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
+
+    [Chorus]
+
+    Holy Spirit, You are welcome here
+    Come flood this place
+    And fill the atmosphere
+    Your glory, God
+    Is what our hearts long for
+    To be overcome
+    By Your presence, Lord
+    Your presence, Lord
+
+    [Verse 2]
+
+    I’ve tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    [Bridge]
+
+    [4x]
+    Let us become more aware of Your presence
+    Let us experience the glory of Your goodness
+    Here I stand
+- song: I Belong to You
+  artist: Hillsong United
+  enabled: true
+  lyrics: |-
+    Forever in Your mighty hand
+    Living with Your promise
+    Written on my heart
+
+    I am Yours
+    Surrendered wholly to You
+    You set me in Your family
+    Calling me Your own
+
+    Now I
+    I belong to You
+    Lord I need
+    Your Spirit Your word Your truth
+    Hear my cry
+    My deep desire
+    To know You more
+
+    In Your Name
+    I will lift my hands
+    To the King
+    This anthem of praise I bring
+    Heaven knows
+    I long to love You
+    With all I am
+    I belong to You
 - song: Brokenness Aside
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     Will your grace run out
     If I let you down
@@ -31,7 +165,7 @@
     Beautiful
 - song: Jesus Paid it All
   artist:
-  enabled: true
+  enabled: false
   lyrics: |-
     I hear the savior say, thy strength indeed is small
     Child of weakness, watch and pray, find in me thine all in all
@@ -82,7 +216,7 @@
     Jesus
 - song: House of God, Forever
   artist: Jon Foreman
-  enabled: true
+  enabled: false
   lyrics: |-
     God is my shepherd
     I won't be wanting
@@ -357,42 +491,6 @@
     I cannot give an answer;
     But this I know with all my heart -
     His wounds have paid my ransom.
-- song: Holy Spirit
-  artist: Jesus Culture
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-
-    There’s nothing worth more
-    That could ever come close
-    No thing can compare
-    You're our living hope
-    Your presence, Lord
-
-    [Chorus]
-
-    Holy Spirit, You are welcome here
-    Come flood this place
-    And fill the atmosphere
-    Your glory, God
-    Is what our hearts long for
-    To be overcome
-    By Your presence, Lord
-    Your presence, Lord
-
-    [Verse 2]
-
-    I’ve tasted and seen
-    Of the sweetest of loves
-    Where my heart becomes free
-    And my shame is undone
-    Your presence, Lord
-
-    [Bridge]
-
-    [4x]
-    Let us become more aware of Your presence
-    Let us experience the glory of Your goodness
 - song: Come Thou Fount
   artist: Chris Tomlin
   enabled: false
@@ -1167,44 +1265,6 @@
     Still I will praise You, still I will praise You
 
     Chorus: (2x's)"
-- song: 10,000 Reasons
-  artist: Matt Redman
-  enabled: false
-  lyrics: |-
-    Bless the Lord O my soul
-    O my soul
-    Worship His Holy name
-    Sing like never before
-    O my soul
-    I’ll worship Your Holy name
-
-    The sun comes up
-    It’s a new day dawning
-    It’s time to sing Your song again
-    Whatever may pass
-    And whatever lies before me
-    Let me be singing
-    When the evening comes
-
-    You’re rich in love
-    And You’re slow to anger
-    Your name is great
-    And Your heart is kind
-    For all Your goodness
-    I will keep on singing
-
-    Ten thousand reasons
-    For my heart to find
-
-    And on that day
-    When my strength is failing
-    The end draws near
-    And my time has come
-    Still my soul will
-    Sing Your praise unending
-
-    Ten thousand years
-    And then forevermore
 - song: Come Holy One
   artist: Young Oceans
   enabled: false
@@ -1768,36 +1828,6 @@
     There is nothing I hold on to
 
     All Glory To God, Forever. Amen
-- song: Before the Throne
-  artist: Dustin Kensrue
-  enabled: false
-  lyrics: |-
-    Before the throne of God above
-    I have a strong and perfect plea.
-    A great high Priest whose Name is Love
-    Who ever lives and pleads for me
-    My name is graven on His hands
-    My name is written on His heart.
-    I know that while in Heaven He stands
-    No tongue can bid me thence depart
-    My life is hid with Christ on high
-
-    When Satan tempts me to despair
-    And tells me of the guilt within
-    Upward I look and see Him there
-    Who made an end of all my sin
-    Because the sinless Savior died
-    My sinful soul is counted free
-    For God the just is satisfied
-    To look on Him and pardon me.
-
-    Behold Him there the risen Lamb
-    My perfect spotless righteousness
-    The great unchangeable I AM
-    The King of glory and of grace,
-    One with Himself I cannot die
-    My soul is purchased by His blood,
-    My life is hid with Christ on high
 - song: He Is Exalted
   artist: Shane & Shane
   enabled: false
