@@ -1,6 +1,7 @@
+---
 - song: 10,000 Reasons
   artist: Matt Redman
-  enabled: true
+  enabled: false
   lyrics: |-
     Bless the Lord O my soul
     O my soul
@@ -38,7 +39,7 @@
     And then forevermore
 - song: Before the Throne
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     Before the throne of God above
     I have a strong and perfect plea.
@@ -68,7 +69,7 @@
     My life is hid with Christ on high
 - song: Holy Spirit
   artist: Jesus Culture
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
 
@@ -105,7 +106,7 @@
     Here I stand
 - song: I Belong to You
   artist: Hillsong United
-  enabled: true
+  enabled: false
   lyrics: |-
     Forever in Your mighty hand
     Living with Your promise
@@ -164,7 +165,7 @@
     And make it beautiful
     Beautiful
 - song: Jesus Paid it All
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     I hear the savior say, thy strength indeed is small
@@ -234,7 +235,7 @@
     In the house of God, forever
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
-  enabled: false
+  enabled: true
   lyrics: |-
     Come, ye sinners, poor and needy,
     Weak and wounded, sick and sore;
@@ -279,7 +280,7 @@
 
     You are the joy set before me
 - song: Here's My Heart Lord
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Here's my heart, Lord [x3]
@@ -330,7 +331,7 @@
     Here's my life, Lord [x3]
     Speak what is true [x3]
 - song: Closer Walk With Thee
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     I am weak, but Thou art strong;
@@ -354,7 +355,7 @@
     Guide me gently, safely o’er
     To Thy kingdom shore, to Thy shore.
 - song: Your Great Name
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Lost are saved, find their way, at the sound of Your great name
@@ -387,7 +388,7 @@
     Your great name, yeah
     Your great name, yeah
 - song: Amazing Grace
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Amazing Grace, How sweet the sound
@@ -413,7 +414,7 @@
 
     Was blind, but now I see.
 - song: Create in Me a Clean Heart
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Create in me a clean heart
@@ -462,7 +463,7 @@
     So that I may worship Thee
     So that I may worship Thee
 - song: How Deep The Father's Love For Us
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     How deep the Father’s love for us,
@@ -566,7 +567,7 @@
     Praise is befitting to the One who died
     Praise is befitting to the One who died
 - song: It is Well
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Grander earth has quaked before
@@ -607,7 +608,7 @@
     The waves and wind still know His name
     The waves and wind still know His name
 - song: Your Love Is Strong
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Heavenly Father, You always amaze me
@@ -750,7 +751,7 @@
     On that day we will sing:
     We will join with the angels and we will sing:
 - song: Doxology
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Praise God from Whom all blessings flow
@@ -861,7 +862,7 @@
     What a powerful Name it is, The Name of Jesus
 - song: Called Me Higher
   artist: All Sons & Daughters
-  enabled: false
+  enabled: true
   lyrics: |-
     I could just sit
     I could just sit and wait for all Your goodness
