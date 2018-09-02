@@ -1,4 +1,142 @@
 ---
+- song: Good Good Father
+  artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    Oh, I've heard a thousand stories of what they think you're like
+    But I've heard the tender whispers of love in the dead of night
+    And you tell me that you're pleased
+    And that I'm never alone
+
+    You're a Good, Good Father
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    It's who I am, it's who I am, it's who I am
+
+    Oh, and I've seen many searching for answers far and wide
+    But I know we're all searching
+    For answers only you provide
+    'Cause you know just what we need
+    Before we say a word
+
+    You're a Good, Good Father
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    It's who I am, it's who I am, it's who I am
+
+    'cause you are perfect in all of your ways
+    You are perfect in all of your ways
+    You are perfect in all of your ways to us
+
+    You are perfect in all of your ways
+    You are perfect in all of your ways
+    You are perfect in all of your ways to us
+
+    Oh, it's love so undeniable
+    I, I can hardly speak
+    Peace so unexplainable
+    I, I can hardly think
+
+    As you call me deeper still [3x]
+    Into love, love, love
+
+    [3x:]
+    You're a Good, Good Father
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    It's who I am, it's who I am, it's who I am
+
+    You're a Good, Good Father
+    (you are perfect in all of your ways)
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    (you are perfect in all of your ways)
+    It's who I am, it's who I am it's who I am
+- song: Nothing I Hold On To
+  artist: United Pursuit Band
+  enabled: true
+  lyrics: |-
+    I lean not on my own understanding,
+    My life is in the hands of the maker of heaven
+
+    I Give it all to you God,
+    Trusting that you'll make something beautiful out of me
+
+    I will climb this mountain
+    With my hands wide open
+    I will climb this mountain
+    With my hands wide open
+
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+
+    All Glory To God, Forever. Amen
+- song: Called Me Higher
+  artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    I could just sit
+    I could just sit and wait for all Your goodness
+    Hope to feel Your presence
+    And I could just stay
+    I could just stay right where I am and hope to feel You
+    Hope to feel something again
+
+    And I could hold on
+    I could hold on to who I am and never let You
+    Change me from the inside
+    And I could be safe
+    I could be safe here in Your arms and never leave home
+    Never let these walls down
+
+    But You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    You have called me higher
+    You have called me deeper
+    And I'll go where You lead me Lord
+    Where You lead me
+    Where You lead me Lord
+
+    And I could hold on
+    I could hold on to who I am and never let You
+    Change me from the inside
+    And I could be safe
+    I could be safe here in Your arms and never leave home
+    Never let these walls down
+
+    But You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    You have called me higher
+    You have called me deeper
+    And I'll go where You lead me Lord
+    Where You lead me
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+    So let Your mercy
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+    So let Your mercy light the path before me
+
+    Cause You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    [x4]
+
+    Where You lead me
+    Where You lead me Lord
+    [x2]
 - song: 10,000 Reasons
   artist: Matt Redman
   enabled: false
@@ -235,7 +373,7 @@
     In the house of God, forever
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
-  enabled: true
+  enabled: false
   lyrics: |-
     Come, ye sinners, poor and needy,
     Weak and wounded, sick and sore;
@@ -860,70 +998,6 @@
     What a powerful Name it is, the Name of Jesus
     What a powerful Name it is, The Name of Jesus
     What a powerful Name it is, The Name of Jesus
-- song: Called Me Higher
-  artist: All Sons & Daughters
-  enabled: true
-  lyrics: |-
-    I could just sit
-    I could just sit and wait for all Your goodness
-    Hope to feel Your presence
-    And I could just stay
-    I could just stay right where I am and hope to feel You
-    Hope to feel something again
-
-    And I could hold on
-    I could hold on to who I am and never let You
-    Change me from the inside
-    And I could be safe
-    I could be safe here in Your arms and never leave home
-    Never let these walls down
-
-    But You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    You have called me higher
-    You have called me deeper
-    And I'll go where You lead me Lord
-    Where You lead me
-    Where You lead me Lord
-
-    And I could hold on
-    I could hold on to who I am and never let You
-    Change me from the inside
-    And I could be safe
-    I could be safe here in Your arms and never leave home
-    Never let these walls down
-
-    But You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    You have called me higher
-    You have called me deeper
-    And I'll go where You lead me Lord
-    Where You lead me
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-    So let Your mercy
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-    So let Your mercy light the path before me
-
-    Cause You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    [x4]
-
-    Where You lead me
-    Where You lead me Lord
-    [x2]
 - song: Your Love is Strong
   artist: Jon Foreman
   enabled: false
@@ -1808,27 +1882,6 @@
     I’ll sing His love for me,
     And through eternity I’ll sing on, I’ll sing on,
     And through eternity I’ll sing on.
-- song: Nothing I Hold On To
-  artist: United Pursuit Band
-  enabled: false
-  lyrics: |-
-    I lean not on my own understanding,
-    My life is in the hands of the maker of heaven
-
-    I Give it all to you God,
-    Trusting that you'll make something beautiful out of me
-
-    I will climb this mountain
-    With my hands wide open
-    I will climb this mountain
-    With my hands wide open
-
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-
-    All Glory To God, Forever. Amen
 - song: He Is Exalted
   artist: Shane & Shane
   enabled: false
@@ -2136,59 +2189,6 @@
     At Thy feet its treasure-store;
     Take myself, and I will be
     Ever, only, all, for Thee.
-- song: Good Good Father
-  artist: Chris Tomlin
-  enabled: false
-  lyrics: |-
-    Oh, I've heard a thousand stories of what they think you're like
-    But I've heard the tender whispers of love in the dead of night
-    And you tell me that you're pleased
-    And that I'm never alone
-
-    You're a Good, Good Father
-    It's who you are, it's who you are, it's who you are
-    And I'm loved by you
-    It's who I am, it's who I am, it's who I am
-
-    Oh, and I've seen many searching for answers far and wide
-    But I know we're all searching
-    For answers only you provide
-    'Cause you know just what we need
-    Before we say a word
-
-    You're a Good, Good Father
-    It's who you are, it's who you are, it's who you are
-    And I'm loved by you
-    It's who I am, it's who I am, it's who I am
-
-    'cause you are perfect in all of your ways
-    You are perfect in all of your ways
-    You are perfect in all of your ways to us
-
-    You are perfect in all of your ways
-    You are perfect in all of your ways
-    You are perfect in all of your ways to us
-
-    Oh, it's love so undeniable
-    I, I can hardly speak
-    Peace so unexplainable
-    I, I can hardly think
-
-    As you call me deeper still [3x]
-    Into love, love, love
-
-    [3x:]
-    You're a Good, Good Father
-    It's who you are, it's who you are, it's who you are
-    And I'm loved by you
-    It's who I am, it's who I am, it's who I am
-
-    You're a Good, Good Father
-    (you are perfect in all of your ways)
-    It's who you are, it's who you are, it's who you are
-    And I'm loved by you
-    (you are perfect in all of your ways)
-    It's who I am, it's who I am it's who I am
 - song: Help Me Find My Own Flame
   artist: Will Reagan & United Pursuit
   enabled: false
