@@ -1,7 +1,170 @@
 ---
+- song: Brokenness Aside
+  artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    Will your grace run out
+    If I let you down
+    'Cause all I know
+    Is how to run
+
+    'Cause I am a sinner
+    If it's not one thing it's another
+    Caught up in words
+    Tangled in lies
+    But You are a Savior
+    And You take brokenness aside
+    And make it beautiful
+    Beautiful
+
+    Will You call me child
+    When I tell you lies
+    'Cause all I know
+    Is how to cry
+
+    'Cause I am a sinner
+    If it's not one thing it's another
+    Caught up in words
+    Tangled in lies
+    But You are a Savior
+    And You take brokenness aside
+    And make it beautiful
+    Beautiful
+- song: Great Are You Lord
+  artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    You give life, You are love
+    You bring light to the darkness
+    You give hope, You restore
+    Every heart that is broken
+    Great are You, Lord
+
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise to You only
+
+    You give life, You are love
+    You bring light to the darkness
+    You give hope, You restore
+    Every heart that is broken
+    Great are You, Lord
+
+    [x2]
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise to You only
+
+    And all the earth will shout Your praise
+    Our hearts will cry, these bones will sing
+    Great are You, Lord
+
+    [x2]
+    And all the earth will shout Your praise
+    Our hearts will cry, these bones will sing
+    Great are You, Lord
+
+    [x2]
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise
+    To You only
+- song: You Are Beautiful My Sweet Sweet Song
+  artist: Third Day
+  enabled: true
+  lyrics: |-
+    You are beautiful my sweet, sweet song
+    You are beautiful my sweet, sweet song
+    You are beautiful my sweet, sweet song
+    And I will sing again
+
+    [x2]
+    You are so good to me
+    You heal my broken heart
+    You are my father in Heaven
+
+    You are beautiful my sweet, sweet song
+    You are beautiful my sweet, sweet song
+
+    [x2]
+    You ride upon the clouds
+    You lead me to the truth
+    You are the Spirit inside me
+
+    You are beautiful my sweet, sweet song
+    You are beautiful my sweet, sweet song
+    You are beautiful my sweet, sweet song
+    And I will sing again
+
+    You are my strong melody, yeah
+    You are my dancing rhythm
+    You are my perfect rhyme
+    And I will sing of You forever
+
+    [x2]
+    You poured out all Your blood
+    You died upon the cross
+    You are my Jesus who loves me
+
+    You are my Father in Heaven
+    You are the Spirit inside me
+    You are my Jesus who loves me
+- song: We Have Come
+  artist: Will Reagan & United Pursuit
+  enabled: true
+  lyrics: |-
+    I wanna follow You with all my heart; I worship you, God
+    I wanna follow You with all my heart; I worship you, God
+    I wanna follow You with all my heart; I worship you, God
+    I wanna follow You with all my heart; I worship you, God
+    And I wanna follow You with all my heart; I worship you, God
+
+    We have come to give You glory
+    We have come to give You praise
+    We have come to give You glory, God
+    We have come to give You praise
+    We have come to give You glory
+    We have come to give You praise, oh
+    We have come to give You glory, oh
+    We have come to give You praise
+
+    [x6]
+    You're welcome in this place
+
+    [x2]
+    Have Your way, Have Your way, Have Your way
+
+    We have come to give You glory
+    We have come to give You praise
+    We have come to give You glory, oh
+    We have come to give You praise
+
+    [x6]
+    You're welcome in this place
+
+    Have Your way, Have Your way, Have Your way
+    Have Your way, Have Your way, Have Your way
+
+    You're welcome here, God
+    You're welcome here, God
+    It's only me that's here, it's only You we want, God
+    It's only You we want, God
+    It's only You we want here
+    Oh, God, only You want
+    It's only You we want
+    It's only You we want
+    It's only You we want
+    It's only You we want
+    It's only me that's here, God, it's only me that's here
 - song: Good Good Father
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, I've heard a thousand stories of what they think you're like
     But I've heard the tender whispers of love in the dead of night
@@ -54,7 +217,7 @@
     It's who I am, it's who I am it's who I am
 - song: Nothing I Hold On To
   artist: United Pursuit Band
-  enabled: true
+  enabled: false
   lyrics: |-
     I lean not on my own understanding,
     My life is in the hands of the maker of heaven
@@ -75,7 +238,7 @@
     All Glory To God, Forever. Amen
 - song: Called Me Higher
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     I could just sit
     I could just sit and wait for all Your goodness
@@ -271,37 +434,6 @@
     I long to love You
     With all I am
     I belong to You
-- song: Brokenness Aside
-  artist: All Sons & Daughters
-  enabled: false
-  lyrics: |-
-    Will your grace run out
-    If I let you down
-    'Cause all I know
-    Is how to run
-
-    'Cause I am a sinner
-    If it's not one thing it's another
-    Caught up in words
-    Tangled in lies
-    But You are a Savior
-    And You take brokenness aside
-    And make it beautiful
-    Beautiful
-
-    Will You call me child
-    When I tell you lies
-    'Cause all I know
-    Is how to cry
-
-    'Cause I am a sinner
-    If it's not one thing it's another
-    Caught up in words
-    Tangled in lies
-    But You are a Savior
-    And You take brokenness aside
-    And make it beautiful
-    Beautiful
 - song: Jesus Paid it All
   artist: 
   enabled: false
