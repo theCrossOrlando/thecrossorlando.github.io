@@ -45,7 +45,7 @@ layout: null
       <item>
         <title>{{ ep.title }}</title>
         <link>{{ site.url }}{{ ep.url }}</link>
-        <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
+        <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %Z" }}</pubDate>
         <dc:creator>
           <![CDATA[{{ site.podcast_author | cdata_escape }}]]>
         </dc:creator>
