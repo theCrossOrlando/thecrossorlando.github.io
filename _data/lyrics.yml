@@ -1,7 +1,7 @@
 ---
 - song: Brokenness Aside
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     Will your grace run out
     If I let you down
@@ -32,7 +32,7 @@
     Beautiful
 - song: Great Are You Lord
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     You give life, You are love
     You bring light to the darkness
@@ -77,7 +77,7 @@
     To You only
 - song: You Are Beautiful My Sweet Sweet Song
   artist: Third Day
-  enabled: true
+  enabled: false
   lyrics: |-
     You are beautiful my sweet, sweet song
     You are beautiful my sweet, sweet song
@@ -117,7 +117,7 @@
     You are my Jesus who loves me
 - song: We Have Come
   artist: Will Reagan & United Pursuit
-  enabled: true
+  enabled: false
   lyrics: |-
     I wanna follow You with all my heart; I worship you, God
     I wanna follow You with all my heart; I worship you, God
@@ -238,7 +238,7 @@
     All Glory To God, Forever. Amen
 - song: Called Me Higher
   artist: All Sons & Daughters
-  enabled: false
+  enabled: true
   lyrics: |-
     I could just sit
     I could just sit and wait for all Your goodness
@@ -1910,7 +1910,7 @@
     When we can have you today.
 - song: We Have Come
   artist: Will Reagan
-  enabled: false
+  enabled: true
   lyrics: |-
     We have come to give You glory
     We have come to give You praise
@@ -2659,7 +2659,7 @@
     Life that shall endless be.
 - song: The House Of God, Forever
   artist: Jon Foreman
-  enabled: false
+  enabled: true
   lyrics: |-
     God is my shepherd
     I won't be wanting
