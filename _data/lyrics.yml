@@ -1,4 +1,92 @@
 ---
+- song: Break Every Chain (There Is Power In The Name of Jesus)
+  artist: Jesus Culture
+  enabled: true
+  lyrics: |-
+    There is power in the name of Jesus
+    There is power in the name of Jesus
+    There is power in the name of Jesus
+
+    To break every chain
+    Break every chain
+    Break every chain
+
+    All sufficient sacrifice
+    So freely given
+    Such a price
+    Bought our redemption
+    Heaven's gates swing wide
+
+    There's an army rising up
+    There's an army rising up
+    There's an army rising up
+- song: How Great is our God
+  artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    The splendor of a King, clothed in majesty
+    Let all the earth rejoice
+    All the earth rejoice
+    He wraps himself in Light, and darkness tries to hide
+    And trembles at His voice
+    Trembles at His voice
+
+    [Chorus]
+    How great is our God, sing with me
+    How great is our God, and all will see
+    How great, how great is our God
+
+    Age to age He stands
+    And time is in His hands
+    Beginning and the end
+    Beginning and the end
+    The Godhead Three in One
+    Father Spirit Son
+    The Lion and the Lamb
+    The Lion and the Lamb
+
+    [Chorus]
+
+    Name above all names
+    Worthy of our praise
+    My heart will sing
+    How great is our God
+
+    [Chorus]
+- song: Doxology
+  artist:
+  enabled: true
+  lyrics: |-
+    Praise God from Whom all blessings flow
+    Praise Him all creatures here below
+    Praise Him above ye heavenly host
+    Praise Father Son and Holy Ghost
+    Amen amen amen amen
+- song: Apostle's Creed
+  artist:
+  enabled: true
+  lyrics: |-
+    I believe in God, the Father almighty,
+    creator of heaven and earth.
+
+    I believe in Jesus Christ, God's only Son, our Lord,
+    who was conceived by the Holy Spirit,
+    born of the Virgin Mary,
+    suffered under Pontius Pilate,
+    was crucified, died, and was buried;
+    he descended to the dead.
+
+    On the third day he rose again;
+    he ascended into heaven,
+    he is seated at the right hand of the Father,
+    and he will come to judge the living and the dead.
+
+    I believe in the Holy Spirit,
+    the holy catholic Church,
+    the communion of saints,
+    the forgiveness of sins,
+    the resurrection of the body,
+    and the life everlasting. Amen.
 - song: Brokenness Aside
   artist: All Sons & Daughters
   enabled: false
@@ -238,7 +326,7 @@
     All Glory To God, Forever. Amen
 - song: Called Me Higher
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     I could just sit
     I could just sit and wait for all Your goodness
@@ -1020,15 +1108,6 @@
 
     On that day we will sing:
     We will join with the angels and we will sing:
-- song: Doxology
-  artist: 
-  enabled: false
-  lyrics: |-
-    Praise God from Whom all blessings flow
-    Praise Him all creatures here below
-    Praise Him above ye heavenly host
-    Praise Father Son and Holy Ghost
-    Amen amen amen amen
 - song: Be Thou My Vision
   artist: Dallan Forgaill
   enabled: false
@@ -1856,27 +1935,6 @@
     He knows our need, our weakness is no stranger,
     Behold your King! Before Him lowly bend!
     Behold your King, Before Him lowly bend!
-- song: Break Every Chain (There Is Power In The Name of Jesus)
-  artist: Jesus Culture
-  enabled: false
-  lyrics: |-
-    There is power in the name of Jesus
-    There is power in the name of Jesus
-    There is power in the name of Jesus
-
-    To break every chain
-    Break every chain
-    Break every chain
-
-    All sufficient sacrifice
-    So freely given
-    Such a price
-    Bought our redemption
-    Heaven's gates swing wide
-
-    There's an army rising up
-    There's an army rising up
-    There's an army rising up
 - song: Come Thou Long Expected Jesus
   artist: Chris Tomlin
   enabled: false
@@ -1910,7 +1968,7 @@
     When we can have you today.
 - song: We Have Come
   artist: Will Reagan
-  enabled: true
+  enabled: false
   lyrics: |-
     We have come to give You glory
     We have come to give You praise
@@ -2659,7 +2717,7 @@
     Life that shall endless be.
 - song: The House Of God, Forever
   artist: Jon Foreman
-  enabled: true
+  enabled: false
   lyrics: |-
     God is my shepherd
     I won't be wanting
