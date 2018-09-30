@@ -1,7 +1,127 @@
 ---
+- song: I Belong to You
+  artist: Hillsong United
+  enabled: true
+  lyrics: |-
+    Forever in Your mighty hand
+    Living with Your promise
+    Written on my heart
+
+    I am Yours
+    Surrendered wholly to You
+    You set me in Your family
+    Calling me Your own
+
+    Now I
+    I belong to You
+    Lord I need
+    Your Spirit Your word Your truth
+    Hear my cry
+    My deep desire
+    To know You more
+
+    In Your Name
+    I will lift my hands
+    To the King
+    This anthem of praise I bring
+    Heaven knows
+    I long to love You
+    With all I am
+    I belong to You
+- song: Great Are You Lord
+  artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    You give life, You are love
+    You bring light to the darkness
+    You give hope, You restore
+    Every heart that is broken
+    Great are You, Lord
+
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise to You only
+
+    You give life, You are love
+    You bring light to the darkness
+    You give hope, You restore
+    Every heart that is broken
+    Great are You, Lord
+
+    [x2]
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise to You only
+
+    And all the earth will shout Your praise
+    Our hearts will cry, these bones will sing
+    Great are You, Lord
+
+    [x2]
+    And all the earth will shout Your praise
+    Our hearts will cry, these bones will sing
+    Great are You, Lord
+
+    [x2]
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise
+    To You only
+- song: You Are So Good To Me
+  artist: Third Day
+  enabled: true
+  lyrics: |-
+    You are so good to me
+    You heal my broken heart
+    You are my Father in heaven [2x]
+
+    You ride upon the clouds
+    You lead me to the truth
+    You are the Spirit inside me [2x]
+
+    You poured out all your blood
+    You died upon the cross
+    You are my Jesus who loves me [2x]
+
+    [Chorus:]
+    You are beautiful my sweet, sweet, song [3x]
+    I will sing again
+
+    [Bridge:]
+    You are my strong melody
+    You are my dancing rhythm
+    You are my perfect rhyme
+    And I want to sing forever
+- song: Nothing I Hold On To
+  artist: United Pursuit Band
+  enabled: true
+  lyrics: |-
+    I lean not on my own understanding,
+    My life is in the hands of the maker of heaven
+
+    I Give it all to you God,
+    Trusting that you'll make something beautiful out of me
+
+    I will climb this mountain
+    With my hands wide open
+    I will climb this mountain
+    With my hands wide open
+
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+
+    All Glory To God, Forever. Amen
 - song: Break Every Chain (There Is Power In The Name of Jesus)
   artist: Jesus Culture
-  enabled: true
+  enabled: false
   lyrics: |-
     There is power in the name of Jesus
     There is power in the name of Jesus
@@ -22,7 +142,7 @@
     There's an army rising up
 - song: How Great is our God
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     The splendor of a King, clothed in majesty
     Let all the earth rejoice
@@ -55,7 +175,7 @@
     [Chorus]
 - song: Doxology
   artist:
-  enabled: true
+  enabled: false
   lyrics: |-
     Praise God from Whom all blessings flow
     Praise Him all creatures here below
@@ -64,7 +184,7 @@
     Amen amen amen amen
 - song: Apostle's Creed
   artist:
-  enabled: true
+  enabled: false
   lyrics: |-
     I believe in God, the Father almighty,
     creator of heaven and earth.
@@ -118,51 +238,6 @@
     And You take brokenness aside
     And make it beautiful
     Beautiful
-- song: Great Are You Lord
-  artist: All Sons & Daughters
-  enabled: false
-  lyrics: |-
-    You give life, You are love
-    You bring light to the darkness
-    You give hope, You restore
-    Every heart that is broken
-    Great are You, Lord
-
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise to You only
-
-    You give life, You are love
-    You bring light to the darkness
-    You give hope, You restore
-    Every heart that is broken
-    Great are You, Lord
-
-    [x2]
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise to You only
-
-    And all the earth will shout Your praise
-    Our hearts will cry, these bones will sing
-    Great are You, Lord
-
-    [x2]
-    And all the earth will shout Your praise
-    Our hearts will cry, these bones will sing
-    Great are You, Lord
-
-    [x2]
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise
-    To You only
 - song: You Are Beautiful My Sweet Sweet Song
   artist: Third Day
   enabled: false
@@ -303,27 +378,6 @@
     And I'm loved by you
     (you are perfect in all of your ways)
     It's who I am, it's who I am it's who I am
-- song: Nothing I Hold On To
-  artist: United Pursuit Band
-  enabled: false
-  lyrics: |-
-    I lean not on my own understanding,
-    My life is in the hands of the maker of heaven
-
-    I Give it all to you God,
-    Trusting that you'll make something beautiful out of me
-
-    I will climb this mountain
-    With my hands wide open
-    I will climb this mountain
-    With my hands wide open
-
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-
-    All Glory To God, Forever. Amen
 - song: Called Me Higher
   artist: All Sons & Daughters
   enabled: false
@@ -493,37 +547,8 @@
     Let us become more aware of Your presence
     Let us experience the glory of Your goodness
     Here I stand
-- song: I Belong to You
-  artist: Hillsong United
-  enabled: false
-  lyrics: |-
-    Forever in Your mighty hand
-    Living with Your promise
-    Written on my heart
-
-    I am Yours
-    Surrendered wholly to You
-    You set me in Your family
-    Calling me Your own
-
-    Now I
-    I belong to You
-    Lord I need
-    Your Spirit Your word Your truth
-    Hear my cry
-    My deep desire
-    To know You more
-
-    In Your Name
-    I will lift my hands
-    To the King
-    This anthem of praise I bring
-    Heaven knows
-    I long to love You
-    With all I am
-    I belong to You
 - song: Jesus Paid it All
-  artist: 
+  artist:
   enabled: false
   lyrics: |-
     I hear the savior say, thy strength indeed is small
@@ -638,7 +663,7 @@
 
     You are the joy set before me
 - song: Here's My Heart Lord
-  artist: 
+  artist:
   enabled: false
   lyrics: |-
     Here's my heart, Lord [x3]
@@ -689,7 +714,7 @@
     Here's my life, Lord [x3]
     Speak what is true [x3]
 - song: Closer Walk With Thee
-  artist: 
+  artist:
   enabled: false
   lyrics: |-
     I am weak, but Thou art strong;
@@ -713,7 +738,7 @@
     Guide me gently, safely o’er
     To Thy kingdom shore, to Thy shore.
 - song: Your Great Name
-  artist: 
+  artist:
   enabled: false
   lyrics: |-
     Lost are saved, find their way, at the sound of Your great name
@@ -746,7 +771,7 @@
     Your great name, yeah
     Your great name, yeah
 - song: Amazing Grace
-  artist: 
+  artist:
   enabled: false
   lyrics: |-
     Amazing Grace, How sweet the sound
@@ -772,7 +797,7 @@
 
     Was blind, but now I see.
 - song: Create in Me a Clean Heart
-  artist: 
+  artist:
   enabled: false
   lyrics: |-
     Create in me a clean heart
@@ -821,7 +846,7 @@
     So that I may worship Thee
     So that I may worship Thee
 - song: How Deep The Father's Love For Us
-  artist: 
+  artist:
   enabled: false
   lyrics: |-
     How deep the Father’s love for us,
@@ -925,7 +950,7 @@
     Praise is befitting to the One who died
     Praise is befitting to the One who died
 - song: It is Well
-  artist: 
+  artist:
   enabled: false
   lyrics: |-
     Grander earth has quaked before
@@ -966,7 +991,7 @@
     The waves and wind still know His name
     The waves and wind still know His name
 - song: Your Love Is Strong
-  artist: 
+  artist:
   enabled: false
   lyrics: |-
     Heavenly Father, You always amaze me
@@ -1031,31 +1056,6 @@
     Forgive us weary sinners
     Keep us far from our vices
     And deliver us from these prisons
-- song: You Are So Good To Me
-  artist: Third Day
-  enabled: false
-  lyrics: |-
-    You are so good to me
-    You heal my broken heart
-    You are my Father in heaven [2x]
-
-    You ride upon the clouds
-    You lead me to the truth
-    You are the Spirit inside me [2x]
-
-    You poured out all your blood
-    You died upon the cross
-    You are my Jesus who loves me [2x]
-
-    [Chorus:]
-    You are beautiful my sweet, sweet, song [3x]
-    I will sing again
-
-    [Bridge:]
-    You are my strong melody
-    You are my dancing rhythm
-    You are my perfect rhyme
-    And I want to sing forever
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
   enabled: false
