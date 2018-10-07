@@ -1,7 +1,155 @@
 ---
+- song: Scandal of Grace
+  artist: Hillsong UNITED
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+    Grace, what have You done?
+    Murdered for me on that cross
+    Accused in absence of wrong
+    My sin washed away in Your blood
+
+    [Pre-Chorus 1]
+    Too much to make sense of it all
+    I know that Your love breaks my fall
+    The scandal of grace, You died in my place
+    So my soul will live
+
+    [Chorus]
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+
+    [Verse 2]
+    Death, where is your sting?
+    Your power is as dead as my sin
+    The cross has taught me to live
+    And mercy, my heart now to sing
+
+    [Pre-Chorus 2]
+    The day and its trouble shall come
+    I know that Your strength is enough
+    The scandal of grace, You died in my place
+    So my soul will live
+
+    [Chorus]
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+
+    [Bridge]
+    And it's all, because of You, Jesus
+    It's all, because of You, Jesus
+    It's all, because of Your love
+    That my soul will live
+
+    [Chorus]
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+- song: Once and For All
+  artist: Lauren Daigle
+  enabled: true
+  lyrics: |-
+    God I give You all I can today
+    These scattered ashes that I hid away
+    I lay them all at Your feet
+
+    From the corners of my deepest shame
+    The empty places where I've worn Your name
+    Show me the love I say I believe
+
+    Oh Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    There is victory in my Saviors loss
+    And In the crimson flowing from the cross
+    Pour over me, pour over me yes
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    Oh Lord I lay it down
+    Oh Lord I lay it down
+    Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My Lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all
+
+    Once and for all
+    Oh once and for all
+    Once and for all
+- song: House of God, Forever
+  artist: Jon Foreman
+  enabled: true
+  lyrics: |-
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest in fields of green with quiet streams
+    Even though I walk through the valley of death and dying
+    I will not fear \'cause you are with me
+    You are with me
+
+    Your shepherd staff Comforts me
+    You are my feast in the presence of enemy
+    Surely goodness
+    Will follow me
+    Follow me
+    In the house of God, forever
+- song: Come Ye Sinners, Poor And Needy
+  artist: Joseph Hart
+  enabled: true
+  lyrics: |-
+    Come, ye sinners, poor and needy,
+    Weak and wounded, sick and sore;
+    Jesus ready stands to save you,
+    Full of pity, love and power.
+
+    Refrain
+
+    I will arise and go to Jesus,
+    He will embrace me in His arms;
+    In the arms of my dear Savior,
+    O there are ten thousand charms.
+
+    Come, ye thirsty, come, and welcome,
+    God’s free bounty glorify;
+    True belief and true repentance,
+    Every grace that brings you nigh.
+
+    Refrain
+
+    Come, ye weary, heavy laden,
+    Lost and ruined by the fall;
+    If you tarry till you’re better,
+    You will never come at all.
+
+    Refrain
 - song: I Belong to You
   artist: Hillsong United
-  enabled: true
+  enabled: false
   lyrics: |-
     Forever in Your mighty hand
     Living with Your promise
@@ -30,7 +178,7 @@
     I belong to You
 - song: Great Are You Lord
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     You give life, You are love
     You bring light to the darkness
@@ -75,7 +223,7 @@
     To You only
 - song: You Are So Good To Me
   artist: Third Day
-  enabled: true
+  enabled: false
   lyrics: |-
     You are so good to me
     You heal my broken heart
@@ -100,7 +248,7 @@
     And I want to sing forever
 - song: Nothing I Hold On To
   artist: United Pursuit Band
-  enabled: true
+  enabled: false
   lyrics: |-
     I lean not on my own understanding,
     My life is in the hands of the maker of heaven
@@ -598,53 +746,6 @@
     And raised this life up from the dead)
     Well praise the one who paid my debt and raised this life up from the dead
     Jesus
-- song: House of God, Forever
-  artist: Jon Foreman
-  enabled: false
-  lyrics: |-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest in fields of green with quiet streams
-    Even though I walk through the valley of death and dying
-    I will not fear \'cause you are with me
-    You are with me
-
-    Your shepherd staff Comforts me
-    You are my feast in the presence of enemy
-    Surely goodness
-    Will follow me
-    Follow me
-    In the house of God, forever
-- song: Come Ye Sinners, Poor And Needy
-  artist: Joseph Hart
-  enabled: false
-  lyrics: |-
-    Come, ye sinners, poor and needy,
-    Weak and wounded, sick and sore;
-    Jesus ready stands to save you,
-    Full of pity, love and power.
-
-    Refrain
-
-    I will arise and go to Jesus,
-    He will embrace me in His arms;
-    In the arms of my dear Savior,
-    O there are ten thousand charms.
-
-    Come, ye thirsty, come, and welcome,
-    God’s free bounty glorify;
-    True belief and true repentance,
-    Every grace that brings you nigh.
-
-    Refrain
-
-    Come, ye weary, heavy laden,
-    Lost and ruined by the fall;
-    If you tarry till you’re better,
-    You will never come at all.
-
-    Refrain
 - song: Where Did My Hope Go
   artist: Kat Porter
   enabled: false
@@ -1603,65 +1704,6 @@
     In cloud, and majesty and awe.
     Rejoice! Rejoice! Rejoice!
     Rejoice! Rejoice! Rejoice!
-- song: Scandal of Grace
-  artist: Hillsong UNITED
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-    Grace, what have You done?
-    Murdered for me on that cross
-    Accused in absence of wrong
-    My sin washed away in Your blood
-
-    [Pre-Chorus 1]
-    Too much to make sense of it all
-    I know that Your love breaks my fall
-    The scandal of grace, You died in my place
-    So my soul will live
-
-    [Chorus]
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-
-    [Verse 2]
-    Death, where is your sting?
-    Your power is as dead as my sin
-    The cross has taught me to live
-    And mercy, my heart now to sing
-
-    [Pre-Chorus 2]
-    The day and its trouble shall come
-    I know that Your strength is enough
-    The scandal of grace, You died in my place
-    So my soul will live
-
-    [Chorus]
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-
-    [Bridge]
-    And it's all, because of You, Jesus
-    It's all, because of You, Jesus
-    It's all, because of Your love
-    That my soul will live
-
-    [Chorus]
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
 - song: Silent Night
   artist: Joseph Mohr
   enabled: false
@@ -2521,48 +2563,6 @@
     Forgive us weary sinners
     Keep us far from our vices and
     Deliver us from these prisons
-- song: Once and For All
-  artist: Lauren Daigle
-  enabled: false
-  lyrics: |-
-    God I give You all I can today
-    These scattered ashes that I hid away
-    I lay them all at Your feet
-
-    From the corners of my deepest shame
-    The empty places where I've worn Your name
-    Show me the love I say I believe
-
-    Oh Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    There is victory in my Saviors loss
-    And In the crimson flowing from the cross
-    Pour over me, pour over me yes
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    Oh Lord I lay it down
-    Oh Lord I lay it down
-    Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My Lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all
-
-    Once and for all
-    Oh once and for all
-    Once and for all
 - song: From The Rising Of The Sun (Psalm 113)
   artist: Sandra McCracken
   enabled: false
