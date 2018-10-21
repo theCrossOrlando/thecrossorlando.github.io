@@ -1,7 +1,176 @@
 ---
+- song: Apostle's Creed
+  artist:
+  enabled: true
+  lyrics: |-
+    I believe in God, the Father almighty,
+    creator of heaven and earth.
+
+    I believe in Jesus Christ, God's only Son, our Lord,
+    who was conceived by the Holy Spirit,
+    born of the Virgin Mary,
+    suffered under Pontius Pilate,
+    was crucified, died, and was buried;
+    he descended to the dead.
+
+    On the third day he rose again;
+    he ascended into heaven,
+    he is seated at the right hand of the Father,
+    and he will come to judge the living and the dead.
+
+    I believe in the Holy Spirit,
+    the holy catholic Church,
+    the communion of saints,
+    the forgiveness of sins,
+    the resurrection of the body,
+    and the life everlasting. Amen.
+- song: Oh Love That Will Not Let Me Go
+  artist: Ascend the Hill
+  enabled: true
+  lyrics: |-
+    Oh, love that will not let me go
+    I rest my weary soul in thee
+    I give you back the life I owe
+    And in your ocean depths its flow
+    May richer, fuller be
+
+    My life is not my own
+    It's yours
+    My life is not my own
+    I know it's yours
+
+    Oh, light that follows all my way
+    I yield my flickering torch to thee
+    And my heart restores its borrowed ray
+    That in your sunshine's blaze its day
+    May brighter, fairer be
+
+    So light a fire in my heart
+    And I'll burn for you
+    So light a fire in my heart
+    And I'll burn for you
+
+    Oh, joy, that seeks me through the pain
+    I cannot close my heart to thee
+    I trace the rainbow through the rain
+    And feel the promise is not in vain
+    That morn shall tearless be
+
+    So anoint me with joy
+    And joyful I will be
+    So anoint me with joy
+    And joyful I will be
+
+    Oh, cross that's lifing up my head
+    I dare not ask to fly from thee
+    I lay in dust life's glory dead
+    And from the ground there blossoms red
+    Life that shall endless be
+
+    We will sing:
+    Holy, holy
+    Is the King of Kings
+    And we will sing:
+    Holy, holy
+    Is the King of Kings
+
+    On that day we will sing:
+    We will join with the angels and we will sing:
+- song: Help Me Find My Own Flame
+  artist: Will Reagan & United Pursuit
+  enabled: true
+  lyrics: |-
+    I don't wanna ride on somebody else's passion.
+    I don't wanna find that I am just dry bones.
+    I wanna burn with unquenchable fire.
+    Deep down inside see it coming alive
+
+    Help me find my own flame.
+    Help me find my own fire.
+    I want the real thing,
+    I want your burning desire
+
+    I don't wanna ride on somebody else's passion.
+    I don't wanna find that I am just dry bones.
+    I wanna burn with unquenchable fire.
+    Deep down inside see it coming alive
+    Help me find my own flame.
+    Help me find my own fire.
+    I want the real thing,
+    I want your burning desire
+
+    Do what only you can do, in my heart tonight
+    There's no better time
+    Help me find my own flame.
+    Help me find my own fire.
+    I want the real thing,
+    I want your burning desire
+    I don't wanna ride on somebody else's passion.
+    I don't wanna find that I am just dry bones.
+    I wanna burn with unquenchable fire.
+    Deep down inside see it coming alive
+    I wanna burn with unquenchable fire.
+    Deep down inside see it coming alive
+    Help me find my own flame.
+    Help me find my own fire.
+    I want the real thing,
+    I want your burning desire
+    Do what only you can do, in my heart tonight
+    There's no better time
+- song: Jesus Paid it All
+  artist:
+  enabled: true
+  lyrics: |-
+    I hear the savior say, thy strength indeed is small
+    Child of weakness, watch and pray, find in me thine all in all
+
+    \'Cause Jesus paid it all
+    All to him I owe
+    Sin had left a crimson stain, he washed it white as snow
+
+    Lord, now indeed I find thy power and thine alone
+    Can change the leper's spots and melt the heart of stone
+
+    \'Cause Jesus paid it all
+    All to him I owe
+    My sin had left this crimson stain, he washed it white as snow
+
+    It's washed away, all my sin
+    And all my shame
+
+    And when before the throne I stand in him complete
+    \"Jesus died my soul to save\" my lips shall still repeat
+
+    Jesus paid it all
+    All to him I owe
+    (Sin had left a crimson stain, he washed it white as snow)
+    (He washed it white as snow)
+
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    Well praise the one who paid my debt and raised this life up from the dead
+    Jesus
+    You are the one
+    The son of god
+    Conqueror of death
+    King of kings
+    The sacrificial lamb
+
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    Well praise the one who paid my debt and raised this life up from the dead
+    Jesus
 - song: Scandal of Grace
   artist: Hillsong UNITED
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     Grace, what have You done?
@@ -60,7 +229,7 @@
     Forever the hope in my heart
 - song: Once and For All
   artist: Lauren Daigle
-  enabled: true
+  enabled: false
   lyrics: |-
     God I give You all I can today
     These scattered ashes that I hid away
@@ -102,7 +271,7 @@
     Once and for all
 - song: House of God, Forever
   artist: Jon Foreman
-  enabled: true
+  enabled: false
   lyrics: |-
     God is my shepherd
     I won't be wanting
@@ -120,7 +289,7 @@
     In the house of God, forever
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
-  enabled: true
+  enabled: false
   lyrics: |-
     Come, ye sinners, poor and needy,
     Weak and wounded, sick and sore;
@@ -330,31 +499,6 @@
     Praise Him above ye heavenly host
     Praise Father Son and Holy Ghost
     Amen amen amen amen
-- song: Apostle's Creed
-  artist:
-  enabled: false
-  lyrics: |-
-    I believe in God, the Father almighty,
-    creator of heaven and earth.
-
-    I believe in Jesus Christ, God's only Son, our Lord,
-    who was conceived by the Holy Spirit,
-    born of the Virgin Mary,
-    suffered under Pontius Pilate,
-    was crucified, died, and was buried;
-    he descended to the dead.
-
-    On the third day he rose again;
-    he ascended into heaven,
-    he is seated at the right hand of the Father,
-    and he will come to judge the living and the dead.
-
-    I believe in the Holy Spirit,
-    the holy catholic Church,
-    the communion of saints,
-    the forgiveness of sins,
-    the resurrection of the body,
-    and the life everlasting. Amen.
 - song: Brokenness Aside
   artist: All Sons & Daughters
   enabled: false
@@ -695,57 +839,6 @@
     Let us become more aware of Your presence
     Let us experience the glory of Your goodness
     Here I stand
-- song: Jesus Paid it All
-  artist:
-  enabled: false
-  lyrics: |-
-    I hear the savior say, thy strength indeed is small
-    Child of weakness, watch and pray, find in me thine all in all
-
-    \'Cause Jesus paid it all
-    All to him I owe
-    Sin had left a crimson stain, he washed it white as snow
-
-    Lord, now indeed I find thy power and thine alone
-    Can change the leper's spots and melt the heart of stone
-
-    \'Cause Jesus paid it all
-    All to him I owe
-    My sin had left this crimson stain, he washed it white as snow
-
-    It's washed away, all my sin
-    And all my shame
-
-    And when before the throne I stand in him complete
-    \"Jesus died my soul to save\" my lips shall still repeat
-
-    Jesus paid it all
-    All to him I owe
-    (Sin had left a crimson stain, he washed it white as snow)
-    (He washed it white as snow)
-
-    (O praise the one who paid my debt
-    And raised this life up from the dead)
-    (O praise the one who paid my debt
-    And raised this life up from the dead)
-    (O praise the one who paid my debt
-    And raised this life up from the dead)
-    (O praise the one who paid my debt
-    And raised this life up from the dead)
-    (O praise the one who paid my debt
-    And raised this life up from the dead)
-    Well praise the one who paid my debt and raised this life up from the dead
-    Jesus
-    You are the one
-    The son of god
-    Conqueror of death
-    King of kings
-    The sacrificial lamb
-
-    (O praise the one who paid my debt
-    And raised this life up from the dead)
-    Well praise the one who paid my debt and raised this life up from the dead
-    Jesus
 - song: Where Did My Hope Go
   artist: Kat Porter
   enabled: false
@@ -1157,58 +1250,6 @@
     Forgive us weary sinners
     Keep us far from our vices
     And deliver us from these prisons
-- song: Oh Love That Will Not Let Me Go
-  artist: Ascend the Hill
-  enabled: false
-  lyrics: |-
-    Oh, love that will not let me go
-    I rest my weary soul in thee
-    I give you back the life I owe
-    And in your ocean depths its flow
-    May richer, fuller be
-
-    My life is not my own
-    It's yours
-    My life is not my own
-    I know it's yours
-
-    Oh, light that follows all my way
-    I yield my flickering torch to thee
-    And my heart restores its borrowed ray
-    That in your sunshine's blaze its day
-    May brighter, fairer be
-
-    So light a fire in my heart
-    And I'll burn for you
-    So light a fire in my heart
-    And I'll burn for you
-
-    Oh, joy, that seeks me through the pain
-    I cannot close my heart to thee
-    I trace the rainbow through the rain
-    And feel the promise is not in vain
-    That morn shall tearless be
-
-    So anoint me with joy
-    And joyful I will be
-    So anoint me with joy
-    And joyful I will be
-
-    Oh, cross that's lifing up my head
-    I dare not ask to fly from thee
-    I lay in dust life's glory dead
-    And from the ground there blossoms red
-    Life that shall endless be
-
-    We will sing:
-    Holy, holy
-    Is the King of Kings
-    And we will sing:
-    Holy, holy
-    Is the King of Kings
-
-    On that day we will sing:
-    We will join with the angels and we will sing:
 - song: Be Thou My Vision
   artist: Dallan Forgaill
   enabled: false
@@ -2421,47 +2462,6 @@
     At Thy feet its treasure-store;
     Take myself, and I will be
     Ever, only, all, for Thee.
-- song: Help Me Find My Own Flame
-  artist: Will Reagan & United Pursuit
-  enabled: false
-  lyrics: |-
-    I don't wanna ride on somebody else's passion.
-    I don't wanna find that I am just dry bones.
-    I wanna burn with unquenchable fire.
-    Deep down inside see it coming alive
-
-    Help me find my own flame.
-    Help me find my own fire.
-    I want the real thing,
-    I want your burning desire
-
-    I don't wanna ride on somebody else's passion.
-    I don't wanna find that I am just dry bones.
-    I wanna burn with unquenchable fire.
-    Deep down inside see it coming alive
-    Help me find my own flame.
-    Help me find my own fire.
-    I want the real thing,
-    I want your burning desire
-
-    Do what only you can do, in my heart tonight
-    There's no better time
-    Help me find my own flame.
-    Help me find my own fire.
-    I want the real thing,
-    I want your burning desire
-    I don't wanna ride on somebody else's passion.
-    I don't wanna find that I am just dry bones.
-    I wanna burn with unquenchable fire.
-    Deep down inside see it coming alive
-    I wanna burn with unquenchable fire.
-    Deep down inside see it coming alive
-    Help me find my own flame.
-    Help me find my own fire.
-    I want the real thing,
-    I want your burning desire
-    Do what only you can do, in my heart tonight
-    There's no better time
 - song: Only You
   artist: Young Oceans
   enabled: false
