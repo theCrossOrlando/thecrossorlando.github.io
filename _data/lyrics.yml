@@ -1,7 +1,141 @@
 ---
+- song: Your Love Changes Everything
+  artist: United Pursuit
+  enabled: true
+  lyrics: |-
+    Lord, you spoke those words
+    You spoke so tenderly
+    Now I choose to believe
+    You love me, you love me, you love me
+
+    Lord, you spoke those words
+    You spoke so tenderly
+    Now I choose to believe
+    You love me, you love me, you love me
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    When my heart is frail
+    And when I’m incomplete
+    I will choose to receive
+    You love me, you love me, you love me
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+
+    You never fail
+    When I look at you
+    You never fail
+    And I trust in you
+    And you never let go
+    You never let go of me
+    You never let go
+
+    You never fail
+    When I look at you
+    You never fail
+    And I trust in you
+    Lord, you never let go
+    You never let go of me
+    You never let go
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+    [Repeat 3x]
+
+    Your love changes everything
+    Your love changes everything
+    Your love changes everything
+
+    Lord you spoke those words
+    You spoke so tenderly
+    And now I choose to believe
+    You love me, you love me, you love me
+- song: Be Thou My Vision
+  artist: Ascend the Hill
+  enabled: true
+  lyrics: |-
+    Be Thou my Vision, O Lord of my heart;
+    Naught be all else to me, save that Thou art;
+    Thou my best Thought, by day or by night,
+    Waking or sleeping, Thy presence my light.
+
+    Be Thou my Wisdom, and Thou my true Word;
+    I ever with Thee and Thou with me, Lord;
+    Thou my great Father, I Thy true son;
+    Thou in me dwelling, and I with Thee one.
+
+    Riches I heed not, nor man’s empty praise,
+    Thou mine Inheritance, now and always:
+    Thou and Thou only, first in my heart,
+    High King of Heaven, my Treasure Thou art.
+
+    High King of Heaven, my victory won,
+    May I reach Heaven’s joys, O bright Heaven’s Sun!
+    Heart of my own heart, whatever befall,
+    Still be my Vision, O Ruler of all.
+- song: Praise Is Befitting
+  artist: Will Reagan & United Pursuit
+  enabled: true
+  lyrics: |-
+    Your Name is high and above
+    Every name on Earth and in Heaven
+    Your Name is high and above
+    Every name on Earth and in Heaven
+
+    You are good, You are holy, You are worthy
+    You are good, You are holy, You are worthy
+
+    Praise is befitting to the One who died
+    Praise is befitting to the One who died
+
+    Your Name is high and above
+    Every name on Earth and in Heaven
+    Your Name is high and above
+    Every name on Earth and in Heaven
+
+    You are good, You are holy, You are worthy
+    You are good, You are holy, You are worthy
+    (You are good)
+    You are good, You are holy, You are worthy
+    You are good, You are holy, You are worthy
+
+    Praise is befitting to the One who died
+    Praise is befitting to the One who died
+
+    [Interlude]
+
+    (You are good)
+    You are good, You are holy, You are worthy
+    You are good, You are holy, You are worthy
+    (You are good)
+    You are good, You are holy, You are worthy
+    You are good, You are holy, You are worthy
+
+    (Sing praise)
+    Praise is befitting to the One who died
+    Praise is befitting to the One who died
+    Praise is befitting to the One who died
+    Praise is befitting to the One who died
 - song: Apostle's Creed
   artist:
-  enabled: true
+  enabled: false
   lyrics: |-
     I believe in God, the Father almighty,
     creator of heaven and earth.
@@ -26,7 +160,7 @@
     and the life everlasting. Amen.
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, love that will not let me go
     I rest my weary soul in thee
@@ -78,7 +212,7 @@
     We will join with the angels and we will sing:
 - song: Help Me Find My Own Flame
   artist: Will Reagan & United Pursuit
-  enabled: true
+  enabled: false
   lyrics: |-
     I don't wanna ride on somebody else's passion.
     I don't wanna find that I am just dry bones.
@@ -119,7 +253,7 @@
     There's no better time
 - song: Jesus Paid it All
   artist:
-  enabled: true
+  enabled: false
   lyrics: |-
     I hear the savior say, thy strength indeed is small
     Child of weakness, watch and pray, find in me thine all in all
@@ -1100,49 +1234,6 @@
     prone to leave the God I love
     Here's my heart, O take and seal it,
     seal it for thy courts above
-- song: Praise Is Befitting
-  artist: Will Reagan & United Pursuit
-  enabled: false
-  lyrics: |-
-    Your Name is high and above
-    Every name on Earth and in Heaven
-    Your Name is high and above
-    Every name on Earth and in Heaven
-
-    You are good, You are holy, You are worthy
-    You are good, You are holy, You are worthy
-
-    Praise is befitting to the One who died
-    Praise is befitting to the One who died
-
-    Your Name is high and above
-    Every name on Earth and in Heaven
-    Your Name is high and above
-    Every name on Earth and in Heaven
-
-    You are good, You are holy, You are worthy
-    You are good, You are holy, You are worthy
-    (You are good)
-    You are good, You are holy, You are worthy
-    You are good, You are holy, You are worthy
-
-    Praise is befitting to the One who died
-    Praise is befitting to the One who died
-
-    [Interlude]
-
-    (You are good)
-    You are good, You are holy, You are worthy
-    You are good, You are holy, You are worthy
-    (You are good)
-    You are good, You are holy, You are worthy
-    You are good, You are holy, You are worthy
-
-    (Sing praise)
-    Praise is befitting to the One who died
-    Praise is befitting to the One who died
-    Praise is befitting to the One who died
-    Praise is befitting to the One who died
 - song: It is Well
   artist:
   enabled: false
@@ -1250,29 +1341,6 @@
     Forgive us weary sinners
     Keep us far from our vices
     And deliver us from these prisons
-- song: Be Thou My Vision
-  artist: Dallan Forgaill
-  enabled: false
-  lyrics: |-
-    Be Thou my Vision, O Lord of my heart;
-    Naught be all else to me, save that Thou art;
-    Thou my best Thought, by day or by night,
-    Waking or sleeping, Thy presence my light.
-
-    Be Thou my Wisdom, and Thou my true Word;
-    I ever with Thee and Thou with me, Lord;
-    Thou my great Father, I Thy true son;
-    Thou in me dwelling, and I with Thee one.
-
-    Riches I heed not, nor man’s empty praise,
-    Thou mine Inheritance, now and always:
-    Thou and Thou only, first in my heart,
-    High King of Heaven, my Treasure Thou art.
-
-    High King of Heaven, my victory won,
-    May I reach Heaven’s joys, O bright Heaven’s Sun!
-    Heart of my own heart, whatever befall,
-    Still be my Vision, O Ruler of all.
 - song: What a Beautiful Name
   artist: Hillsong Worship
   enabled: false
