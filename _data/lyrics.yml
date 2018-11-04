@@ -1,4 +1,63 @@
 ---
+- song: Scandal of Grace
+  artist: Hillsong United
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+    Grace, what have You done?
+    Murdered for me on that cross
+    Accused in absence of wrong
+    My sin washed away in Your blood
+
+    [Pre-Chorus 1]
+    Too much to make sense of it all
+    I know that Your love breaks my fall
+    The scandal of grace, You died in my place
+    So my soul will live
+
+    [Chorus]
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+
+    [Verse 2]
+    Death, where is your sting?
+    Your power is as dead as my sin
+    The cross has taught me to live
+    And mercy, my heart now to sing
+
+    [Pre-Chorus 2]
+    The day and its trouble shall come
+    I know that Your strength is enough
+    The scandal of grace, You died in my place
+    So my soul will live
+
+    [Chorus]
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+
+    [Bridge]
+    And it's all, because of You, Jesus
+    It's all, because of You, Jesus
+    It's all, because of Your love
+    That my soul will live
+
+    [Chorus]
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
 - song: Your Love Changes Everything
   artist: United Pursuit
   enabled: true
@@ -67,9 +126,151 @@
     You spoke so tenderly
     And now I choose to believe
     You love me, you love me, you love me
+- song: What a Beautiful Name
+  artist: Hillsong Worship
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+    You were the Word at the beginning
+    One With God the Lord Most High
+    Your hidden glory in creation
+    Now revealed in You Our Christ
+
+    [Chorus 1]
+    What a beautiful Name it is, what a beautiful Name it is
+    The Name of Jesus Christ my King
+    What a beautiful Name it is, nothing compares to this
+    What a beautiful Name it is, the Name of Jesus
+
+    [Verse 2]
+    You didn't want heaven without us
+    So Jesus You brought heaven down
+    My sin was great, Your love was greater
+    What could seperate us now
+
+    [Chorus 2]
+    What a wonderful Name it is, what a wonderful Name it is
+    The Name of Jesus Christ my King
+    What a wonderful Name it is, nothing compares to this
+    What a wonderful Name it is, the Name of Jesus
+    What a wonderful Name it is, the Name of Jesus
+
+    [Bridge 1]
+    Death could not hold You, the veil tore before You
+    You silenced the boast of sin and grave
+    The heavens are roaring, the praise of Your glory
+    For You are raised to life again
+
+    [Bridge 2]
+    You have no rival, You have no equal
+    Now and forever God you reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name above all names
+
+    [Chorus 3]
+    What a powerful Name it is, What a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, Nothing can stand against
+    What a powerful Name it is, The Name of Jesus
+
+    [Chorus 3]
+    What a powerful Name it is, what a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, nothing can stand against
+    What a powerful Name it is, the Name of Jesus
+
+    [Bridge 2]
+    You have no rival, You have no equal
+    Now and forever God you reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name above all names
+
+    [Chorus 3]
+    What a powerful Name it is, What a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, Nothing can stand against
+    What a powerful Name it is, The Name of Jesus
+
+    [Bridge 2]
+    You have no rival, You have no equal
+    Now and forever God you reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name above all names
+
+    [Chorus 3]
+    What a powerful Name it is, what a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, nothing can stand against
+    What a powerful Name it is, the Name of Jesus
+    What a powerful Name it is, The Name of Jesus
+    What a powerful Name it is, The Name of Jesus
+- song: Called Me Higher
+  artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    I could just sit
+    I could just sit and wait for all Your goodness
+    Hope to feel Your presence
+    And I could just stay
+    I could just stay right where I am and hope to feel You
+    Hope to feel something again
+
+    And I could hold on
+    I could hold on to who I am and never let You
+    Change me from the inside
+    And I could be safe
+    I could be safe here in Your arms and never leave home
+    Never let these walls down
+
+    But You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    You have called me higher
+    You have called me deeper
+    And I'll go where You lead me Lord
+    Where You lead me
+    Where You lead me Lord
+
+    And I could hold on
+    I could hold on to who I am and never let You
+    Change me from the inside
+    And I could be safe
+    I could be safe here in Your arms and never leave home
+    Never let these walls down
+
+    But You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    You have called me higher
+    You have called me deeper
+    And I'll go where You lead me Lord
+    Where You lead me
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+    So let Your mercy
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+    So let Your mercy light the path before me
+
+    Cause You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    [x4]
+
+    Where You lead me
+    Where You lead me Lord
+    [x2]
 - song: Be Thou My Vision
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Be Thou my Vision, O Lord of my heart;
     Naught be all else to me, save that Thou art;
@@ -92,7 +293,7 @@
     Still be my Vision, O Ruler of all.
 - song: Praise Is Befitting
   artist: Will Reagan & United Pursuit
-  enabled: true
+  enabled: false
   lyrics: |-
     Your Name is high and above
     Every name on Earth and in Heaven
@@ -302,65 +503,6 @@
     And raised this life up from the dead)
     Well praise the one who paid my debt and raised this life up from the dead
     Jesus
-- song: Scandal of Grace
-  artist: Hillsong UNITED
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-    Grace, what have You done?
-    Murdered for me on that cross
-    Accused in absence of wrong
-    My sin washed away in Your blood
-
-    [Pre-Chorus 1]
-    Too much to make sense of it all
-    I know that Your love breaks my fall
-    The scandal of grace, You died in my place
-    So my soul will live
-
-    [Chorus]
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-
-    [Verse 2]
-    Death, where is your sting?
-    Your power is as dead as my sin
-    The cross has taught me to live
-    And mercy, my heart now to sing
-
-    [Pre-Chorus 2]
-    The day and its trouble shall come
-    I know that Your strength is enough
-    The scandal of grace, You died in my place
-    So my soul will live
-
-    [Chorus]
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-
-    [Bridge]
-    And it's all, because of You, Jesus
-    It's all, because of You, Jesus
-    It's all, because of Your love
-    That my soul will live
-
-    [Chorus]
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
 - song: Once and For All
   artist: Lauren Daigle
   enabled: false
@@ -804,70 +946,6 @@
     And I'm loved by you
     (you are perfect in all of your ways)
     It's who I am, it's who I am it's who I am
-- song: Called Me Higher
-  artist: All Sons & Daughters
-  enabled: false
-  lyrics: |-
-    I could just sit
-    I could just sit and wait for all Your goodness
-    Hope to feel Your presence
-    And I could just stay
-    I could just stay right where I am and hope to feel You
-    Hope to feel something again
-
-    And I could hold on
-    I could hold on to who I am and never let You
-    Change me from the inside
-    And I could be safe
-    I could be safe here in Your arms and never leave home
-    Never let these walls down
-
-    But You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    You have called me higher
-    You have called me deeper
-    And I'll go where You lead me Lord
-    Where You lead me
-    Where You lead me Lord
-
-    And I could hold on
-    I could hold on to who I am and never let You
-    Change me from the inside
-    And I could be safe
-    I could be safe here in Your arms and never leave home
-    Never let these walls down
-
-    But You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    You have called me higher
-    You have called me deeper
-    And I'll go where You lead me Lord
-    Where You lead me
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-    So let Your mercy
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-    So let Your mercy light the path before me
-
-    Cause You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    [x4]
-
-    Where You lead me
-    Where You lead me Lord
-    [x2]
 - song: 10,000 Reasons
   artist: Matt Redman
   enabled: false
@@ -1341,84 +1419,6 @@
     Forgive us weary sinners
     Keep us far from our vices
     And deliver us from these prisons
-- song: What a Beautiful Name
-  artist: Hillsong Worship
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-    You were the Word at the beginning
-    One With God the Lord Most High
-    Your hidden glory in creation
-    Now revealed in You Our Christ
-
-    [Chorus 1]
-    What a beautiful Name it is, what a beautiful Name it is
-    The Name of Jesus Christ my King
-    What a beautiful Name it is, nothing compares to this
-    What a beautiful Name it is, the Name of Jesus
-
-    [Verse 2]
-    You didn't want heaven without us
-    So Jesus You brought heaven down
-    My sin was great, Your love was greater
-    What could seperate us now
-
-    [Chorus 2]
-    What a wonderful Name it is, what a wonderful Name it is
-    The Name of Jesus Christ my King
-    What a wonderful Name it is, nothing compares to this
-    What a wonderful Name it is, the Name of Jesus
-    What a wonderful Name it is, the Name of Jesus
-
-    [Bridge 1]
-    Death could not hold You, the veil tore before You
-    You silenced the boast of sin and grave
-    The heavens are roaring, the praise of Your glory
-    For You are raised to life again
-
-    [Bridge 2]
-    You have no rival, You have no equal
-    Now and forever God you reign
-    Yours is the Kingdom, Yours is the glory
-    Yours is the Name above all names
-
-    [Chorus 3]
-    What a powerful Name it is, What a powerful Name it is
-    The Name of Jesus Christ my King
-    What a powerful Name it is, Nothing can stand against
-    What a powerful Name it is, The Name of Jesus
-
-    [Chorus 3]
-    What a powerful Name it is, what a powerful Name it is
-    The Name of Jesus Christ my King
-    What a powerful Name it is, nothing can stand against
-    What a powerful Name it is, the Name of Jesus
-
-    [Bridge 2]
-    You have no rival, You have no equal
-    Now and forever God you reign
-    Yours is the Kingdom, Yours is the glory
-    Yours is the Name above all names
-
-    [Chorus 3]
-    What a powerful Name it is, What a powerful Name it is
-    The Name of Jesus Christ my King
-    What a powerful Name it is, Nothing can stand against
-    What a powerful Name it is, The Name of Jesus
-
-    [Bridge 2]
-    You have no rival, You have no equal
-    Now and forever God you reign
-    Yours is the Kingdom, Yours is the glory
-    Yours is the Name above all names
-
-    [Chorus 3]
-    What a powerful Name it is, what a powerful Name it is
-    The Name of Jesus Christ my King
-    What a powerful Name it is, nothing can stand against
-    What a powerful Name it is, the Name of Jesus
-    What a powerful Name it is, The Name of Jesus
-    What a powerful Name it is, The Name of Jesus
 - song: Your Love is Strong
   artist: Jon Foreman
   enabled: false
