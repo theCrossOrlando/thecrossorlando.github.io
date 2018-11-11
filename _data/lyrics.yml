@@ -1,7 +1,141 @@
 ---
+- song: Here's My Heart Lord
+  artist:
+  enabled: true
+  lyrics: |-
+    Here's my heart, Lord [x3]
+    Speak what is true
+
+    I am found, I am Yours
+    I am loved, I'm made pure
+    I have life, I can breathe
+    I am healed, I am free
+
+    Here's my heart, Lord [x3]
+    Speak what is true
+
+    I am found, I am Yours
+    I am loved, I'm made pure
+    I have life, I can breathe
+    I am healed, I am free
+
+    You are strong, You are sure
+    You are life, You endure
+    You are good, always true
+    You are light breaking through
+
+    Here's my heart, Lord [x3]
+    Speak what is true
+
+    Here's my life, Lord [x3]
+    Speak what is true [x3]
+
+    I am found, I am Yours
+    I am loved, I'm made pure
+    I have life, I can breathe
+    I am healed, I am free
+
+    You are strong, You are sure
+    You are life, You endure
+    You are good, always true
+    You are light breaking through
+
+    You are more than enough
+    You are here, You are love
+    You are hope, You are grace
+    You're all I have, You're everything
+
+    Here's my heart, Lord [x3]
+    Speak what is true
+
+    Here's my life, Lord [x3]
+    Speak what is true [x3]
+- song: More Than The Watchman (Psalm 130)
+  artist: Rebecca St James
+  enabled: true
+  lyrics: |-
+    Out of the depths I cry to my Lord, he lifted me up, he lifted me up
+    Out of the depths I cry to my Lord, he lifted me up, he lifted me
+
+    If you kept a record of sins who could stand, my Lord
+    Who could stand up, Lord, who could stand up?
+    If you kept a record of sins who could stand, my Lord
+    Who could stand up, Lord, who could stand up?
+
+    With you, oh Lord, there is forgiveness
+    With you, oh Lord, unfailing love
+    With you, oh Lord, full redemption
+    You have bought back my soul from the dead with your blood
+
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morning sun
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morn
+
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morning sun
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morn
+- song: How Great is our God
+  artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    The splendor of a King, clothed in majesty
+    Let all the earth rejoice
+    All the earth rejoice
+    He wraps himself in Light, and darkness tries to hide
+    And trembles at His voice
+    Trembles at His voice
+
+    [Chorus]
+    How great is our God, sing with me
+    How great is our God, and all will see
+    How great, how great is our God
+
+    Age to age He stands
+    And time is in His hands
+    Beginning and the end
+    Beginning and the end
+    The Godhead Three in One
+    Father Spirit Son
+    The Lion and the Lamb
+    The Lion and the Lamb
+
+    [Chorus]
+
+    Name above all names
+    Worthy of our praise
+    My heart will sing
+    How great is our God
+
+    [Chorus]
+- song: Closer Walk With Thee
+  artist:
+  enabled: true
+  lyrics: |-
+    I am weak, but Thou art strong;
+    Jesus, keep me from all wrong;
+    I’ll be satisfied as long
+    As I walk, let me walk close to Thee.
+
+    Refrain:
+    Just a closer walk with Thee,
+    Grant it, Jesus, is my plea,
+    Daily walking close to Thee,
+    Let it be, dear Lord, let it be.
+
+    In this life of toil and snares,
+    If I falter, Lord, who cares?
+    Who with me my burden shares?
+    None but Thee, dear Lord, none but Thee.
+
+    When my feeble life is o’er,
+    Time for me will be no more;
+    Guide me gently, safely o’er
+    To Thy kingdom shore, to Thy shore.
 - song: Scandal of Grace
   artist: Hillsong United
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     Grace, what have You done?
@@ -60,7 +194,7 @@
     Forever the hope in my heart
 - song: Your Love Changes Everything
   artist: United Pursuit
-  enabled: true
+  enabled: false
   lyrics: |-
     Lord, you spoke those words
     You spoke so tenderly
@@ -128,7 +262,7 @@
     You love me, you love me, you love me
 - song: What a Beautiful Name
   artist: Hillsong Worship
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     You were the Word at the beginning
@@ -206,7 +340,7 @@
     What a powerful Name it is, The Name of Jesus
 - song: Called Me Higher
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     I could just sit
     I could just sit and wait for all Your goodness
@@ -270,7 +404,7 @@
     [x2]
 - song: Prayer of the Church
   artist:
-  enabled: true
+  enabled: false
   lyrics: |-
     Let us pray for the whole Church of God in Christ Jesus and for all people according to their needs, saying: Lord, in Your mercy, hear our prayer.
 
@@ -756,39 +890,6 @@
     There's an army rising up
     There's an army rising up
     There's an army rising up
-- song: How Great is our God
-  artist: Chris Tomlin
-  enabled: false
-  lyrics: |-
-    The splendor of a King, clothed in majesty
-    Let all the earth rejoice
-    All the earth rejoice
-    He wraps himself in Light, and darkness tries to hide
-    And trembles at His voice
-    Trembles at His voice
-
-    [Chorus]
-    How great is our God, sing with me
-    How great is our God, and all will see
-    How great, how great is our God
-
-    Age to age He stands
-    And time is in His hands
-    Beginning and the end
-    Beginning and the end
-    The Godhead Three in One
-    Father Spirit Son
-    The Lion and the Lamb
-    The Lion and the Lamb
-
-    [Chorus]
-
-    Name above all names
-    Worthy of our praise
-    My heart will sing
-    How great is our God
-
-    [Chorus]
 - song: Doxology
   artist:
   enabled: false
@@ -1091,81 +1192,6 @@
     Where did my hope go?
 
     You are the joy set before me
-- song: Here's My Heart Lord
-  artist:
-  enabled: false
-  lyrics: |-
-    Here's my heart, Lord [x3]
-    Speak what is true
-
-    I am found, I am Yours
-    I am loved, I'm made pure
-    I have life, I can breathe
-    I am healed, I am free
-
-    Here's my heart, Lord [x3]
-    Speak what is true
-
-    I am found, I am Yours
-    I am loved, I'm made pure
-    I have life, I can breathe
-    I am healed, I am free
-
-    You are strong, You are sure
-    You are life, You endure
-    You are good, always true
-    You are light breaking through
-
-    Here's my heart, Lord [x3]
-    Speak what is true
-
-    Here's my life, Lord [x3]
-    Speak what is true [x3]
-
-    I am found, I am Yours
-    I am loved, I'm made pure
-    I have life, I can breathe
-    I am healed, I am free
-
-    You are strong, You are sure
-    You are life, You endure
-    You are good, always true
-    You are light breaking through
-
-    You are more than enough
-    You are here, You are love
-    You are hope, You are grace
-    You're all I have, You're everything
-
-    Here's my heart, Lord [x3]
-    Speak what is true
-
-    Here's my life, Lord [x3]
-    Speak what is true [x3]
-- song: Closer Walk With Thee
-  artist:
-  enabled: false
-  lyrics: |-
-    I am weak, but Thou art strong;
-    Jesus, keep me from all wrong;
-    I’ll be satisfied as long
-    As I walk, let me walk close to Thee.
-
-    Refrain:
-    Just a closer walk with Thee,
-    Grant it, Jesus, is my plea,
-    Daily walking close to Thee,
-    Let it be, dear Lord, let it be.
-
-    In this life of toil and snares,
-    If I falter, Lord, who cares?
-    Who with me my burden shares?
-    None but Thee, dear Lord, none but Thee.
-
-    When my feeble life is o’er,
-    Time for me will be no more;
-    Guide me gently, safely o’er
-    To Thy kingdom shore, to Thy shore.
 - song: Your Great Name
   artist:
   enabled: false
@@ -2715,32 +2741,6 @@
     Keep my eyes above the waves
     My soul will rest in Your embrace
     I am Yours and You are mine
-- song: More Than The Watchman (Psalm 130)
-  artist: Rebecca St James
-  enabled: false
-  lyrics: |-
-    Out of the depths I cry to my Lord, he lifted me up, he lifted me up
-    Out of the depths I cry to my Lord, he lifted me up, he lifted me
-
-    If you kept a record of sins who could stand, my Lord
-    Who could stand up, Lord, who could stand up?
-    If you kept a record of sins who could stand, my Lord
-    Who could stand up, Lord, who could stand up?
-
-    With you, oh Lord, there is forgiveness
-    With you, oh Lord, unfailing love
-    With you, oh Lord, full redemption
-    You have bought back my soul from the dead with your blood
-
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morning sun
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morn
-
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morning sun
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morn
 - song: Beautiful Things
   artist: Gungor
   enabled: false
