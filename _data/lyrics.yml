@@ -1,7 +1,114 @@
 ---
+- song: Holy Spirit
+  artist: Jesus Culture
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+
+    There’s nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
+
+    [Chorus]
+
+    Holy Spirit, You are welcome here
+    Come flood this place
+    And fill the atmosphere
+    Your glory, God
+    Is what our hearts long for
+    To be overcome
+    By Your presence, Lord
+    Your presence, Lord
+
+    [Verse 2]
+
+    I’ve tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    [Bridge]
+
+    [4x]
+    Let us become more aware of Your presence
+    Let us experience the glory of Your goodness
+    Here I stand
+- song: House of God, Forever
+  artist: Jon Foreman
+  enabled: true
+  lyrics: |-
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest in fields of green with quiet streams
+    Even though I walk through the valley of death and dying
+    I will not fear \'cause you are with me
+    You are with me
+
+    Your shepherd staff Comforts me
+    You are my feast in the presence of enemy
+    Surely goodness
+    Will follow me
+    Follow me
+    In the house of God, forever
+- song: Oh Love That Will Not Let Me Go
+  artist: Ascend the Hill
+  enabled: true
+  lyrics: |-
+    Oh, love that will not let me go
+    I rest my weary soul in thee
+    I give you back the life I owe
+    And in your ocean depths its flow
+    May richer, fuller be
+
+    My life is not my own
+    It's yours
+    My life is not my own
+    I know it's yours
+
+    Oh, light that follows all my way
+    I yield my flickering torch to thee
+    And my heart restores its borrowed ray
+    That in your sunshine's blaze its day
+    May brighter, fairer be
+
+    So light a fire in my heart
+    And I'll burn for you
+    So light a fire in my heart
+    And I'll burn for you
+
+    Oh, joy, that seeks me through the pain
+    I cannot close my heart to thee
+    I trace the rainbow through the rain
+    And feel the promise is not in vain
+    That morn shall tearless be
+
+    So anoint me with joy
+    And joyful I will be
+    So anoint me with joy
+    And joyful I will be
+
+    Oh, cross that's lifing up my head
+    I dare not ask to fly from thee
+    I lay in dust life's glory dead
+    And from the ground there blossoms red
+    Life that shall endless be
+
+    We will sing:
+    Holy, holy
+    Is the King of Kings
+    And we will sing:
+    Holy, holy
+    Is the King of Kings
+
+    On that day we will sing:
+    We will join with the angels and we will sing:
 - song: Here's My Heart Lord
   artist:
-  enabled: true
+  enabled: false
   lyrics: |-
     Here's my heart, Lord [x3]
     Speak what is true
@@ -52,7 +159,7 @@
     Speak what is true [x3]
 - song: More Than The Watchman (Psalm 130)
   artist: Rebecca St James
-  enabled: true
+  enabled: false
   lyrics: |-
     Out of the depths I cry to my Lord, he lifted me up, he lifted me up
     Out of the depths I cry to my Lord, he lifted me up, he lifted me
@@ -78,7 +185,7 @@
     More than watchman who wait for the morn
 - song: How Great is our God
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     The splendor of a King, clothed in majesty
     Let all the earth rejoice
@@ -111,7 +218,7 @@
     [Chorus]
 - song: Closer Walk With Thee
   artist:
-  enabled: true
+  enabled: false
   lyrics: |-
     I am weak, but Thou art strong;
     Jesus, keep me from all wrong;
@@ -516,58 +623,6 @@
     the forgiveness of sins,
     the resurrection of the body,
     and the life everlasting. Amen.
-- song: Oh Love That Will Not Let Me Go
-  artist: Ascend the Hill
-  enabled: false
-  lyrics: |-
-    Oh, love that will not let me go
-    I rest my weary soul in thee
-    I give you back the life I owe
-    And in your ocean depths its flow
-    May richer, fuller be
-
-    My life is not my own
-    It's yours
-    My life is not my own
-    I know it's yours
-
-    Oh, light that follows all my way
-    I yield my flickering torch to thee
-    And my heart restores its borrowed ray
-    That in your sunshine's blaze its day
-    May brighter, fairer be
-
-    So light a fire in my heart
-    And I'll burn for you
-    So light a fire in my heart
-    And I'll burn for you
-
-    Oh, joy, that seeks me through the pain
-    I cannot close my heart to thee
-    I trace the rainbow through the rain
-    And feel the promise is not in vain
-    That morn shall tearless be
-
-    So anoint me with joy
-    And joyful I will be
-    So anoint me with joy
-    And joyful I will be
-
-    Oh, cross that's lifing up my head
-    I dare not ask to fly from thee
-    I lay in dust life's glory dead
-    And from the ground there blossoms red
-    Life that shall endless be
-
-    We will sing:
-    Holy, holy
-    Is the King of Kings
-    And we will sing:
-    Holy, holy
-    Is the King of Kings
-
-    On that day we will sing:
-    We will join with the angels and we will sing:
 - song: Help Me Find My Own Flame
   artist: Will Reagan & United Pursuit
   enabled: false
@@ -702,24 +757,6 @@
     Once and for all
     Oh once and for all
     Once and for all
-- song: House of God, Forever
-  artist: Jon Foreman
-  enabled: false
-  lyrics: |-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest in fields of green with quiet streams
-    Even though I walk through the valley of death and dying
-    I will not fear \'cause you are with me
-    You are with me
-
-    Your shepherd staff Comforts me
-    You are my feast in the presence of enemy
-    Surely goodness
-    Will follow me
-    Follow me
-    In the house of God, forever
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
   enabled: false
@@ -1138,43 +1175,6 @@
     One with Himself I cannot die
     My soul is purchased by His blood,
     My life is hid with Christ on high
-- song: Holy Spirit
-  artist: Jesus Culture
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-
-    There’s nothing worth more
-    That could ever come close
-    No thing can compare
-    You're our living hope
-    Your presence, Lord
-
-    [Chorus]
-
-    Holy Spirit, You are welcome here
-    Come flood this place
-    And fill the atmosphere
-    Your glory, God
-    Is what our hearts long for
-    To be overcome
-    By Your presence, Lord
-    Your presence, Lord
-
-    [Verse 2]
-
-    I’ve tasted and seen
-    Of the sweetest of loves
-    Where my heart becomes free
-    And my shame is undone
-    Your presence, Lord
-
-    [Bridge]
-
-    [4x]
-    Let us become more aware of Your presence
-    Let us experience the glory of Your goodness
-    Here I stand
 - song: Where Did My Hope Go
   artist: Kat Porter
   enabled: false
