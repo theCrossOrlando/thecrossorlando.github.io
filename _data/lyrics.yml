@@ -1,7 +1,121 @@
 ---
+- song: 10,000 Reasons
+  artist: Matt Redman
+  enabled: true
+  lyrics: |-
+    Bless the Lord O my soul
+    O my soul
+    Worship His Holy name
+    Sing like never before
+    O my soul
+    I’ll worship Your Holy name
+
+    The sun comes up
+    It’s a new day dawning
+    It’s time to sing Your song again
+    Whatever may pass
+    And whatever lies before me
+    Let me be singing
+    When the evening comes
+
+    You’re rich in love
+    And You’re slow to anger
+    Your name is great
+    And Your heart is kind
+    For all Your goodness
+    I will keep on singing
+
+    Ten thousand reasons
+    For my heart to find
+
+    And on that day
+    When my strength is failing
+    The end draws near
+    And my time has come
+    Still my soul will
+    Sing Your praise unending
+
+    Ten thousand years
+    And then forevermore
+- song: Brokenness Aside
+  artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    Will your grace run out
+    If I let you down
+    'Cause all I know
+    Is how to run
+
+    'Cause I am a sinner
+    If it's not one thing it's another
+    Caught up in words
+    Tangled in lies
+    But You are a Savior
+    And You take brokenness aside
+    And make it beautiful
+    Beautiful
+
+    Will You call me child
+    When I tell you lies
+    'Cause all I know
+    Is how to cry
+
+    'Cause I am a sinner
+    If it's not one thing it's another
+    Caught up in words
+    Tangled in lies
+    But You are a Savior
+    And You take brokenness aside
+    And make it beautiful
+    Beautiful
+- song: Great Are You Lord
+  artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    You give life, You are love
+    You bring light to the darkness
+    You give hope, You restore
+    Every heart that is broken
+    Great are You, Lord
+
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise to You only
+
+    You give life, You are love
+    You bring light to the darkness
+    You give hope, You restore
+    Every heart that is broken
+    Great are You, Lord
+
+    [x2]
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise to You only
+
+    And all the earth will shout Your praise
+    Our hearts will cry, these bones will sing
+    Great are You, Lord
+
+    [x2]
+    And all the earth will shout Your praise
+    Our hearts will cry, these bones will sing
+    Great are You, Lord
+
+    [x2]
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise
+    To You only
 - song: Holy Spirit
   artist: Jesus Culture
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
 
@@ -38,7 +152,7 @@
     Here I stand
 - song: House of God, Forever
   artist: Jon Foreman
-  enabled: true
+  enabled: false
   lyrics: |-
     God is my shepherd
     I won't be wanting
@@ -56,7 +170,7 @@
     In the house of God, forever
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, love that will not let me go
     I rest my weary soul in thee
@@ -815,51 +929,6 @@
     I long to love You
     With all I am
     I belong to You
-- song: Great Are You Lord
-  artist: All Sons & Daughters
-  enabled: false
-  lyrics: |-
-    You give life, You are love
-    You bring light to the darkness
-    You give hope, You restore
-    Every heart that is broken
-    Great are You, Lord
-
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise to You only
-
-    You give life, You are love
-    You bring light to the darkness
-    You give hope, You restore
-    Every heart that is broken
-    Great are You, Lord
-
-    [x2]
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise to You only
-
-    And all the earth will shout Your praise
-    Our hearts will cry, these bones will sing
-    Great are You, Lord
-
-    [x2]
-    And all the earth will shout Your praise
-    Our hearts will cry, these bones will sing
-    Great are You, Lord
-
-    [x2]
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise
-    To You only
 - song: You Are So Good To Me
   artist: Third Day
   enabled: false
@@ -936,37 +1005,6 @@
     Praise Him above ye heavenly host
     Praise Father Son and Holy Ghost
     Amen amen amen amen
-- song: Brokenness Aside
-  artist: All Sons & Daughters
-  enabled: false
-  lyrics: |-
-    Will your grace run out
-    If I let you down
-    'Cause all I know
-    Is how to run
-
-    'Cause I am a sinner
-    If it's not one thing it's another
-    Caught up in words
-    Tangled in lies
-    But You are a Savior
-    And You take brokenness aside
-    And make it beautiful
-    Beautiful
-
-    Will You call me child
-    When I tell you lies
-    'Cause all I know
-    Is how to cry
-
-    'Cause I am a sinner
-    If it's not one thing it's another
-    Caught up in words
-    Tangled in lies
-    But You are a Savior
-    And You take brokenness aside
-    And make it beautiful
-    Beautiful
 - song: You Are Beautiful My Sweet Sweet Song
   artist: Third Day
   enabled: false
@@ -1107,44 +1145,6 @@
     And I'm loved by you
     (you are perfect in all of your ways)
     It's who I am, it's who I am it's who I am
-- song: 10,000 Reasons
-  artist: Matt Redman
-  enabled: false
-  lyrics: |-
-    Bless the Lord O my soul
-    O my soul
-    Worship His Holy name
-    Sing like never before
-    O my soul
-    I’ll worship Your Holy name
-
-    The sun comes up
-    It’s a new day dawning
-    It’s time to sing Your song again
-    Whatever may pass
-    And whatever lies before me
-    Let me be singing
-    When the evening comes
-
-    You’re rich in love
-    And You’re slow to anger
-    Your name is great
-    And Your heart is kind
-    For all Your goodness
-    I will keep on singing
-
-    Ten thousand reasons
-    For my heart to find
-
-    And on that day
-    When my strength is failing
-    The end draws near
-    And my time has come
-    Still my soul will
-    Sing Your praise unending
-
-    Ten thousand years
-    And then forevermore
 - song: Before the Throne
   artist: Dustin Kensrue
   enabled: false
