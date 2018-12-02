@@ -1,7 +1,170 @@
 ---
+- song: Called Me Higher
+  artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    I could just sit
+    I could just sit and wait for all Your goodness
+    Hope to feel Your presence
+    And I could just stay
+    I could just stay right where I am and hope to feel You
+    Hope to feel something again
+
+    And I could hold on
+    I could hold on to who I am and never let You
+    Change me from the inside
+    And I could be safe
+    I could be safe here in Your arms and never leave home
+    Never let these walls down
+
+    But You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    You have called me higher
+    You have called me deeper
+    And I'll go where You lead me Lord
+    Where You lead me
+    Where You lead me Lord
+
+    And I could hold on
+    I could hold on to who I am and never let You
+    Change me from the inside
+    And I could be safe
+    I could be safe here in Your arms and never leave home
+    Never let these walls down
+
+    But You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    You have called me higher
+    You have called me deeper
+    And I'll go where You lead me Lord
+    Where You lead me
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+    So let Your mercy
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+    So let Your mercy light the path before me
+
+    Cause You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    [x4]
+
+    Where You lead me
+    Where You lead me Lord
+    [x2]
+- song: Come Ye Sinners, Poor And Needy
+  artist: Joseph Hart
+  enabled: true
+  lyrics: |-
+    Come, ye sinners, poor and needy,
+    Weak and wounded, sick and sore;
+    Jesus ready stands to save you,
+    Full of pity, love and power.
+
+    Refrain
+
+    I will arise and go to Jesus,
+    He will embrace me in His arms;
+    In the arms of my dear Savior,
+    O there are ten thousand charms.
+
+    Come, ye thirsty, come, and welcome,
+    God’s free bounty glorify;
+    True belief and true repentance,
+    Every grace that brings you nigh.
+
+    Refrain
+
+    Come, ye weary, heavy laden,
+    Lost and ruined by the fall;
+    If you tarry till you’re better,
+    You will never come at all.
+
+    Refrain
+- song: Once and For All
+  artist: Lauren Daigle
+  enabled: true
+  lyrics: |-
+    God I give You all I can today
+    These scattered ashes that I hid away
+    I lay them all at Your feet
+
+    From the corners of my deepest shame
+    The empty places where I've worn Your name
+    Show me the love I say I believe
+
+    Oh Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    There is victory in my Saviors loss
+    And In the crimson flowing from the cross
+    Pour over me, pour over me yes
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    Oh Lord I lay it down
+    Oh Lord I lay it down
+    Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My Lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all
+
+    Once and for all
+    Oh once and for all
+    Once and for all
+- song: Go Tell It on the Mountain
+  artist:
+  enabled: true
+  lyrics: |-
+    Go tell it on the mountain
+    Over the hills and everywhere
+    Go tell it on the mountain
+    Our Jesus Christ is born
+
+    When I was a seeker
+    I sought both night and day
+    I asked the Lord to help me
+    And he showed me the way
+
+    Go tell it on the mountain
+    Over the hills and everywhere
+    Go tell it on the mountain
+    Our Jesus Christ is born
+
+    He made me a watchman
+    Upon a city wall
+    And if I am a Christian
+    I am the least of all
+
+    Go tell it on the mountain
+    Over the hills and everywhere
+    Go tell it on the mountain
+    Our Jesus Christ is born
 - song: 10,000 Reasons
   artist: Matt Redman
-  enabled: true
+  enabled: false
   lyrics: |-
     Bless the Lord O my soul
     O my soul
@@ -39,7 +202,7 @@
     And then forevermore
 - song: Brokenness Aside
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     Will your grace run out
     If I let you down
@@ -70,7 +233,7 @@
     Beautiful
 - song: Great Are You Lord
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     You give life, You are love
     You bring light to the darkness
@@ -559,70 +722,6 @@
     What a powerful Name it is, the Name of Jesus
     What a powerful Name it is, The Name of Jesus
     What a powerful Name it is, The Name of Jesus
-- song: Called Me Higher
-  artist: All Sons & Daughters
-  enabled: false
-  lyrics: |-
-    I could just sit
-    I could just sit and wait for all Your goodness
-    Hope to feel Your presence
-    And I could just stay
-    I could just stay right where I am and hope to feel You
-    Hope to feel something again
-
-    And I could hold on
-    I could hold on to who I am and never let You
-    Change me from the inside
-    And I could be safe
-    I could be safe here in Your arms and never leave home
-    Never let these walls down
-
-    But You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    You have called me higher
-    You have called me deeper
-    And I'll go where You lead me Lord
-    Where You lead me
-    Where You lead me Lord
-
-    And I could hold on
-    I could hold on to who I am and never let You
-    Change me from the inside
-    And I could be safe
-    I could be safe here in Your arms and never leave home
-    Never let these walls down
-
-    But You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    You have called me higher
-    You have called me deeper
-    And I'll go where You lead me Lord
-    Where You lead me
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-    So let Your mercy
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-    So let Your mercy light the path before me
-
-    Cause You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    [x4]
-
-    Where You lead me
-    Where You lead me Lord
-    [x2]
 - song: Prayer of the Church
   artist:
   enabled: false
@@ -829,77 +928,6 @@
     And raised this life up from the dead)
     Well praise the one who paid my debt and raised this life up from the dead
     Jesus
-- song: Once and For All
-  artist: Lauren Daigle
-  enabled: false
-  lyrics: |-
-    God I give You all I can today
-    These scattered ashes that I hid away
-    I lay them all at Your feet
-
-    From the corners of my deepest shame
-    The empty places where I've worn Your name
-    Show me the love I say I believe
-
-    Oh Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    There is victory in my Saviors loss
-    And In the crimson flowing from the cross
-    Pour over me, pour over me yes
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    Oh Lord I lay it down
-    Oh Lord I lay it down
-    Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My Lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all
-
-    Once and for all
-    Oh once and for all
-    Once and for all
-- song: Come Ye Sinners, Poor And Needy
-  artist: Joseph Hart
-  enabled: false
-  lyrics: |-
-    Come, ye sinners, poor and needy,
-    Weak and wounded, sick and sore;
-    Jesus ready stands to save you,
-    Full of pity, love and power.
-
-    Refrain
-
-    I will arise and go to Jesus,
-    He will embrace me in His arms;
-    In the arms of my dear Savior,
-    O there are ten thousand charms.
-
-    Come, ye thirsty, come, and welcome,
-    God’s free bounty glorify;
-    True belief and true repentance,
-    Every grace that brings you nigh.
-
-    Refrain
-
-    Come, ye weary, heavy laden,
-    Lost and ruined by the fall;
-    If you tarry till you’re better,
-    You will never come at all.
-
-    Refrain
 - song: I Belong to You
   artist: Hillsong United
   enabled: false
