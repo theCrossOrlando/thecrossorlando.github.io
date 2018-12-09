@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _data/lyrics.yml
   label: Lyrics
-  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all

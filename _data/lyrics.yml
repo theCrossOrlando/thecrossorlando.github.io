@@ -1,7 +1,7 @@
 ---
 - song: Called Me Higher
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     I could just sit
     I could just sit and wait for all Your goodness
@@ -65,7 +65,7 @@
     [x2]
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
-  enabled: true
+  enabled: false
   lyrics: |-
     Come, ye sinners, poor and needy,
     Weak and wounded, sick and sore;
@@ -94,7 +94,7 @@
     Refrain
 - song: Once and For All
   artist: Lauren Daigle
-  enabled: true
+  enabled: false
   lyrics: |-
     God I give You all I can today
     These scattered ashes that I hid away
@@ -135,8 +135,8 @@
     Oh once and for all
     Once and for all
 - song: Go Tell It on the Mountain
-  artist:
-  enabled: true
+  artist: 
+  enabled: false
   lyrics: |-
     Go tell it on the mountain
     Over the hills and everywhere
@@ -278,7 +278,7 @@
     To You only
 - song: Holy Spirit
   artist: Jesus Culture
-  enabled: false
+  enabled: true
   lyrics: |-
     [Verse 1]
 
@@ -384,7 +384,7 @@
     On that day we will sing:
     We will join with the angels and we will sing:
 - song: Here's My Heart Lord
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Here's my heart, Lord [x3]
@@ -462,7 +462,7 @@
     More than watchman who wait for the morn
 - song: How Great is our God
   artist: Chris Tomlin
-  enabled: false
+  enabled: true
   lyrics: |-
     The splendor of a King, clothed in majesty
     Let all the earth rejoice
@@ -494,7 +494,7 @@
 
     [Chorus]
 - song: Closer Walk With Thee
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     I am weak, but Thou art strong;
@@ -723,7 +723,7 @@
     What a powerful Name it is, The Name of Jesus
     What a powerful Name it is, The Name of Jesus
 - song: Prayer of the Church
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Let us pray for the whole Church of God in Christ Jesus and for all people according to their needs, saying: Lord, in Your mercy, hear our prayer.
@@ -812,7 +812,7 @@
     Praise is befitting to the One who died
     Praise is befitting to the One who died
 - song: Apostle's Creed
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     I believe in God, the Father almighty,
@@ -878,7 +878,7 @@
     Do what only you can do, in my heart tonight
     There's no better time
 - song: Jesus Paid it All
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     I hear the savior say, thy strength indeed is small
@@ -1025,7 +1025,7 @@
     There's an army rising up
     There's an army rising up
 - song: Doxology
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Praise God from Whom all blessings flow
@@ -1221,7 +1221,7 @@
 
     You are the joy set before me
 - song: Your Great Name
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Lost are saved, find their way, at the sound of Your great name
@@ -1254,7 +1254,7 @@
     Your great name, yeah
     Your great name, yeah
 - song: Amazing Grace
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Amazing Grace, How sweet the sound
@@ -1280,7 +1280,7 @@
 
     Was blind, but now I see.
 - song: Create in Me a Clean Heart
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Create in me a clean heart
@@ -1329,7 +1329,7 @@
     So that I may worship Thee
     So that I may worship Thee
 - song: How Deep The Father's Love For Us
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     How deep the Father’s love for us,
@@ -1390,7 +1390,7 @@
     Here's my heart, O take and seal it,
     seal it for thy courts above
 - song: It is Well
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Grander earth has quaked before
@@ -1431,7 +1431,7 @@
     The waves and wind still know His name
     The waves and wind still know His name
 - song: Your Love Is Strong
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Heavenly Father, You always amaze me
@@ -2062,7 +2062,7 @@
     Jesus
 - song: Come Thou Long Expected Jesus
   artist: Chris Tomlin
-  enabled: false
+  enabled: true
   lyrics: |-
     Come, Thou long expected Jesus
     Born to set Thy people free;
