@@ -1,4 +1,77 @@
 ---
+- song: Nothing I Hold On To
+  artist: United Pursuit Band
+  enabled: true
+  lyrics: |-
+    I lean not on my own understanding,
+    My life is in the hands of the maker of heaven
+
+    I Give it all to you God,
+    Trusting that you'll make something beautiful out of me
+
+    I will climb this mountain
+    With my hands wide open
+    I will climb this mountain
+    With my hands wide open
+
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+
+    All Glory To God, Forever. Amen
+- song: I Belong to You
+  artist: Hillsong United
+  enabled: true
+  lyrics: |-
+    Forever in Your mighty hand
+    Living with Your promise
+    Written on my heart
+
+    I am Yours
+    Surrendered wholly to You
+    You set me in Your family
+    Calling me Your own
+
+    Now I
+    I belong to You
+    Lord I need
+    Your Spirit Your word Your truth
+    Hear my cry
+    My deep desire
+    To know You more
+
+    In Your Name
+    I will lift my hands
+    To the King
+    This anthem of praise I bring
+    Heaven knows
+    I long to love You
+    With all I am
+    I belong to You
+- song: Joy To The World
+  artist:
+  enabled: true
+  lyrics: |-
+    Joy to The world! the Lord is come
+    Let earth receive her King
+    Let ev'ry heart prepare him room
+    And heaven and nature sing
+    And heaven and nature sing
+    And heaven and nature sing
+
+    Joy to the world! the Savior reigns
+    Let men their songs employ
+    While fields and floods, rocks, hills and plains
+    Repeat the sounding joy
+    Repeat the sounding joy
+    Repeat the sounding joy
+
+    He rules the world with truth and grace
+    And makes the nations prove The glories of His righteousness
+    And wonders of His love
+    And wonders of His love
+    And wonder wonders of His love
 - song: Called Me Higher
   artist: All Sons & Daughters
   enabled: false
@@ -135,7 +208,7 @@
     Oh once and for all
     Once and for all
 - song: Go Tell It on the Mountain
-  artist: 
+  artist:
   enabled: false
   lyrics: |-
     Go tell it on the mountain
@@ -278,7 +351,7 @@
     To You only
 - song: Holy Spirit
   artist: Jesus Culture
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
 
@@ -462,7 +535,7 @@
     More than watchman who wait for the morn
 - song: How Great is our God
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     The splendor of a King, clothed in majesty
     Let all the earth rejoice
@@ -928,35 +1001,6 @@
     And raised this life up from the dead)
     Well praise the one who paid my debt and raised this life up from the dead
     Jesus
-- song: I Belong to You
-  artist: Hillsong United
-  enabled: false
-  lyrics: |-
-    Forever in Your mighty hand
-    Living with Your promise
-    Written on my heart
-
-    I am Yours
-    Surrendered wholly to You
-    You set me in Your family
-    Calling me Your own
-
-    Now I
-    I belong to You
-    Lord I need
-    Your Spirit Your word Your truth
-    Hear my cry
-    My deep desire
-    To know You more
-
-    In Your Name
-    I will lift my hands
-    To the King
-    This anthem of praise I bring
-    Heaven knows
-    I long to love You
-    With all I am
-    I belong to You
 - song: You Are So Good To Me
   artist: Third Day
   enabled: false
@@ -982,27 +1026,6 @@
     You are my dancing rhythm
     You are my perfect rhyme
     And I want to sing forever
-- song: Nothing I Hold On To
-  artist: United Pursuit Band
-  enabled: false
-  lyrics: |-
-    I lean not on my own understanding,
-    My life is in the hands of the maker of heaven
-
-    I Give it all to you God,
-    Trusting that you'll make something beautiful out of me
-
-    I will climb this mountain
-    With my hands wide open
-    I will climb this mountain
-    With my hands wide open
-
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-
-    All Glory To God, Forever. Amen
 - song: Break Every Chain (There Is Power In The Name of Jesus)
   artist: Jesus Culture
   enabled: false
@@ -1979,29 +2002,6 @@
     Hallelujah, Christ is born
     Hallelujah, Hallelujah
     Hallelujah, Christ is born
-- song: Joy To The World
-  artist: ''
-  enabled: false
-  lyrics: |-
-    Joy to The world! the Lord is come
-    Let earth receive her King
-    Let ev'ry heart prepare him room
-    And heaven and nature sing
-    And heaven and nature sing
-    And heaven and nature sing
-
-    Joy to the world! the Savior reigns
-    Let men their songs employ
-    While fields and floods, rocks, hills and plains
-    Repeat the sounding joy
-    Repeat the sounding joy
-    Repeat the sounding joy
-
-    He rules the world with truth and grace
-    And makes the nations prove The glories of His righteousness
-    And wonders of His love
-    And wonders of His love
-    And wonder wonders of His love"
 - artist: Christmas Carol
   enabled: false
   lyrics: |-
@@ -2062,7 +2062,7 @@
     Jesus
 - song: Come Thou Long Expected Jesus
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     Come, Thou long expected Jesus
     Born to set Thy people free;
