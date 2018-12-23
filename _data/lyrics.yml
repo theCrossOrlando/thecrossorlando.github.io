@@ -1,7 +1,163 @@
 ---
+- song: O Come, O Come Emmanuel
+  artist: Sufjan Stevens
+  enabled: true
+  lyrics: |-
+    O come, O come, Emmanuel
+    And ransom captive Israel
+    That mourns in lonely exile here
+    Until the Son of God appear
+    Rejoice! Rejoice! Rejoice!
+    Rejoice! Rejoice! Rejoice!
+
+    O come, Thou Day-Spring, come and cheer
+    Our spirits by Thine advent here
+    Disperse the gloomy clouds of night
+    And death's dark shadows put to flight.
+    Rejoice! Rejoice! Rejoice!
+    Emmanuel
+    And ransom captive Israel
+    Rejoice! Rejoice! Rejoice!
+    Rejoice! Rejoice! Rejoice!
+
+    O come, O come, Thou Lord of might,
+    Who to Thy tribes, on Sinai's height,
+    In ancient times did'st give the Law,
+    In cloud, and majesty and awe.
+    Rejoice! Rejoice! Rejoice!
+    Rejoice! Rejoice! Rejoice!
+- song: What a Beautiful Name
+  artist: Hillsong Worship
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+    You were the Word at the beginning
+    One With God the Lord Most High
+    Your hidden glory in creation
+    Now revealed in You Our Christ
+
+    [Chorus 1]
+    What a beautiful Name it is, what a beautiful Name it is
+    The Name of Jesus Christ my King
+    What a beautiful Name it is, nothing compares to this
+    What a beautiful Name it is, the Name of Jesus
+
+    [Verse 2]
+    You didn't want heaven without us
+    So Jesus You brought heaven down
+    My sin was great, Your love was greater
+    What could seperate us now
+
+    [Chorus 2]
+    What a wonderful Name it is, what a wonderful Name it is
+    The Name of Jesus Christ my King
+    What a wonderful Name it is, nothing compares to this
+    What a wonderful Name it is, the Name of Jesus
+    What a wonderful Name it is, the Name of Jesus
+
+    [Bridge 1]
+    Death could not hold You, the veil tore before You
+    You silenced the boast of sin and grave
+    The heavens are roaring, the praise of Your glory
+    For You are raised to life again
+
+    [Bridge 2]
+    You have no rival, You have no equal
+    Now and forever God you reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name above all names
+
+    [Chorus 3]
+    What a powerful Name it is, What a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, Nothing can stand against
+    What a powerful Name it is, The Name of Jesus
+
+    [Chorus 3]
+    What a powerful Name it is, what a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, nothing can stand against
+    What a powerful Name it is, the Name of Jesus
+
+    [Bridge 2]
+    You have no rival, You have no equal
+    Now and forever God you reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name above all names
+
+    [Chorus 3]
+    What a powerful Name it is, What a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, Nothing can stand against
+    What a powerful Name it is, The Name of Jesus
+
+    [Bridge 2]
+    You have no rival, You have no equal
+    Now and forever God you reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name above all names
+
+    [Chorus 3]
+    What a powerful Name it is, what a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, nothing can stand against
+    What a powerful Name it is, the Name of Jesus
+    What a powerful Name it is, The Name of Jesus
+    What a powerful Name it is, The Name of Jesus
+- song: Jesus Paid it All
+  artist:
+  enabled: true
+  lyrics: |-
+    I hear the savior say, thy strength indeed is small
+    Child of weakness, watch and pray, find in me thine all in all
+
+    'Cause Jesus paid it all
+    All to him I owe
+    Sin had left a crimson stain, he washed it white as snow
+
+    Lord, now indeed I find thy power and thine alone
+    Can change the leper's spots and melt the heart of stone
+
+    'Cause Jesus paid it all
+    All to him I owe
+    My sin had left this crimson stain, he washed it white as snow
+
+    It's washed away, all my sin
+    And all my shame
+
+    And when before the throne I stand in him complete
+    "Jesus died my soul to save" my lips shall still repeat
+
+    Jesus paid it all
+    All to him I owe
+    (Sin had left a crimson stain, he washed it white as snow)
+    (He washed it white as snow)
+
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    Well praise the one who paid my debt and raised this life up from the dead
+    Jesus
+    You are the one
+    The son of god
+    Conqueror of death
+    King of kings
+    The sacrificial lamb
+
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    Well praise the one who paid my debt and raised this life up from the dead
+    Jesus
 - song: Nothing I Hold On To
   artist: United Pursuit Band
-  enabled: true
+  enabled: false
   lyrics: |-
     I lean not on my own understanding,
     My life is in the hands of the maker of heaven
@@ -22,7 +178,7 @@
     All Glory To God, Forever. Amen
 - song: I Belong to You
   artist: Hillsong United
-  enabled: true
+  enabled: false
   lyrics: |-
     Forever in Your mighty hand
     Living with Your promise
@@ -51,7 +207,7 @@
     I belong to You
 - song: Joy To The World
   artist:
-  enabled: true
+  enabled: false
   lyrics: |-
     Joy to The world! the Lord is come
     Let earth receive her King
@@ -717,84 +873,6 @@
     You spoke so tenderly
     And now I choose to believe
     You love me, you love me, you love me
-- song: What a Beautiful Name
-  artist: Hillsong Worship
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-    You were the Word at the beginning
-    One With God the Lord Most High
-    Your hidden glory in creation
-    Now revealed in You Our Christ
-
-    [Chorus 1]
-    What a beautiful Name it is, what a beautiful Name it is
-    The Name of Jesus Christ my King
-    What a beautiful Name it is, nothing compares to this
-    What a beautiful Name it is, the Name of Jesus
-
-    [Verse 2]
-    You didn't want heaven without us
-    So Jesus You brought heaven down
-    My sin was great, Your love was greater
-    What could seperate us now
-
-    [Chorus 2]
-    What a wonderful Name it is, what a wonderful Name it is
-    The Name of Jesus Christ my King
-    What a wonderful Name it is, nothing compares to this
-    What a wonderful Name it is, the Name of Jesus
-    What a wonderful Name it is, the Name of Jesus
-
-    [Bridge 1]
-    Death could not hold You, the veil tore before You
-    You silenced the boast of sin and grave
-    The heavens are roaring, the praise of Your glory
-    For You are raised to life again
-
-    [Bridge 2]
-    You have no rival, You have no equal
-    Now and forever God you reign
-    Yours is the Kingdom, Yours is the glory
-    Yours is the Name above all names
-
-    [Chorus 3]
-    What a powerful Name it is, What a powerful Name it is
-    The Name of Jesus Christ my King
-    What a powerful Name it is, Nothing can stand against
-    What a powerful Name it is, The Name of Jesus
-
-    [Chorus 3]
-    What a powerful Name it is, what a powerful Name it is
-    The Name of Jesus Christ my King
-    What a powerful Name it is, nothing can stand against
-    What a powerful Name it is, the Name of Jesus
-
-    [Bridge 2]
-    You have no rival, You have no equal
-    Now and forever God you reign
-    Yours is the Kingdom, Yours is the glory
-    Yours is the Name above all names
-
-    [Chorus 3]
-    What a powerful Name it is, What a powerful Name it is
-    The Name of Jesus Christ my King
-    What a powerful Name it is, Nothing can stand against
-    What a powerful Name it is, The Name of Jesus
-
-    [Bridge 2]
-    You have no rival, You have no equal
-    Now and forever God you reign
-    Yours is the Kingdom, Yours is the glory
-    Yours is the Name above all names
-
-    [Chorus 3]
-    What a powerful Name it is, what a powerful Name it is
-    The Name of Jesus Christ my King
-    What a powerful Name it is, nothing can stand against
-    What a powerful Name it is, the Name of Jesus
-    What a powerful Name it is, The Name of Jesus
-    What a powerful Name it is, The Name of Jesus
 - song: Prayer of the Church
   artist: 
   enabled: false
@@ -950,57 +1028,6 @@
     I want your burning desire
     Do what only you can do, in my heart tonight
     There's no better time
-- song: Jesus Paid it All
-  artist: 
-  enabled: false
-  lyrics: |-
-    I hear the savior say, thy strength indeed is small
-    Child of weakness, watch and pray, find in me thine all in all
-
-    'Cause Jesus paid it all
-    All to him I owe
-    Sin had left a crimson stain, he washed it white as snow
-
-    Lord, now indeed I find thy power and thine alone
-    Can change the leper's spots and melt the heart of stone
-
-    'Cause Jesus paid it all
-    All to him I owe
-    My sin had left this crimson stain, he washed it white as snow
-
-    It's washed away, all my sin
-    And all my shame
-
-    And when before the throne I stand in him complete
-    "Jesus died my soul to save" my lips shall still repeat
-
-    Jesus paid it all
-    All to him I owe
-    (Sin had left a crimson stain, he washed it white as snow)
-    (He washed it white as snow)
-
-    (O praise the one who paid my debt
-    And raised this life up from the dead)
-    (O praise the one who paid my debt
-    And raised this life up from the dead)
-    (O praise the one who paid my debt
-    And raised this life up from the dead)
-    (O praise the one who paid my debt
-    And raised this life up from the dead)
-    (O praise the one who paid my debt
-    And raised this life up from the dead)
-    Well praise the one who paid my debt and raised this life up from the dead
-    Jesus
-    You are the one
-    The son of god
-    Conqueror of death
-    King of kings
-    The sacrificial lamb
-
-    (O praise the one who paid my debt
-    And raised this life up from the dead)
-    Well praise the one who paid my debt and raised this life up from the dead
-    Jesus
 - song: You Are So Good To Me
   artist: Third Day
   enabled: false
@@ -1886,33 +1913,6 @@
     I am yours, only yours
     We are yours, only yours
     We are yours, only yours
-- song: O Come, O Come Emmanuel
-  artist: Sufjan Stevens
-  enabled: false
-  lyrics: |-
-    O come, O come, Emmanuel
-    And ransom captive Israel
-    That mourns in lonely exile here
-    Until the Son of God appear
-    Rejoice! Rejoice! Rejoice!
-    Rejoice! Rejoice! Rejoice!
-
-    O come, Thou Day-Spring, come and cheer
-    Our spirits by Thine advent here
-    Disperse the gloomy clouds of night
-    And death's dark shadows put to flight.
-    Rejoice! Rejoice! Rejoice!
-    Emmanuel
-    And ransom captive Israel
-    Rejoice! Rejoice! Rejoice!
-    Rejoice! Rejoice! Rejoice!
-
-    O come, O come, Thou Lord of might,
-    Who to Thy tribes, on Sinai's height,
-    In ancient times did'st give the Law,
-    In cloud, and majesty and awe.
-    Rejoice! Rejoice! Rejoice!
-    Rejoice! Rejoice! Rejoice!
 - song: Silent Night
   artist: Joseph Mohr
   enabled: false
