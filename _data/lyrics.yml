@@ -1,7 +1,156 @@
 ---
+- song: Refresh Me
+  artist: Leeland
+  enabled: true
+  lyrics: |-
+    You are my shelter from the hurricane
+    You are my rock, You are my shade
+    Never changing always the same
+    God refresh me
+
+    And when my burdens are breaking me down
+    And the enemy's cries shake the ground
+    I hear Your voice pierce the sound
+    Saying "I am with you."
+
+    So I lift my hands to You; I lift my heart to You
+    Refresh me God refresh me
+    I raise my weakness high in it You're glorified
+    Refresh me, God Refresh me
+
+    You are my shelter from the hurricane
+    You are my rock, You are my shade
+    Never changing always the same
+    God refresh me
+
+    And when my burdens are breaking me down
+    And the enemy's cries shake the ground
+    I hear Your voice pierce the sound
+    Saying "I am with you, Yes I am!"
+
+    So I lift my hands to You; I lift my heart to You
+    Refresh me, Oh God refresh me
+    I raise my weakness high in it You're glorified
+    Refresh me, Oh God Refresh me
+
+    Let the river run down from your thrown
+    Let it wash me now and make me whole
+    Lord fill my heart flood my soul
+    Oh refresh me, Oh God refresh me
+
+    I loose my hands, Take control
+    God let your purposes unfold
+    There's a greater story to be told
+    Oh refresh me, oh God refresh me
+
+    So I lift my hands to You; I lift my heart to You
+    Refresh me, Oh God refresh me
+    I raise my weakness high in it You're glorified
+    Refresh me, Oh God Refresh me
+- song: Holy Spirit
+  artist: Jesus Culture
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+
+    There’s nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
+
+    [Chorus]
+
+    Holy Spirit, You are welcome here
+    Come flood this place
+    And fill the atmosphere
+    Your glory, God
+    Is what our hearts long for
+    To be overcome
+    By Your presence, Lord
+    Your presence, Lord
+
+    [Verse 2]
+
+    I’ve tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    [Bridge]
+
+    [4x]
+    Let us become more aware of Your presence
+    Let us experience the glory of Your goodness
+    Here I stand
+- song: Called Me Higher
+  artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    I could just sit
+    I could just sit and wait for all Your goodness
+    Hope to feel Your presence
+    And I could just stay
+    I could just stay right where I am and hope to feel You
+    Hope to feel something again
+
+    And I could hold on
+    I could hold on to who I am and never let You
+    Change me from the inside
+    And I could be safe
+    I could be safe here in Your arms and never leave home
+    Never let these walls down
+
+    But You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    You have called me higher
+    You have called me deeper
+    And I'll go where You lead me Lord
+    Where You lead me
+    Where You lead me Lord
+
+    And I could hold on
+    I could hold on to who I am and never let You
+    Change me from the inside
+    And I could be safe
+    I could be safe here in Your arms and never leave home
+    Never let these walls down
+
+    But You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    You have called me higher
+    You have called me deeper
+    And I'll go where You lead me Lord
+    Where You lead me
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+    So let Your mercy
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+    So let Your mercy light the path before me
+
+    Cause You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    [x4]
+
+    Where You lead me
+    Where You lead me Lord
+    [x2]
 - song: O Come, O Come Emmanuel
   artist: Sufjan Stevens
-  enabled: true
+  enabled: false
   lyrics: |-
     O come, O come, Emmanuel
     And ransom captive Israel
@@ -28,7 +177,7 @@
     Rejoice! Rejoice! Rejoice!
 - song: What a Beautiful Name
   artist: Hillsong Worship
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     You were the Word at the beginning
@@ -106,7 +255,7 @@
     What a powerful Name it is, The Name of Jesus
 - song: Jesus Paid it All
   artist:
-  enabled: true
+  enabled: false
   lyrics: |-
     I hear the savior say, thy strength indeed is small
     Child of weakness, watch and pray, find in me thine all in all
@@ -228,70 +377,6 @@
     And wonders of His love
     And wonders of His love
     And wonder wonders of His love
-- song: Called Me Higher
-  artist: All Sons & Daughters
-  enabled: false
-  lyrics: |-
-    I could just sit
-    I could just sit and wait for all Your goodness
-    Hope to feel Your presence
-    And I could just stay
-    I could just stay right where I am and hope to feel You
-    Hope to feel something again
-
-    And I could hold on
-    I could hold on to who I am and never let You
-    Change me from the inside
-    And I could be safe
-    I could be safe here in Your arms and never leave home
-    Never let these walls down
-
-    But You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    You have called me higher
-    You have called me deeper
-    And I'll go where You lead me Lord
-    Where You lead me
-    Where You lead me Lord
-
-    And I could hold on
-    I could hold on to who I am and never let You
-    Change me from the inside
-    And I could be safe
-    I could be safe here in Your arms and never leave home
-    Never let these walls down
-
-    But You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    You have called me higher
-    You have called me deeper
-    And I'll go where You lead me Lord
-    Where You lead me
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-    So let Your mercy
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-    So let Your mercy light the path before me
-
-    Cause You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    [x4]
-
-    Where You lead me
-    Where You lead me Lord
-    [x2]
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
   enabled: false
@@ -505,43 +590,6 @@
     It's Your breath in our lungs
     So we pour out our praise
     To You only
-- song: Holy Spirit
-  artist: Jesus Culture
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-
-    There’s nothing worth more
-    That could ever come close
-    No thing can compare
-    You're our living hope
-    Your presence, Lord
-
-    [Chorus]
-
-    Holy Spirit, You are welcome here
-    Come flood this place
-    And fill the atmosphere
-    Your glory, God
-    Is what our hearts long for
-    To be overcome
-    By Your presence, Lord
-    Your presence, Lord
-
-    [Verse 2]
-
-    I’ve tasted and seen
-    Of the sweetest of loves
-    Where my heart becomes free
-    And my shame is undone
-    Your presence, Lord
-
-    [Bridge]
-
-    [4x]
-    Let us become more aware of Your presence
-    Let us experience the glory of Your goodness
-    Here I stand
 - song: House of God, Forever
   artist: Jon Foreman
   enabled: false
