@@ -1,7 +1,165 @@
 ---
+- song: Great Are You Lord
+  artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    You give life, You are love
+    You bring light to the darkness
+    You give hope, You restore
+    Every heart that is broken
+    Great are You, Lord
+
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise to You only
+
+    You give life, You are love
+    You bring light to the darkness
+    You give hope, You restore
+    Every heart that is broken
+    Great are You, Lord
+
+    [x2]
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise to You only
+
+    And all the earth will shout Your praise
+    Our hearts will cry, these bones will sing
+    Great are You, Lord
+
+    [x2]
+    And all the earth will shout Your praise
+    Our hearts will cry, these bones will sing
+    Great are You, Lord
+
+    [x2]
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise
+    To You only
+- song: Here's My Heart Lord
+  artist: 
+  enabled: true
+  lyrics: |-
+    Here's my heart, Lord [x3]
+    Speak what is true
+
+    I am found, I am Yours
+    I am loved, I'm made pure
+    I have life, I can breathe
+    I am healed, I am free
+
+    Here's my heart, Lord [x3]
+    Speak what is true
+
+    I am found, I am Yours
+    I am loved, I'm made pure
+    I have life, I can breathe
+    I am healed, I am free
+
+    You are strong, You are sure
+    You are life, You endure
+    You are good, always true
+    You are light breaking through
+
+    Here's my heart, Lord [x3]
+    Speak what is true
+
+    Here's my life, Lord [x3]
+    Speak what is true [x3]
+
+    I am found, I am Yours
+    I am loved, I'm made pure
+    I have life, I can breathe
+    I am healed, I am free
+
+    You are strong, You are sure
+    You are life, You endure
+    You are good, always true
+    You are light breaking through
+
+    You are more than enough
+    You are here, You are love
+    You are hope, You are grace
+    You're all I have, You're everything
+
+    Here's my heart, Lord [x3]
+    Speak what is true
+
+    Here's my life, Lord [x3]
+    Speak what is true [x3]
+- song: Come Thou Fount
+  artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    Come thou fount of every blessing
+    Tune my heart to sing thy grace
+    Streams of mercy never ceasing
+    Call for songs of loudest praise
+    Teach me some melodious sonnet
+    Sung by flaming tongues above
+    I'll praise the mount I'm fixed upon it
+    Mount of thy redeeming love
+
+    Here I raise my Ebenezer
+    Hither by thy help I come
+    And I hope by thy good pleasure
+    Safely to arrive at home
+
+    Jesus sought me when a stranger
+    Wondering from the fold of God
+    He, to rescue me from danger
+    Interposed His precious blood
+
+    O to grace how great a debtor daily
+    I'm constrained to be!
+    Let thy goodness like a fetter,
+    bind my wandering heart to thee
+    Prone to wander Lord I feel it,
+    prone to leave the God I love
+    Here's my heart, O take and seal it,
+    seal it for thy courts above
+- song: Brokenness Aside
+  artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    Will your grace run out
+    If I let you down
+    'Cause all I know
+    Is how to run
+
+    'Cause I am a sinner
+    If it's not one thing it's another
+    Caught up in words
+    Tangled in lies
+    But You are a Savior
+    And You take brokenness aside
+    And make it beautiful
+    Beautiful
+
+    Will You call me child
+    When I tell you lies
+    'Cause all I know
+    Is how to cry
+
+    'Cause I am a sinner
+    If it's not one thing it's another
+    Caught up in words
+    Tangled in lies
+    But You are a Savior
+    And You take brokenness aside
+    And make it beautiful
+    Beautiful
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -27,7 +185,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Called Me Higher
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     I could just sit
     I could just sit and wait for all Your goodness
@@ -91,7 +249,7 @@
     [x2]
 - song: Grace Alone
   artist: The Modern Post
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     I was an orphan lost at the Fall
@@ -583,34 +741,6 @@
     Once and for all
     Oh once and for all
     Once and for all
-- song: Go Tell It on the Mountain
-  artist: 
-  enabled: false
-  lyrics: |-
-    Go tell it on the mountain
-    Over the hills and everywhere
-    Go tell it on the mountain
-    Our Jesus Christ is born
-
-    When I was a seeker
-    I sought both night and day
-    I asked the Lord to help me
-    And he showed me the way
-
-    Go tell it on the mountain
-    Over the hills and everywhere
-    Go tell it on the mountain
-    Our Jesus Christ is born
-
-    He made me a watchman
-    Upon a city wall
-    And if I am a Christian
-    I am the least of all
-
-    Go tell it on the mountain
-    Over the hills and everywhere
-    Go tell it on the mountain
-    Our Jesus Christ is born
 - song: 10,000 Reasons
   artist: Matt Redman
   enabled: false
@@ -649,82 +779,34 @@
 
     Ten thousand years
     And then forevermore
-- song: Brokenness Aside
-  artist: All Sons & Daughters
+- song: Go Tell It on the Mountain
+  artist: 
   enabled: false
   lyrics: |-
-    Will your grace run out
-    If I let you down
-    'Cause all I know
-    Is how to run
+    Go tell it on the mountain
+    Over the hills and everywhere
+    Go tell it on the mountain
+    Our Jesus Christ is born
 
-    'Cause I am a sinner
-    If it's not one thing it's another
-    Caught up in words
-    Tangled in lies
-    But You are a Savior
-    And You take brokenness aside
-    And make it beautiful
-    Beautiful
+    When I was a seeker
+    I sought both night and day
+    I asked the Lord to help me
+    And he showed me the way
 
-    Will You call me child
-    When I tell you lies
-    'Cause all I know
-    Is how to cry
+    Go tell it on the mountain
+    Over the hills and everywhere
+    Go tell it on the mountain
+    Our Jesus Christ is born
 
-    'Cause I am a sinner
-    If it's not one thing it's another
-    Caught up in words
-    Tangled in lies
-    But You are a Savior
-    And You take brokenness aside
-    And make it beautiful
-    Beautiful
-- song: Great Are You Lord
-  artist: All Sons & Daughters
-  enabled: false
-  lyrics: |-
-    You give life, You are love
-    You bring light to the darkness
-    You give hope, You restore
-    Every heart that is broken
-    Great are You, Lord
+    He made me a watchman
+    Upon a city wall
+    And if I am a Christian
+    I am the least of all
 
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise to You only
-
-    You give life, You are love
-    You bring light to the darkness
-    You give hope, You restore
-    Every heart that is broken
-    Great are You, Lord
-
-    [x2]
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise to You only
-
-    And all the earth will shout Your praise
-    Our hearts will cry, these bones will sing
-    Great are You, Lord
-
-    [x2]
-    And all the earth will shout Your praise
-    Our hearts will cry, these bones will sing
-    Great are You, Lord
-
-    [x2]
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise
-    To You only
+    Go tell it on the mountain
+    Over the hills and everywhere
+    Go tell it on the mountain
+    Our Jesus Christ is born
 - song: House of God, Forever
   artist: Jon Foreman
   enabled: false
@@ -795,57 +877,6 @@
 
     On that day we will sing:
     We will join with the angels and we will sing:
-- song: Here's My Heart Lord
-  artist: 
-  enabled: false
-  lyrics: |-
-    Here's my heart, Lord [x3]
-    Speak what is true
-
-    I am found, I am Yours
-    I am loved, I'm made pure
-    I have life, I can breathe
-    I am healed, I am free
-
-    Here's my heart, Lord [x3]
-    Speak what is true
-
-    I am found, I am Yours
-    I am loved, I'm made pure
-    I have life, I can breathe
-    I am healed, I am free
-
-    You are strong, You are sure
-    You are life, You endure
-    You are good, always true
-    You are light breaking through
-
-    Here's my heart, Lord [x3]
-    Speak what is true
-
-    Here's my life, Lord [x3]
-    Speak what is true [x3]
-
-    I am found, I am Yours
-    I am loved, I'm made pure
-    I have life, I can breathe
-    I am healed, I am free
-
-    You are strong, You are sure
-    You are life, You endure
-    You are good, always true
-    You are light breaking through
-
-    You are more than enough
-    You are here, You are love
-    You are hope, You are grace
-    You're all I have, You're everything
-
-    Here's my heart, Lord [x3]
-    Speak what is true
-
-    Here's my life, Lord [x3]
-    Speak what is true [x3]
 - song: More Than The Watchman (Psalm 130)
   artist: Rebecca St James
   enabled: false
@@ -1591,37 +1622,6 @@
     I cannot give an answer;
     But this I know with all my heart -
     His wounds have paid my ransom.
-- song: Come Thou Fount
-  artist: Chris Tomlin
-  enabled: false
-  lyrics: |-
-    Come thou fount of every blessing
-    Tune my heart to sing thy grace
-    Streams of mercy never ceasing
-    Call for songs of loudest praise
-    Teach me some melodious sonnet
-    Sung by flaming tongues above
-    I'll praise the mount I'm fixed upon it
-    Mount of thy redeeming love
-
-    Here I raise my Ebenezer
-    Hither by thy help I come
-    And I hope by thy good pleasure
-    Safely to arrive at home
-
-    Jesus sought me when a stranger
-    Wondering from the fold of God
-    He, to rescue me from danger
-    Interposed His precious blood
-
-    O to grace how great a debtor daily
-    I'm constrained to be!
-    Let thy goodness like a fetter,
-    bind my wandering heart to thee
-    Prone to wander Lord I feel it,
-    prone to leave the God I love
-    Here's my heart, O take and seal it,
-    seal it for thy courts above
 - song: It is Well
   artist: 
   enabled: false
