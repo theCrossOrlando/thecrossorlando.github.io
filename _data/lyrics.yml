@@ -1,7 +1,154 @@
 ---
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+- song: Before the Throne
+  artist: Dustin Kensrue
+  enabled: true
+  lyrics: |-
+    Before the throne of God above
+    I have a strong and perfect plea.
+    A great high Priest whose Name is Love
+    Who ever lives and pleads for me
+    My name is graven on His hands
+    My name is written on His heart.
+    I know that while in Heaven He stands
+    No tongue can bid me thence depart
+    My life is hid with Christ on high
+
+    When Satan tempts me to despair
+    And tells me of the guilt within
+    Upward I look and see Him there
+    Who made an end of all my sin
+    Because the sinless Savior died
+    My sinful soul is counted free
+    For God the just is satisfied
+    To look on Him and pardon me.
+
+    Behold Him there the risen Lamb
+    My perfect spotless righteousness
+    The great unchangeable I AM
+    The King of glory and of grace,
+    One with Himself I cannot die
+    My soul is purchased by His blood,
+    My life is hid with Christ on high
+- song: Be Thou My Vision
+  artist: Ascend the Hill
+  enabled: true
+  lyrics: |-
+    Be Thou my Vision, O Lord of my heart;
+    Naught be all else to me, save that Thou art;
+    Thou my best Thought, by day or by night,
+    Waking or sleeping, Thy presence my light.
+
+    Be Thou my Wisdom, and Thou my true Word;
+    I ever with Thee and Thou with me, Lord;
+    Thou my great Father, I Thy true son;
+    Thou in me dwelling, and I with Thee one.
+
+    Riches I heed not, nor man’s empty praise,
+    Thou mine Inheritance, now and always:
+    Thou and Thou only, first in my heart,
+    High King of Heaven, my Treasure Thou art.
+
+    High King of Heaven, my victory won,
+    May I reach Heaven’s joys, O bright Heaven’s Sun!
+    Heart of my own heart, whatever befall,
+    Still be my Vision, O Ruler of all.
+- song: So Will I
+  artist: Hillsong United
+  enabled: true
+  lyrics: |-
+    God of creation
+    There at the start
+    Before the beginning of time
+    With no point of reference
+    You spoke to the dark
+    And fleshed out the wonder of light
+
+    And as You speak
+    A hundred billion galaxies are born
+    In the vapour of Your breath the planets form
+    If the stars were made to worship so will I
+    I can see Your heart in everything You’ve made
+    Every burning star
+    A signal fire of grace
+    If creation sings Your praises so will I
+
+    God of Your promise
+    You don’t speak in vain
+    No syllable empty or void
+    For once You have spoken
+    All nature and science
+    Follow the sound of Your voice
+
+    And as You speak
+    A hundred billion creatures catch Your breath
+    Evolving in pursuit of what You said
+    If it all reveals Your nature so will I
+    I can see Your heart in everything You say
+    Every painted sky
+    A canvas of Your grace
+    If creation still obeys You so will I
+
+    If the stars were made to worship so will I
+    If the mountains bow in reverence so will I
+    If the oceans roar Your greatness so will I
+    For if everything exists to lift You high so will I
+    If the wind goes where You send it so will I
+    If the rocks cry out in silence so will I
+    If the sum of all our praises still falls shy
+    Then we’ll sing again a hundred billion times
+
+    God of salvation
+    You chased down my heart
+    Through all of my failure and pride
+    On a hill You created
+    The light of the world
+    Abandoned in darkness to die
+
+    And as You speak
+    A hundred billion failures disappear
+    Where You lost Your life so I could find it here
+    If You left the grave behind You so will I
+    I can see Your heart in everything You’ve done
+    Every part designed in a work of art called love
+    If You gladly chose surrender so will I
+    I can see Your heart
+    Eight billion different ways
+    Every precious one
+    A child You died to save
+    If You gave Your life to love them so will I
+
+    Like You would again a hundred billion times
+    But what measure could amount to Your desire
+    You’re the One who never leaves the one behind
 - song: Great Are You Lord
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     You give life, You are love
     You bring light to the darkness
@@ -46,7 +193,7 @@
     To You only
 - song: Here's My Heart Lord
   artist: 
-  enabled: true
+  enabled: false
   lyrics: |-
     Here's my heart, Lord [x3]
     Speak what is true
@@ -97,7 +244,7 @@
     Speak what is true [x3]
 - song: Come Thou Fount
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     Come thou fount of every blessing
     Tune my heart to sing thy grace
@@ -128,7 +275,7 @@
     seal it for thy courts above
 - song: Brokenness Aside
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     Will your grace run out
     If I let you down
@@ -157,32 +304,6 @@
     And You take brokenness aside
     And make it beautiful
     Beautiful
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Called Me Higher
   artist: All Sons & Daughters
   enabled: false
@@ -1110,29 +1231,6 @@
     The names of those to be remembered may be read. A bell may be tolled following the reading of each name.
 
     Almighty God, we remember with thanksgiving those who loved and served You in Your Church on earth and who now rest from their labors. Keep us in fellowship with all Your saints and bring us at last to the joy of Your heavenly kingdom; through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever. Amen.
-- song: Be Thou My Vision
-  artist: Ascend the Hill
-  enabled: false
-  lyrics: |-
-    Be Thou my Vision, O Lord of my heart;
-    Naught be all else to me, save that Thou art;
-    Thou my best Thought, by day or by night,
-    Waking or sleeping, Thy presence my light.
-
-    Be Thou my Wisdom, and Thou my true Word;
-    I ever with Thee and Thou with me, Lord;
-    Thou my great Father, I Thy true son;
-    Thou in me dwelling, and I with Thee one.
-
-    Riches I heed not, nor man’s empty praise,
-    Thou mine Inheritance, now and always:
-    Thou and Thou only, first in my heart,
-    High King of Heaven, my Treasure Thou art.
-
-    High King of Heaven, my victory won,
-    May I reach Heaven’s joys, O bright Heaven’s Sun!
-    Heart of my own heart, whatever befall,
-    Still be my Vision, O Ruler of all.
 - song: Praise Is Befitting
   artist: Will Reagan & United Pursuit
   enabled: false
@@ -1437,36 +1535,6 @@
     And I'm loved by you
     (you are perfect in all of your ways)
     It's who I am, it's who I am it's who I am
-- song: Before the Throne
-  artist: Dustin Kensrue
-  enabled: false
-  lyrics: |-
-    Before the throne of God above
-    I have a strong and perfect plea.
-    A great high Priest whose Name is Love
-    Who ever lives and pleads for me
-    My name is graven on His hands
-    My name is written on His heart.
-    I know that while in Heaven He stands
-    No tongue can bid me thence depart
-    My life is hid with Christ on high
-
-    When Satan tempts me to despair
-    And tells me of the guilt within
-    Upward I look and see Him there
-    Who made an end of all my sin
-    Because the sinless Savior died
-    My sinful soul is counted free
-    For God the just is satisfied
-    To look on Him and pardon me.
-
-    Behold Him there the risen Lamb
-    My perfect spotless righteousness
-    The great unchangeable I AM
-    The King of glory and of grace,
-    One with Himself I cannot die
-    My soul is purchased by His blood,
-    My life is hid with Christ on high
 - song: Where Did My Hope Go
   artist: Kat Porter
   enabled: false
