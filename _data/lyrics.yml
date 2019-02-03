@@ -25,59 +25,6 @@
     To you all hearts are open, Almighty God…
 
     Hallelujah, hallelujah, hallelujah, hallelujah
-- song: Before the Throne
-  artist: Dustin Kensrue
-  enabled: true
-  lyrics: |-
-    Before the throne of God above
-    I have a strong and perfect plea.
-    A great high Priest whose Name is Love
-    Who ever lives and pleads for me
-    My name is graven on His hands
-    My name is written on His heart.
-    I know that while in Heaven He stands
-    No tongue can bid me thence depart
-    My life is hid with Christ on high
-
-    When Satan tempts me to despair
-    And tells me of the guilt within
-    Upward I look and see Him there
-    Who made an end of all my sin
-    Because the sinless Savior died
-    My sinful soul is counted free
-    For God the just is satisfied
-    To look on Him and pardon me.
-
-    Behold Him there the risen Lamb
-    My perfect spotless righteousness
-    The great unchangeable I AM
-    The King of glory and of grace,
-    One with Himself I cannot die
-    My soul is purchased by His blood,
-    My life is hid with Christ on high
-- song: Be Thou My Vision
-  artist: Ascend the Hill
-  enabled: true
-  lyrics: |-
-    Be Thou my Vision, O Lord of my heart;
-    Naught be all else to me, save that Thou art;
-    Thou my best Thought, by day or by night,
-    Waking or sleeping, Thy presence my light.
-
-    Be Thou my Wisdom, and Thou my true Word;
-    I ever with Thee and Thou with me, Lord;
-    Thou my great Father, I Thy true son;
-    Thou in me dwelling, and I with Thee one.
-
-    Riches I heed not, nor man’s empty praise,
-    Thou mine Inheritance, now and always:
-    Thou and Thou only, first in my heart,
-    High King of Heaven, my Treasure Thou art.
-
-    High King of Heaven, my victory won,
-    May I reach Heaven’s joys, O bright Heaven’s Sun!
-    Heart of my own heart, whatever befall,
-    Still be my Vision, O Ruler of all.
 - song: So Will I
   artist: Hillsong United
   enabled: true
@@ -146,6 +93,59 @@
     Like You would again a hundred billion times
     But what measure could amount to Your desire
     You’re the One who never leaves the one behind
+- song: Before the Throne
+  artist: Dustin Kensrue
+  enabled: true
+  lyrics: |-
+    Before the throne of God above
+    I have a strong and perfect plea.
+    A great high Priest whose Name is Love
+    Who ever lives and pleads for me
+    My name is graven on His hands
+    My name is written on His heart.
+    I know that while in Heaven He stands
+    No tongue can bid me thence depart
+    My life is hid with Christ on high
+
+    When Satan tempts me to despair
+    And tells me of the guilt within
+    Upward I look and see Him there
+    Who made an end of all my sin
+    Because the sinless Savior died
+    My sinful soul is counted free
+    For God the just is satisfied
+    To look on Him and pardon me.
+
+    Behold Him there the risen Lamb
+    My perfect spotless righteousness
+    The great unchangeable I AM
+    The King of glory and of grace,
+    One with Himself I cannot die
+    My soul is purchased by His blood,
+    My life is hid with Christ on high
+- song: Be Thou My Vision
+  artist: Ascend the Hill
+  enabled: true
+  lyrics: |-
+    Be Thou my Vision, O Lord of my heart;
+    Naught be all else to me, save that Thou art;
+    Thou my best Thought, by day or by night,
+    Waking or sleeping, Thy presence my light.
+
+    Be Thou my Wisdom, and Thou my true Word;
+    I ever with Thee and Thou with me, Lord;
+    Thou my great Father, I Thy true son;
+    Thou in me dwelling, and I with Thee one.
+
+    Riches I heed not, nor man’s empty praise,
+    Thou mine Inheritance, now and always:
+    Thou and Thou only, first in my heart,
+    High King of Heaven, my Treasure Thou art.
+
+    High King of Heaven, my victory won,
+    May I reach Heaven’s joys, O bright Heaven’s Sun!
+    Heart of my own heart, whatever befall,
+    Still be my Vision, O Ruler of all.
 - song: Great Are You Lord
   artist: All Sons & Daughters
   enabled: false
