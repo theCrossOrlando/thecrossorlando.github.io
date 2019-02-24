@@ -1,7 +1,226 @@
 ---
+- song: Oh Love That Will Not Let Me Go
+  artist: Ascend the Hill
+  enabled: true
+  lyrics: |-
+    Oh, love that will not let me go
+    I rest my weary soul in thee
+    I give you back the life I owe
+    And in your ocean depths its flow
+    May richer, fuller be
+
+    My life is not my own
+    It's yours
+    My life is not my own
+    I know it's yours
+
+    Oh, light that follows all my way
+    I yield my flickering torch to thee
+    And my heart restores its borrowed ray
+    That in your sunshine's blaze its day
+    May brighter, fairer be
+
+    So light a fire in my heart
+    And I'll burn for you
+    So light a fire in my heart
+    And I'll burn for you
+
+    Oh, joy, that seeks me through the pain
+    I cannot close my heart to thee
+    I trace the rainbow through the rain
+    And feel the promise is not in vain
+    That morn shall tearless be
+
+    So anoint me with joy
+    And joyful I will be
+    So anoint me with joy
+    And joyful I will be
+
+    Oh, cross that's lifing up my head
+    I dare not ask to fly from thee
+    I lay in dust life's glory dead
+    And from the ground there blossoms red
+    Life that shall endless be
+
+    We will sing:
+    Holy, holy
+    Is the King of Kings
+    And we will sing:
+    Holy, holy
+    Is the King of Kings
+
+    On that day we will sing:
+    We will join with the angels and we will sing:
+- song: Your Love is Strong
+  artist: Jon Foreman
+  enabled: true
+  lyrics: |-
+    Heavenly Father
+    You always amaze me
+    Let Your kingdom come in my world
+    And in my life
+
+    Give me the food I need to live through today
+    And forgive me as I forgive the people that wrong me
+
+    Lead me far from temptation
+    Deliver me from the evil one
+
+    I look out the window
+    The birds are composing
+    Not a note is out of tune
+    Or out of place
+
+    I walk to the meadow
+    And stare at the flowers
+    Better dressed than any girl
+    On her wedding day
+
+    So why should I worry?
+    Why do I freak out?
+    God knows what I need!
+    You know what I need!
+
+    Your love is strong
+
+    The Kingdom of the Heavens
+    Is now advancing
+    Invade my heart
+    Invade this broken town
+
+    The Kingdom of the Heavens
+    Is buried treasure
+    Would you sell yourself
+    To buy the one you've found?
+
+    Two things You told me
+    That You are strong
+    And You love me,
+    Yes You love me
+
+    Your love is strong
+
+    Our God in heaven
+    Hallowed be thy name above all names
+    Your kingdom come
+    Your will be done
+    On earth as it is in heaven
+    Give us, today, our daily bread
+    Forgive us weary sinners
+    Keep us far from our vices and
+    Deliver us from these prisons
+- song: Great Are You Lord
+  artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    You give life, You are love
+    You bring light to the darkness
+    You give hope, You restore
+    Every heart that is broken
+    Great are You, Lord
+
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise to You only
+
+    You give life, You are love
+    You bring light to the darkness
+    You give hope, You restore
+    Every heart that is broken
+    Great are You, Lord
+
+    [x2]
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise to You only
+
+    And all the earth will shout Your praise
+    Our hearts will cry, these bones will sing
+    Great are You, Lord
+
+    [x2]
+    And all the earth will shout Your praise
+    Our hearts will cry, these bones will sing
+    Great are You, Lord
+
+    [x2]
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise
+    To You only
+- song: Called Me Higher
+  artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    I could just sit
+    I could just sit and wait for all Your goodness
+    Hope to feel Your presence
+    And I could just stay
+    I could just stay right where I am and hope to feel You
+    Hope to feel something again
+
+    And I could hold on
+    I could hold on to who I am and never let You
+    Change me from the inside
+    And I could be safe
+    I could be safe here in Your arms and never leave home
+    Never let these walls down
+
+    But You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    You have called me higher
+    You have called me deeper
+    And I'll go where You lead me Lord
+    Where You lead me
+    Where You lead me Lord
+
+    And I could hold on
+    I could hold on to who I am and never let You
+    Change me from the inside
+    And I could be safe
+    I could be safe here in Your arms and never leave home
+    Never let these walls down
+
+    But You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    You have called me higher
+    You have called me deeper
+    And I'll go where You lead me Lord
+    Where You lead me
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+    So let Your mercy
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+    So let Your mercy light the path before me
+
+    Cause You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    [x4]
+
+    Where You lead me
+    Where You lead me Lord
+    [x2]
 - song: Beauty for Ashes
   artist: Crystal Lewis
-  enabled: true
+  enabled: false
   lyrics: |-
     He gives beauty for ashes
     Strength for fear
@@ -42,7 +261,7 @@
     A display of His splendor all can see
 - song: White as Snow
   artist: Jon Foreman
-  enabled: true
+  enabled: false
   lyrics: |-
     Have mercy on me, oh God
     According to Your unfailing love
@@ -73,7 +292,7 @@
     The joy of Your salvation
 - song: You Are So Good To Me
   artist: Third Day
-  enabled: true
+  enabled: false
   lyrics: |-
     You are so good to me
     You heal my broken heart
@@ -201,7 +420,7 @@
 
     Refrain
 - song: Jesus Paid it All
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     I hear the savior say, thy strength indeed is small
@@ -398,53 +617,8 @@
     May I reach Heaven’s joys, O bright Heaven’s Sun!
     Heart of my own heart, whatever befall,
     Still be my Vision, O Ruler of all.
-- song: Great Are You Lord
-  artist: All Sons & Daughters
-  enabled: false
-  lyrics: |-
-    You give life, You are love
-    You bring light to the darkness
-    You give hope, You restore
-    Every heart that is broken
-    Great are You, Lord
-
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise to You only
-
-    You give life, You are love
-    You bring light to the darkness
-    You give hope, You restore
-    Every heart that is broken
-    Great are You, Lord
-
-    [x2]
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise to You only
-
-    And all the earth will shout Your praise
-    Our hearts will cry, these bones will sing
-    Great are You, Lord
-
-    [x2]
-    And all the earth will shout Your praise
-    Our hearts will cry, these bones will sing
-    Great are You, Lord
-
-    [x2]
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise
-    To You only
 - song: Here's My Heart Lord
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Here's my heart, Lord [x3]
@@ -556,70 +730,6 @@
     And You take brokenness aside
     And make it beautiful
     Beautiful
-- song: Called Me Higher
-  artist: All Sons & Daughters
-  enabled: false
-  lyrics: |-
-    I could just sit
-    I could just sit and wait for all Your goodness
-    Hope to feel Your presence
-    And I could just stay
-    I could just stay right where I am and hope to feel You
-    Hope to feel something again
-
-    And I could hold on
-    I could hold on to who I am and never let You
-    Change me from the inside
-    And I could be safe
-    I could be safe here in Your arms and never leave home
-    Never let these walls down
-
-    But You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    You have called me higher
-    You have called me deeper
-    And I'll go where You lead me Lord
-    Where You lead me
-    Where You lead me Lord
-
-    And I could hold on
-    I could hold on to who I am and never let You
-    Change me from the inside
-    And I could be safe
-    I could be safe here in Your arms and never leave home
-    Never let these walls down
-
-    But You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    You have called me higher
-    You have called me deeper
-    And I'll go where You lead me Lord
-    Where You lead me
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-    So let Your mercy
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-    So let Your mercy light the path before me
-
-    Cause You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    [x4]
-
-    Where You lead me
-    Where You lead me Lord
-    [x2]
 - song: Grace Alone
   artist: The Modern Post
   enabled: false
@@ -937,7 +1047,7 @@
     With all I am
     I belong to You
 - song: Joy To The World
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Joy to The world! the Lord is come
@@ -998,7 +1108,7 @@
     Ten thousand years
     And then forevermore
 - song: Go Tell It on the Mountain
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Go tell it on the mountain
@@ -1043,58 +1153,6 @@
     Will follow me
     Follow me
     In the house of God, forever
-- song: Oh Love That Will Not Let Me Go
-  artist: Ascend the Hill
-  enabled: false
-  lyrics: |-
-    Oh, love that will not let me go
-    I rest my weary soul in thee
-    I give you back the life I owe
-    And in your ocean depths its flow
-    May richer, fuller be
-
-    My life is not my own
-    It's yours
-    My life is not my own
-    I know it's yours
-
-    Oh, light that follows all my way
-    I yield my flickering torch to thee
-    And my heart restores its borrowed ray
-    That in your sunshine's blaze its day
-    May brighter, fairer be
-
-    So light a fire in my heart
-    And I'll burn for you
-    So light a fire in my heart
-    And I'll burn for you
-
-    Oh, joy, that seeks me through the pain
-    I cannot close my heart to thee
-    I trace the rainbow through the rain
-    And feel the promise is not in vain
-    That morn shall tearless be
-
-    So anoint me with joy
-    And joyful I will be
-    So anoint me with joy
-    And joyful I will be
-
-    Oh, cross that's lifing up my head
-    I dare not ask to fly from thee
-    I lay in dust life's glory dead
-    And from the ground there blossoms red
-    Life that shall endless be
-
-    We will sing:
-    Holy, holy
-    Is the King of Kings
-    And we will sing:
-    Holy, holy
-    Is the King of Kings
-
-    On that day we will sing:
-    We will join with the angels and we will sing:
 - song: More Than The Watchman (Psalm 130)
   artist: Rebecca St James
   enabled: false
@@ -1155,7 +1213,7 @@
 
     [Chorus]
 - song: Closer Walk With Thee
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     I am weak, but Thou art strong;
@@ -1306,7 +1364,7 @@
     And now I choose to believe
     You love me, you love me, you love me
 - song: Prayer of the Church
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Let us pray for the whole Church of God in Christ Jesus and for all people according to their needs, saying: Lord, in Your mercy, hear our prayer.
@@ -1372,7 +1430,7 @@
     Praise is befitting to the One who died
     Praise is befitting to the One who died
 - song: Apostle's Creed
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     I believe in God, the Father almighty,
@@ -1459,7 +1517,7 @@
     There's an army rising up
     There's an army rising up
 - song: Doxology
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Praise God from Whom all blessings flow
@@ -1625,7 +1683,7 @@
 
     You are the joy set before me
 - song: Your Great Name
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Lost are saved, find their way, at the sound of Your great name
@@ -1658,7 +1716,7 @@
     Your great name, yeah
     Your great name, yeah
 - song: Amazing Grace
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Amazing Grace, How sweet the sound
@@ -1684,7 +1742,7 @@
 
     Was blind, but now I see.
 - song: Create in Me a Clean Heart
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Create in me a clean heart
@@ -1733,7 +1791,7 @@
     So that I may worship Thee
     So that I may worship Thee
 - song: How Deep The Father's Love For Us
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     How deep the Father’s love for us,
@@ -1763,7 +1821,7 @@
     But this I know with all my heart -
     His wounds have paid my ransom.
 - song: It is Well
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Grander earth has quaked before
@@ -1803,130 +1861,6 @@
     So let go my soul and trust in Him
     The waves and wind still know His name
     The waves and wind still know His name
-- song: Your Love Is Strong
-  artist:
-  enabled: false
-  lyrics: |-
-    Heavenly Father, You always amaze me
-    Let Your kingdom come in my world and in my life
-    Give me the food I need
-    To live through today
-
-    And forgive me as I forgive
-    The people that wrong me
-    Lead me far from temptation
-    Deliver me from the evil one
-
-    I look out the window
-    The birds are composing
-    Not a note is out of tune
-    Or out of place
-
-    I walk to the meadow
-    And stare at the flowers
-    Better dressed than any girl
-    On her wedding day
-
-    So why should I worry?
-    Why do I freak out?
-    God knows what I need
-    You know what I need
-
-    Your love is, Your love is
-    Your love is strong
-    Your love is, Your love is
-    Your love is strong
-    Your love is, Your love is
-    Your love is strong
-
-    The Kingdom of the Heavens
-    Is now advancing
-    Invade my heart
-    Invade this broken town
-
-    The Kingdom of the Heavens
-    Is buried treasure
-    Would you sell yourself
-    To buy the one you've found?
-
-    Two things You told me
-    That You are strong
-    And You love me
-    Yes, You love me
-
-    [x4]
-    Your love is, Your love is
-    Your love is strong
-
-    Our God in Heaven
-    Hallowed be Thy name
-    Above all names
-    Your kingdom come
-    Your will be done
-
-    On earth as it is in Heaven
-    Give us today our daily bread
-    Forgive us weary sinners
-    Keep us far from our vices
-    And deliver us from these prisons
-- song: Your Love is Strong
-  artist: Jon Foreman
-  enabled: false
-  lyrics: |-
-    Heavenly Father
-    You always amaze me
-    Let Your kingdom come in my world
-    And in my life
-
-    Give me the food I need to live through today
-    And forgive me as I forgive the people that wrong me
-
-    Lead me far from temptation
-    Deliver me from the evil one
-
-    I look out the window
-    The birds are composing
-    Not a note is out of tune
-    Or out of place
-
-    I walk to the meadow
-    And stare at the flowers
-    Better dressed than any girl
-    On her wedding day
-
-    So why should I worry?
-    Why do I freak out?
-    God knows what I need!
-    You know what I need!
-
-    Your love is strong
-
-    The Kingdom of the Heavens
-    Is now advancing
-    Invade my heart
-    Invade this broken town
-
-    The Kingdom of the Heavens
-    Is buried treasure
-    Would you sell yourself
-    To buy the one you've found?
-
-    Two things You told me
-    That You are strong
-    And You love me,
-    Yes You love me
-
-    Your love is strong
-
-    Our God in heaven
-    Hallowed be thy name above all names
-    Your kingdom come
-    Your will be done
-    On earth as it is in heaven
-    Give us, today, our daily bread
-    Forgive us weary sinners
-    Keep us far from our vices and
-    Deliver us from these prisons
 - song: All Creatures of Our God and King
   artist: Francis of Assisi
   enabled: false
