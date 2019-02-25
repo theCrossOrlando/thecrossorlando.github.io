@@ -30,5 +30,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- values.html
 - care.html
 - gatherings.html
