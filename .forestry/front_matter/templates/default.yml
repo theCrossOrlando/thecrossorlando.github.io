@@ -1,0 +1,46 @@
+---
+label: Default
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: sections
+  label: Sections
+  type: field_group_list
+  fields:
+  - name: title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+  - name: image
+    label: Image
+    type: file
+    hidden: false
+    default: ''
+  - name: body
+    label: Body
+    type: textarea
+    hidden: false
+    default: ''
+  - name: info
+    label: Info
+    type: textarea
+    hidden: false
+    default: ''
+  - name: email
+    label: Email
+    type: text
+    hidden: false
+    default: ''
+  - name: bio
+    label: Bio
+    type: textarea
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
