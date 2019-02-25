@@ -1,16 +1,16 @@
 ---
 title: Values
-values:
-- name: Story
-  details: At the center of our people has always been the story. It reveals the character
+sections:
+- title: Story
+  body: At the center of our people has always been the story. It reveals the character
     of God, memorializes what he's done and teaches us where to he can be found. It's
     significant to us that we remember the Scriptures are a story. It says so much
     about the nature of our God that he's preserved such core aspects of life inside
     a story, not a set of doctrines our list of instructions. It remindes us that
     his relationships with people are authentic and dynamic. So we value story; his
     and ours. We're always looking for the ways they intersect.
-- name: Peace
-  details: The peace of God is something that confounds the understanding of the world,
+- title: Peace
+  body: The peace of God is something that confounds the understanding of the world,
     it comes in relationship with him. We want the Cross Orlando to be a place where
     we run into that peace on a regular basis. It ought to be a marker of our congregation.
     Toward that end, we regularly encourage one another to remember the deep truths
@@ -18,8 +18,8 @@ values:
     God's peace. It can overwhelm the areas of anxiety, fear, addiction and sadness
     in our lives. We can become ambassadors for God's peace just as our people have
     always been.
-- name: Lineage
-  details: 'The story didn’t start with us. As obvious as that may be, it’s easy to
+- title: Lineage
+  body: 'The story didn’t start with us. As obvious as that may be, it’s easy to
     forget. But when we remember its ancient roots, it broadens the scope of our lives
     and communities. For generations and centuries Jesus’ expansion, explanation and
     fulfillment of the Jewish scriptures have been preserved and applied by families
@@ -32,8 +32,8 @@ values:
     community and growing the faith of all who believe. We are partnered in the mission
     with four other churches in the area: Holy Cross, New City, the Cross East Lake
     and the Table of West Volusia.'
-- name: Life
-  details: Most of us don’t know exactly how we ended up here, but we’ve decided that
+- title: Life
+  body: Most of us don’t know exactly how we ended up here, but we’ve decided that
     it was no accident. For us, this city won’t just be the place where we live. It
     won’t merely be buildings we walk in and out of and streets we drive on. If our
     mission is to live with love and joy, then Orlando will be our mission field.
@@ -45,16 +45,3 @@ values:
     In our scriptures, we found the encouragement to, “Seek the peace and prosperity
     of the City to which God has taken you.”
 ---
-
-<h1>{{ page.title }}</h1>
-
-<div class="row small-up-1 medium-up-2">
-  {% for value in page.values %}
-  <div class="column">
-    <article class="card">
-      <h2>{{ value.name }}</h2>
-      <p>{{ value.details }}</p>
-    </article>
-  </div>
-  {% endfor %}
-</div>

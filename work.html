@@ -1,10 +1,10 @@
 ---
 title: Work
-people:
-- name: Terry
+sections:
+- title: Terry
   info: Terry is deeply connected among artists and arts organizations in town. Want
     to find places to connect to the arts? Reach out to him.
-  bio: My parents moved to several different communities when I was growing up and
+  body: My parents moved to several different communities when I was growing up and
     along the way we found personal relationships with Jesus.  I’ve been blessed since
     college in Minnesota to explore how my faith works itself out on the front lines
     of culture through working in the arts.  I moved to Orlando in 1982 with SAK theatre,
@@ -15,10 +15,10 @@ people:
     having dynamic experiences that enliven them.
   image: assets/terry.jpg
   email: terry.olson@ocfl.net
-- name: Dana
+- title: Dana
   info: Dana is a culture maker in town, she advocates for beauty and connection is
     many forms. Want to connect to connect among culture makers? Reach out to her.
-  bio: Hello! Dana Marie here!  I have been really lucky to call The Cross my home
+  body: Hello! Dana Marie here!  I have been really lucky to call The Cross my home
     church for about 3 1/2 years now.  I am quite grateful to have grown up in a family
     that acknowledged Jesus as our Messiah.  Growing up in a larger family probably
     set the stage for always wanting community around. I like to borrow from often
@@ -31,11 +31,11 @@ people:
     contribute where I can.
   image: "/uploads/2017/08/08/Slack for iOS Upload.jpg"
   email: danamarie@hellotdpp.com
-- name: Kristine
+- title: Kristine
   info: Kristine is a super networker among chef's and foodies. If you want to know
     what's happening in Orlando's food scene and find places to connect, reach out
     to her.
-  bio: Grew up in Seattle Washington attending church with my family and continue
+  body: Grew up in Seattle Washington attending church with my family and continue
     to grow closer to God and enjoy the path he's leading me on. I moved to Orlando
     in 2008 seeking warmer weather. I worked for Disney from 2008-2015 as a sales,
     marketing and event director. I met Jim Thomas in 2013 at the Wine Room in Winter
@@ -52,11 +52,11 @@ people:
     my family, and my community are what I value most.... and of course, healthy food!
   image: assets/kristine.jpg
   email: kristine@orlfoodlab.org
-- name: Eliza
+- title: Eliza
   info: Eliza is working in Urban development, she knows the players and hosts conversations.
     If you want to get plugged into Orlando's Urban planning conversation, she's a
     great place to start.
-  bio: When I encountered urban planning in college, I saw how much the design of
+  body: When I encountered urban planning in college, I saw how much the design of
     our cities affects our daily lives, our interactions with neighbors, and our communities'
     ability to thrive. Ever since then I have been 'seeking the prosperity of the
     city' (Jer 29:7) by working with colleagues and community organizations to the
@@ -72,21 +72,4 @@ people:
   email: elizaharrisjuliano@gmail.com
 ---
 
-<h1>{{ page.title }}</h1>
-
 <p>As an outpost of the kingdom of God, we believe we're invited to work for the peace and prosperity of our city. Contact these folks to find out how you might join us.</p>
-
-<div class="row small-up-1 medium-up-2">
-  {% for person in page.people %}
-  <div class="column">
-    <article class="card">
-      {% if person.image %}
-      <img src="{{ site.url }}/{{ person.image }}" />
-      {% endif %}
-      <h2>{{ person.name }}{% if person.email %} <a href="mailto:{{ person.email }}" target="_blank"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>{% endif %}</h2>
-      <blockquote>{{ person.info }}</blockquote>
-      <p>{{ person.bio }}</p>
-    </article>
-  </div>
-  {% endfor %}
-</div>

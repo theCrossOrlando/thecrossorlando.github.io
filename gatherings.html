@@ -1,6 +1,6 @@
 ---
 title: Gatherings
-gatherings:
+sections:
 - title: Sundays
   image: assets/sundays.jpg
   body: We gather weekly on Sunday mornings around 10a. Our people, the people of
@@ -52,19 +52,3 @@ gatherings:
     a cool neighborhood revitalization project. We''re designating group work days
     to help him out once a month. Our next work day is December 2nd. '
 ---
-
-<h1>{{ page.title }}</h1>
-
-<div class="row small-up-1 medium-up-2">
-  {% for gathering in page.gatherings %}
-  <div class="column">
-    <article class="card">
-      {% if gathering.image %}
-      <img src="{{ site.url }}/{{ gathering.image }}" />
-      {% endif %}
-      <h2>{{ gathering.title }}</h2>
-      <p>{{ gathering.body | markdownify }}</p>
-    </article>
-  </div>
-  {% endfor %}
-</div>

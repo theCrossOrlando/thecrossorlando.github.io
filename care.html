@@ -1,39 +1,24 @@
 ---
 title: Care
-needs:
+sections:
 - title: Scripture / Theology
   image:
-  details: We've got several experts, but <a href="mailto:ben@thehoyers.com">Ben</a>
+  body: We've got several experts, but <a href="mailto:ben@thehoyers.com">Ben</a>
     is a good place to start.
 - title: Solace Counseling
   image: assets/moores.jpg
-  details: We believe healing happens through honesty and compassion rather than shame
+  body: We believe healing happens through honesty and compassion rather than shame
     and judgment, and our hope is to offer a comfortable and helpful place to move
     forward in your life.
   link: http://solacecounseling.org/
 - title: HD Counseling
   image: assets/zach.jpg
-  details: We strive to counsel individuals and groups in such a way that creates
+  body: We strive to counsel individuals and groups in such a way that creates
     a safe place for developing the tools needed to address the circumstances presenting
     hindrances to the individual's ideal position. HD Counseling, LLC brings a different
     outlook to the benefits that counseling offers.
   link: http://hdcounseling.com/
 ---
-<h1>{{ page.title }}</h1>
 <p>Life is hard. Sometimes it's smart to process it with somebody who knows what they're talking about. Here are some friends who're great professional counselors.</p>
-
-<div class="row small-up-1 medium-up-2">
-  {% for need in page.needs %}
-  <div class="column">
-    <article class="card">
-      {% if need.image %}
-      <img src="{{ site.url }}/{{ need.image }}" />
-      {% endif %}
-      <h2>{{ need.title }}{% if need.link %} <a href="{{ need.link }}" target="_blank"><i class="fa fa-heart-o" aria-hidden="true"></i></a>{% endif %}</h2>
-      <p>{{ need.details }}</p>
-    </article>
-  </div>
-  {% endfor %}
-</div>
 
 <p>If you need somebody to pray for or with you, make your <a href="mailto:ben@thehoyers.com">request known</a>.</p>

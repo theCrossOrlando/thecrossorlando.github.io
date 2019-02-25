@@ -1,0 +1,19 @@
+<div class="row small-up-1 medium-up-2">
+  {% for section in page.sections %}
+  <div class="column">
+    <article class="card">
+      {% if section.image %}
+      <img src="{{ site.url }}/{{ section.image }}" />
+      {% endif %}
+      <h2>
+        {{ section.title }}
+        {% if section.link %} <a href="{{ section.link }}" target="_blank"><i class="fa fa-heart-o" aria-hidden="true"></i></a>{% endif %}
+        {% if section.email %} <a href="mailto:{{ section.email }}" target="_blank"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>{% endif %}
+      </h2>
+      {% if section.info %}<blockquote>{{ section.info }}</blockquote>{% endif %}
+      <p>{{ section.body | markdownify }}</p>
+      {% if section.bio %}<p>{{ section.bio }}</p>{% endif %}
+    </article>
+  </div>
+  {% endfor %}
+</div>
