@@ -29,3 +29,5 @@ fields:
     default: ''
   hidden: false
   default: ''
+pages:
+- gatherings.html
