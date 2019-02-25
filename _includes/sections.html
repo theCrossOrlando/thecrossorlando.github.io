@@ -12,7 +12,6 @@
       </h2>
       {% if section.info %}<blockquote>{{ section.info }}</blockquote>{% endif %}
       <p>{{ section.body | markdownify }}</p>
-      {% if section.bio %}<p>{{ section.bio }}</p>{% endif %}
     </article>
   </div>
   {% endfor %}
