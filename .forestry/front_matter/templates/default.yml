@@ -1,7 +1,7 @@
 ---
 label: Default
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
@@ -24,21 +24,6 @@ fields:
     default: ''
   - name: body
     label: Body
-    type: textarea
-    hidden: false
-    default: ''
-  - name: info
-    label: Info
-    type: textarea
-    hidden: false
-    default: ''
-  - name: email
-    label: Email
-    type: text
-    hidden: false
-    default: ''
-  - name: bio
-    label: Bio
     type: textarea
     hidden: false
     default: ''
