@@ -42,12 +42,16 @@ layout: null
     </image>
     <itunes:category text="Religion &amp; Spirituality"/>
     {% for ep in site.messages %}
+      {%- assign podcast_author = site.podcast_author -%}
+      {%- if ep.podcast_author -%}
+      {%- assign podcast_author = ep.podcast_author -%}
+      {%- endif -%}
       <item>
         <title>{{ ep.title }}</title>
         <link>{{ site.url }}{{ ep.url }}</link>
         <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %Z" }}</pubDate>
         <dc:creator>
-          <![CDATA[{{ site.podcast_author | cdata_escape }}]]>
+          <![CDATA[{{ podcast_author | cdata_escape }}]]>
         </dc:creator>
         <guid isPermaLink="true">{{ site.url }}{{ ep.url }}</guid>
         <description>
@@ -64,7 +68,7 @@ layout: null
         <itunes:summary>
           <![CDATA[{{ ep.summary | expand_urls: site.url | cdata_escape }}]]>
         </itunes:summary>
-        <itunes:author>{{ site.podcast_author }}</itunes:author>
+        <itunes:author>{{ podcast_author }}</itunes:author>
         <itunes:image href="http://crosssermons.cflcn.org/logo.png"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:duration>{{ ep.duration }}</itunes:duration>
