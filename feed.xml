@@ -41,7 +41,7 @@ layout: null
       <link>{{ site.url }}</link>
     </image>
     <itunes:category text="Religion &amp; Spirituality"/>
-    {% for ep in site.messages %}
+    {% for ep in site.messages reversed %}
       {%- assign podcast_author = site.podcast_author -%}
       {%- if ep.podcast_author -%}
       {%- assign podcast_author = ep.podcast_author -%}
