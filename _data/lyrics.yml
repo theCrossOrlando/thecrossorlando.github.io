@@ -1,7 +1,97 @@
 ---
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+- song: Heart Won't Stop
+  artist: John Mark McMillan & Sarah McMillan
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+    There is not a man or beast
+    Nothing on the land or underneath
+    Oh nothing that could ever come between
+    The love You have for me
+
+    [Pre-Chorus]
+    I could lay my head in sheol
+    I could make my bed
+    At the bottom of darkness deep
+    Oh but there is not a place I could escape You
+
+    [Chorus]
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Coming after me
+
+    [Verse 2]
+    There is not an angel of the stars
+    There is not a devil in the dark
+    Oh nothing that could change the way You are
+    The love You have for me
+
+    [Pre-Chorus]
+    I could lay my head in sheol
+    I could make my bed
+    At the bottom of darkness deep
+    Oh but there is not a place I could escape You
+- song: Come Thou Fount
+  artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    Come thou fount of every blessing
+    Tune my heart to sing thy grace
+    Streams of mercy never ceasing
+    Call for songs of loudest praise
+    Teach me some melodious sonnet
+    Sung by flaming tongues above
+    I'll praise the mount I'm fixed upon it
+    Mount of thy redeeming love
+
+    Here I raise my Ebenezer
+    Hither by thy help I come
+    And I hope by thy good pleasure
+    Safely to arrive at home
+
+    Jesus sought me when a stranger
+    Wondering from the fold of God
+    He, to rescue me from danger
+    Interposed His precious blood
+
+    O to grace how great a debtor daily
+    I'm constrained to be!
+    Let thy goodness like a fetter,
+    bind my wandering heart to thee
+    Prone to wander Lord I feel it,
+    prone to leave the God I love
+    Here's my heart, O take and seal it,
+    seal it for thy courts above
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, love that will not let me go
     I rest my weary soul in thee
@@ -53,7 +143,7 @@
     We will join with the angels and we will sing:
 - song: Your Love is Strong
   artist: Jon Foreman
-  enabled: true
+  enabled: false
   lyrics: |-
     Heavenly Father
     You always amaze me
@@ -111,7 +201,7 @@
     Deliver us from these prisons
 - song: Great Are You Lord
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     You give life, You are love
     You bring light to the darkness
@@ -156,7 +246,7 @@
     To You only
 - song: Called Me Higher
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     I could just sit
     I could just sit and wait for all Your goodness
@@ -357,39 +447,6 @@
     Once and for all
     Oh once and for all
     Once and for all
-- song: Heart Won't Stop
-  artist: John Mark McMillan & Sarah McMillan
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-    There is not a man or beast
-    Nothing on the land or underneath
-    Oh nothing that could ever come between
-    The love You have for me
-
-    [Pre-Chorus]
-    I could lay my head in sheol
-    I could make my bed
-    At the bottom of darkness deep
-    Oh but there is not a place I could escape You
-
-    [Chorus]
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after me
-    Coming after me
-
-    [Verse 2]
-    There is not an angel of the stars
-    There is not a devil in the dark
-    Oh nothing that could change the way You are
-    The love You have for me
-
-    [Pre-Chorus]
-    I could lay my head in sheol
-    I could make my bed
-    At the bottom of darkness deep
-    Oh but there is not a place I could escape You
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
   enabled: false
@@ -470,32 +527,6 @@
     And raised this life up from the dead)
     Well praise the one who paid my debt and raised this life up from the dead
     Jesus
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: So Will I
   artist: Hillsong United
   enabled: false
@@ -668,37 +699,6 @@
 
     Here's my life, Lord [x3]
     Speak what is true [x3]
-- song: Come Thou Fount
-  artist: Chris Tomlin
-  enabled: false
-  lyrics: |-
-    Come thou fount of every blessing
-    Tune my heart to sing thy grace
-    Streams of mercy never ceasing
-    Call for songs of loudest praise
-    Teach me some melodious sonnet
-    Sung by flaming tongues above
-    I'll praise the mount I'm fixed upon it
-    Mount of thy redeeming love
-
-    Here I raise my Ebenezer
-    Hither by thy help I come
-    And I hope by thy good pleasure
-    Safely to arrive at home
-
-    Jesus sought me when a stranger
-    Wondering from the fold of God
-    He, to rescue me from danger
-    Interposed His precious blood
-
-    O to grace how great a debtor daily
-    I'm constrained to be!
-    Let thy goodness like a fetter,
-    bind my wandering heart to thee
-    Prone to wander Lord I feel it,
-    prone to leave the God I love
-    Here's my heart, O take and seal it,
-    seal it for thy courts above
 - song: Brokenness Aside
   artist: All Sons & Daughters
   enabled: false
