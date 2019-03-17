@@ -1,7 +1,105 @@
 ---
-- song: Almighty God
+- song: Have Mercy
   artist: Sandra McCracken
   enabled: true
+  lyrics: |-
+    Have Mercy on me
+    Have Mercy on me
+    Oh Lord, have mercy
+
+    Lord help my unbelief
+    Lord help my unbelief
+    Oh Lord, have mercy
+- song: Praise to the Lord, the Almighty
+  artist: Hymn
+  enabled: true
+  lyrics: |-
+    Praise to the Lord, the Almighty
+    The King of creation
+    O my soul, praise Him
+    For He is thy health and salvation
+    All ye who hear,
+    Now to His temple draw near
+    Praise Him in glad adoration
+
+    Praise to the Lord
+    Who o'er all things so wondrously reigneth
+    Shelters thee under His wings
+    Yea, so gently sustaineth
+    Hast thou not seen
+    How thy desires e'er have been
+    Granted in what He ordaineth
+
+    Hallelu-jah, hallelu-jah,
+    Hallelu-jah, hallelu-jah
+
+    Praise to the Lord
+    Who doth prosper thy work and defend thee
+    Surely His goodness and mercy here daily attend thee
+    Ponder anew
+    What the Almighty can do
+    If with His love He befriend thee
+
+    Praise to the Lord,
+    O let all that is in me adore Him
+    All that hath life and breath
+    Come now with praises before Him
+    Let the ‘amen’
+    Sound from His people again
+    Gladly for'ere we adore Him
+
+    Hallelu-jah, hallelu-jah,
+    Hallelu-jah, hallelu-jah
+- song: Grace Alone
+  artist: Dustin Kensrue
+  enabled: true
+  lyrics: |-
+    I was an orphan lost at the fall
+    Running away when I'd hear your call
+    But Father, you worked your will
+
+    I had no righteousness of my own
+    I had no right to draw near your throne
+    But Father, you loved me still
+
+    And in love before you laid the world's foundation
+    You predestined to adopt me as your own
+    You have raised me up so high above my station
+    I'm a child of God by grace and grace alone
+
+    You left your home to seek out the lost
+    You knew the great and terrible cost
+    But Jesus, your face was set
+
+    I worked my fingers down to the bone
+    Nothing I did could ever atone
+    But Jesus, you paid my debt
+
+    By your blood I have redemption and salvation
+    Lord, you died that I might reap what you have sown
+    And you rose that I might be a new creation
+    I am born again by grace and grace alone
+
+    I was in darkness all of my life
+    I never knew the day from the night
+    But Spirit, you made me see
+
+    I swore I knew the way on my own
+    Head full of rocks, a heart made of stone
+    But Spirit, you moved in me
+
+    At your touch my sleeping spirit was awakened
+    On my darkened heart the light of Christ has shone
+    Called into a kingdom that cannot be shaken
+    Heaven's citizen by grace and grace alone
+
+    So I'll stand in faith by grace and grace alone
+    I will run the race by grace and grace alone
+    I will slay my sin by grace and grace alone
+    I will reach the end by grace and grace alone
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -27,7 +125,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Heart Won't Stop
   artist: John Mark McMillan & Sarah McMillan
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     There is not a man or beast
@@ -60,7 +158,7 @@
     Oh but there is not a place I could escape You
 - song: Come Thou Fount
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     Come thou fount of every blessing
     Tune my heart to sing thy grace
