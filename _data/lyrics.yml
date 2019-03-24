@@ -1,7 +1,141 @@
 ---
+- song: It is Well
+  artist: 
+  enabled: true
+  lyrics: |-
+    Grander earth has quaked before
+    Moved by the sound of His voice
+    Seas that are shaken and stirred
+    Can be calmed and broken for my regard
+
+    And through it all, through it all
+    My eyes are on You
+    And through it all, through it all
+    It is well
+
+    And through it all, through it all
+    My eyes are on You
+    And it is well with me
+
+    And far be it from me to not believe
+    Even when my eyes can't see
+
+    And this mountain that's in front of me
+    Will be thrown into the midst of the sea
+
+    And through it all, through it all
+    My eyes are on You
+    And through it all, through it all
+    It is well
+
+    And through it all, through it all
+    My eyes are on You
+    And it is well
+    It is well
+
+    So let go my soul and trust in Him
+    The waves and wind still know His name
+    So let go my soul and trust in Him
+    The waves and wind still know His name
+    So let go my soul and trust in Him
+    The waves and wind still know His name
+    The waves and wind still know His name
+- song: Your Love Changes Everything
+  artist: United Pursuit
+  enabled: true
+  lyrics: |-
+    Lord, you spoke those words
+    You spoke so tenderly
+    Now I choose to believe
+    You love me, you love me, you love me
+
+    Lord, you spoke those words
+    You spoke so tenderly
+    Now I choose to believe
+    You love me, you love me, you love me
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    When my heart is frail
+    And when I’m incomplete
+    I will choose to receive
+    You love me, you love me, you love me
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+
+    You never fail
+    When I look at you
+    You never fail
+    And I trust in you
+    And you never let go
+    You never let go of me
+    You never let go
+
+    You never fail
+    When I look at you
+    You never fail
+    And I trust in you
+    Lord, you never let go
+    You never let go of me
+    You never let go
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+    [Repeat 3x]
+
+    Your love changes everything
+    Your love changes everything
+    Your love changes everything
+
+    Lord you spoke those words
+    You spoke so tenderly
+    And now I choose to believe
+    You love me, you love me, you love me
+- song: Come Holy One
+  artist: Young Oceans
+  enabled: true
+  lyrics: |-
+    Hasten now, O loving Lord to us
+    We’re thirsty
+    Fill these souls, Spirit, every hour
+    We need Thee
+
+    Refrain
+
+    Come, come Holy One
+    Come meet us
+    All, all for Your glory
+    Lord Jesus
+
+    Lead us on, the perfect path O Lord And may we
+    Sin no more. This
+    spotless bride, the Church
+    Is Yours
+
+    I am yours, only yours
+    I am yours, only yours
+    We are yours, only yours
+    We are yours, only yours
 - song: Have Mercy
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Have Mercy on me
     Have Mercy on me
@@ -12,7 +146,7 @@
     Oh Lord, have mercy
 - song: Praise to the Lord, the Almighty
   artist: Hymn
-  enabled: true
+  enabled: false
   lyrics: |-
     Praise to the Lord, the Almighty
     The King of creation
@@ -52,7 +186,7 @@
     Hallelu-jah, hallelu-jah
 - song: Grace Alone
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     I was an orphan lost at the fall
     Running away when I'd hear your call
@@ -879,31 +1013,6 @@
     I will run the race by grace and grace alone
     I will slay my sin by grace and grace alone
     I will reach the end by grace and grace alone
-- song: Come Holy One
-  artist: Young Oceans
-  enabled: false
-  lyrics: |-
-    Hasten now, O loving Lord to us
-    We’re thirsty
-    Fill these souls, Spirit, every hour
-    We need Thee
-
-    Refrain
-
-    Come, come Holy One
-    Come meet us
-    All, all for Your glory
-    Lord Jesus
-
-    Lead us on, the perfect path O Lord And may we
-    Sin no more. This
-    spotless bride, the Church
-    Is Yours
-
-    I am yours, only yours
-    I am yours, only yours
-    We are yours, only yours
-    We are yours, only yours
 - song: Refresh Me
   artist: Leeland
   enabled: false
@@ -1393,74 +1502,6 @@
     Give all I have just to know You
     Jesus, there's no one besides You
     Forever the hope in my heart
-- song: Your Love Changes Everything
-  artist: United Pursuit
-  enabled: false
-  lyrics: |-
-    Lord, you spoke those words
-    You spoke so tenderly
-    Now I choose to believe
-    You love me, you love me, you love me
-
-    Lord, you spoke those words
-    You spoke so tenderly
-    Now I choose to believe
-    You love me, you love me, you love me
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-
-    When my heart is frail
-    And when I’m incomplete
-    I will choose to receive
-    You love me, you love me, you love me
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-
-    You never fail
-    When I look at you
-    You never fail
-    And I trust in you
-    And you never let go
-    You never let go of me
-    You never let go
-
-    You never fail
-    When I look at you
-    You never fail
-    And I trust in you
-    Lord, you never let go
-    You never let go of me
-    You never let go
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-    [Repeat 3x]
-
-    Your love changes everything
-    Your love changes everything
-    Your love changes everything
-
-    Lord you spoke those words
-    You spoke so tenderly
-    And now I choose to believe
-    You love me, you love me, you love me
 - song: Prayer of the Church
   artist: 
   enabled: false
@@ -1918,47 +1959,6 @@
     I cannot give an answer;
     But this I know with all my heart -
     His wounds have paid my ransom.
-- song: It is Well
-  artist: 
-  enabled: false
-  lyrics: |-
-    Grander earth has quaked before
-    Moved by the sound of His voice
-    Seas that are shaken and stirred
-    Can be calmed and broken for my regard
-
-    And through it all, through it all
-    My eyes are on You
-    And through it all, through it all
-    It is well
-
-    And through it all, through it all
-    My eyes are on You
-    And it is well with me
-
-    And far be it from me to not believe
-    Even when my eyes can't see
-
-    And this mountain that's in front of me
-    Will be thrown into the midst of the sea
-
-    And through it all, through it all
-    My eyes are on You
-    And through it all, through it all
-    It is well
-
-    And through it all, through it all
-    My eyes are on You
-    And it is well
-    It is well
-
-    So let go my soul and trust in Him
-    The waves and wind still know His name
-    So let go my soul and trust in Him
-    The waves and wind still know His name
-    So let go my soul and trust in Him
-    The waves and wind still know His name
-    The waves and wind still know His name
 - song: All Creatures of Our God and King
   artist: Francis of Assisi
   enabled: false
