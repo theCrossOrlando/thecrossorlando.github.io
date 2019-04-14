@@ -1,7 +1,178 @@
 ---
+- song: Jesus Paid it All
+  artist: 
+  enabled: true
+  lyrics: |-
+    I hear the savior say, thy strength indeed is small
+    Child of weakness, watch and pray, find in me thine all in all
+
+    'Cause Jesus paid it all
+    All to him I owe
+    Sin had left a crimson stain, he washed it white as snow
+
+    Lord, now indeed I find thy power and thine alone
+    Can change the leper's spots and melt the heart of stone
+
+    'Cause Jesus paid it all
+    All to him I owe
+    My sin had left this crimson stain, he washed it white as snow
+
+    It's washed away, all my sin
+    And all my shame
+
+    And when before the throne I stand in him complete
+    "Jesus died my soul to save" my lips shall still repeat
+
+    Jesus paid it all
+    All to him I owe
+    (Sin had left a crimson stain, he washed it white as snow)
+    (He washed it white as snow)
+
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    Well praise the one who paid my debt and raised this life up from the dead
+    Jesus
+    You are the one
+    The son of god
+    Conqueror of death
+    King of kings
+    The sacrificial lamb
+
+    (O praise the one who paid my debt
+    And raised this life up from the dead)
+    Well praise the one who paid my debt and raised this life up from the dead
+    Jesus
+- song: Oh Love That Will Not Let Me Go
+  artist: Ascend the Hill
+  enabled: true
+  lyrics: |-
+    Oh, love that will not let me go
+    I rest my weary soul in thee
+    I give you back the life I owe
+    And in your ocean depths its flow
+    May richer, fuller be
+
+    My life is not my own
+    It's yours
+    My life is not my own
+    I know it's yours
+
+    Oh, light that follows all my way
+    I yield my flickering torch to thee
+    And my heart restores its borrowed ray
+    That in your sunshine's blaze its day
+    May brighter, fairer be
+
+    So light a fire in my heart
+    And I'll burn for you
+    So light a fire in my heart
+    And I'll burn for you
+
+    Oh, joy, that seeks me through the pain
+    I cannot close my heart to thee
+    I trace the rainbow through the rain
+    And feel the promise is not in vain
+    That morn shall tearless be
+
+    So anoint me with joy
+    And joyful I will be
+    So anoint me with joy
+    And joyful I will be
+
+    Oh, cross that's lifing up my head
+    I dare not ask to fly from thee
+    I lay in dust life's glory dead
+    And from the ground there blossoms red
+    Life that shall endless be
+
+    We will sing:
+    Holy, holy
+    Is the King of Kings
+    And we will sing:
+    Holy, holy
+    Is the King of Kings
+
+    On that day we will sing:
+    We will join with the angels and we will sing:
+- song: So Will I
+  artist: Hillsong United
+  enabled: true
+  lyrics: |-
+    God of creation
+    There at the start
+    Before the beginning of time
+    With no point of reference
+    You spoke to the dark
+    And fleshed out the wonder of light
+
+    And as You speak
+    A hundred billion galaxies are born
+    In the vapour of Your breath the planets form
+    If the stars were made to worship so will I
+    I can see Your heart in everything You’ve made
+    Every burning star
+    A signal fire of grace
+    If creation sings Your praises so will I
+
+    God of Your promise
+    You don’t speak in vain
+    No syllable empty or void
+    For once You have spoken
+    All nature and science
+    Follow the sound of Your voice
+
+    And as You speak
+    A hundred billion creatures catch Your breath
+    Evolving in pursuit of what You said
+    If it all reveals Your nature so will I
+    I can see Your heart in everything You say
+    Every painted sky
+    A canvas of Your grace
+    If creation still obeys You so will I
+
+    If the stars were made to worship so will I
+    If the mountains bow in reverence so will I
+    If the oceans roar Your greatness so will I
+    For if everything exists to lift You high so will I
+    If the wind goes where You send it so will I
+    If the rocks cry out in silence so will I
+    If the sum of all our praises still falls shy
+    Then we’ll sing again a hundred billion times
+
+    God of salvation
+    You chased down my heart
+    Through all of my failure and pride
+    On a hill You created
+    The light of the world
+    Abandoned in darkness to die
+
+    And as You speak
+    A hundred billion failures disappear
+    Where You lost Your life so I could find it here
+    If You left the grave behind You so will I
+    I can see Your heart in everything You’ve done
+    Every part designed in a work of art called love
+    If You gladly chose surrender so will I
+    I can see Your heart
+    Eight billion different ways
+    Every precious one
+    A child You died to save
+    If You gave Your life to love them so will I
+
+    Like You would again a hundred billion times
+    But what measure could amount to Your desire
+    You’re the One who never leaves the one behind
 - song: Your Love Changes Everything
   artist: United Pursuit
-  enabled: true
+  enabled: false
   lyrics: |-
     Lord, you spoke those words
     You spoke so tenderly
@@ -69,7 +240,7 @@
     You love me, you love me, you love me
 - song: Heart Won't Stop
   artist: John Mark McMillan & Sarah McMillan
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     There is not a man or beast
@@ -102,7 +273,7 @@
     Oh but there is not a place I could escape You
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -321,58 +492,6 @@
     prone to leave the God I love
     Here's my heart, O take and seal it,
     seal it for thy courts above
-- song: Oh Love That Will Not Let Me Go
-  artist: Ascend the Hill
-  enabled: false
-  lyrics: |-
-    Oh, love that will not let me go
-    I rest my weary soul in thee
-    I give you back the life I owe
-    And in your ocean depths its flow
-    May richer, fuller be
-
-    My life is not my own
-    It's yours
-    My life is not my own
-    I know it's yours
-
-    Oh, light that follows all my way
-    I yield my flickering torch to thee
-    And my heart restores its borrowed ray
-    That in your sunshine's blaze its day
-    May brighter, fairer be
-
-    So light a fire in my heart
-    And I'll burn for you
-    So light a fire in my heart
-    And I'll burn for you
-
-    Oh, joy, that seeks me through the pain
-    I cannot close my heart to thee
-    I trace the rainbow through the rain
-    And feel the promise is not in vain
-    That morn shall tearless be
-
-    So anoint me with joy
-    And joyful I will be
-    So anoint me with joy
-    And joyful I will be
-
-    Oh, cross that's lifing up my head
-    I dare not ask to fly from thee
-    I lay in dust life's glory dead
-    And from the ground there blossoms red
-    Life that shall endless be
-
-    We will sing:
-    Holy, holy
-    Is the King of Kings
-    And we will sing:
-    Holy, holy
-    Is the King of Kings
-
-    On that day we will sing:
-    We will join with the angels and we will sing:
 - song: Your Love is Strong
   artist: Jon Foreman
   enabled: false
@@ -708,125 +827,6 @@
     You will never come at all.
 
     Refrain
-- song: Jesus Paid it All
-  artist: 
-  enabled: false
-  lyrics: |-
-    I hear the savior say, thy strength indeed is small
-    Child of weakness, watch and pray, find in me thine all in all
-
-    'Cause Jesus paid it all
-    All to him I owe
-    Sin had left a crimson stain, he washed it white as snow
-
-    Lord, now indeed I find thy power and thine alone
-    Can change the leper's spots and melt the heart of stone
-
-    'Cause Jesus paid it all
-    All to him I owe
-    My sin had left this crimson stain, he washed it white as snow
-
-    It's washed away, all my sin
-    And all my shame
-
-    And when before the throne I stand in him complete
-    "Jesus died my soul to save" my lips shall still repeat
-
-    Jesus paid it all
-    All to him I owe
-    (Sin had left a crimson stain, he washed it white as snow)
-    (He washed it white as snow)
-
-    (O praise the one who paid my debt
-    And raised this life up from the dead)
-    (O praise the one who paid my debt
-    And raised this life up from the dead)
-    (O praise the one who paid my debt
-    And raised this life up from the dead)
-    (O praise the one who paid my debt
-    And raised this life up from the dead)
-    (O praise the one who paid my debt
-    And raised this life up from the dead)
-    Well praise the one who paid my debt and raised this life up from the dead
-    Jesus
-    You are the one
-    The son of god
-    Conqueror of death
-    King of kings
-    The sacrificial lamb
-
-    (O praise the one who paid my debt
-    And raised this life up from the dead)
-    Well praise the one who paid my debt and raised this life up from the dead
-    Jesus
-- song: So Will I
-  artist: Hillsong United
-  enabled: false
-  lyrics: |-
-    God of creation
-    There at the start
-    Before the beginning of time
-    With no point of reference
-    You spoke to the dark
-    And fleshed out the wonder of light
-
-    And as You speak
-    A hundred billion galaxies are born
-    In the vapour of Your breath the planets form
-    If the stars were made to worship so will I
-    I can see Your heart in everything You’ve made
-    Every burning star
-    A signal fire of grace
-    If creation sings Your praises so will I
-
-    God of Your promise
-    You don’t speak in vain
-    No syllable empty or void
-    For once You have spoken
-    All nature and science
-    Follow the sound of Your voice
-
-    And as You speak
-    A hundred billion creatures catch Your breath
-    Evolving in pursuit of what You said
-    If it all reveals Your nature so will I
-    I can see Your heart in everything You say
-    Every painted sky
-    A canvas of Your grace
-    If creation still obeys You so will I
-
-    If the stars were made to worship so will I
-    If the mountains bow in reverence so will I
-    If the oceans roar Your greatness so will I
-    For if everything exists to lift You high so will I
-    If the wind goes where You send it so will I
-    If the rocks cry out in silence so will I
-    If the sum of all our praises still falls shy
-    Then we’ll sing again a hundred billion times
-
-    God of salvation
-    You chased down my heart
-    Through all of my failure and pride
-    On a hill You created
-    The light of the world
-    Abandoned in darkness to die
-
-    And as You speak
-    A hundred billion failures disappear
-    Where You lost Your life so I could find it here
-    If You left the grave behind You so will I
-    I can see Your heart in everything You’ve done
-    Every part designed in a work of art called love
-    If You gladly chose surrender so will I
-    I can see Your heart
-    Eight billion different ways
-    Every precious one
-    A child You died to save
-    If You gave Your life to love them so will I
-
-    Like You would again a hundred billion times
-    But what measure could amount to Your desire
-    You’re the One who never leaves the one behind
 - song: Before the Throne
   artist: Dustin Kensrue
   enabled: false
