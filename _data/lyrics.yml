@@ -1,7 +1,130 @@
 ---
+- song: It is Well
+  artist: 
+  enabled: true
+  lyrics: |-
+    Grander earth has quaked before
+    Moved by the sound of His voice
+    Seas that are shaken and stirred
+    Can be calmed and broken for my regard
+
+    And through it all, through it all
+    My eyes are on You
+    And through it all, through it all
+    It is well
+
+    And through it all, through it all
+    My eyes are on You
+    And it is well with me
+
+    And far be it from me to not believe
+    Even when my eyes can't see
+
+    And this mountain that's in front of me
+    Will be thrown into the midst of the sea
+
+    And through it all, through it all
+    My eyes are on You
+    And through it all, through it all
+    It is well
+
+    And through it all, through it all
+    My eyes are on You
+    And it is well
+    It is well
+
+    So let go my soul and trust in Him
+    The waves and wind still know His name
+    So let go my soul and trust in Him
+    The waves and wind still know His name
+    So let go my soul and trust in Him
+    The waves and wind still know His name
+    The waves and wind still know His name
+- song: Great Are You Lord
+  artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    You give life, You are love
+    You bring light to the darkness
+    You give hope, You restore
+    Every heart that is broken
+    Great are You, Lord
+
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise to You only
+
+    You give life, You are love
+    You bring light to the darkness
+    You give hope, You restore
+    Every heart that is broken
+    Great are You, Lord
+
+    [x2]
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise to You only
+
+    And all the earth will shout Your praise
+    Our hearts will cry, these bones will sing
+    Great are You, Lord
+
+    [x2]
+    And all the earth will shout Your praise
+    Our hearts will cry, these bones will sing
+    Great are You, Lord
+
+    [x2]
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise
+    To You only
+- song: Holy Spirit
+  artist: Jesus Culture
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+
+    There’s nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
+
+    [Chorus]
+
+    Holy Spirit, You are welcome here
+    Come flood this place
+    And fill the atmosphere
+    Your glory, God
+    Is what our hearts long for
+    To be overcome
+    By Your presence, Lord
+    Your presence, Lord
+
+    [Verse 2]
+
+    I’ve tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    [Bridge]
+
+    [4x]
+    Let us become more aware of Your presence
+    Let us experience the glory of Your goodness
+    Here I stand
 - song: Because He Lives
   artist:
-  enabled: true
+  enabled: false
   lyrics: |-
     God sent His son, they called Him, Jesus
     He came to love, heal and forgive
@@ -34,7 +157,7 @@
     Because he lives
 - song: Amazing Grace
   artist:
-  enabled: true
+  enabled: false
   lyrics: |-
     Amazing Grace, How sweet the sound
     That saved a wretch like me
@@ -60,7 +183,7 @@
     Was blind, but now I see.
 - song: Your Great Name
   artist:
-  enabled: true
+  enabled: false
   lyrics: |-
     Lost are saved, find their way, at the sound of Your great name
     All condemned, feel no shame, at the sound of Your great name
@@ -93,7 +216,7 @@
     Your great name, yeah
 - song: What a Beautiful Name
   artist: Hillsong Worship
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     You were the Word at the beginning
@@ -332,47 +455,6 @@
     Lord help my unbelief
     Lord help my unbelief
     Oh Lord, have mercy
-- song: It is Well
-  artist: 
-  enabled: false
-  lyrics: |-
-    Grander earth has quaked before
-    Moved by the sound of His voice
-    Seas that are shaken and stirred
-    Can be calmed and broken for my regard
-
-    And through it all, through it all
-    My eyes are on You
-    And through it all, through it all
-    It is well
-
-    And through it all, through it all
-    My eyes are on You
-    And it is well with me
-
-    And far be it from me to not believe
-    Even when my eyes can't see
-
-    And this mountain that's in front of me
-    Will be thrown into the midst of the sea
-
-    And through it all, through it all
-    My eyes are on You
-    And through it all, through it all
-    It is well
-
-    And through it all, through it all
-    My eyes are on You
-    And it is well
-    It is well
-
-    So let go my soul and trust in Him
-    The waves and wind still know His name
-    So let go my soul and trust in Him
-    The waves and wind still know His name
-    So let go my soul and trust in Him
-    The waves and wind still know His name
-    The waves and wind still know His name
 - song: Praise to the Lord, the Almighty
   artist: Hymn
   enabled: false
@@ -549,51 +631,6 @@
     Forgive us weary sinners
     Keep us far from our vices and
     Deliver us from these prisons
-- song: Great Are You Lord
-  artist: All Sons & Daughters
-  enabled: false
-  lyrics: |-
-    You give life, You are love
-    You bring light to the darkness
-    You give hope, You restore
-    Every heart that is broken
-    Great are You, Lord
-
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise to You only
-
-    You give life, You are love
-    You bring light to the darkness
-    You give hope, You restore
-    Every heart that is broken
-    Great are You, Lord
-
-    [x2]
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise to You only
-
-    And all the earth will shout Your praise
-    Our hearts will cry, these bones will sing
-    Great are You, Lord
-
-    [x2]
-    And all the earth will shout Your praise
-    Our hearts will cry, these bones will sing
-    Great are You, Lord
-
-    [x2]
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise
-    To You only
 - song: Called Me Higher
   artist: All Sons & Daughters
   enabled: false
@@ -1060,43 +1097,6 @@
     Refresh me, Oh God refresh me
     I raise my weakness high in it You're glorified
     Refresh me, Oh God Refresh me
-- song: Holy Spirit
-  artist: Jesus Culture
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-
-    There’s nothing worth more
-    That could ever come close
-    No thing can compare
-    You're our living hope
-    Your presence, Lord
-
-    [Chorus]
-
-    Holy Spirit, You are welcome here
-    Come flood this place
-    And fill the atmosphere
-    Your glory, God
-    Is what our hearts long for
-    To be overcome
-    By Your presence, Lord
-    Your presence, Lord
-
-    [Verse 2]
-
-    I’ve tasted and seen
-    Of the sweetest of loves
-    Where my heart becomes free
-    And my shame is undone
-    Your presence, Lord
-
-    [Bridge]
-
-    [4x]
-    Let us become more aware of Your presence
-    Let us experience the glory of Your goodness
-    Here I stand
 - song: O Come, O Come Emmanuel
   artist: Sufjan Stevens
   enabled: false
