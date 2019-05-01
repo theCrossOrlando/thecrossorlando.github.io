@@ -12,7 +12,7 @@ fields:
   label: Date
   type: datetime
   hidden: false
-  default: 2018-04-29 14:00:49 +0000
+  default: '2018-04-29T14:00:49.000+00:00'
   config:
     required: true
 - name: file
