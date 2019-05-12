@@ -1,7 +1,129 @@
 ---
+- song: Nothing I Hold On To
+  artist: United Pursuit Band
+  enabled: true
+  lyrics: |-
+    I lean not on my own understanding,
+    My life is in the hands of the maker of heaven
+
+    I Give it all to you God,
+    Trusting that you'll make something beautiful out of me
+
+    I will climb this mountain
+    With my hands wide open
+    I will climb this mountain
+    With my hands wide open
+
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+
+    All Glory To God, Forever. Amen
+- song: Scandal of Grace
+  artist: Hillsong United
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+    Grace, what have You done?
+    Murdered for me on that cross
+    Accused in absence of wrong
+    My sin washed away in Your blood
+
+    [Pre-Chorus 1]
+    Too much to make sense of it all
+    I know that Your love breaks my fall
+    The scandal of grace, You died in my place
+    So my soul will live
+
+    [Chorus]
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+
+    [Verse 2]
+    Death, where is your sting?
+    Your power is as dead as my sin
+    The cross has taught me to live
+    And mercy, my heart now to sing
+
+    [Pre-Chorus 2]
+    The day and its trouble shall come
+    I know that Your strength is enough
+    The scandal of grace, You died in my place
+    So my soul will live
+
+    [Chorus]
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+
+    [Bridge]
+    And it's all, because of You, Jesus
+    It's all, because of You, Jesus
+    It's all, because of Your love
+    That my soul will live
+
+    [Chorus]
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+- song: Once and For All
+  artist: Lauren Daigle
+  enabled: true
+  lyrics: |-
+    God I give You all I can today
+    These scattered ashes that I hid away
+    I lay them all at Your feet
+
+    From the corners of my deepest shame
+    The empty places where I've worn Your name
+    Show me the love I say I believe
+
+    Oh Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    There is victory in my Saviors loss
+    And In the crimson flowing from the cross
+    Pour over me, pour over me yes
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    Oh Lord I lay it down
+    Oh Lord I lay it down
+    Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My Lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all
+
+    Once and for all
+    Oh once and for all
+    Once and for all
 - song: Praise to the Lord, the Almighty
   artist: Joachim Neander
-  enabled: true
+  enabled: false
   lyrics: |-
     Praise to the Lord, the Almighty,
     the King of creation!
@@ -36,7 +158,7 @@
     Gladly forever adore him!
 - song: Grace Alone
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     I was an orphan lost at the fall
     Running away when I'd hear your call
@@ -83,7 +205,7 @@
     I will reach the end by grace and grace alone
 - song: House of God, Forever
   artist: Jon Foreman
-  enabled: true
+  enabled: false
   lyrics: |-
     God is my shepherd
     I won't be wanting
@@ -101,7 +223,7 @@
     In the house of God, forever
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -249,7 +371,7 @@
     Let us experience the glory of Your goodness
     Here I stand
 - song: Because He Lives
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     God sent His son, they called Him, Jesus
@@ -282,7 +404,7 @@
     Because he lives
     Because he lives
 - song: Amazing Grace
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Amazing Grace, How sweet the sound
@@ -308,7 +430,7 @@
 
     Was blind, but now I see.
 - song: Your Great Name
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Lost are saved, find their way, at the sound of Your great name
@@ -845,48 +967,6 @@
     You are my dancing rhythm
     You are my perfect rhyme
     And I want to sing forever
-- song: Once and For All
-  artist: Lauren Daigle
-  enabled: false
-  lyrics: |-
-    God I give You all I can today
-    These scattered ashes that I hid away
-    I lay them all at Your feet
-
-    From the corners of my deepest shame
-    The empty places where I've worn Your name
-    Show me the love I say I believe
-
-    Oh Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    There is victory in my Saviors loss
-    And In the crimson flowing from the cross
-    Pour over me, pour over me yes
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    Oh Lord I lay it down
-    Oh Lord I lay it down
-    Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My Lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all
-
-    Once and for all
-    Oh once and for all
-    Once and for all
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
   enabled: false
@@ -1177,27 +1257,6 @@
     In cloud, and majesty and awe.
     Rejoice! Rejoice! Rejoice!
     Rejoice! Rejoice! Rejoice!
-- song: Nothing I Hold On To
-  artist: United Pursuit Band
-  enabled: false
-  lyrics: |-
-    I lean not on my own understanding,
-    My life is in the hands of the maker of heaven
-
-    I Give it all to you God,
-    Trusting that you'll make something beautiful out of me
-
-    I will climb this mountain
-    With my hands wide open
-    I will climb this mountain
-    With my hands wide open
-
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-
-    All Glory To God, Forever. Amen
 - song: I Belong to You
   artist: Hillsong United
   enabled: false
@@ -1399,65 +1458,6 @@
     Time for me will be no more;
     Guide me gently, safely o’er
     To Thy kingdom shore, to Thy shore.
-- song: Scandal of Grace
-  artist: Hillsong United
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-    Grace, what have You done?
-    Murdered for me on that cross
-    Accused in absence of wrong
-    My sin washed away in Your blood
-
-    [Pre-Chorus 1]
-    Too much to make sense of it all
-    I know that Your love breaks my fall
-    The scandal of grace, You died in my place
-    So my soul will live
-
-    [Chorus]
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-
-    [Verse 2]
-    Death, where is your sting?
-    Your power is as dead as my sin
-    The cross has taught me to live
-    And mercy, my heart now to sing
-
-    [Pre-Chorus 2]
-    The day and its trouble shall come
-    I know that Your strength is enough
-    The scandal of grace, You died in my place
-    So my soul will live
-
-    [Chorus]
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-
-    [Bridge]
-    And it's all, because of You, Jesus
-    It's all, because of You, Jesus
-    It's all, because of Your love
-    That my soul will live
-
-    [Chorus]
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
 - song: Prayer of the Church
   artist: 
   enabled: false
