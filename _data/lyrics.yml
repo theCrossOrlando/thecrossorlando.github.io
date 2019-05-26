@@ -1,7 +1,122 @@
 ---
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+- song: Before the Throne
+  artist: Dustin Kensrue
+  enabled: true
+  lyrics: |-
+    Before the throne of God above
+    I have a strong and perfect plea.
+    A great high Priest whose Name is Love
+    Who ever lives and pleads for me
+
+    My name is graven on His hands
+    My name is written on His heart.
+    I know that while in Heaven He stands
+    No tongue can bid me thence depart
+    My life is hid with Christ on high
+
+    When Satan tempts me to despair
+    And tells me of the guilt within
+    Upward I look and see Him there
+    Who made an end of all my sin
+    Because the sinless Savior died
+    My sinful soul is counted free
+    For God the just is satisfied
+    To look on Him and pardon me.
+
+    Behold Him there the risen Lamb
+    My perfect spotless righteousness
+    The great unchangeable I AM
+    The King of glory and of grace,
+    One with Himself I cannot die
+    My soul is purchased by His blood,
+    My life is hid with Christ on high
+- song: Your Love is Strong
+  artist: Jon Foreman
+  enabled: true
+  lyrics: |-
+    Heavenly Father
+    You always amaze me
+    Let Your kingdom come in my world
+    And in my life
+
+    Give me the food I need to live through today
+    And forgive me as I forgive the people that wrong me
+
+    Lead me far from temptation
+    Deliver me from the evil one
+
+    I look out the window
+    The birds are composing
+    Not a note is out of tune
+    Or out of place
+
+    I walk to the meadow
+    And stare at the flowers
+    Better dressed than any girl
+    On her wedding day
+
+    So why should I worry?
+    Why do I freak out?
+    God knows what I need!
+    You know what I need!
+
+    Your love is strong
+
+    The Kingdom of the Heavens
+    Is now advancing
+    Invade my heart
+    Invade this broken town
+
+    The Kingdom of the Heavens
+    Is buried treasure
+    Would you sell yourself
+    To buy the one you've found?
+
+    Two things You told me
+    That You are strong
+    And You love me,
+    Yes You love me
+
+    Your love is strong
+
+    Our God in heaven
+    Hallowed be thy name above all names
+    Your kingdom come
+    Your will be done
+    On earth as it is in heaven
+    Give us, today, our daily bread
+    Forgive us weary sinners
+    Keep us far from our vices and
+    Deliver us from these prisons
 - song: It is Well
   artist: 
-  enabled: true
+  enabled: false
   lyrics: |-
     Grander earth has quaked before
     Moved by the sound of His voice
@@ -42,7 +157,7 @@
     The waves and wind still know His name
 - song: Your Love Changes Everything
   artist: United Pursuit
-  enabled: true
+  enabled: false
   lyrics: |-
     Lord, you spoke those words
     You spoke so tenderly
@@ -110,7 +225,7 @@
     You love me, you love me, you love me
 - song: Come Holy One
   artist: Young Oceans
-  enabled: true
+  enabled: false
   lyrics: |-
     Hasten now, O loving Lord to us
     We’re thirsty
@@ -355,32 +470,6 @@
     Will follow me
     Follow me
     In the house of God, forever
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Great Are You Lord
   artist: All Sons & Daughters
   enabled: false
@@ -748,64 +837,6 @@
     prone to leave the God I love
     Here's my heart, O take and seal it,
     seal it for thy courts above
-- song: Your Love is Strong
-  artist: Jon Foreman
-  enabled: false
-  lyrics: |-
-    Heavenly Father
-    You always amaze me
-    Let Your kingdom come in my world
-    And in my life
-
-    Give me the food I need to live through today
-    And forgive me as I forgive the people that wrong me
-
-    Lead me far from temptation
-    Deliver me from the evil one
-
-    I look out the window
-    The birds are composing
-    Not a note is out of tune
-    Or out of place
-
-    I walk to the meadow
-    And stare at the flowers
-    Better dressed than any girl
-    On her wedding day
-
-    So why should I worry?
-    Why do I freak out?
-    God knows what I need!
-    You know what I need!
-
-    Your love is strong
-
-    The Kingdom of the Heavens
-    Is now advancing
-    Invade my heart
-    Invade this broken town
-
-    The Kingdom of the Heavens
-    Is buried treasure
-    Would you sell yourself
-    To buy the one you've found?
-
-    Two things You told me
-    That You are strong
-    And You love me,
-    Yes You love me
-
-    Your love is strong
-
-    Our God in heaven
-    Hallowed be thy name above all names
-    Your kingdom come
-    Your will be done
-    On earth as it is in heaven
-    Give us, today, our daily bread
-    Forgive us weary sinners
-    Keep us far from our vices and
-    Deliver us from these prisons
 - song: Called Me Higher
   artist: All Sons & Daughters
   enabled: false
@@ -996,36 +1027,6 @@
     You will never come at all.
 
     Refrain
-- song: Before the Throne
-  artist: Dustin Kensrue
-  enabled: false
-  lyrics: |-
-    Before the throne of God above
-    I have a strong and perfect plea.
-    A great high Priest whose Name is Love
-    Who ever lives and pleads for me
-    My name is graven on His hands
-    My name is written on His heart.
-    I know that while in Heaven He stands
-    No tongue can bid me thence depart
-    My life is hid with Christ on high
-
-    When Satan tempts me to despair
-    And tells me of the guilt within
-    Upward I look and see Him there
-    Who made an end of all my sin
-    Because the sinless Savior died
-    My sinful soul is counted free
-    For God the just is satisfied
-    To look on Him and pardon me.
-
-    Behold Him there the risen Lamb
-    My perfect spotless righteousness
-    The great unchangeable I AM
-    The King of glory and of grace,
-    One with Himself I cannot die
-    My soul is purchased by His blood,
-    My life is hid with Christ on high
 - song: Be Thou My Vision
   artist: Ascend the Hill
   enabled: false
