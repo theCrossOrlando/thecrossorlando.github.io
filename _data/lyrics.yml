@@ -1,7 +1,69 @@
 ---
+- song: Be Thou My Vision
+  artist: Ascend the Hill
+  enabled: true
+  lyrics: |-
+    Be Thou my Vision, O Lord of my heart;
+    Naught be all else to me, save that Thou art;
+    Thou my best Thought, by day or by night,
+    Waking or sleeping, Thy presence my light.
+
+    Be Thou my Wisdom, and Thou my true Word;
+    I ever with Thee and Thou with me, Lord;
+    Thou my great Father, I Thy true son;
+    Thou in me dwelling, and I with Thee one.
+
+    Riches I heed not, nor man’s empty praise,
+    Thou mine Inheritance, now and always:
+    Thou and Thou only, first in my heart,
+    High King of Heaven, my Treasure Thou art.
+
+    High King of Heaven, my victory won,
+    May I reach Heaven’s joys, O bright Heaven’s Sun!
+    Heart of my own heart, whatever befall,
+    Still be my Vision, O Ruler of all.
+- song: Beauty for Ashes
+  artist: Shane and Shane
+  enabled: true
+  lyrics: |-
+    Beauty for ashes
+    A garment of praise for my heaviness
+    Beauty for ashes
+    Take this heart of stone and make it Yours, Yours
+
+    I delight myself in the Richest of Fare
+    Trading all that I've had for all that is better
+    A garment of praise for my heaviness
+    You are the greatest taste
+    You're the richest of fair
+- song: You Are So Good To Me
+  artist: Third Day
+  enabled: true
+  lyrics: |-
+    You are so good to me
+    You heal my broken heart
+    You are my Father in heaven [2x]
+
+    You ride upon the clouds
+    You lead me to the truth
+    You are the Spirit inside me [2x]
+
+    You poured out all your blood
+    You died upon the cross
+    You are my Jesus who loves me [2x]
+
+    [Chorus:]
+    You are beautiful my sweet, sweet, song [3x]
+    I will sing again
+
+    [Bridge:]
+    You are my strong melody
+    You are my dancing rhythm
+    You are my perfect rhyme
+    And I want to sing forever
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -27,7 +89,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Before the Throne
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     Before the throne of God above
     I have a strong and perfect plea.
@@ -58,7 +120,7 @@
     My life is hid with Christ on high
 - song: Your Love is Strong
   artist: Jon Foreman
-  enabled: true
+  enabled: false
   lyrics: |-
     Heavenly Father
     You always amaze me
@@ -901,47 +963,6 @@
     Where You lead me
     Where You lead me Lord
     [x2]
-- song: Beauty for Ashes
-  artist: Crystal Lewis
-  enabled: false
-  lyrics: |-
-    He gives beauty for ashes
-    Strength for fear
-    Gladness for mourning
-    Peace for despair
-    He gives beauty for ashes
-    Strength for fear
-    Gladness for mourning
-    Peace for despair
-
-    When sorrow seems to surround you
-    When suffering hangs heavy o'er your head
-    Know that tomorrow brings
-    Wholeness and healing
-    God knows your need
-    Just believe what He said
-
-    He gives beauty for ashes
-    Strength for fear
-    Gladness for mourning
-    Peace for despair
-
-    When what you've done keeps you from moving on
-    When fear wants to make itself at home in your heart
-    Know that forgiveness brings
-    Wholeness and healing
-    God knows your need
-    Just believe what He said
-
-    He gives beauty for ashes
-    Strength for fear
-    Gladness for mourning
-    Peace for despair
-
-    I once was lost but God has found me
-    Though I was bound I've been set free
-    I've been made righteous in His sight
-    A display of His splendor all can see
 - song: White as Snow
   artist: Jon Foreman
   enabled: false
@@ -973,31 +994,6 @@
     Oh God
     Restore in me
     The joy of Your salvation
-- song: You Are So Good To Me
-  artist: Third Day
-  enabled: false
-  lyrics: |-
-    You are so good to me
-    You heal my broken heart
-    You are my Father in heaven [2x]
-
-    You ride upon the clouds
-    You lead me to the truth
-    You are the Spirit inside me [2x]
-
-    You poured out all your blood
-    You died upon the cross
-    You are my Jesus who loves me [2x]
-
-    [Chorus:]
-    You are beautiful my sweet, sweet, song [3x]
-    I will sing again
-
-    [Bridge:]
-    You are my strong melody
-    You are my dancing rhythm
-    You are my perfect rhyme
-    And I want to sing forever
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
   enabled: false
@@ -1027,29 +1023,6 @@
     You will never come at all.
 
     Refrain
-- song: Be Thou My Vision
-  artist: Ascend the Hill
-  enabled: false
-  lyrics: |-
-    Be Thou my Vision, O Lord of my heart;
-    Naught be all else to me, save that Thou art;
-    Thou my best Thought, by day or by night,
-    Waking or sleeping, Thy presence my light.
-
-    Be Thou my Wisdom, and Thou my true Word;
-    I ever with Thee and Thou with me, Lord;
-    Thou my great Father, I Thy true son;
-    Thou in me dwelling, and I with Thee one.
-
-    Riches I heed not, nor man’s empty praise,
-    Thou mine Inheritance, now and always:
-    Thou and Thou only, first in my heart,
-    High King of Heaven, my Treasure Thou art.
-
-    High King of Heaven, my victory won,
-    May I reach Heaven’s joys, O bright Heaven’s Sun!
-    Heart of my own heart, whatever befall,
-    Still be my Vision, O Ruler of all.
 - song: Here's My Heart Lord
   artist: 
   enabled: false
