@@ -1,7 +1,111 @@
 ---
+- song: Heart Won't Stop
+  artist: John Mark McMillan & Sarah McMillan
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+    There is not a man or beast
+    Nothing on the land or underneath
+    Oh nothing that could ever come between
+    The love You have for me
+
+    [Pre-Chorus]
+    I could lay my head in sheol
+    I could make my bed
+    At the bottom of darkness deep
+    Oh but there is not a place I could escape You
+
+    [Chorus]
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Coming after me
+
+    [Verse 2]
+    There is not an angel of the stars
+    There is not a devil in the dark
+    Oh nothing that could change the way You are
+    The love You have for me
+
+    [Pre-Chorus]
+    I could lay my head in sheol
+    I could make my bed
+    At the bottom of darkness deep
+    Oh but there is not a place I could escape You
+- song: I Belong to You
+  artist: Hillsong United
+  enabled: true
+  lyrics: |-
+    Forever in Your mighty hand
+    Living with Your promise
+    Written on my heart
+
+    I am Yours
+    Surrendered wholly to You
+    You set me in Your family
+    Calling me Your own
+
+    Now I
+    I belong to You
+    Lord I need
+    Your Spirit Your word Your truth
+    Hear my cry
+    My deep desire
+    To know You more
+
+    In Your Name
+    I will lift my hands
+    To the King
+    This anthem of praise I bring
+    Heaven knows
+    I long to love You
+    With all I am
+    I belong to You
+- song: Once and For All
+  artist: Lauren Daigle
+  enabled: true
+  lyrics: |-
+    God I give You all I can today
+    These scattered ashes that I hid away
+    I lay them all at Your feet
+
+    From the corners of my deepest shame
+    The empty places where I've worn Your name
+    Show me the love I say I believe
+
+    Oh Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    There is victory in my Saviors loss
+    And In the crimson flowing from the cross
+    Pour over me, pour over me yes
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    Oh Lord I lay it down
+    Oh Lord I lay it down
+    Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My Lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all
+
+    Once and for all
+    Oh once and for all
+    Once and for all
 - song: Be Thou My Vision
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Be Thou my Vision, O Lord of my heart;
     Naught be all else to me, save that Thou art;
@@ -24,7 +128,7 @@
     Still be my Vision, O Ruler of all.
 - song: Beauty for Ashes
   artist: Shane and Shane
-  enabled: true
+  enabled: false
   lyrics: |-
     Beauty for ashes
     A garment of praise for my heaviness
@@ -38,7 +142,7 @@
     You're the richest of fair
 - song: You Are So Good To Me
   artist: Third Day
-  enabled: true
+  enabled: false
   lyrics: |-
     You are so good to me
     You heal my broken heart
@@ -390,48 +494,6 @@
     Give all I have just to know You
     Jesus, there's no one besides You
     Forever the hope in my heart
-- song: Once and For All
-  artist: Lauren Daigle
-  enabled: false
-  lyrics: |-
-    God I give You all I can today
-    These scattered ashes that I hid away
-    I lay them all at Your feet
-
-    From the corners of my deepest shame
-    The empty places where I've worn Your name
-    Show me the love I say I believe
-
-    Oh Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    There is victory in my Saviors loss
-    And In the crimson flowing from the cross
-    Pour over me, pour over me yes
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    Oh Lord I lay it down
-    Oh Lord I lay it down
-    Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My Lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all
-
-    Once and for all
-    Oh once and for all
-    Once and for all
 - song: Praise to the Lord, the Almighty
   artist: Joachim Neander
   enabled: false
@@ -784,39 +846,6 @@
     What a powerful Name it is, the Name of Jesus
     What a powerful Name it is, The Name of Jesus
     What a powerful Name it is, The Name of Jesus
-- song: Heart Won't Stop
-  artist: John Mark McMillan & Sarah McMillan
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-    There is not a man or beast
-    Nothing on the land or underneath
-    Oh nothing that could ever come between
-    The love You have for me
-
-    [Pre-Chorus]
-    I could lay my head in sheol
-    I could make my bed
-    At the bottom of darkness deep
-    Oh but there is not a place I could escape You
-
-    [Chorus]
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after me
-    Coming after me
-
-    [Verse 2]
-    There is not an angel of the stars
-    There is not a devil in the dark
-    Oh nothing that could change the way You are
-    The love You have for me
-
-    [Pre-Chorus]
-    I could lay my head in sheol
-    I could make my bed
-    At the bottom of darkness deep
-    Oh but there is not a place I could escape You
 - song: Have Mercy
   artist: Sandra McCracken
   enabled: false
@@ -1231,35 +1260,6 @@
     In cloud, and majesty and awe.
     Rejoice! Rejoice! Rejoice!
     Rejoice! Rejoice! Rejoice!
-- song: I Belong to You
-  artist: Hillsong United
-  enabled: false
-  lyrics: |-
-    Forever in Your mighty hand
-    Living with Your promise
-    Written on my heart
-
-    I am Yours
-    Surrendered wholly to You
-    You set me in Your family
-    Calling me Your own
-
-    Now I
-    I belong to You
-    Lord I need
-    Your Spirit Your word Your truth
-    Hear my cry
-    My deep desire
-    To know You more
-
-    In Your Name
-    I will lift my hands
-    To the King
-    This anthem of praise I bring
-    Heaven knows
-    I long to love You
-    With all I am
-    I belong to You
 - song: Joy To The World
   artist: 
   enabled: false
