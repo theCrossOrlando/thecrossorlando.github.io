@@ -1,7 +1,161 @@
 ---
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+- song: Your Love Changes Everything
+  artist: United Pursuit
+  enabled: true
+  lyrics: |-
+    Lord, you spoke those words
+    You spoke so tenderly
+    Now I choose to believe
+    You love me, you love me, you love me
+
+    Lord, you spoke those words
+    You spoke so tenderly
+    Now I choose to believe
+    You love me, you love me, you love me
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    When my heart is frail
+    And when I’m incomplete
+    I will choose to receive
+    You love me, you love me, you love me
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+
+    You never fail
+    When I look at you
+    You never fail
+    And I trust in you
+    And you never let go
+    You never let go of me
+    You never let go
+
+    You never fail
+    When I look at you
+    You never fail
+    And I trust in you
+    Lord, you never let go
+    You never let go of me
+    You never let go
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+    [Repeat 3x]
+
+    Your love changes everything
+    Your love changes everything
+    Your love changes everything
+
+    Lord you spoke those words
+    You spoke so tenderly
+    And now I choose to believe
+    You love me, you love me, you love me
+- song: Come Ye Sinners, Poor And Needy
+  artist: Joseph Hart
+  enabled: true
+  lyrics: |-
+    Come, ye sinners, poor and needy,
+    Weak and wounded, sick and sore;
+    Jesus ready stands to save you,
+    Full of pity, love and power.
+
+    Refrain
+
+    I will arise and go to Jesus,
+    He will embrace me in His arms;
+    In the arms of my dear Savior,
+    O there are ten thousand charms.
+
+    Come, ye thirsty, come, and welcome,
+    God’s free bounty glorify;
+    True belief and true repentance,
+    Every grace that brings you nigh.
+
+    Refrain
+
+    Come, ye weary, heavy laden,
+    Lost and ruined by the fall;
+    If you tarry till you’re better,
+    You will never come at all.
+
+    Refrain
+- song: White as Snow
+  artist: Jon Foreman
+  enabled: true
+  lyrics: |-
+    Have mercy on me, oh God
+    According to Your unfailing love
+    According to Your great compassion
+    Blot out my transgressions
+
+    Would You create in me a clean heart
+    Oh God
+    Restore in me
+    The joy of Your salvation
+
+    The sacrifices of our God
+    Are a broken and contrite heart
+    Against you and you alone have I sinned
+
+    Would You create in me a clean heart
+    Oh God
+    Restore in me
+    The joy of Your salvation
+
+    Wash me white as snow
+    And I will be made whole
+    Wash me white as snow
+
+    Would You create in me a clean heart
+    Oh God
+    Restore in me
+    The joy of Your salvation
 - song: Heart Won't Stop
   artist: John Mark McMillan & Sarah McMillan
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     There is not a man or beast
@@ -34,7 +188,7 @@
     Oh but there is not a place I could escape You
 - song: I Belong to You
   artist: Derek Johnson
-  enabled: true
+  enabled: false
   lyrics: |-
     You can be the One that steals my heart
     With just a simple thought of who You are
@@ -114,7 +268,7 @@
     I belong to You
 - song: Once and For All
   artist: Lauren Daigle
-  enabled: true
+  enabled: false
   lyrics: |-
     God I give You all I can today
     These scattered ashes that I hid away
@@ -156,7 +310,7 @@
     Once and for all
 - song: Come Thou Fount
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     Come thou fount of every blessing
     Tune my heart to sing thy grace
@@ -247,32 +401,6 @@
     You are my dancing rhythm
     You are my perfect rhyme
     And I want to sing forever
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Before the Throne
   artist: Dustin Kensrue
   enabled: false
@@ -403,74 +531,6 @@
     So let go my soul and trust in Him
     The waves and wind still know His name
     The waves and wind still know His name
-- song: Your Love Changes Everything
-  artist: United Pursuit
-  enabled: false
-  lyrics: |-
-    Lord, you spoke those words
-    You spoke so tenderly
-    Now I choose to believe
-    You love me, you love me, you love me
-
-    Lord, you spoke those words
-    You spoke so tenderly
-    Now I choose to believe
-    You love me, you love me, you love me
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-
-    When my heart is frail
-    And when I’m incomplete
-    I will choose to receive
-    You love me, you love me, you love me
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-
-    You never fail
-    When I look at you
-    You never fail
-    And I trust in you
-    And you never let go
-    You never let go of me
-    You never let go
-
-    You never fail
-    When I look at you
-    You never fail
-    And I trust in you
-    Lord, you never let go
-    You never let go of me
-    You never let go
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-    [Repeat 3x]
-
-    Your love changes everything
-    Your love changes everything
-    Your love changes everything
-
-    Lord you spoke those words
-    You spoke so tenderly
-    And now I choose to believe
-    You love me, you love me, you love me
 - song: Come Holy One
   artist: Young Oceans
   enabled: false
@@ -1043,66 +1103,6 @@
     Where You lead me
     Where You lead me Lord
     [x2]
-- song: White as Snow
-  artist: Jon Foreman
-  enabled: false
-  lyrics: |-
-    Have mercy on me, oh God
-    According to Your unfailing love
-    According to Your great compassion
-    Blot out my transgressions
-
-    Would You create in me a clean heart
-    Oh God
-    Restore in me
-    The joy of Your salvation
-
-    The sacrifices of our God
-    Are a broken and contrite heart
-    Against you and you alone have I sinned
-
-    Would You create in me a clean heart
-    Oh God
-    Restore in me
-    The joy of Your salvation
-
-    Wash me white as snow
-    And I will be made whole
-    Wash me white as snow
-
-    Would You create in me a clean heart
-    Oh God
-    Restore in me
-    The joy of Your salvation
-- song: Come Ye Sinners, Poor And Needy
-  artist: Joseph Hart
-  enabled: false
-  lyrics: |-
-    Come, ye sinners, poor and needy,
-    Weak and wounded, sick and sore;
-    Jesus ready stands to save you,
-    Full of pity, love and power.
-
-    Refrain
-
-    I will arise and go to Jesus,
-    He will embrace me in His arms;
-    In the arms of my dear Savior,
-    O there are ten thousand charms.
-
-    Come, ye thirsty, come, and welcome,
-    God’s free bounty glorify;
-    True belief and true repentance,
-    Every grace that brings you nigh.
-
-    Refrain
-
-    Come, ye weary, heavy laden,
-    Lost and ruined by the fall;
-    If you tarry till you’re better,
-    You will never come at all.
-
-    Refrain
 - song: Here's My Heart Lord
   artist: 
   enabled: false
