@@ -1,7 +1,129 @@
 ---
+- song: I Belong To You
+  artist: William McDowe
+  enabled: true
+  lyrics: |-
+    I've been captured by a love I can't explain
+    And now you have me and I'm forever changed
+    I've abandoned everything I've ever known
+    Now I surrender my life is not my own
+    I belong to you, I belong to you [x4]
+    [Repeat x3]
+
+    My life is not my own to you I belong
+    I give myself I give myself to you
+    [x8]
+- song: Scandal of Grace
+  artist: Hillsong United
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+    Grace, what have You done?
+    Murdered for me on that cross
+    Accused in absence of wrong
+    My sin washed away in Your blood
+
+    [Pre-Chorus 1]
+    Too much to make sense of it all
+    I know that Your love breaks my fall
+    The scandal of grace, You died in my place
+    So my soul will live
+
+    [Chorus]
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+
+    [Verse 2]
+    Death, where is your sting?
+    Your power is as dead as my sin
+    The cross has taught me to live
+    And mercy, my heart now to sing
+
+    [Pre-Chorus 2]
+    The day and its trouble shall come
+    I know that Your strength is enough
+    The scandal of grace, You died in my place
+    So my soul will live
+
+    [Chorus]
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+
+    [Bridge]
+    And it's all, because of You, Jesus
+    It's all, because of You, Jesus
+    It's all, because of Your love
+    That my soul will live
+
+    [Chorus]
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+- song: How Deep The Father's Love For Us
+  artist:
+  enabled: true
+  lyrics: |-
+    How deep the Father’s love for us,
+    How vast beyond all measure,
+    That He should give His only Son
+    To make a wretch His treasure.
+    How great the pain of searing loss -
+    The Father turns His face away,
+    As wounds which mar the Chosen One
+    Bring many sons to glory.
+
+    Behold the man upon a cross,
+    My sin upon His shoulders;
+    Ashamed, I hear my mocking voice
+    Call out among the scoffers.
+    It was my sin that held Him there
+    Until it was accomplished;
+    His dying breath has brought me life -
+    I know that it is finished.
+
+    I will not boast in anything,
+    No gifts, no power, no wisdom;
+    But I will boast in Jesus Christ,
+    His death and resurrection.
+    Why should I gain from His reward?
+    I cannot give an answer;
+    But this I know with all my heart -
+    His wounds have paid my ransom.
+- song: Where Did My Hope Go
+  artist: Kat Porter
+  enabled: true
+  lyrics: |-
+    Where did your hope go?
+    Where did your hope go?
+
+    I'll follow where
+    Your voice beckons to me
+    My spirit is willing even when my heart's weak
+    To put one foot in front of the other
+    While gazing into Your eyes my Lover
+
+    Where did my hope go?
+    Where did my hope go?
+
+    You are the joy set before me
+
+    Rise up my soul (repeat)
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -27,7 +149,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Your Love Changes Everything
   artist: United Pursuit
-  enabled: true
+  enabled: false
   lyrics: |-
     Lord, you spoke those words
     You spoke so tenderly
@@ -95,7 +217,7 @@
     You love me, you love me, you love me
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
-  enabled: true
+  enabled: false
   lyrics: |-
     Come, ye sinners, poor and needy,
     Weak and wounded, sick and sore;
@@ -124,7 +246,7 @@
     Refrain
 - song: White as Snow
   artist: Jon Foreman
-  enabled: true
+  enabled: false
   lyrics: |-
     Have mercy on me, oh God
     According to Your unfailing love
@@ -577,65 +699,6 @@
     There is nothing I hold on to
 
     All Glory To God, Forever. Amen
-- song: Scandal of Grace
-  artist: Hillsong United
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-    Grace, what have You done?
-    Murdered for me on that cross
-    Accused in absence of wrong
-    My sin washed away in Your blood
-
-    [Pre-Chorus 1]
-    Too much to make sense of it all
-    I know that Your love breaks my fall
-    The scandal of grace, You died in my place
-    So my soul will live
-
-    [Chorus]
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-
-    [Verse 2]
-    Death, where is your sting?
-    Your power is as dead as my sin
-    The cross has taught me to live
-    And mercy, my heart now to sing
-
-    [Pre-Chorus 2]
-    The day and its trouble shall come
-    I know that Your strength is enough
-    The scandal of grace, You died in my place
-    So my soul will live
-
-    [Chorus]
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-
-    [Bridge]
-    And it's all, because of You, Jesus
-    It's all, because of You, Jesus
-    It's all, because of Your love
-    That my soul will live
-
-    [Chorus]
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
 - song: Praise to the Lord, the Almighty
   artist: Joachim Neander
   enabled: false
@@ -1785,23 +1848,6 @@
     And I'm loved by you
     (you are perfect in all of your ways)
     It's who I am, it's who I am it's who I am
-- song: Where Did My Hope Go
-  artist: Kat Porter
-  enabled: false
-  lyrics: |-
-    Where did your hope go?
-    Where did your hope go?
-
-    I'll follow where
-    Your voice beckons to me
-    My spirit is willing even when my heart's weak
-    To put one foot in front of the other
-    While gazing into Your eyes my Lover
-
-    Where did my hope go?
-    Where did my hope go?
-
-    You are the joy set before me
 - song: Create in Me a Clean Heart
   artist: 
   enabled: false
@@ -1851,36 +1897,6 @@
     So that I may worship Thee
     So that I may worship Thee
     So that I may worship Thee
-- song: How Deep The Father's Love For Us
-  artist: 
-  enabled: false
-  lyrics: |-
-    How deep the Father’s love for us,
-    How vast beyond all measure,
-    That He should give His only Son
-    To make a wretch His treasure.
-    How great the pain of searing loss -
-    The Father turns His face away,
-    As wounds which mar the Chosen One
-    Bring many sons to glory.
-
-    Behold the man upon a cross,
-    My sin upon His shoulders;
-    Ashamed, I hear my mocking voice
-    Call out among the scoffers.
-    It was my sin that held Him there
-    Until it was accomplished;
-    His dying breath has brought me life -
-    I know that it is finished.
-
-    I will not boast in anything,
-    No gifts, no power, no wisdom;
-    But I will boast in Jesus Christ,
-    His death and resurrection.
-    Why should I gain from His reward?
-    I cannot give an answer;
-    But this I know with all my heart -
-    His wounds have paid my ransom.
 - song: All Creatures of Our God and King
   artist: Francis of Assisi
   enabled: false
@@ -2820,20 +2836,6 @@
     I wanna see the sick and weary be made new
     I wanna swim inside the blessings
     I wanna swim inside the blessings of the Lord
-- song: I Belong To You
-  artist: William McDowe
-  enabled: false
-  lyrics: |-
-    I've been captured by a love I can't explain
-    And now you have me and I'm forever changed
-    I've abandoned everything I've ever known
-    Now I surrender my life is not my own
-    I belong to you, I belong to you [x4]
-    [Repeat x3]
-
-    My life is not my own to you I belong
-    I give myself I give myself to you
-    [x8]
 - song: Your Love Is Strong
   artist: Jon Foreman
   enabled: false
