@@ -1,7 +1,141 @@
 ---
+- song: Once and For All
+  artist: Lauren Daigle
+  enabled: true
+  lyrics: |-
+    God I give You all I can today
+    These scattered ashes that I hid away
+    I lay them all at Your feet
+
+    From the corners of my deepest shame
+    The empty places where I've worn Your name
+    Show me the love I say I believe
+
+    Oh Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    There is victory in my Saviors loss
+    And In the crimson flowing from the cross
+    Pour over me, pour over me yes
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    Oh Lord I lay it down
+    Oh Lord I lay it down
+    Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My Lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all
+
+    Once and for all
+    Oh once and for all
+    Once and for all
+- song: Great Are You Lord
+  artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    You give life, You are love
+    You bring light to the darkness
+    You give hope, You restore
+    Every heart that is broken
+    Great are You, Lord
+
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise to You only
+
+    You give life, You are love
+    You bring light to the darkness
+    You give hope, You restore
+    Every heart that is broken
+    Great are You, Lord
+
+    [x2]
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise to You only
+
+    And all the earth will shout Your praise
+    Our hearts will cry, these bones will sing
+    Great are You, Lord
+
+    [x2]
+    And all the earth will shout Your praise
+    Our hearts will cry, these bones will sing
+    Great are You, Lord
+
+    [x2]
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise
+    To You only
+- song: Grace Alone
+  artist: Dustin Kensrue
+  enabled: true
+  lyrics: |-
+    I was an orphan lost at the fall
+    Running away when I'd hear your call
+    But Father, you worked your will
+
+    I had no righteousness of my own
+    I had no right to draw near your throne
+    But Father, you loved me still
+
+    And in love before you laid the world's foundation
+    You predestined to adopt me as your own
+    You have raised me up so high above my station
+    I'm a child of God by grace and grace alone
+
+    You left your home to seek out the lost
+    You knew the great and terrible cost
+    But Jesus, your face was set
+
+    I worked my fingers down to the bone
+    Nothing I did could ever atone
+    But Jesus, you paid my debt
+
+    By your blood I have redemption and salvation
+    Lord, you died that I might reap what you have sown
+    And you rose that I might be a new creation
+    I am born again by grace and grace alone
+
+    I was in darkness all of my life
+    I never knew the day from the night
+    But Spirit, you made me see
+
+    I swore I knew the way on my own
+    Head full of rocks, a heart made of stone
+    But Spirit, you moved in me
+
+    At your touch my sleeping spirit was awakened
+    On my darkened heart the light of Christ has shone
+    Called into a kingdom that cannot be shaken
+    Heaven's citizen by grace and grace alone
+
+    So I'll stand in faith by grace and grace alone
+    I will run the race by grace and grace alone
+    I will slay my sin by grace and grace alone
+    I will reach the end by grace and grace alone
 - song: I Belong To You
   artist: William McDowe
-  enabled: true
+  enabled: false
   lyrics: |-
     I've been captured by a love I can't explain
     And now you have me and I'm forever changed
@@ -15,7 +149,7 @@
     [x8]
 - song: Scandal of Grace
   artist: Hillsong United
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     Grace, what have You done?
@@ -74,7 +208,7 @@
     Forever the hope in my heart
 - song: How Deep The Father's Love For Us
   artist:
-  enabled: true
+  enabled: false
   lyrics: |-
     How deep the Father’s love for us,
     How vast beyond all measure,
@@ -104,7 +238,7 @@
     His wounds have paid my ransom.
 - song: Where Did My Hope Go
   artist: Kat Porter
-  enabled: true
+  enabled: false
   lyrics: |-
     Where did your hope go?
     Where did your hope go?
@@ -388,48 +522,6 @@
     I long to love You
     With all I am
     I belong to You
-- song: Once and For All
-  artist: Lauren Daigle
-  enabled: false
-  lyrics: |-
-    God I give You all I can today
-    These scattered ashes that I hid away
-    I lay them all at Your feet
-
-    From the corners of my deepest shame
-    The empty places where I've worn Your name
-    Show me the love I say I believe
-
-    Oh Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    There is victory in my Saviors loss
-    And In the crimson flowing from the cross
-    Pour over me, pour over me yes
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    Oh Lord I lay it down
-    Oh Lord I lay it down
-    Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My Lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all
-
-    Once and for all
-    Oh once and for all
-    Once and for all
 - song: Come Thou Fount
   artist: Chris Tomlin
   enabled: false
@@ -734,53 +826,6 @@
     Let the amen
     Sound from his people again.
     Gladly forever adore him!
-- song: Grace Alone
-  artist: Dustin Kensrue
-  enabled: false
-  lyrics: |-
-    I was an orphan lost at the fall
-    Running away when I'd hear your call
-    But Father, you worked your will
-
-    I had no righteousness of my own
-    I had no right to draw near your throne
-    But Father, you loved me still
-
-    And in love before you laid the world's foundation
-    You predestined to adopt me as your own
-    You have raised me up so high above my station
-    I'm a child of God by grace and grace alone
-
-    You left your home to seek out the lost
-    You knew the great and terrible cost
-    But Jesus, your face was set
-
-    I worked my fingers down to the bone
-    Nothing I did could ever atone
-    But Jesus, you paid my debt
-
-    By your blood I have redemption and salvation
-    Lord, you died that I might reap what you have sown
-    And you rose that I might be a new creation
-    I am born again by grace and grace alone
-
-    I was in darkness all of my life
-    I never knew the day from the night
-    But Spirit, you made me see
-
-    I swore I knew the way on my own
-    Head full of rocks, a heart made of stone
-    But Spirit, you moved in me
-
-    At your touch my sleeping spirit was awakened
-    On my darkened heart the light of Christ has shone
-    Called into a kingdom that cannot be shaken
-    Heaven's citizen by grace and grace alone
-
-    So I'll stand in faith by grace and grace alone
-    I will run the race by grace and grace alone
-    I will slay my sin by grace and grace alone
-    I will reach the end by grace and grace alone
 - song: House of God, Forever
   artist: Jon Foreman
   enabled: false
@@ -799,51 +844,6 @@
     Will follow me
     Follow me
     In the house of God, forever
-- song: Great Are You Lord
-  artist: All Sons & Daughters
-  enabled: false
-  lyrics: |-
-    You give life, You are love
-    You bring light to the darkness
-    You give hope, You restore
-    Every heart that is broken
-    Great are You, Lord
-
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise to You only
-
-    You give life, You are love
-    You bring light to the darkness
-    You give hope, You restore
-    Every heart that is broken
-    Great are You, Lord
-
-    [x2]
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise to You only
-
-    And all the earth will shout Your praise
-    Our hearts will cry, these bones will sing
-    Great are You, Lord
-
-    [x2]
-    And all the earth will shout Your praise
-    Our hearts will cry, these bones will sing
-    Great are You, Lord
-
-    [x2]
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise
-    To You only
 - song: Holy Spirit
   artist: Jesus Culture
   enabled: false
