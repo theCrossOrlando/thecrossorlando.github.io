@@ -1,7 +1,7 @@
 ---
 - song: So Will I (100 Billion X)
   artist: Hillsong United
-  enabled: true
+  enabled: false
   lyrics: |-
     God of creation
     There at the start
@@ -70,7 +70,7 @@
     Halelujah!
 - song: Be Thou My Vision
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Be Thou my Vision, O Lord of my heart;
     Naught be all else to me, save that Thou art;
@@ -93,7 +93,7 @@
     Still be my Vision, O Ruler of all.
 - song: Before the Throne
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     Before the throne of God above
     I have a strong and perfect plea.
@@ -124,7 +124,7 @@
     My life is hid with Christ on high
 - song: Simple Gospel
   artist: United Pursuit
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     I want to know you, Lord, like I know a friend
@@ -377,7 +377,7 @@
     Jesus, there's no one besides You
     Forever the hope in my heart
 - song: How Deep The Father's Love For Us
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     How deep the Father’s love for us,
@@ -453,7 +453,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Your Love Changes Everything
   artist: United Pursuit
-  enabled: false
+  enabled: true
   lyrics: |-
     Lord, you spoke those words
     You spoke so tenderly
@@ -1755,7 +1755,7 @@
     and the life everlasting. Amen.
 - song: Help Me Find My Own Flame
   artist: Will Reagan & United Pursuit
-  enabled: false
+  enabled: true
   lyrics: |-
     I don't wanna ride on somebody else's passion.
     I don't wanna find that I am just dry bones.
