@@ -1,7 +1,171 @@
 ---
+- song: Before the Throne
+  artist: Dustin Kensrue
+  enabled: true
+  lyrics: |-
+    Before the throne of God above
+    I have a strong and perfect plea.
+    A great high Priest whose Name is Love
+    Who ever lives and pleads for me
+
+    My name is graven on His hands
+    My name is written on His heart.
+    I know that while in Heaven He stands
+    No tongue can bid me thence depart
+    My life is hid with Christ on high
+
+    When Satan tempts me to despair
+    And tells me of the guilt within
+    Upward I look and see Him there
+    Who made an end of all my sin
+    Because the sinless Savior died
+    My sinful soul is counted free
+    For God the just is satisfied
+    To look on Him and pardon me.
+
+    Behold Him there the risen Lamb
+    My perfect spotless righteousness
+    The great unchangeable I AM
+    The King of glory and of grace,
+    One with Himself I cannot die
+    My soul is purchased by His blood,
+    My life is hid with Christ on high
+- song: Oh Love That Will Not Let Me Go
+  artist: Ascend the Hill
+  enabled: true
+  lyrics: |-
+    Oh, Love that will not let me go
+    I rest my weary soul in Thee
+    I give You back the life I owe
+    That in Thine ocean's depths its flow
+    May richer, fuller be
+
+    My life is not my own
+    It's Yours
+    My life is not my own
+    I know it's Yours
+
+    Oh, Light that follows all my way
+    I yield my flickering torch to Thee
+    My heart restores its borrowed ray
+    That in Thy sunshine's blaze its day
+    May brighter, fairer be
+
+    So light a fire in my heart
+    And I'll burn for You
+    So light a fire in my heart
+    And I'll burn for You
+
+    Oh, Joy, that seeks me through the pain
+    I cannot close my heart to Thee
+    I trace the rainbow through the rain
+    And feel the promise is not in vain
+    That morn shall tearless be
+
+    So anoint me with joy
+    And joyful I will be
+    So anoint me with joy
+    And joyful I will be
+
+    Oh, cross that's lifing up my head
+    I dare not ask to fly from thee
+    I lay in dust life's glory dead
+    And from the ground there blossoms red
+    Life that shall endless be
+
+    We will sing:
+    Holy, holy
+    Is the King of Kings
+    And we will sing:
+    Holy, holy, is the King of Kings
+    (repeat)
+
+    On that day we will sing:
+    Holy, holy
+    Is the King of Kings
+
+    We will join with the angels and we will sing:
+    Holy, holy
+    Is the King of Kings
+
+    And we will sing:
+    Holy, holy, is the King of Kings
+- song: Once and For All
+  artist: Lauren Daigle
+  enabled: true
+  lyrics: |-
+    God I give You all I can today
+    These scattered ashes that I hid away
+    I lay them all at Your feet
+
+    From the corners of my deepest shame
+    The empty places where I've worn Your name
+    Show me the love I say I believe
+
+    Oh Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    There is victory in my Saviors loss
+    And In the crimson flowing from the cross
+    Pour over me, pour over me yes
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    Oh Lord I lay it down
+    Oh Lord I lay it down
+    Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My Lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all
+
+    Once and for all
+    Oh once and for all
+    Once and for all
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Almighty God to You all hearts are open
+    You take away our sickness and our sin
+    Oh Lamb of God we gather at Your table
+    In bread and wine, You have supplied our needs
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Called Me Higher
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     I could just sit
     I could just sit and wait for all Your goodness
@@ -65,7 +229,7 @@
     [x2]
 - song: Grace Alone
   artist: The Modern Post
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     I was an orphan lost at the Fall
@@ -116,7 +280,7 @@
     I will reach the end by grace and grace alone
 - song: Stand In Your Love
   artist: Josh Baldwin
-  enabled: true
+  enabled: false
   lyrics: |-
     When darkness tries to roll over my bones
     When sorrow tries to steal the joy I own
@@ -195,37 +359,6 @@
     There is power in the Name
 
     Jesus
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Almighty God to You all hearts are open
-    You take away our sickness and our sin
-    Oh Lamb of God we gather at Your table
-    In bread and wine, You have supplied our needs
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Your Love is Strong
   artist: Jon Foreman
   enabled: false
@@ -376,37 +509,6 @@
     May I reach Heaven’s joys, O bright Heaven’s Sun!
     Heart of my own heart, whatever befall,
     Still be my Vision, O Ruler of all.
-- song: Before the Throne
-  artist: Dustin Kensrue
-  enabled: false
-  lyrics: |-
-    Before the throne of God above
-    I have a strong and perfect plea.
-    A great high Priest whose Name is Love
-    Who ever lives and pleads for me
-
-    My name is graven on His hands
-    My name is written on His heart.
-    I know that while in Heaven He stands
-    No tongue can bid me thence depart
-    My life is hid with Christ on high
-
-    When Satan tempts me to despair
-    And tells me of the guilt within
-    Upward I look and see Him there
-    Who made an end of all my sin
-    Because the sinless Savior died
-    My sinful soul is counted free
-    For God the just is satisfied
-    To look on Him and pardon me.
-
-    Behold Him there the risen Lamb
-    My perfect spotless righteousness
-    The great unchangeable I AM
-    The King of glory and of grace,
-    One with Himself I cannot die
-    My soul is purchased by His blood,
-    My life is hid with Christ on high
 - song: Simple Gospel
   artist: United Pursuit
   enabled: false
@@ -454,48 +556,6 @@
     [Bridge]
     I will rejoice in the simple gospel
     I will rejoice in you, Lord
-- song: Once and For All
-  artist: Lauren Daigle
-  enabled: false
-  lyrics: |-
-    God I give You all I can today
-    These scattered ashes that I hid away
-    I lay them all at Your feet
-
-    From the corners of my deepest shame
-    The empty places where I've worn Your name
-    Show me the love I say I believe
-
-    Oh Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    There is victory in my Saviors loss
-    And In the crimson flowing from the cross
-    Pour over me, pour over me yes
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    Oh Lord I lay it down
-    Oh Lord I lay it down
-    Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My Lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all
-
-    Once and for all
-    Oh once and for all
-    Once and for all
 - song: Great Are You Lord
   artist: All Sons & Daughters
   enabled: false
@@ -3148,33 +3208,6 @@
     You make beautiful things out of the dust
     You make beautiful things
     You make beautiful things out of us
-- song: O Love That Will Not Let Me Go
-  artist: George Matheson
-  enabled: false
-  lyrics: |-
-    O Love that will not let me go,
-    I rest my weary soul in thee;
-    I give thee back the life I owe,
-    That in thine ocean depths its flow
-    May richer, fuller be.
-
-    O Light that foll’west all my way,
-    I yield my flick’ring torch to thee;
-    My heart restores its borrowed ray,
-    That in thy sunshine’s blaze its day
-    May brighter, fairer be.
-
-    O Joy that seekest me through pain,
-    I cannot close my heart to thee;
-    I trace the rainbow through the rain,
-    And feel the promise is not vain,
-    That morn shall tearless be.
-
-    O Cross that liftest up my head,
-    I dare not ask to fly from thee;
-    I lay in dust life’s glory dead,
-    And from the ground there blossoms red
-    Life that shall endless be.
 - song: The House Of God, Forever
   artist: Jon Foreman
   enabled: false
