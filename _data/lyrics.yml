@@ -1,7 +1,200 @@
 ---
+- song: 10,000 Reasons
+  artist: Matt Redman
+  enabled: true
+  lyrics: |-
+    Bless the Lord O my soul
+    O my soul
+    Worship His Holy name
+    Sing like never before
+    O my soul
+    I’ll worship Your Holy name
+
+    The sun comes up
+    It’s a new day dawning
+    It’s time to sing Your song again
+    Whatever may pass
+    And whatever lies before me
+    Let me be singing
+    When the evening comes
+
+    You’re rich in love
+    And You’re slow to anger
+    Your name is great
+    And Your heart is kind
+    For all Your goodness
+    I will keep on singing
+
+    Ten thousand reasons
+    For my heart to find
+
+    And on that day
+    When my strength is failing
+    The end draws near
+    And my time has come
+    Still my soul will
+    Sing Your praise unending
+
+    Ten thousand years
+    And then forevermore
+- song: Stand In Your Love
+  artist: Josh Baldwin
+  enabled: true
+  lyrics: |-
+    When darkness tries to roll over my bones
+    When sorrow tries to steal the joy I own
+    When brokenness and pain is all I know
+    I won't be shaken, I won't be shaken (Cause)
+
+    (chorus)
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+
+    Shame no longer has a place to hide
+    I am not a captive to the lies
+    Not afraid to leave my past behind
+    I won't be shaken, I won't be shaken
+
+    (chorus)
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+
+    There's power that can break off every chain
+    There's a power that can empty out a grave
+    There's power that washes every stain
+    (No) I won't be shaken, I won't be shaken
+
+    (chorus)
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+
+    (chorus)
+    (Cause) Shame doesn't stand a chance
+    When I stand in Your love
+    Shame doesn't stand a chance
+    When I stand in Your love
+    Shame doesn't stand a chance
+    When I stand in Your love
+- song: Your Love Changes Everything
+  artist: United Pursuit
+  enabled: true
+  lyrics: |-
+    Lord, you spoke those words
+    You spoke so tenderly
+    Now I choose to believe
+    You love me, you love me, you love me
+
+    Lord, you spoke those words
+    You spoke so tenderly
+    Now I choose to believe
+    You love me, you love me, you love me
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    When my heart is frail
+    And when I’m incomplete
+    I will choose to receive
+    You love me, you love me, you love me
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+
+    You never fail
+    When I look at you
+    You never fail
+    And I trust in you
+    And you never let go
+    You never let go of me
+    You never let go
+
+    You never fail
+    When I look at you
+    You never fail
+    And I trust in you
+    Lord, you never let go
+    You never let go of me
+    You never let go
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+    [Repeat 3x]
+
+    Your love changes everything
+    Your love changes everything
+    Your love changes everything
+
+    Lord you spoke those words
+    You spoke so tenderly
+    And now I choose to believe
+    You love me, you love me, you love me
+- song: Amazing Grace
+  artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    Amazing grace how sweet the sound
+    That saved a wretch like me
+    I once was lost, but now I'm found
+    Was blind, but now I see
+
+    'Twas grace that taught my heart to fear
+    And grace my fears relieved
+    How precious did that grace appear
+    The hour I first believed
+
+    My chains are gone, I've been set free
+    My God, my Savior has ransomed me
+    And like a flood His mercy reigns
+    Unending love,
+    Amazing grace
+
+    The Lord has promised good to me
+    His word my hope secures
+    He will my shield and portion be
+    As long as life endures
+
+    My chains are gone, I've been set free
+    My God, my Savior has ransomed me
+    And like a flood His mercy reigns
+    Unending love,
+    Amazing grace
+    [x2]
+
+    The earth shall soon dissolve like snow
+    The sun forbear to shine
+    But God who called me here below
+    Will be forever mine, will be forever mine
+    You are forever mine
 - song: Before the Throne
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     Before the throne of God above
     I have a strong and perfect plea.
@@ -32,7 +225,7 @@
     My life is hid with Christ on high
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, Love that will not let me go
     I rest my weary soul in Thee
@@ -92,7 +285,7 @@
     Holy, holy, is the King of Kings
 - song: Once and For All
   artist: Lauren Daigle
-  enabled: true
+  enabled: false
   lyrics: |-
     God I give You all I can today
     These scattered ashes that I hid away
@@ -134,7 +327,7 @@
     Once and for all
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -278,56 +471,6 @@
     I will run the race by grace and grace alone
     I will slay my sin by grace and grace alone
     I will reach the end by grace and grace alone
-- song: Stand In Your Love
-  artist: Josh Baldwin
-  enabled: false
-  lyrics: |-
-    When darkness tries to roll over my bones
-    When sorrow tries to steal the joy I own
-    When brokenness and pain is all I know
-    I won't be shaken, I won't be shaken (Cause)
-
-    (chorus)
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-
-    Shame no longer has a place to hide
-    I am not a captive to the lies
-    Not afraid to leave my past behind
-    I won't be shaken, I won't be shaken
-
-    (chorus)
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-
-    There's power that can break off every chain
-    There's a power that can empty out a grave
-    There's power that washes every stain
-    (No) I won't be shaken, I won't be shaken
-
-    (chorus)
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-
-    (chorus)
-    (Cause) Shame doesn't stand a chance
-    When I stand in Your love
-    Shame doesn't stand a chance
-    When I stand in Your love
-    Shame doesn't stand a chance
-    When I stand in Your love
 - song: Power in the Name of Jesus
   artist: Ascend the Hill
   enabled: false
@@ -675,7 +818,7 @@
     Jesus, there's no one besides You
     Forever the hope in my heart
 - song: How Deep The Father's Love For Us
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     How deep the Father’s love for us,
@@ -723,74 +866,6 @@
     You are the joy set before me
 
     Rise up my soul (repeat)
-- song: Your Love Changes Everything
-  artist: United Pursuit
-  enabled: false
-  lyrics: |-
-    Lord, you spoke those words
-    You spoke so tenderly
-    Now I choose to believe
-    You love me, you love me, you love me
-
-    Lord, you spoke those words
-    You spoke so tenderly
-    Now I choose to believe
-    You love me, you love me, you love me
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-
-    When my heart is frail
-    And when I’m incomplete
-    I will choose to receive
-    You love me, you love me, you love me
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-
-    You never fail
-    When I look at you
-    You never fail
-    And I trust in you
-    And you never let go
-    You never let go of me
-    You never let go
-
-    You never fail
-    When I look at you
-    You never fail
-    And I trust in you
-    Lord, you never let go
-    You never let go of me
-    You never let go
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-    [Repeat 3x]
-
-    Your love changes everything
-    Your love changes everything
-    Your love changes everything
-
-    Lord you spoke those words
-    You spoke so tenderly
-    And now I choose to believe
-    You love me, you love me, you love me
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
   enabled: false
@@ -1035,7 +1110,7 @@
     You are my perfect rhyme
     And I want to sing forever
 - song: It is Well
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Grander earth has quaked before
@@ -1212,7 +1287,7 @@
     Let us experience the glory of Your goodness
     Here I stand
 - song: Because He Lives
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     God sent His son, they called Him, Jesus
@@ -1244,34 +1319,8 @@
 
     Because he lives
     Because he lives
-- song: Amazing Grace
-  artist:
-  enabled: false
-  lyrics: |-
-    Amazing Grace, How sweet the sound
-    That saved a wretch like me
-    I once was lost, but now am found
-    T'was blind but now I see
-
-    T'was Grace that taught my heart to fear
-    And Grace, my fears relieved
-    How precious did that grace appear
-    The hour I first believed
-
-    Through many dangers, toils and snares
-    We have already come.
-    T'was grace that brought us safe thus far
-    And grace will lead us home,
-    And grace will lead us home
-
-    Amazing grace, Howe Sweet the sound
-    That saved a wretch like me
-    I once was lost but now am found
-    T'was blind but now I see
-
-    Was blind, but now I see.
 - song: Your Great Name
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Lost are saved, find their way, at the sound of Your great name
@@ -1433,7 +1482,7 @@
     Hallelu-jah, hallelu-jah,
     Hallelu-jah, hallelu-jah
 - song: Here's My Heart Lord
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Here's my heart, Lord [x3]
@@ -1590,7 +1639,7 @@
     Rejoice! Rejoice! Rejoice!
     Rejoice! Rejoice! Rejoice!
 - song: Joy To The World
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Joy to The world! the Lord is come
@@ -1612,46 +1661,8 @@
     And wonders of His love
     And wonders of His love
     And wonder wonders of His love
-- song: 10,000 Reasons
-  artist: Matt Redman
-  enabled: false
-  lyrics: |-
-    Bless the Lord O my soul
-    O my soul
-    Worship His Holy name
-    Sing like never before
-    O my soul
-    I’ll worship Your Holy name
-
-    The sun comes up
-    It’s a new day dawning
-    It’s time to sing Your song again
-    Whatever may pass
-    And whatever lies before me
-    Let me be singing
-    When the evening comes
-
-    You’re rich in love
-    And You’re slow to anger
-    Your name is great
-    And Your heart is kind
-    For all Your goodness
-    I will keep on singing
-
-    Ten thousand reasons
-    For my heart to find
-
-    And on that day
-    When my strength is failing
-    The end draws near
-    And my time has come
-    Still my soul will
-    Sing Your praise unending
-
-    Ten thousand years
-    And then forevermore
 - song: Go Tell It on the Mountain
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Go tell it on the mountain
@@ -1738,7 +1749,7 @@
 
     [Chorus]
 - song: Closer Walk With Thee
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     I am weak, but Thou art strong;
@@ -1762,7 +1773,7 @@
     Guide me gently, safely o’er
     To Thy kingdom shore, to Thy shore.
 - song: Prayer of the Church
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Let us pray for the whole Church of God in Christ Jesus and for all people according to their needs, saying: Lord, in Your mercy, hear our prayer.
@@ -1828,7 +1839,7 @@
     Praise is befitting to the One who died
     Praise is befitting to the One who died
 - song: Apostle's Creed
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     I believe in God, the Father almighty,
@@ -1915,7 +1926,7 @@
     There's an army rising up
     There's an army rising up
 - song: Doxology
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Praise God from Whom all blessings flow
@@ -2064,7 +2075,7 @@
     (you are perfect in all of your ways)
     It's who I am, it's who I am it's who I am
 - song: Create in Me a Clean Heart
-  artist:
+  artist: 
   enabled: false
   lyrics: |-
     Create in me a clean heart
