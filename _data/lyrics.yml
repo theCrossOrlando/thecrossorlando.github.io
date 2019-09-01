@@ -1,7 +1,177 @@
 ---
+- song: More Than The Watchman (Psalm 130)
+  artist: Rebecca St James
+  enabled: true
+  lyrics: |-
+    Out of the depths I cry to my Lord, he lifted me up, he lifted me up
+    Out of the depths I cry to my Lord, he lifted me up, he lifted me
+
+    If you kept a record of sins who could stand, my Lord
+    Who could stand up, Lord, who could stand up?
+    If you kept a record of sins who could stand, my Lord
+    Who could stand up, Lord, who could stand up?
+
+    With you, oh Lord, there is forgiveness
+    With you, oh Lord, unfailing love
+    With you, oh Lord, full redemption
+    You have bought back my soul from the dead with your blood
+
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morning sun
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morn
+
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morning sun
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morn
+- song: Stand In Your Love
+  artist: Josh Baldwin
+  enabled: true
+  lyrics: |-
+    When darkness tries to roll over my bones
+    When sorrow tries to steal the joy I own
+    When brokenness and pain is all I know
+    I won't be shaken, I won't be shaken (Cause)
+
+    (chorus)
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+
+    Shame no longer has a place to hide
+    I am not a captive to the lies
+    Not afraid to leave my past behind
+    I won't be shaken, I won't be shaken
+
+    (chorus)
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+
+    There's power that can break off every chain
+    There's a power that can empty out a grave
+    There's power that washes every stain
+    (No) I won't be shaken, I won't be shaken
+
+    (chorus)
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+
+    (chorus)
+    (Cause) Shame doesn't stand a chance
+    When I stand in Your love
+    Shame doesn't stand a chance
+    When I stand in Your love
+    Shame doesn't stand a chance
+    When I stand in Your love
+- song: So Will I (100 Billion X)
+  artist: Hillsong United
+  enabled: true
+  lyrics: |-
+    God of creation
+    There at the start
+    Before the beginning of time
+    With no point of reference
+    You spoke to the dark
+    And fleshed out the wonder of light
+
+    And as You speak
+    A hundred billion galaxies are born
+    In the vapor of Your breath the planets form
+    If the stars were made to worship so will I
+    I can see Your heart in everything You’ve made
+    Every burning star a signal fire of grace
+    If creation sings Your praises so will I
+    So will I
+
+    God of Your promise
+    You don’t speak in vain
+    No syllable empty or void
+    For once You have spoken
+    All nature and science follow the sound of Your voice
+
+    And as You speak
+    A hundred billion creatures catch Your breath
+    Evolving in pursuit of what You said
+    If it all reveals Your nature so will I
+    I can see Your heart in everything You say
+    Every painted sky a canvas of Your grace
+    If creation still obeys You so will I
+    So will I
+
+    If the stars were made to worship so will I
+    If the mountains bow in reverence so will I
+    If the oceans roar Your greatness so will I
+    For if everything exists to lift You high so will I
+    If the wind goes where You send it so will I
+    If the rocks cry out in silence so will I
+    If the sum of all our praises still falls shy
+    Then we’ll sing again a hundred billion times, whoa
+
+    God of salvation
+    You chased down my heart
+    Through all of my failure and pride
+    On a hill You created
+    The light of the world
+    Abandoned in darkness to die
+
+    And as You speak
+    A hundred billion failures disappear
+    Where You lost Your life so I could find it here
+    If You left the grave behind You so will I
+    I can see Your heart in everything You’ve done
+    Every part designed in a work of art called love
+    If You gladly chose surrender so will I
+    I can see Your heart
+    Eight billion different ways
+    Every precious one
+    A child You died to save
+    If You gave Your life to love them so will I
+
+    Like You would again a hundred billion times
+    But what measure could amount to Your desire
+    You’re the One who never leaves the one behind
+
+    Halelujah!
+- song: You Are So Good To Me
+  artist: Third Day
+  enabled: true
+  lyrics: |-
+    You are so good to me
+    You heal my broken heart
+    You are my Father in heaven [2x]
+
+    You ride upon the clouds
+    You lead me to the truth
+    You are the Spirit inside me [2x]
+
+    You poured out all your blood
+    You died upon the cross
+    You are my Jesus who loves me [2x]
+
+    [Chorus:]
+    You are beautiful my sweet, sweet, song [3x]
+    I will sing again
+
+    [Bridge:]
+    You are my strong melody
+    You are my dancing rhythm
+    You are my perfect rhyme
+    And I want to sing forever
 - song: Grace Alone
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     I was an orphan lost at the Fall
@@ -52,7 +222,7 @@
     I will reach the end by grace and grace alone
 - song: Your Love Changes Everything
   artist: United Pursuit
-  enabled: true
+  enabled: false
   lyrics: |-
     Lord, you spoke those words
     You spoke so tenderly
@@ -120,7 +290,7 @@
     You love me, you love me, you love me
 - song: Heart Won't Stop
   artist: John Mark McMillan & Sarah McMillan
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     There is not a man or beast
@@ -313,56 +483,6 @@
 
     Ten thousand years
     And then forevermore
-- song: Stand In Your Love
-  artist: Josh Baldwin
-  enabled: false
-  lyrics: |-
-    When darkness tries to roll over my bones
-    When sorrow tries to steal the joy I own
-    When brokenness and pain is all I know
-    I won't be shaken, I won't be shaken (Cause)
-
-    (chorus)
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-
-    Shame no longer has a place to hide
-    I am not a captive to the lies
-    Not afraid to leave my past behind
-    I won't be shaken, I won't be shaken
-
-    (chorus)
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-
-    There's power that can break off every chain
-    There's a power that can empty out a grave
-    There's power that washes every stain
-    (No) I won't be shaken, I won't be shaken
-
-    (chorus)
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-
-    (chorus)
-    (Cause) Shame doesn't stand a chance
-    When I stand in Your love
-    Shame doesn't stand a chance
-    When I stand in Your love
-    Shame doesn't stand a chance
-    When I stand in Your love
 - song: Amazing Grace
   artist: Chris Tomlin
   enabled: false
@@ -717,75 +837,6 @@
     Forgive us weary sinners
     Keep us far from our vices and
     Deliver us from these prisons
-- song: So Will I (100 Billion X)
-  artist: Hillsong United
-  enabled: false
-  lyrics: |-
-    God of creation
-    There at the start
-    Before the beginning of time
-    With no point of reference
-    You spoke to the dark
-    And fleshed out the wonder of light
-
-    And as You speak
-    A hundred billion galaxies are born
-    In the vapor of Your breath the planets form
-    If the stars were made to worship so will I
-    I can see Your heart in everything You’ve made
-    Every burning star a signal fire of grace
-    If creation sings Your praises so will I
-    So will I
-
-    God of Your promise
-    You don’t speak in vain
-    No syllable empty or void
-    For once You have spoken
-    All nature and science follow the sound of Your voice
-
-    And as You speak
-    A hundred billion creatures catch Your breath
-    Evolving in pursuit of what You said
-    If it all reveals Your nature so will I
-    I can see Your heart in everything You say
-    Every painted sky a canvas of Your grace
-    If creation still obeys You so will I
-    So will I
-
-    If the stars were made to worship so will I
-    If the mountains bow in reverence so will I
-    If the oceans roar Your greatness so will I
-    For if everything exists to lift You high so will I
-    If the wind goes where You send it so will I
-    If the rocks cry out in silence so will I
-    If the sum of all our praises still falls shy
-    Then we’ll sing again a hundred billion times, whoa
-
-    God of salvation
-    You chased down my heart
-    Through all of my failure and pride
-    On a hill You created
-    The light of the world
-    Abandoned in darkness to die
-
-    And as You speak
-    A hundred billion failures disappear
-    Where You lost Your life so I could find it here
-    If You left the grave behind You so will I
-    I can see Your heart in everything You’ve done
-    Every part designed in a work of art called love
-    If You gladly chose surrender so will I
-    I can see Your heart
-    Eight billion different ways
-    Every precious one
-    A child You died to save
-    If You gave Your life to love them so will I
-
-    Like You would again a hundred billion times
-    But what measure could amount to Your desire
-    You’re the One who never leaves the one behind
-
-    Halelujah!
 - song: Be Thou My Vision
   artist: Ascend the Hill
   enabled: false
@@ -1177,31 +1228,6 @@
     A garment of praise for my heaviness
     You are the greatest taste
     You're the richest of fair
-- song: You Are So Good To Me
-  artist: Third Day
-  enabled: false
-  lyrics: |-
-    You are so good to me
-    You heal my broken heart
-    You are my Father in heaven [2x]
-
-    You ride upon the clouds
-    You lead me to the truth
-    You are the Spirit inside me [2x]
-
-    You poured out all your blood
-    You died upon the cross
-    You are my Jesus who loves me [2x]
-
-    [Chorus:]
-    You are beautiful my sweet, sweet, song [3x]
-    I will sing again
-
-    [Bridge:]
-    You are my strong melody
-    You are my dancing rhythm
-    You are my perfect rhyme
-    And I want to sing forever
 - song: It is Well
   artist: 
   enabled: false
@@ -1782,32 +1808,6 @@
     Over the hills and everywhere
     Go tell it on the mountain
     Our Jesus Christ is born
-- song: More Than The Watchman (Psalm 130)
-  artist: Rebecca St James
-  enabled: false
-  lyrics: |-
-    Out of the depths I cry to my Lord, he lifted me up, he lifted me up
-    Out of the depths I cry to my Lord, he lifted me up, he lifted me
-
-    If you kept a record of sins who could stand, my Lord
-    Who could stand up, Lord, who could stand up?
-    If you kept a record of sins who could stand, my Lord
-    Who could stand up, Lord, who could stand up?
-
-    With you, oh Lord, there is forgiveness
-    With you, oh Lord, unfailing love
-    With you, oh Lord, full redemption
-    You have bought back my soul from the dead with your blood
-
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morning sun
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morn
-
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morning sun
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morn
 - song: How Great is our God
   artist: Chris Tomlin
   enabled: false
