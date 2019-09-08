@@ -1,7 +1,111 @@
 ---
+- song: Have Mercy
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Have Mercy on me
+    Have Mercy on me
+    Oh Lord, have mercy
+
+    Lord help my unbelief
+    Lord help my unbelief
+    Oh Lord, have mercy
+- song: Come Holy One
+  artist: Young Oceans
+  enabled: true
+  lyrics: |-
+    Hasten now, O loving Lord to us
+    We’re thirsty
+    Fill these souls, Spirit, every hour
+    We need Thee
+
+    Refrain
+
+    Come, come Holy One
+    Come meet us
+    All, all for Your glory
+    Lord Jesus
+
+    Lead us on, the perfect path O Lord And may we
+    Sin no more. This
+    spotless bride, the Church
+    Is Yours
+
+    I am yours, only yours
+    I am yours, only yours
+    We are yours, only yours
+    We are yours, only yours
+- song: 10,000 Reasons
+  artist: Matt Redman
+  enabled: true
+  lyrics: |-
+    Bless the Lord O my soul
+    O my soul
+    Worship His Holy name
+    Sing like never before
+    O my soul
+    I’ll worship Your Holy name
+
+    The sun comes up
+    It’s a new day dawning
+    It’s time to sing Your song again
+    Whatever may pass
+    And whatever lies before me
+    Let me be singing
+    When the evening comes
+
+    You’re rich in love
+    And You’re slow to anger
+    Your name is great
+    And Your heart is kind
+    For all Your goodness
+    I will keep on singing
+
+    Ten thousand reasons
+    For my heart to find
+
+    And on that day
+    When my strength is failing
+    The end draws near
+    And my time has come
+    Still my soul will
+    Sing Your praise unending
+
+    Ten thousand years
+    And then forevermore
+- song: Nothing I Hold On To
+  artist: United Pursuit Band
+  enabled: true
+  lyrics: |-
+    I lean not on my own understanding,
+    My life is in the hands of the maker of heaven
+
+    I Give it all to you God,
+    Trusting that you'll make something beautiful out of me
+
+    I will climb this mountain
+    With my hands wide open
+    I will climb this mountain
+    With my hands wide open
+
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+
+    All Glory To God, Forever. Amen
+- song: Doxology
+  artist: 
+  enabled: true
+  lyrics: |-
+    Praise God from Whom all blessings flow
+    Praise Him all creatures here below
+    Praise Him above ye heavenly host
+    Praise Father Son and Holy Ghost
+    Amen amen amen amen
 - song: More Than The Watchman (Psalm 130)
   artist: Rebecca St James
-  enabled: true
+  enabled: false
   lyrics: |-
     Out of the depths I cry to my Lord, he lifted me up, he lifted me up
     Out of the depths I cry to my Lord, he lifted me up, he lifted me
@@ -27,7 +131,7 @@
     More than watchman who wait for the morn
 - song: Stand In Your Love
   artist: Josh Baldwin
-  enabled: true
+  enabled: false
   lyrics: |-
     When darkness tries to roll over my bones
     When sorrow tries to steal the joy I own
@@ -77,7 +181,7 @@
     When I stand in Your love
 - song: So Will I (100 Billion X)
   artist: Hillsong United
-  enabled: true
+  enabled: false
   lyrics: |-
     God of creation
     There at the start
@@ -146,7 +250,7 @@
     Halelujah!
 - song: You Are So Good To Me
   artist: Third Day
-  enabled: true
+  enabled: false
   lyrics: |-
     You are so good to me
     You heal my broken heart
@@ -445,44 +549,6 @@
 
     In the house of God forever
     In the house of God forever
-- song: 10,000 Reasons
-  artist: Matt Redman
-  enabled: false
-  lyrics: |-
-    Bless the Lord O my soul
-    O my soul
-    Worship His Holy name
-    Sing like never before
-    O my soul
-    I’ll worship Your Holy name
-
-    The sun comes up
-    It’s a new day dawning
-    It’s time to sing Your song again
-    Whatever may pass
-    And whatever lies before me
-    Let me be singing
-    When the evening comes
-
-    You’re rich in love
-    And You’re slow to anger
-    Your name is great
-    And Your heart is kind
-    For all Your goodness
-    I will keep on singing
-
-    Ten thousand reasons
-    For my heart to find
-
-    And on that day
-    When my strength is failing
-    The end draws near
-    And my time has come
-    Still my soul will
-    Sing Your praise unending
-
-    Ten thousand years
-    And then forevermore
 - song: Amazing Grace
   artist: Chris Tomlin
   enabled: false
@@ -1269,52 +1335,6 @@
     So let go my soul and trust in Him
     The waves and wind still know His name
     The waves and wind still know His name
-- song: Come Holy One
-  artist: Young Oceans
-  enabled: false
-  lyrics: |-
-    Hasten now, O loving Lord to us
-    We’re thirsty
-    Fill these souls, Spirit, every hour
-    We need Thee
-
-    Refrain
-
-    Come, come Holy One
-    Come meet us
-    All, all for Your glory
-    Lord Jesus
-
-    Lead us on, the perfect path O Lord And may we
-    Sin no more. This
-    spotless bride, the Church
-    Is Yours
-
-    I am yours, only yours
-    I am yours, only yours
-    We are yours, only yours
-    We are yours, only yours
-- song: Nothing I Hold On To
-  artist: United Pursuit Band
-  enabled: false
-  lyrics: |-
-    I lean not on my own understanding,
-    My life is in the hands of the maker of heaven
-
-    I Give it all to you God,
-    Trusting that you'll make something beautiful out of me
-
-    I will climb this mountain
-    With my hands wide open
-    I will climb this mountain
-    With my hands wide open
-
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-
-    All Glory To God, Forever. Amen
 - song: Praise to the Lord, the Almighty
   artist: Joachim Neander
   enabled: false
@@ -1549,17 +1569,6 @@
     What a powerful Name it is, the Name of Jesus
     What a powerful Name it is, The Name of Jesus
     What a powerful Name it is, The Name of Jesus
-- song: Have Mercy
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Have Mercy on me
-    Have Mercy on me
-    Oh Lord, have mercy
-
-    Lord help my unbelief
-    Lord help my unbelief
-    Oh Lord, have mercy
 - song: Praise to the Lord, the Almighty
   artist: Hymn
   enabled: false
@@ -2018,15 +2027,6 @@
     There's an army rising up
     There's an army rising up
     There's an army rising up
-- song: Doxology
-  artist: 
-  enabled: false
-  lyrics: |-
-    Praise God from Whom all blessings flow
-    Praise Him all creatures here below
-    Praise Him above ye heavenly host
-    Praise Father Son and Holy Ghost
-    Amen amen amen amen
 - song: You Are Beautiful My Sweet Sweet Song
   artist: Third Day
   enabled: false
