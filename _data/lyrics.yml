@@ -1,137 +1,65 @@
 ---
-- song: Have Mercy
-  artist: Sandra McCracken
+- song: Your Love is Strong
+  artist: Jon Foreman
   enabled: true
   lyrics: |-
-    Have Mercy on me
-    Have Mercy on me
-    Oh Lord, have mercy
+    Heavenly Father
+    You always amaze me
+    Let Your kingdom come in my world
+    And in my life
 
-    Lord help my unbelief
-    Lord help my unbelief
-    Oh Lord, have mercy
-- song: Come Holy One
-  artist: Young Oceans
-  enabled: true
-  lyrics: |-
-    Hasten now, O loving Lord to us
-    We’re thirsty
-    Fill these souls, Spirit, every hour
-    We need Thee
+    Give me the food I need to live through today
+    And forgive me as I forgive the people that wrong me
 
-    Refrain
+    Lead me far from temptation
+    Deliver me from the evil one
 
-    Come, come Holy One
-    Come meet us
-    All, all for Your glory
-    Lord Jesus
+    I look out the window
+    The birds are composing
+    Not a note is out of tune
+    Or out of place
 
-    Lead us on, the perfect path O Lord And may we
-    Sin no more. This
-    spotless bride, the Church
-    Is Yours
+    I walk to the meadow
+    And stare at the flowers
+    Better dressed than any girl
+    On her wedding day
 
-    I am yours, only yours
-    I am yours, only yours
-    We are yours, only yours
-    We are yours, only yours
-- song: 10,000 Reasons
-  artist: Matt Redman
-  enabled: true
-  lyrics: |-
-    Bless the Lord O my soul
-    O my soul
-    Worship His Holy name
-    Sing like never before
-    O my soul
-    I’ll worship Your Holy name
+    So why should I worry?
+    Why do I freak out?
+    God knows what I need!
+    You know what I need!
 
-    The sun comes up
-    It’s a new day dawning
-    It’s time to sing Your song again
-    Whatever may pass
-    And whatever lies before me
-    Let me be singing
-    When the evening comes
+    Your love is strong
 
-    You’re rich in love
-    And You’re slow to anger
-    Your name is great
-    And Your heart is kind
-    For all Your goodness
-    I will keep on singing
+    The Kingdom of the Heavens
+    Is now advancing
+    Invade my heart
+    Invade this broken town
 
-    Ten thousand reasons
-    For my heart to find
+    The Kingdom of the Heavens
+    Is buried treasure
+    Would you sell yourself
+    To buy the one you've found?
 
-    And on that day
-    When my strength is failing
-    The end draws near
-    And my time has come
-    Still my soul will
-    Sing Your praise unending
+    Two things You told me
+    That You are strong
+    And You love me,
+    Yes You love me
 
-    Ten thousand years
-    And then forevermore
-- song: Nothing I Hold On To
-  artist: United Pursuit Band
-  enabled: true
-  lyrics: |-
-    I lean not on my own understanding,
-    My life is in the hands of the maker of heaven
+    Your love is strong
 
-    I Give it all to you God,
-    Trusting that you'll make something beautiful out of me
-
-    I will climb this mountain
-    With my hands wide open
-    I will climb this mountain
-    With my hands wide open
-
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-
-    All Glory To God, Forever. Amen
-- song: Doxology
-  artist: 
-  enabled: true
-  lyrics: |-
-    Praise God from Whom all blessings flow
-    Praise Him all creatures here below
-    Praise Him above ye heavenly host
-    Praise Father Son and Holy Ghost
-    Amen amen amen amen
-- song: More Than The Watchman (Psalm 130)
-  artist: Rebecca St James
-  enabled: false
-  lyrics: |-
-    Out of the depths I cry to my Lord, he lifted me up, he lifted me up
-    Out of the depths I cry to my Lord, he lifted me up, he lifted me
-
-    If you kept a record of sins who could stand, my Lord
-    Who could stand up, Lord, who could stand up?
-    If you kept a record of sins who could stand, my Lord
-    Who could stand up, Lord, who could stand up?
-
-    With you, oh Lord, there is forgiveness
-    With you, oh Lord, unfailing love
-    With you, oh Lord, full redemption
-    You have bought back my soul from the dead with your blood
-
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morning sun
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morn
-
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morning sun
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morn
+    Our God in heaven
+    Hallowed be thy name above all names
+    Your kingdom come
+    Your will be done
+    On earth as it is in heaven
+    Give us, today, our daily bread
+    Forgive us weary sinners
+    Keep us far from our vices and
+    Deliver us from these prisons
 - song: Stand In Your Love
   artist: Josh Baldwin
-  enabled: false
+  enabled: true
   lyrics: |-
     When darkness tries to roll over my bones
     When sorrow tries to steal the joy I own
@@ -179,6 +107,187 @@
     When I stand in Your love
     Shame doesn't stand a chance
     When I stand in Your love
+- song: Grace Alone
+  artist: Dustin Kensrue
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+    I was an orphan lost at the Fall
+    Running away when I'd hear Your call
+    But Father, You worked Your will
+    I had no righteousness of my own
+    I had no right to draw near Your throne
+    But Father, You loved me still
+
+    [Chorus 1]
+    And in love before You laid the world's foundation
+    You predestined to adopt me as Your own
+    You have raised me so high up above my station
+    I'm a child of God by grace and grace alone
+
+    [Verse 2]
+    You left Your home to seek out the lost
+    You knew the great and terrible cost
+    But Jesus, Your face was set
+    I worked my fingers down to the bone
+    Nothing I did could ever atone
+    But Jesus, You paid my debt
+
+    [Chorus 2]
+    By Your blood, I have redemption and salvation
+    Lord, You died that I might reap what You have sown
+    And You rose that I might be a new creation
+    I am born again by grace and grace alone
+
+    [Verse 3]
+    I was in darkness all of my life
+    I never knew the day from the night
+    But Spirit, You made me see
+    I swore I knew the way on my own
+    Head full of rocks, a heart made of stone
+    But Spirit, You moved in me
+
+    [Chorus 3]
+    At your touch my sleeping spirit was awakened
+    On my darkened heart the light of Christ has shone
+    Called into a kingdom that cannot be shaken
+    Heaven's citizen by grace and grace alone
+
+    [Outro]
+    So I'll stand in faith by grace and grace alone
+    I will run the race by grace and grace alone
+    I will slay my sin by grace and grace alone
+    I will reach the end by grace and grace alone
+- song: Have Mercy
+  artist: Sandra McCracken
+  enabled: false
+  lyrics: |-
+    Have Mercy on me
+    Have Mercy on me
+    Oh Lord, have mercy
+
+    Lord help my unbelief
+    Lord help my unbelief
+    Oh Lord, have mercy
+- song: Come Holy One
+  artist: Young Oceans
+  enabled: false
+  lyrics: |-
+    Hasten now, O loving Lord to us
+    We’re thirsty
+    Fill these souls, Spirit, every hour
+    We need Thee
+
+    Refrain
+
+    Come, come Holy One
+    Come meet us
+    All, all for Your glory
+    Lord Jesus
+
+    Lead us on, the perfect path O Lord And may we
+    Sin no more. This
+    spotless bride, the Church
+    Is Yours
+
+    I am yours, only yours
+    I am yours, only yours
+    We are yours, only yours
+    We are yours, only yours
+- song: 10,000 Reasons
+  artist: Matt Redman
+  enabled: false
+  lyrics: |-
+    Bless the Lord O my soul
+    O my soul
+    Worship His Holy name
+    Sing like never before
+    O my soul
+    I’ll worship Your Holy name
+
+    The sun comes up
+    It’s a new day dawning
+    It’s time to sing Your song again
+    Whatever may pass
+    And whatever lies before me
+    Let me be singing
+    When the evening comes
+
+    You’re rich in love
+    And You’re slow to anger
+    Your name is great
+    And Your heart is kind
+    For all Your goodness
+    I will keep on singing
+
+    Ten thousand reasons
+    For my heart to find
+
+    And on that day
+    When my strength is failing
+    The end draws near
+    And my time has come
+    Still my soul will
+    Sing Your praise unending
+
+    Ten thousand years
+    And then forevermore
+- song: Nothing I Hold On To
+  artist: United Pursuit Band
+  enabled: false
+  lyrics: |-
+    I lean not on my own understanding,
+    My life is in the hands of the maker of heaven
+
+    I Give it all to you God,
+    Trusting that you'll make something beautiful out of me
+
+    I will climb this mountain
+    With my hands wide open
+    I will climb this mountain
+    With my hands wide open
+
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+
+    All Glory To God, Forever. Amen
+- song: Doxology
+  artist: 
+  enabled: false
+  lyrics: |-
+    Praise God from Whom all blessings flow
+    Praise Him all creatures here below
+    Praise Him above ye heavenly host
+    Praise Father Son and Holy Ghost
+    Amen amen amen amen
+- song: More Than The Watchman (Psalm 130)
+  artist: Rebecca St James
+  enabled: false
+  lyrics: |-
+    Out of the depths I cry to my Lord, he lifted me up, he lifted me up
+    Out of the depths I cry to my Lord, he lifted me up, he lifted me
+
+    If you kept a record of sins who could stand, my Lord
+    Who could stand up, Lord, who could stand up?
+    If you kept a record of sins who could stand, my Lord
+    Who could stand up, Lord, who could stand up?
+
+    With you, oh Lord, there is forgiveness
+    With you, oh Lord, unfailing love
+    With you, oh Lord, full redemption
+    You have bought back my soul from the dead with your blood
+
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morning sun
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morn
+
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morning sun
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morn
 - song: So Will I (100 Billion X)
   artist: Hillsong United
   enabled: false
@@ -273,57 +382,6 @@
     You are my dancing rhythm
     You are my perfect rhyme
     And I want to sing forever
-- song: Grace Alone
-  artist: Dustin Kensrue
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-    I was an orphan lost at the Fall
-    Running away when I'd hear Your call
-    But Father, You worked Your will
-    I had no righteousness of my own
-    I had no right to draw near Your throne
-    But Father, You loved me still
-
-    [Chorus 1]
-    And in love before You laid the world's foundation
-    You predestined to adopt me as Your own
-    You have raised me so high up above my station
-    I'm a child of God by grace and grace alone
-
-    [Verse 2]
-    You left Your home to seek out the lost
-    You knew the great and terrible cost
-    But Jesus, Your face was set
-    I worked my fingers down to the bone
-    Nothing I did could ever atone
-    But Jesus, You paid my debt
-
-    [Chorus 2]
-    By Your blood, I have redemption and salvation
-    Lord, You died that I might reap what You have sown
-    And You rose that I might be a new creation
-    I am born again by grace and grace alone
-
-    [Verse 3]
-    I was in darkness all of my life
-    I never knew the day from the night
-    But Spirit, You made me see
-    I swore I knew the way on my own
-    Head full of rocks, a heart made of stone
-    But Spirit, You moved in me
-
-    [Chorus 3]
-    At your touch my sleeping spirit was awakened
-    On my darkened heart the light of Christ has shone
-    Called into a kingdom that cannot be shaken
-    Heaven's citizen by grace and grace alone
-
-    [Outro]
-    So I'll stand in faith by grace and grace alone
-    I will run the race by grace and grace alone
-    I will slay my sin by grace and grace alone
-    I will reach the end by grace and grace alone
 - song: Your Love Changes Everything
   artist: United Pursuit
   enabled: false
@@ -845,64 +903,6 @@
     There is power in the Name
 
     Jesus
-- song: Your Love is Strong
-  artist: Jon Foreman
-  enabled: false
-  lyrics: |-
-    Heavenly Father
-    You always amaze me
-    Let Your kingdom come in my world
-    And in my life
-
-    Give me the food I need to live through today
-    And forgive me as I forgive the people that wrong me
-
-    Lead me far from temptation
-    Deliver me from the evil one
-
-    I look out the window
-    The birds are composing
-    Not a note is out of tune
-    Or out of place
-
-    I walk to the meadow
-    And stare at the flowers
-    Better dressed than any girl
-    On her wedding day
-
-    So why should I worry?
-    Why do I freak out?
-    God knows what I need!
-    You know what I need!
-
-    Your love is strong
-
-    The Kingdom of the Heavens
-    Is now advancing
-    Invade my heart
-    Invade this broken town
-
-    The Kingdom of the Heavens
-    Is buried treasure
-    Would you sell yourself
-    To buy the one you've found?
-
-    Two things You told me
-    That You are strong
-    And You love me,
-    Yes You love me
-
-    Your love is strong
-
-    Our God in heaven
-    Hallowed be thy name above all names
-    Your kingdom come
-    Your will be done
-    On earth as it is in heaven
-    Give us, today, our daily bread
-    Forgive us weary sinners
-    Keep us far from our vices and
-    Deliver us from these prisons
 - song: Be Thou My Vision
   artist: Ascend the Hill
   enabled: false
