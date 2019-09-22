@@ -1,7 +1,132 @@
 ---
+- song: This I Believe
+  artist: Hillsong
+  enabled: true
+  lyrics: |-
+    Our Father, everlasting
+    The all creating One
+    God Almighty
+
+    Through Your Holy Spirit
+    Conceiving Christ the Son
+    Jesus our Saviour
+
+    I believe in God our Father
+    I believe in Christ the Son
+    I believe in the Holy Spirit
+    Our God is three in one
+    I believe in the resurrection
+    That we will rise again
+    For I believe in the name of Jesus
+
+    Our judge and our defender
+    Suffered and crucified
+    Forgiveness is in You
+
+    Descended into darkness
+    You rose in glorious light
+    Forever seated high
+
+    I believe in God our Father
+    I believe in Christ the Son
+    I believe in the Holy Spirit
+    Our God it three in one
+    I believe in the resurrection
+    That we will rise again
+    For I believe in the name of Jesus
+
+    Yes, I believe in You
+    I believe You rose again
+    I believe that Jesus Christ is Lord
+
+    I believe in Life Eternal
+    I believe virgin birth
+    I believe in the saints’ communion
+    And in Your holy church
+    I believe in the resurrection
+    When Jesus comes again
+    For I believe in the name of Jesus
+
+    I believe in God our Father
+    I believe in Christ the Son
+    I believe in the Holy Spirit
+    Our God it three in one
+    I believe in the resurrection
+    That we will rise again
+    For I believe in the name of Jesus
+    For I believe in the name of Jesus
+    For I believe in the name of Jesus
+- song: Your Love Changes Everything
+  artist: United Pursuit
+  enabled: true
+  lyrics: |-
+    Lord, you spoke those words
+    You spoke so tenderly
+    Now I choose to believe
+    You love me, you love me, you love me
+
+    Lord, you spoke those words
+    You spoke so tenderly
+    Now I choose to believe
+    You love me, you love me, you love me
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    When my heart is frail
+    And when I’m incomplete
+    I will choose to receive
+    You love me, you love me, you love me
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+
+    You never fail
+    When I look at you
+    You never fail
+    And I trust in you
+    And you never let go
+    You never let go of me
+    You never let go
+
+    You never fail
+    When I look at you
+    You never fail
+    And I trust in you
+    Lord, you never let go
+    You never let go of me
+    You never let go
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+    [Repeat 3x]
+
+    Your love changes everything
+    Your love changes everything
+    Your love changes everything
+
+    Lord you spoke those words
+    You spoke so tenderly
+    And now I choose to believe
+    You love me, you love me, you love me
 - song: Your Love is Strong
   artist: Jon Foreman
-  enabled: true
+  enabled: false
   lyrics: |-
     Heavenly Father
     You always amaze me
@@ -59,7 +184,7 @@
     Deliver us from these prisons
 - song: Stand In Your Love
   artist: Josh Baldwin
-  enabled: true
+  enabled: false
   lyrics: |-
     When darkness tries to roll over my bones
     When sorrow tries to steal the joy I own
@@ -109,7 +234,7 @@
     When I stand in Your love
 - song: Grace Alone
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     I was an orphan lost at the Fall
@@ -382,74 +507,6 @@
     You are my dancing rhythm
     You are my perfect rhyme
     And I want to sing forever
-- song: Your Love Changes Everything
-  artist: United Pursuit
-  enabled: false
-  lyrics: |-
-    Lord, you spoke those words
-    You spoke so tenderly
-    Now I choose to believe
-    You love me, you love me, you love me
-
-    Lord, you spoke those words
-    You spoke so tenderly
-    Now I choose to believe
-    You love me, you love me, you love me
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-
-    When my heart is frail
-    And when I’m incomplete
-    I will choose to receive
-    You love me, you love me, you love me
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-
-    You never fail
-    When I look at you
-    You never fail
-    And I trust in you
-    And you never let go
-    You never let go of me
-    You never let go
-
-    You never fail
-    When I look at you
-    You never fail
-    And I trust in you
-    Lord, you never let go
-    You never let go of me
-    You never let go
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-    [Repeat 3x]
-
-    Your love changes everything
-    Your love changes everything
-    Your love changes everything
-
-    Lord you spoke those words
-    You spoke so tenderly
-    And now I choose to believe
-    You love me, you love me, you love me
 - song: Heart Won't Stop
   artist: John Mark McMillan & Sarah McMillan
   enabled: false
