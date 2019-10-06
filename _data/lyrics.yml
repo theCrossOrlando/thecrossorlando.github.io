@@ -36,9 +36,126 @@
     Let us become more aware of Your presence
     Let us experience the glory of Your goodness
     Here I stand
+- song: Called Me Higher
+  artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    I could just sit
+    I could just sit and wait for all Your goodness
+    Hope to feel Your presence
+    And I could just stay
+    I could just stay right where I am and hope to feel You
+    Hope to feel something again
+
+    And I could hold on
+    I could hold on to who I am and never let You
+    Change me from the inside
+    And I could be safe
+    I could be safe here in Your arms and never leave home
+    Never let these walls down
+
+    But You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    You have called me higher
+    You have called me deeper
+    And I'll go where You lead me Lord
+    Where You lead me
+    Where You lead me Lord
+
+    And I could hold on
+    I could hold on to who I am and never let You
+    Change me from the inside
+    And I could be safe
+    I could be safe here in Your arms and never leave home
+    Never let these walls down
+
+    But You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    You have called me higher
+    You have called me deeper
+    And I'll go where You lead me Lord
+    Where You lead me
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+    So let Your mercy
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+    So let Your mercy light the path before me
+
+    Cause You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    [x4]
+
+    Where You lead me
+    Where You lead me Lord
+    [x2]
+- song: Good Good Father
+  artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    Oh, I've heard a thousand stories of what they think you're like
+    But I've heard the tender whispers of love in the dead of night
+    And you tell me that you're pleased
+    And that I'm never alone
+
+    You're a Good, Good Father
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    It's who I am, it's who I am, it's who I am
+
+    Oh, and I've seen many searching for answers far and wide
+    But I know we're all searching
+    For answers only you provide
+    'Cause you know just what we need
+    Before we say a word
+
+    You're a Good, Good Father
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    It's who I am, it's who I am, it's who I am
+
+    'cause you are perfect in all of your ways
+    You are perfect in all of your ways
+    You are perfect in all of your ways to us
+
+    You are perfect in all of your ways
+    You are perfect in all of your ways
+    You are perfect in all of your ways to us
+
+    Oh, it's love so undeniable
+    I, I can hardly speak
+    Peace so unexplainable
+    I, I can hardly think
+
+    As you call me deeper still [3x]
+    Into love, love, love
+
+    [3x:]
+    You're a Good, Good Father
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    It's who I am, it's who I am, it's who I am
+
+    You're a Good, Good Father
+    (you are perfect in all of your ways)
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    (you are perfect in all of your ways)
+    It's who I am, it's who I am it's who I am
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, Love that will not let me go
     I rest my weary soul in Thee
@@ -98,7 +215,7 @@
     Holy, holy, is the King of Kings
 - song: Stand In Your Love
   artist: Josh Baldwin
-  enabled: true
+  enabled: false
   lyrics: |-
     When darkness tries to roll over my bones
     When sorrow tries to steal the joy I own
@@ -148,7 +265,7 @@
     When I stand in Your love
 - song: Doxology
   artist: 
-  enabled: true
+  enabled: false
   lyrics: |-
     Praise God from Whom all blessings flow
     Praise Him all creatures here below
@@ -902,70 +1019,6 @@
     To you all hearts are open, Almighty God…
 
     Hallelujah, hallelujah, hallelujah, hallelujah
-- song: Called Me Higher
-  artist: All Sons & Daughters
-  enabled: false
-  lyrics: |-
-    I could just sit
-    I could just sit and wait for all Your goodness
-    Hope to feel Your presence
-    And I could just stay
-    I could just stay right where I am and hope to feel You
-    Hope to feel something again
-
-    And I could hold on
-    I could hold on to who I am and never let You
-    Change me from the inside
-    And I could be safe
-    I could be safe here in Your arms and never leave home
-    Never let these walls down
-
-    But You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    You have called me higher
-    You have called me deeper
-    And I'll go where You lead me Lord
-    Where You lead me
-    Where You lead me Lord
-
-    And I could hold on
-    I could hold on to who I am and never let You
-    Change me from the inside
-    And I could be safe
-    I could be safe here in Your arms and never leave home
-    Never let these walls down
-
-    But You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    You have called me higher
-    You have called me deeper
-    And I'll go where You lead me Lord
-    Where You lead me
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-    So let Your mercy
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-    So let Your mercy light the path before me
-
-    Cause You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    [x4]
-
-    Where You lead me
-    Where You lead me Lord
-    [x2]
 - song: Power in the Name of Jesus
   artist: Ascend the Hill
   enabled: false
@@ -2171,59 +2224,6 @@
     It's only You we want
     It's only You we want
     It's only me that's here, God, it's only me that's here
-- song: Good Good Father
-  artist: Chris Tomlin
-  enabled: false
-  lyrics: |-
-    Oh, I've heard a thousand stories of what they think you're like
-    But I've heard the tender whispers of love in the dead of night
-    And you tell me that you're pleased
-    And that I'm never alone
-
-    You're a Good, Good Father
-    It's who you are, it's who you are, it's who you are
-    And I'm loved by you
-    It's who I am, it's who I am, it's who I am
-
-    Oh, and I've seen many searching for answers far and wide
-    But I know we're all searching
-    For answers only you provide
-    'Cause you know just what we need
-    Before we say a word
-
-    You're a Good, Good Father
-    It's who you are, it's who you are, it's who you are
-    And I'm loved by you
-    It's who I am, it's who I am, it's who I am
-
-    'cause you are perfect in all of your ways
-    You are perfect in all of your ways
-    You are perfect in all of your ways to us
-
-    You are perfect in all of your ways
-    You are perfect in all of your ways
-    You are perfect in all of your ways to us
-
-    Oh, it's love so undeniable
-    I, I can hardly speak
-    Peace so unexplainable
-    I, I can hardly think
-
-    As you call me deeper still [3x]
-    Into love, love, love
-
-    [3x:]
-    You're a Good, Good Father
-    It's who you are, it's who you are, it's who you are
-    And I'm loved by you
-    It's who I am, it's who I am, it's who I am
-
-    You're a Good, Good Father
-    (you are perfect in all of your ways)
-    It's who you are, it's who you are, it's who you are
-    And I'm loved by you
-    (you are perfect in all of your ways)
-    It's who I am, it's who I am it's who I am
 - song: Create in Me a Clean Heart
   artist: 
   enabled: false
