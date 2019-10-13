@@ -36,9 +36,109 @@
     Let us become more aware of Your presence
     Let us experience the glory of Your goodness
     Here I stand
+- song: In Christ Alone
+  artist: Natalie Grant
+  enabled: true
+  lyrics: |-
+    In Christ alone my hope is found
+    He is my light, my strength, my song
+    This Cornerstone, this solid ground
+    Firm through the fiercest drought and storm
+    What heights of love, what depths of peace
+    When fears are stilled, when strivings cease
+    My Comforter, my All in All
+    Here in the love of Christ I stand
+
+    In Christ alone, who took on flesh
+    Fullness of God in helpless babe
+    This gift of love and righteousness
+    Scorned by the ones He came to save
+    'Til on that cross as Jesus died
+    The wrath of God was satisfied
+    For every sin on Him was laid
+    Here in the death of Christ I live, I live
+
+    There in the ground His body lay
+    Light of the world by darkness slain
+    Then bursting forth in glorious Day
+    Up from the grave He rose again
+    And as He stands in victory
+    Sin's curse has lost its grip on me
+    For I am His and He is mine
+    Bought with the precious blood of Christ
+
+    No guilt in life, no fear in death
+    This is the power of Christ in me
+    From life's first cry to final breath
+    Jesus commands my destiny
+    No power of hell, no scheme of man
+    Can ever pluck me from His hand
+    Till He returns or calls me home
+    Here in the power of Christ I'll stand
+
+    I will stand
+    I will stand, all other ground is sinking sand
+    All other ground, all other ground
+    Is sinking sand, is sinking sand
+    So I'll stand
+- song: More Than The Watchman (Psalm 130)
+  artist: Rebecca St James
+  enabled: true
+  lyrics: |-
+    Out of the depths I cry to my Lord, he lifted me up, he lifted me up
+    Out of the depths I cry to my Lord, he lifted me up, he lifted me
+
+    If you kept a record of sins who could stand, my Lord
+    Who could stand up, Lord, who could stand up?
+    If you kept a record of sins who could stand, my Lord
+    Who could stand up, Lord, who could stand up?
+
+    With you, oh Lord, there is forgiveness
+    With you, oh Lord, unfailing love
+    With you, oh Lord, full redemption
+    You have bought back my soul from the dead with your blood
+
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morning sun
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morn
+
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morning sun
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morn
+- song: Come Ye Sinners, Poor And Needy
+  artist: Joseph Hart
+  enabled: true
+  lyrics: |-
+    Come, ye sinners, poor and needy,
+    Weak and wounded, sick and sore;
+    Jesus ready stands to save you,
+    Full of pity, love and power.
+
+    Refrain
+
+    I will arise and go to Jesus,
+    He will embrace me in His arms;
+    In the arms of my dear Savior,
+    O there are ten thousand charms.
+
+    Come, ye thirsty, come, and welcome,
+    God’s free bounty glorify;
+    True belief and true repentance,
+    Every grace that brings you nigh.
+
+    Refrain
+
+    Come, ye weary, heavy laden,
+    Lost and ruined by the fall;
+    If you tarry till you’re better,
+    You will never come at all.
+
+    Refrain
 - song: Called Me Higher
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     I could just sit
     I could just sit and wait for all Your goodness
@@ -102,7 +202,7 @@
     [x2]
 - song: Good Good Father
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, I've heard a thousand stories of what they think you're like
     But I've heard the tender whispers of love in the dead of night
@@ -601,32 +701,6 @@
     There is nothing I hold on to
 
     All Glory To God, Forever. Amen
-- song: More Than The Watchman (Psalm 130)
-  artist: Rebecca St James
-  enabled: false
-  lyrics: |-
-    Out of the depths I cry to my Lord, he lifted me up, he lifted me up
-    Out of the depths I cry to my Lord, he lifted me up, he lifted me
-
-    If you kept a record of sins who could stand, my Lord
-    Who could stand up, Lord, who could stand up?
-    If you kept a record of sins who could stand, my Lord
-    Who could stand up, Lord, who could stand up?
-
-    With you, oh Lord, there is forgiveness
-    With you, oh Lord, unfailing love
-    With you, oh Lord, full redemption
-    You have bought back my soul from the dead with your blood
-
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morning sun
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morn
-
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morning sun
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morn
 - song: So Will I (100 Billion X)
   artist: Hillsong United
   enabled: false
@@ -1287,35 +1361,6 @@
     You are the joy set before me
 
     Rise up my soul (repeat)
-- song: Come Ye Sinners, Poor And Needy
-  artist: Joseph Hart
-  enabled: false
-  lyrics: |-
-    Come, ye sinners, poor and needy,
-    Weak and wounded, sick and sore;
-    Jesus ready stands to save you,
-    Full of pity, love and power.
-
-    Refrain
-
-    I will arise and go to Jesus,
-    He will embrace me in His arms;
-    In the arms of my dear Savior,
-    O there are ten thousand charms.
-
-    Come, ye thirsty, come, and welcome,
-    God’s free bounty glorify;
-    True belief and true repentance,
-    Every grace that brings you nigh.
-
-    Refrain
-
-    Come, ye weary, heavy laden,
-    Lost and ruined by the fall;
-    If you tarry till you’re better,
-    You will never come at all.
-
-    Refrain
 - song: White as Snow
   artist: Jon Foreman
   enabled: false
