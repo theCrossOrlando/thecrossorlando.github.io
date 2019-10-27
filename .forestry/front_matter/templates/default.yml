@@ -29,6 +29,6 @@ fields:
   hidden: false
   default: ''
 pages:
-- gatherings.html
 - values.html
+- gatherings.html
 - care.html

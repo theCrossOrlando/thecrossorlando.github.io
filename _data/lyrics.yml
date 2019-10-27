@@ -1,4 +1,161 @@
 ---
+- song: Holy Spirit
+  artist: Jesus Culture
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+
+    There’s nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
+
+    [Chorus]
+
+    Holy Spirit, You are welcome here
+    Come flood this place
+    And fill the atmosphere
+    Your glory, God
+    Is what our hearts long for
+    To be overcome
+    By Your presence, Lord
+    Your presence, Lord
+
+    [Verse 2]
+
+    I’ve tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    [Bridge]
+
+    [4x]
+    Let us become more aware of Your presence
+    Let us experience the glory of Your goodness
+    Here I stand
+- song: Grace Alone
+  artist: Dustin Kensrue
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+    I was an orphan lost at the Fall
+    Running away when I'd hear Your call
+    But Father, You worked Your will
+    I had no righteousness of my own
+    I had no right to draw near Your throne
+    But Father, You loved me still
+
+    [Chorus 1]
+    And in love before You laid the world's foundation
+    You predestined to adopt me as Your own
+    You have raised me so high up above my station
+    I'm a child of God by grace and grace alone
+
+    [Verse 2]
+    You left Your home to seek out the lost
+    You knew the great and terrible cost
+    But Jesus, Your face was set
+    I worked my fingers down to the bone
+    Nothing I did could ever atone
+    But Jesus, You paid my debt
+
+    [Chorus 2]
+    By Your blood, I have redemption and salvation
+    Lord, You died that I might reap what You have sown
+    And You rose that I might be a new creation
+    I am born again by grace and grace alone
+
+    [Verse 3]
+    I was in darkness all of my life
+    I never knew the day from the night
+    But Spirit, You made me see
+    I swore I knew the way on my own
+    Head full of rocks, a heart made of stone
+    But Spirit, You moved in me
+
+    [Chorus 3]
+    At your touch my sleeping spirit was awakened
+    On my darkened heart the light of Christ has shone
+    Called into a kingdom that cannot be shaken
+    Heaven's citizen by grace and grace alone
+
+    [Outro]
+    So I'll stand in faith by grace and grace alone
+    I will run the race by grace and grace alone
+    I will slay my sin by grace and grace alone
+    I will reach the end by grace and grace alone
+- song: So Will I (100 Billion X)
+  artist: Hillsong United
+  enabled: true
+  lyrics: |-
+    God of creation
+    There at the start
+    Before the beginning of time
+    With no point of reference
+    You spoke to the dark
+    And fleshed out the wonder of light
+
+    And as You speak
+    A hundred billion galaxies are born
+    In the vapor of Your breath the planets form
+    If the stars were made to worship so will I
+    I can see Your heart in everything You’ve made
+    Every burning star a signal fire of grace
+    If creation sings Your praises so will I
+    So will I
+
+    God of Your promise
+    You don’t speak in vain
+    No syllable empty or void
+    For once You have spoken
+    All nature and science follow the sound of Your voice
+
+    And as You speak
+    A hundred billion creatures catch Your breath
+    Evolving in pursuit of what You said
+    If it all reveals Your nature so will I
+    I can see Your heart in everything You say
+    Every painted sky a canvas of Your grace
+    If creation still obeys You so will I
+    So will I
+
+    If the stars were made to worship so will I
+    If the mountains bow in reverence so will I
+    If the oceans roar Your greatness so will I
+    For if everything exists to lift You high so will I
+    If the wind goes where You send it so will I
+    If the rocks cry out in silence so will I
+    If the sum of all our praises still falls shy
+    Then we’ll sing again a hundred billion times, whoa
+
+    God of salvation
+    You chased down my heart
+    Through all of my failure and pride
+    On a hill You created
+    The light of the world
+    Abandoned in darkness to die
+
+    And as You speak
+    A hundred billion failures disappear
+    Where You lost Your life so I could find it here
+    If You left the grave behind You so will I
+    I can see Your heart in everything You’ve done
+    Every part designed in a work of art called love
+    If You gladly chose surrender so will I
+    I can see Your heart
+    Eight billion different ways
+    Every precious one
+    A child You died to save
+    If You gave Your life to love them so will I
+
+    Like You would again a hundred billion times
+    But what measure could amount to Your desire
+    You’re the One who never leaves the one behind
+
+    Halelujah!
 - song: Simple Gospel
   artist: ''
   enabled: true
@@ -38,7 +195,7 @@
     But You're here with me
 - song: Help Me Find My Own Flame
   artist: Will Reagan & United Pursuit
-  enabled: true
+  enabled: false
   lyrics: |-
     I don't wanna ride on somebody else's passion.
     I don't wanna find that I am just dry bones.
@@ -79,7 +236,7 @@
     There's no better time
 - song: Before the Throne
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     Before the throne of God above
     I have a strong and perfect plea.
@@ -108,43 +265,6 @@
     One with Himself I cannot die
     My soul is purchased by His blood,
     My life is hid with Christ on high
-- song: Holy Spirit
-  artist: Jesus Culture
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-
-    There’s nothing worth more
-    That could ever come close
-    No thing can compare
-    You're our living hope
-    Your presence, Lord
-
-    [Chorus]
-
-    Holy Spirit, You are welcome here
-    Come flood this place
-    And fill the atmosphere
-    Your glory, God
-    Is what our hearts long for
-    To be overcome
-    By Your presence, Lord
-    Your presence, Lord
-
-    [Verse 2]
-
-    I’ve tasted and seen
-    Of the sweetest of loves
-    Where my heart becomes free
-    And my shame is undone
-    Your presence, Lord
-
-    [Bridge]
-
-    [4x]
-    Let us become more aware of Your presence
-    Let us experience the glory of Your goodness
-    Here I stand
 - song: In Christ Alone
   artist: Natalie Grant
   enabled: false
@@ -664,57 +784,6 @@
     Forgive us weary sinners
     Keep us far from our vices and
     Deliver us from these prisons
-- song: Grace Alone
-  artist: Dustin Kensrue
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-    I was an orphan lost at the Fall
-    Running away when I'd hear Your call
-    But Father, You worked Your will
-    I had no righteousness of my own
-    I had no right to draw near Your throne
-    But Father, You loved me still
-
-    [Chorus 1]
-    And in love before You laid the world's foundation
-    You predestined to adopt me as Your own
-    You have raised me so high up above my station
-    I'm a child of God by grace and grace alone
-
-    [Verse 2]
-    You left Your home to seek out the lost
-    You knew the great and terrible cost
-    But Jesus, Your face was set
-    I worked my fingers down to the bone
-    Nothing I did could ever atone
-    But Jesus, You paid my debt
-
-    [Chorus 2]
-    By Your blood, I have redemption and salvation
-    Lord, You died that I might reap what You have sown
-    And You rose that I might be a new creation
-    I am born again by grace and grace alone
-
-    [Verse 3]
-    I was in darkness all of my life
-    I never knew the day from the night
-    But Spirit, You made me see
-    I swore I knew the way on my own
-    Head full of rocks, a heart made of stone
-    But Spirit, You moved in me
-
-    [Chorus 3]
-    At your touch my sleeping spirit was awakened
-    On my darkened heart the light of Christ has shone
-    Called into a kingdom that cannot be shaken
-    Heaven's citizen by grace and grace alone
-
-    [Outro]
-    So I'll stand in faith by grace and grace alone
-    I will run the race by grace and grace alone
-    I will slay my sin by grace and grace alone
-    I will reach the end by grace and grace alone
 - song: Have Mercy
   artist: Sandra McCracken
   enabled: false
@@ -810,75 +879,6 @@
     There is nothing I hold on to
 
     All Glory To God, Forever. Amen
-- song: So Will I (100 Billion X)
-  artist: Hillsong United
-  enabled: false
-  lyrics: |-
-    God of creation
-    There at the start
-    Before the beginning of time
-    With no point of reference
-    You spoke to the dark
-    And fleshed out the wonder of light
-
-    And as You speak
-    A hundred billion galaxies are born
-    In the vapor of Your breath the planets form
-    If the stars were made to worship so will I
-    I can see Your heart in everything You’ve made
-    Every burning star a signal fire of grace
-    If creation sings Your praises so will I
-    So will I
-
-    God of Your promise
-    You don’t speak in vain
-    No syllable empty or void
-    For once You have spoken
-    All nature and science follow the sound of Your voice
-
-    And as You speak
-    A hundred billion creatures catch Your breath
-    Evolving in pursuit of what You said
-    If it all reveals Your nature so will I
-    I can see Your heart in everything You say
-    Every painted sky a canvas of Your grace
-    If creation still obeys You so will I
-    So will I
-
-    If the stars were made to worship so will I
-    If the mountains bow in reverence so will I
-    If the oceans roar Your greatness so will I
-    For if everything exists to lift You high so will I
-    If the wind goes where You send it so will I
-    If the rocks cry out in silence so will I
-    If the sum of all our praises still falls shy
-    Then we’ll sing again a hundred billion times, whoa
-
-    God of salvation
-    You chased down my heart
-    Through all of my failure and pride
-    On a hill You created
-    The light of the world
-    Abandoned in darkness to die
-
-    And as You speak
-    A hundred billion failures disappear
-    Where You lost Your life so I could find it here
-    If You left the grave behind You so will I
-    I can see Your heart in everything You’ve done
-    Every part designed in a work of art called love
-    If You gladly chose surrender so will I
-    I can see Your heart
-    Eight billion different ways
-    Every precious one
-    A child You died to save
-    If You gave Your life to love them so will I
-
-    Like You would again a hundred billion times
-    But what measure could amount to Your desire
-    You’re the One who never leaves the one behind
-
-    Halelujah!
 - song: You Are So Good To Me
   artist: Third Day
   enabled: false
