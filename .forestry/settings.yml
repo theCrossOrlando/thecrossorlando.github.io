@@ -7,17 +7,9 @@ sections:
 - type: document
   path: _data/lyrics.yml
   label: Lyrics
-- type: jekyll-posts
-  label: Posts
-  create: all
 - type: directory
   path: _messages
   label: Messages
-  create: all
-  match: "**/*"
-- type: directory
-  path: _uploads
-  label: Uploads
   create: all
   match: "**/*"
 - type: jekyll-pages
