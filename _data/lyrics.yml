@@ -1,7 +1,84 @@
 ---
+- song: Come Holy One
+  artist: Young Oceans
+  enabled: true
+  lyrics: |-
+    Hasten now, O loving Lord to us
+    We’re thirsty
+    Fill these souls, Spirit, every hour
+    We need Thee
+
+    Refrain
+
+    Come, come Holy One
+    Come meet us
+    All, all for Your glory
+    Lord Jesus
+
+    Lead us on, the perfect path O Lord And may we
+    Sin no more. This
+    spotless bride, the Church
+    Is Yours
+
+    I am yours, only yours
+    I am yours, only yours
+    We are yours, only yours
+    We are yours, only yours
+- song: He Is Exalted
+  artist: Twila Paris
+  enabled: true
+  lyrics: |-
+    He is exalted
+    The King is exalted on high
+    And I will praise Him
+    He is exalted
+    Forever exalted
+    And I will praise His Name
+
+    For He is the Lord
+    Forever His truth shall reign
+    Heaven and earth
+    Rejoice in His holy Name
+    He is exalted the King is exalted on high
+- song: Have Mercy
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Have Mercy on me
+    Have Mercy on me
+    Oh Lord, have mercy
+
+    Lord help my unbelief
+    Lord help my unbelief
+    Oh Lord, have mercy
+- song: Not in a Hurry
+  artist: Will Reagan
+  enabled: true
+  lyrics: |-
+    Lord I don't want to rush on ahead
+    In my own strength
+    When You're right here
+
+    I'm not in a hurry
+    When it comes to Your spirit
+    When it comes to Your presence
+    When it comes to Your voice
+    I'm learning to listen
+    Just to rest in Your nearness
+    I'm starting to notice
+    You are speaking
+
+    Lord I want to love like You
+    I want to feel what You feel
+    I want to see what You see
+
+    Open my eyes, I want to see You more clearly
+    Open my ears, I want to hear You speak
+    Tell me your thoughts whats on Your mind
+    I'll be your friend, I want to see through Your eyes
 - song: Holy Spirit
   artist: Jesus Culture
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
 
@@ -38,7 +115,7 @@
     Here I stand
 - song: Grace Alone
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     I was an orphan lost at the Fall
@@ -89,7 +166,7 @@
     I will reach the end by grace and grace alone
 - song: So Will I (100 Billion X)
   artist: Hillsong United
-  enabled: true
+  enabled: false
   lyrics: |-
     God of creation
     There at the start
@@ -158,7 +235,7 @@
     Halelujah!
 - song: Simple Gospel
   artist: ''
-  enabled: true
+  enabled: false
   lyrics: |-
     I want to know You, Lord
     Like I know a friend
@@ -784,42 +861,6 @@
     Forgive us weary sinners
     Keep us far from our vices and
     Deliver us from these prisons
-- song: Have Mercy
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Have Mercy on me
-    Have Mercy on me
-    Oh Lord, have mercy
-
-    Lord help my unbelief
-    Lord help my unbelief
-    Oh Lord, have mercy
-- song: Come Holy One
-  artist: Young Oceans
-  enabled: false
-  lyrics: |-
-    Hasten now, O loving Lord to us
-    We’re thirsty
-    Fill these souls, Spirit, every hour
-    We need Thee
-
-    Refrain
-
-    Come, come Holy One
-    Come meet us
-    All, all for Your glory
-    Lord Jesus
-
-    Lead us on, the perfect path O Lord And may we
-    Sin no more. This
-    spotless bride, the Church
-    Is Yours
-
-    I am yours, only yours
-    I am yours, only yours
-    We are yours, only yours
-    We are yours, only yours
 - song: 10,000 Reasons
   artist: Matt Redman
   enabled: false
@@ -2993,22 +3034,6 @@
     I’ll sing His love for me,
     And through eternity I’ll sing on, I’ll sing on,
     And through eternity I’ll sing on.
-- song: He Is Exalted
-  artist: Shane & Shane
-  enabled: false
-  lyrics: |-
-    He is exalted
-    The King is exalted on high
-    And I will praise Him
-    He is exalted
-    Forever exalted
-    And I will praise His Name
-
-    For He is the Lord
-    Forever His truth shall reign
-    Heaven and earth
-    Rejoice in His holy Name
-    He is exalted the King is exalted on high
 - song: You Have Redeemed My Soul
   artist: Waterdeep
   enabled: false
