@@ -1,7 +1,158 @@
 ---
+- song: He Is Exalted
+  artist: Twila Paris
+  enabled: true
+  lyrics: |-
+    He is exalted
+    The King is exalted on high
+    And I will praise Him
+    He is exalted
+    Forever exalted
+    And I will praise His Name
+
+    For He is the Lord
+    Forever His truth shall reign
+    Heaven and earth
+    Rejoice in His holy Name
+    He is exalted the King is exalted on high
+- song: Simple Gospel
+  artist: ''
+  enabled: true
+  lyrics: |-
+    I want to know You, Lord
+    Like I know a friend
+    I want to know You, Lord
+    I want to know You, Lord
+    Like I know a friend
+    I want to know You, Lord
+
+    So I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+
+    I use to think that I could box You in
+    But I'm laying down
+    I want to know You, Lord
+    I use to think that I could box You in
+    But I'm laying down
+    I want to know You, Lord
+
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I want to know You, Lord
+
+    Lord, I've been told to be ashamed
+    Lord, I've been told I don't measure up
+    Lord, I've been told I'm not good enough
+    But You're here with me
+- song: Stand In Your Love
+  artist: Josh Baldwin
+  enabled: true
+  lyrics: |-
+    When darkness tries to roll over my bones
+    When sorrow tries to steal the joy I own
+    When brokenness and pain is all I know
+    I won't be shaken, I won't be shaken (Cause)
+
+    (chorus)
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+
+    Shame no longer has a place to hide
+    I am not a captive to the lies
+    Not afraid to leave my past behind
+    I won't be shaken, I won't be shaken
+
+    (chorus)
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+
+    There's power that can break off every chain
+    There's a power that can empty out a grave
+    There's power that washes every stain
+    (No) I won't be shaken, I won't be shaken
+
+    (chorus)
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+
+    (chorus)
+    (Cause) Shame doesn't stand a chance
+    When I stand in Your love
+    Shame doesn't stand a chance
+    When I stand in Your love
+    Shame doesn't stand a chance
+    When I stand in Your love
+- song: The House Of God, Forever
+  artist: Jon Foreman
+  enabled: true
+  lyrics: |-
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    With quiet streams
+
+    Even though I walk
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You are with me
+
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
+
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    By quiet streams
+
+    Even while I'm walking
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You're always with me
+
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
+
+    In the house of God forever
+    In the house of God forever
 - song: Come Holy One
   artist: Young Oceans
-  enabled: true
+  enabled: false
   lyrics: |-
     Hasten now, O loving Lord to us
     We’re thirsty
@@ -24,25 +175,9 @@
     I am yours, only yours
     We are yours, only yours
     We are yours, only yours
-- song: He Is Exalted
-  artist: Twila Paris
-  enabled: true
-  lyrics: |-
-    He is exalted
-    The King is exalted on high
-    And I will praise Him
-    He is exalted
-    Forever exalted
-    And I will praise His Name
-
-    For He is the Lord
-    Forever His truth shall reign
-    Heaven and earth
-    Rejoice in His holy Name
-    He is exalted the King is exalted on high
 - song: Have Mercy
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Have Mercy on me
     Have Mercy on me
@@ -53,7 +188,7 @@
     Oh Lord, have mercy
 - song: Not in a Hurry
   artist: Will Reagan
-  enabled: true
+  enabled: false
   lyrics: |-
     Lord I don't want to rush on ahead
     In my own strength
@@ -233,43 +368,6 @@
     You’re the One who never leaves the one behind
 
     Halelujah!
-- song: Simple Gospel
-  artist: ''
-  enabled: false
-  lyrics: |-
-    I want to know You, Lord
-    Like I know a friend
-    I want to know You, Lord
-    I want to know You, Lord
-    Like I know a friend
-    I want to know You, Lord
-
-    So I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-
-    I use to think that I could box You in
-    But I'm laying down
-    I want to know You, Lord
-    I use to think that I could box You in
-    But I'm laying down
-    I want to know You, Lord
-
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I want to know You, Lord
-
-    Lord, I've been told to be ashamed
-    Lord, I've been told I don't measure up
-    Lord, I've been told I'm not good enough
-    But You're here with me
 - song: Help Me Find My Own Flame
   artist: Will Reagan & United Pursuit
   enabled: false
@@ -619,56 +717,6 @@
 
     And we will sing:
     Holy, holy, is the King of Kings
-- song: Stand In Your Love
-  artist: Josh Baldwin
-  enabled: false
-  lyrics: |-
-    When darkness tries to roll over my bones
-    When sorrow tries to steal the joy I own
-    When brokenness and pain is all I know
-    I won't be shaken, I won't be shaken (Cause)
-
-    (chorus)
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-
-    Shame no longer has a place to hide
-    I am not a captive to the lies
-    Not afraid to leave my past behind
-    I won't be shaken, I won't be shaken
-
-    (chorus)
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-
-    There's power that can break off every chain
-    There's a power that can empty out a grave
-    There's power that washes every stain
-    (No) I won't be shaken, I won't be shaken
-
-    (chorus)
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-
-    (chorus)
-    (Cause) Shame doesn't stand a chance
-    When I stand in Your love
-    Shame doesn't stand a chance
-    When I stand in Your love
-    Shame doesn't stand a chance
-    When I stand in Your love
 - song: Doxology
   artist: 
   enabled: false
@@ -1054,54 +1102,6 @@
     prone to leave the God I love
     Here's my heart, O take and seal it,
     seal it for Thy courts above
-- song: The House Of God, Forever
-  artist: Jon Foreman
-  enabled: false
-  lyrics: |-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest
-    In fields of green
-    With quiet streams
-
-    Even though I walk
-    Through the valley
-    Of death and dying
-    I will not fear
-    Cause you are with me
-    You are with me
-
-    Your shepherd's staff comforts me
-    You are my feast
-    In the presence of enemies
-    Surely goodness will follow me
-    Follow me
-    In the house of God forever
-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest
-    In fields of green
-    By quiet streams
-
-    Even while I'm walking
-    Through the valley
-    Of death and dying
-    I will not fear
-    Cause you are with me
-    You're always with me
-
-    Your shepherd's staff comforts me
-    You are my feast
-    In the presence of enemies
-    Surely goodness will follow me
-    Follow me
-    In the house of God forever
-
-    In the house of God forever
-    In the house of God forever
 - song: Amazing Grace
   artist: Chris Tomlin
   enabled: false
