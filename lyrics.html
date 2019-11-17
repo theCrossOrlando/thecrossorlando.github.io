@@ -11,7 +11,7 @@ layout: default
     <article class="card">
       <h2>{{ lyric.song }}</h2>
       {% if lyric.artist %}<span class="author">by {{ lyric.artist }}</span>{% endif %}
-      <p>{{ lyric.lyrics | newline_to_br | markdownify }}</p>
+      <p>{{ lyric.lyrics | newlinbr | markdownify }}</p>
     </article>
   </div>
   {% endif %}
