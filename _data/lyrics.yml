@@ -1,7 +1,122 @@
 ---
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Almighty God to You all hearts are open
+    You take away our sickness and our sin
+    Oh Lamb of God we gather at Your table
+    In bread and wine, You have supplied our needs
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+- song: Come Thou Fount
+  artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    Come thou fount of every blessing
+    Tune my heart to sing Thy grace
+    Streams of mercy never ceasing
+    Call for songs of loudest praise
+    Teach me some melodious sonnet
+    Sung by flaming tongues above
+    I'll praise the mount I'm fixed upon it
+    Mount of Thy redeeming love
+
+    Here I raise my Ebenezer
+    Hither by Thy help I come
+    And I hope by Thy good pleasure
+    Safely to arrive at home
+    Jesus sought me when a stranger
+    Wondering from the fold of God
+    He, to rescue me from danger
+    Interposed His precious blood
+
+    O to grace how great a debtor
+    daily I'm constrained to be!
+    Let Thy goodness like a fetter,
+    bind my wandering heart to Thee
+    Prone to wander Lord I feel it,
+    prone to leave the God I love
+    Here's my heart, O take and seal it,
+    seal it for Thy courts above
+- song: Not in a Hurry
+  artist: Will Reagan
+  enabled: true
+  lyrics: |-
+    Lord I don't want to rush on ahead
+    In my own strength
+    When You're right here
+
+    I'm not in a hurry
+    When it comes to Your spirit
+    When it comes to Your presence
+    When it comes to Your voice
+    I'm learning to listen
+    Just to rest in Your nearness
+    I'm starting to notice
+    You are speaking
+
+    Lord I want to love like You
+    I want to feel what You feel
+    I want to see what You see
+
+    Open my eyes, I want to see You more clearly
+    Open my ears, I want to hear You speak
+    Tell me your thoughts whats on Your mind
+    I'll be your friend, I want to see through Your eyes
+- song: Come Ye Sinners, Poor And Needy
+  artist: Joseph Hart
+  enabled: true
+  lyrics: |-
+    Come, ye sinners, poor and needy,
+    Weak and wounded, sick and sore;
+    Jesus ready stands to save you,
+    Full of pity, love and power.
+
+    Refrain
+
+    I will arise and go to Jesus,
+    He will embrace me in His arms;
+    In the arms of my dear Savior,
+    O there are ten thousand charms.
+
+    Come, ye thirsty, come, and welcome,
+    God’s free bounty glorify;
+    True belief and true repentance,
+    Every grace that brings you nigh.
+
+    Refrain
+
+    Come, ye weary, heavy laden,
+    Lost and ruined by the fall;
+    If you tarry till you’re better,
+    You will never come at all.
+
+    Refrain
 - song: He Is Exalted
   artist: Twila Paris
-  enabled: true
+  enabled: false
   lyrics: |-
     He is exalted
     The King is exalted on high
@@ -17,7 +132,7 @@
     He is exalted the King is exalted on high
 - song: Simple Gospel
   artist: ''
-  enabled: true
+  enabled: false
   lyrics: |-
     I want to know You, Lord
     Like I know a friend
@@ -54,7 +169,7 @@
     But You're here with me
 - song: Stand In Your Love
   artist: Josh Baldwin
-  enabled: true
+  enabled: false
   lyrics: |-
     When darkness tries to roll over my bones
     When sorrow tries to steal the joy I own
@@ -104,7 +219,7 @@
     When I stand in Your love
 - song: The House Of God, Forever
   artist: Jon Foreman
-  enabled: true
+  enabled: false
   lyrics: |-
     God is my shepherd
     I won't be wanting
@@ -186,31 +301,6 @@
     Lord help my unbelief
     Lord help my unbelief
     Oh Lord, have mercy
-- song: Not in a Hurry
-  artist: Will Reagan
-  enabled: false
-  lyrics: |-
-    Lord I don't want to rush on ahead
-    In my own strength
-    When You're right here
-
-    I'm not in a hurry
-    When it comes to Your spirit
-    When it comes to Your presence
-    When it comes to Your voice
-    I'm learning to listen
-    Just to rest in Your nearness
-    I'm starting to notice
-    You are speaking
-
-    Lord I want to love like You
-    I want to feel what You feel
-    I want to see what You see
-
-    Open my eyes, I want to see You more clearly
-    Open my ears, I want to hear You speak
-    Tell me your thoughts whats on Your mind
-    I'll be your friend, I want to see through Your eyes
 - song: Holy Spirit
   artist: Jesus Culture
   enabled: false
@@ -511,35 +601,6 @@
     More than watchman who wait for the morning sun
     So my soul waits for the Lord more than watchmen wait
     More than watchman who wait for the morn
-- song: Come Ye Sinners, Poor And Needy
-  artist: Joseph Hart
-  enabled: false
-  lyrics: |-
-    Come, ye sinners, poor and needy,
-    Weak and wounded, sick and sore;
-    Jesus ready stands to save you,
-    Full of pity, love and power.
-
-    Refrain
-
-    I will arise and go to Jesus,
-    He will embrace me in His arms;
-    In the arms of my dear Savior,
-    O there are ten thousand charms.
-
-    Come, ye thirsty, come, and welcome,
-    God’s free bounty glorify;
-    True belief and true repentance,
-    Every grace that brings you nigh.
-
-    Refrain
-
-    Come, ye weary, heavy laden,
-    Lost and ruined by the fall;
-    If you tarry till you’re better,
-    You will never come at all.
-
-    Refrain
 - song: Called Me Higher
   artist: All Sons & Daughters
   enabled: false
@@ -1072,36 +1133,6 @@
     I see Your face, You're beautiful
     You're beautiful
     You're beautiful
-- song: Come Thou Fount
-  artist: Chris Tomlin
-  enabled: false
-  lyrics: |-
-    Come thou fount of every blessing
-    Tune my heart to sing Thy grace
-    Streams of mercy never ceasing
-    Call for songs of loudest praise
-    Teach me some melodious sonnet
-    Sung by flaming tongues above
-    I'll praise the mount I'm fixed upon it
-    Mount of Thy redeeming love
-
-    Here I raise my Ebenezer
-    Hither by Thy help I come
-    And I hope by Thy good pleasure
-    Safely to arrive at home
-    Jesus sought me when a stranger
-    Wondering from the fold of God
-    He, to rescue me from danger
-    Interposed His precious blood
-
-    O to grace how great a debtor
-    daily I'm constrained to be!
-    Let Thy goodness like a fetter,
-    bind my wandering heart to Thee
-    Prone to wander Lord I feel it,
-    prone to leave the God I love
-    Here's my heart, O take and seal it,
-    seal it for Thy courts above
 - song: Amazing Grace
   artist: Chris Tomlin
   enabled: false
@@ -1181,37 +1212,6 @@
     Once and for all
     Oh once and for all
     Once and for all
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Almighty God to You all hearts are open
-    You take away our sickness and our sin
-    Oh Lamb of God we gather at Your table
-    In bread and wine, You have supplied our needs
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Power in the Name of Jesus
   artist: Ascend the Hill
   enabled: false
