@@ -2,8 +2,8 @@
 title: Lyrics
 permalink: "/lyrics/"
 layout: default
----
 
+---
 <div class="row small-up-1 medium-up-2">
   {% for lyric in site.data.lyrics %}
   {% if lyric.enabled %}
@@ -11,7 +11,7 @@ layout: default
     <article class="card">
       <h2>{{ lyric.song }}</h2>
       {% if lyric.artist %}<span class="author">by {{ lyric.artist }}</span>{% endif %}
-      <p>{{ lyric.lyrics | newline_to_br }}</p>
+      <p>{{ lyric.lyrics | newline_to_br | markdownify }}</p>
     </article>
   </div>
   {% endif %}
