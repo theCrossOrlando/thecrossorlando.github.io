@@ -3,9 +3,163 @@
   artist: ''
   enabled: true
   lyrics: "[Google Form](https://docs.google.com/forms/u/1/d/1RWTNuWjZ-K6MBUMdNFBRjkGUYsW-HOt5zjDnUH1Lf4c/edit)"
+- song: Come Thou Long Expected Jesus
+  artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    Come, Thou long expected Jesus
+    Born to set Thy people free;
+    From our fears and sins release us,
+    Let us find our rest in Thee.
+
+    Israel's strength and consolation,
+    Hope of all the earth Thou art;
+    Dear desire of every nation,
+    Joy of every longing heart.
+
+    Born Thy people to deliver,
+    Born a child and yet a King,
+    Born to reign in us forever,
+    Now Thy gracious kingdom bring.
+
+    By Thine own eternal Spirit
+    Rule in all our hearts alone;
+    By Thine all sufficient merit,
+    Raise us to Thy glorious throne.
+- song: Once and For All
+  artist: Lauren Daigle
+  enabled: true
+  lyrics: |-
+    God I give You all I can today
+    These scattered ashes that I hid away
+    I lay them all at Your feet
+
+    From the corners of my deepest shame
+    The empty places where I've worn Your name
+    Show me the love I say I believe
+
+    Oh Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    There is victory in my Saviors loss
+    And In the crimson flowing from the cross
+    Pour over me, pour over me yes
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    Oh Lord I lay it down
+    Oh Lord I lay it down
+    Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My Lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all
+
+    Once and for all
+    Oh once and for all
+    Once and for all
+- song: Come Holy One
+  artist: Young Oceans
+  enabled: true
+  lyrics: |-
+    Hasten now, O loving Lord to us
+    We’re thirsty
+    Fill these souls, Spirit, every hour
+    We need Thee
+
+    Refrain
+
+    Come, come Holy One
+    Come meet us
+    All, all for Your glory
+    Lord Jesus
+
+    Lead us on, the perfect path O Lord And may we
+    Sin no more. This
+    spotless bride, the Church
+    Is Yours
+
+    I am yours, only yours
+    I am yours, only yours
+    We are yours, only yours
+    We are yours, only yours
+- song: Called Me Higher
+  artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    I could just sit
+    I could just sit and wait for all Your goodness
+    Hope to feel Your presence
+    And I could just stay
+    I could just stay right where I am and hope to feel You
+    Hope to feel something again
+
+    And I could hold on
+    I could hold on to who I am and never let You
+    Change me from the inside
+    And I could be safe
+    I could be safe here in Your arms and never leave home
+    Never let these walls down
+
+    But You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    You have called me higher
+    You have called me deeper
+    And I'll go where You lead me Lord
+    Where You lead me
+    Where You lead me Lord
+
+    And I could hold on
+    I could hold on to who I am and never let You
+    Change me from the inside
+    And I could be safe
+    I could be safe here in Your arms and never leave home
+    Never let these walls down
+
+    But You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    You have called me higher
+    You have called me deeper
+    And I'll go where You lead me Lord
+    Where You lead me
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+    So let Your mercy
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+    So let Your mercy light the path before me
+
+    Cause You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    [x4]
+
+    Where You lead me
+    Where You lead me Lord
+    [x2]
 - song: Simple Gospel
   artist: ''
-  enabled: true
+  enabled: false
   lyrics: |-
     I want to know You, Lord
     Like I know a friend
@@ -42,7 +196,7 @@
     But You're here with me
 - song: Grace Alone
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     I was an orphan lost at the Fall
@@ -93,7 +247,7 @@
     I will reach the end by grace and grace alone
 - song: Heart Won't Stop
   artist: John Mark McMillan & Sarah McMillan
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     There is not a man or beast
@@ -126,7 +280,7 @@
     Oh but there is not a place I could escape You
 - song: Set a Fire
   artist: Will Reagan & United Pursuit
-  enabled: true
+  enabled: false
   lyrics: |-
     No place I would rather be
     No place I would rather be
@@ -396,31 +550,6 @@
 
     In the house of God forever
     In the house of God forever
-- song: Come Holy One
-  artist: Young Oceans
-  enabled: false
-  lyrics: |-
-    Hasten now, O loving Lord to us
-    We’re thirsty
-    Fill these souls, Spirit, every hour
-    We need Thee
-
-    Refrain
-
-    Come, come Holy One
-    Come meet us
-    All, all for Your glory
-    Lord Jesus
-
-    Lead us on, the perfect path O Lord And may we
-    Sin no more. This
-    spotless bride, the Church
-    Is Yours
-
-    I am yours, only yours
-    I am yours, only yours
-    We are yours, only yours
-    We are yours, only yours
 - song: Have Mercy
   artist: Sandra McCracken
   enabled: false
@@ -681,70 +810,6 @@
     More than watchman who wait for the morning sun
     So my soul waits for the Lord more than watchmen wait
     More than watchman who wait for the morn
-- song: Called Me Higher
-  artist: All Sons & Daughters
-  enabled: false
-  lyrics: |-
-    I could just sit
-    I could just sit and wait for all Your goodness
-    Hope to feel Your presence
-    And I could just stay
-    I could just stay right where I am and hope to feel You
-    Hope to feel something again
-
-    And I could hold on
-    I could hold on to who I am and never let You
-    Change me from the inside
-    And I could be safe
-    I could be safe here in Your arms and never leave home
-    Never let these walls down
-
-    But You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    You have called me higher
-    You have called me deeper
-    And I'll go where You lead me Lord
-    Where You lead me
-    Where You lead me Lord
-
-    And I could hold on
-    I could hold on to who I am and never let You
-    Change me from the inside
-    And I could be safe
-    I could be safe here in Your arms and never leave home
-    Never let these walls down
-
-    But You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    You have called me higher
-    You have called me deeper
-    And I'll go where You lead me Lord
-    Where You lead me
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-    So let Your mercy
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-    So let Your mercy light the path before me
-
-    Cause You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    [x4]
-
-    Where You lead me
-    Where You lead me Lord
-    [x2]
 - song: Good Good Father
   artist: Chris Tomlin
   enabled: false
@@ -1217,48 +1282,6 @@
     But God who called me here below
     Will be forever mine, will be forever mine
     You are forever mine
-- song: Once and For All
-  artist: Lauren Daigle
-  enabled: false
-  lyrics: |-
-    God I give You all I can today
-    These scattered ashes that I hid away
-    I lay them all at Your feet
-
-    From the corners of my deepest shame
-    The empty places where I've worn Your name
-    Show me the love I say I believe
-
-    Oh Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    There is victory in my Saviors loss
-    And In the crimson flowing from the cross
-    Pour over me, pour over me yes
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    Oh Lord I lay it down
-    Oh Lord I lay it down
-    Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My Lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all
-
-    Once and for all
-    Oh once and for all
-    Once and for all
 - song: Power in the Name of Jesus
   artist: Ascend the Hill
   enabled: false
@@ -2511,6 +2534,47 @@
     The breadth of Your desire
     So where could I run, where could I hide
     From Your heart’s jealous fire?
+- song: Come Thou Long Expected Jesus
+  artist: Chris Tomlin
+  enabled: false
+  lyrics: |-
+    Come, Thou long expected Jesus
+    Born to set Thy people free;
+    From our fears and sins release us,
+    Let us find our rest in Thee.
+
+    Israel's strength and consolation,
+    Hope of all the earth Thou art;
+    Dear desire of every nation,
+    Joy of every longing heart.
+
+    Born Thy people to deliver,
+    Born a child and yet a King,
+    Born to reign in us forever,
+    Now Thy gracious kingdom bring.
+
+    Come, Thou long expected Jesus
+    Born to set Thy people free;
+    From our fears and sins release us,
+    Let us find our rest in Thee.
+
+    By Thine own eternal Spirit
+    Rule in all our hearts alone;
+    By Thine all sufficient merit,
+    Raise us to Thy glorious throne.
+
+    Born Thy people to deliver,
+    Born a child and yet a King,
+    Born to reign in us forever,
+    Now Thy gracious kingdom bring.
+
+    Come, Thou long expected Jesus
+    Born to set Thy people free;
+    From our fears and sins release us,
+    Let us find our rest in Thee.
+
+    Let us find our rest in Thee.
+    Let us find our rest in Thee.
 - song: Your Love is Strong
   artist: Jon Foreman
   enabled: false
@@ -2841,47 +2905,6 @@
     There is power in the Name [x4]
 
     Jesus
-- song: Come Thou Long Expected Jesus
-  artist: Chris Tomlin
-  enabled: false
-  lyrics: |-
-    Come, Thou long expected Jesus
-    Born to set Thy people free;
-    From our fears and sins release us,
-    Let us find our rest in Thee.
-
-    Israel's strength and consolation,
-    Hope of all the earth Thou art;
-    Dear desire of every nation,
-    Joy of every longing heart.
-
-    Born Thy people to deliver,
-    Born a child and yet a King,
-    Born to reign in us forever,
-    Now Thy gracious kingdom bring.
-
-    Come, Thou long expected Jesus
-    Born to set Thy people free;
-    From our fears and sins release us,
-    Let us find our rest in Thee.
-
-    By Thine own eternal Spirit
-    Rule in all our hearts alone;
-    By Thine all sufficient merit,
-    Raise us to Thy glorious throne.
-
-    Born Thy people to deliver,
-    Born a child and yet a King,
-    Born to reign in us forever,
-    Now Thy gracious kingdom bring.
-
-    Come, Thou long expected Jesus
-    Born to set Thy people free;
-    From our fears and sins release us,
-    Let us find our rest in Thee.
-
-    Let us find our rest in Thee.
-    Let us find our rest in Thee.
 - song: Angels We Have Heard on High
   artist: James Chadwick
   enabled: false
@@ -2944,29 +2967,6 @@
     He knows our need, our weakness is no stranger,
     Behold your King! Before Him lowly bend!
     Behold your King, Before Him lowly bend!
-- song: Come Thou Long Expected Jesus
-  artist: Chris Tomlin
-  enabled: false
-  lyrics: |-
-    Come, Thou long expected Jesus
-    Born to set Thy people free;
-    From our fears and sins release us,
-    Let us find our rest in Thee.
-
-    Israel's strength and consolation,
-    Hope of all the earth Thou art;
-    Dear desire of every nation,
-    Joy of every longing heart.
-
-    Born Thy people to deliver,
-    Born a child and yet a King,
-    Born to reign in us forever,
-    Now Thy gracious kingdom bring.
-
-    By Thine own eternal Spirit
-    Rule in all our hearts alone;
-    By Thine all sufficient merit,
-    Raise us to Thy glorious throne.
 - song: Reprise / Call For Worship
   artist: U2, Will Reagan
   enabled: false
