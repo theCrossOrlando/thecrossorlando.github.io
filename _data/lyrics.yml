@@ -3,9 +3,151 @@
   artist: ''
   enabled: true
   lyrics: "[Google Form](https://docs.google.com/forms/u/1/d/1RWTNuWjZ-K6MBUMdNFBRjkGUYsW-HOt5zjDnUH1Lf4c/edit)"
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Almighty God to You all hearts are open
+    You take away our sickness and our sin
+    Oh Lamb of God we gather at Your table
+    In bread and wine, You have supplied our needs
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+- song: Simple Gospel
+  artist: ''
+  enabled: true
+  lyrics: |-
+    I want to know You, Lord
+    Like I know a friend
+    I want to know You, Lord
+    I want to know You, Lord
+    Like I know a friend
+    I want to know You, Lord
+
+    So I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+
+    I use to think that I could box You in
+    But I'm laying down
+    I want to know You, Lord
+    I use to think that I could box You in
+    But I'm laying down
+    I want to know You, Lord
+
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I want to know You, Lord
+
+    Lord, I've been told to be ashamed
+    Lord, I've been told I don't measure up
+    Lord, I've been told I'm not good enough
+    But You're here with me
+- song: Stand In Your Love
+  artist: Josh Baldwin
+  enabled: true
+  lyrics: |-
+    When darkness tries to roll over my bones
+    When sorrow tries to steal the joy I own
+    When brokenness and pain is all I know
+    I won't be shaken, I won't be shaken (Cause)
+
+    (chorus)
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+
+    Shame no longer has a place to hide
+    I am not a captive to the lies
+    Not afraid to leave my past behind
+    I won't be shaken, I won't be shaken
+
+    (chorus)
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+
+    There's power that can break off every chain
+    There's a power that can empty out a grave
+    There's power that washes every stain
+    (No) I won't be shaken, I won't be shaken
+
+    (chorus)
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+
+    (chorus)
+    (Cause) Shame doesn't stand a chance
+    When I stand in Your love
+    Shame doesn't stand a chance
+    When I stand in Your love
+    Shame doesn't stand a chance
+    When I stand in Your love
+- song: Silent Night
+  artist: Joseph Mohr
+  enabled: true
+  lyrics: |-
+    Silent night, holy night
+    All is calm, All is bright
+    Round yon Virgin, Mother and Child
+    Holy Infant so Tender and mild,
+    Sleep in heavenly peace,
+    Sleep in heavenly peace.
+
+    Silent night, holy night
+    Shepherds quake at the sight,
+    Glories stream from heaven afar,
+    Heavenly hosts sing Alleluia
+    Christ the Saviour is born!
+    Christ the saviour is born.
+
+    Silent night, holy night
+    Son of God, love's pure light
+    Radiant beams from Thy holy face
+    with the dawn of redeeming grace,
+    Jesus Lord at thy birth,
+    Jesus Lord at thy birth.
 - song: Come Thou Long Expected Jesus
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     Come, Thou long expected Jesus
     Born to set Thy people free;
@@ -28,7 +170,7 @@
     Raise us to Thy glorious throne.
 - song: Once and For All
   artist: Lauren Daigle
-  enabled: true
+  enabled: false
   lyrics: |-
     God I give You all I can today
     These scattered ashes that I hid away
@@ -70,7 +212,7 @@
     Once and for all
 - song: Come Holy One
   artist: Young Oceans
-  enabled: true
+  enabled: false
   lyrics: |-
     Hasten now, O loving Lord to us
     We’re thirsty
@@ -157,43 +299,6 @@
     Where You lead me
     Where You lead me Lord
     [x2]
-- song: Simple Gospel
-  artist: ''
-  enabled: false
-  lyrics: |-
-    I want to know You, Lord
-    Like I know a friend
-    I want to know You, Lord
-    I want to know You, Lord
-    Like I know a friend
-    I want to know You, Lord
-
-    So I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-
-    I use to think that I could box You in
-    But I'm laying down
-    I want to know You, Lord
-    I use to think that I could box You in
-    But I'm laying down
-    I want to know You, Lord
-
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I want to know You, Lord
-
-    Lord, I've been told to be ashamed
-    Lord, I've been told I don't measure up
-    Lord, I've been told I'm not good enough
-    But You're here with me
 - song: Grace Alone
   artist: Dustin Kensrue
   enabled: false
@@ -321,37 +426,6 @@
     That I can't contain that I can't control
     I want more of You, God
     I want more of You, God
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Almighty God to You all hearts are open
-    You take away our sickness and our sin
-    Oh Lamb of God we gather at Your table
-    In bread and wine, You have supplied our needs
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Come Thou Fount
   artist: Chris Tomlin
   enabled: false
@@ -452,56 +526,6 @@
     Heaven and earth
     Rejoice in His holy Name
     He is exalted the King is exalted on high
-- song: Stand In Your Love
-  artist: Josh Baldwin
-  enabled: false
-  lyrics: |-
-    When darkness tries to roll over my bones
-    When sorrow tries to steal the joy I own
-    When brokenness and pain is all I know
-    I won't be shaken, I won't be shaken (Cause)
-
-    (chorus)
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-
-    Shame no longer has a place to hide
-    I am not a captive to the lies
-    Not afraid to leave my past behind
-    I won't be shaken, I won't be shaken
-
-    (chorus)
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-
-    There's power that can break off every chain
-    There's a power that can empty out a grave
-    There's power that washes every stain
-    (No) I won't be shaken, I won't be shaken
-
-    (chorus)
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-
-    (chorus)
-    (Cause) Shame doesn't stand a chance
-    When I stand in Your love
-    Shame doesn't stand a chance
-    When I stand in Your love
-    Shame doesn't stand a chance
-    When I stand in Your love
 - song: The House Of God, Forever
   artist: Jon Foreman
   enabled: false
@@ -2758,30 +2782,6 @@
     Still I will praise You, still I will praise You
 
     Chorus: (2x's)"
-- song: Silent Night
-  artist: Joseph Mohr
-  enabled: false
-  lyrics: |-
-    Silent night, holy night
-    All is calm, All is bright
-    Round yon Virgin, Mother and Child
-    Holy Infant so Tender and mild,
-    Sleep in heavenly peace,
-    Sleep in heavenly peace.
-
-    Silent night, holy night
-    Shepherds quake at the sight,
-    Glories stream from heaven afar,
-    Heavenly hosts sing Alleluia
-    Christ the Saviour is born!
-    Christ the saviour is born.
-
-    Silent night, holy night
-    Son of God, love's pure light
-    Radiant beams from Thy holy face
-    with the dawn of redeeming grace,
-    Jesus Lord at thy birth,
-    Jesus Lord at thy birth.
 - song: Angels We Have Heard on High
   artist: ''
   enabled: false
