@@ -3,6 +3,102 @@
   artist: ''
   enabled: true
   lyrics: "[Google Form](https://docs.google.com/forms/u/1/d/1RWTNuWjZ-K6MBUMdNFBRjkGUYsW-HOt5zjDnUH1Lf4c/edit)"
+- song: The House Of God, Forever
+  artist: Jon Foreman
+  enabled: true
+  lyrics: |-
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    With quiet streams
+
+    Even though I walk
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You are with me
+
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
+
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    By quiet streams
+
+    Even while I'm walking
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You're always with me
+
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
+
+    In the house of God forever
+    In the house of God forever
+- song: You Are My Joy
+  artist: United Pursuit
+  enabled: true
+  lyrics: |-
+    I can feel You lifting up
+    The Weight of The World
+    I can feel You lifting up
+    The Weight of The World
+    I can feel You lifting up
+    The Weight of The World
+
+    You are my joy, You are my joy,
+    You are my joy, You are my joy
+
+    You are my joy, You are my joy,
+    You are my joy, You are my joy
+
+    Ala alao, ala oh
+    Ala alao, ala oh
+
+    I can feel You lifting up
+    The Weight of The World
+    I can feel You lifting up
+    The Weight of The World
+    I can feel You lifting up
+    The Weight of The World
+
+    You are my joy, You are my joy,
+    You are my joy, You are my joy
+
+    In You is all my hope and my peace
+    In You is all my hope and my peace
+    In You is all my hope and my peace
+    In You is all my hope and my peace
+    (Background)
+    I can feel You lifting up
+    In You is all my hope and my peace
+    The Weight of The World
+
+    You are my joy, You are my joy,
+    You are my joy, You are my joy
+
+    Oh He set me Free, Oh He set me free
+    Oh He set me Free, Oh He set me free
+    Oh He set me Free, Oh He set me free
+
+    Ala alao, ala oh
+    Ala alao, ala oh
 - song: Come Thou Long Expected Jesus
   artist: Chris Tomlin
   enabled: true
@@ -26,9 +122,61 @@
     Rule in all our hearts alone;
     By Thine all sufficient merit,
     Raise us to Thy glorious throne.
+- song: Beautiful Things
+  artist: Gungor
+  enabled: true
+  lyrics: |2-
+
+    All this pain
+    I wonder if I’ll ever find my way
+    I wonder if my life could really change at all
+    All this earth
+    Could all that is lost ever be found
+    Could a garden come up from this ground at all
+
+    You make beautiful things
+    You make beautiful things out of the dust
+    You make beautiful things
+    You make beautiful things out of us
+
+    All around
+    Hope is springing up from this old ground
+    Out of chaos life is being found in You
+
+    You make beautiful things
+    You make beautiful things out of the dust
+    You make beautiful things
+    You make beautiful things out of us
+
+    You make beautiful things
+    You make beautiful things out of the dust
+    You make beautiful things
+    You make beautiful things out of us
+
+    You make me new, You are making me new
+    You make me new, You are making me new
+
+    You make beautiful things
+    You make beautiful things out of the dust
+    You make beautiful things
+    You make beautiful things out of us
+- song: I Belong To You
+  artist: William McDowe
+  enabled: true
+  lyrics: |-
+    I've been captured by a love I can't explain
+    And now you have me and I'm forever changed
+    I've abandoned everything I've ever known
+    Now I surrender my life is not my own
+    I belong to you, I belong to you [x4]
+    [Repeat x3]
+
+    My life is not my own to you I belong
+    I give myself I give myself to you
+    [x8]
 - song: Not in a Hurry
   artist: Will Reagan
-  enabled: true
+  enabled: false
   lyrics: |-
     Lord I don't want to rush on ahead
     In my own strength
@@ -53,7 +201,7 @@
     I'll be your friend, I want to see through Your eyes
 - song: Stand In Your Love
   artist: Josh Baldwin
-  enabled: true
+  enabled: false
   lyrics: |-
     When darkness tries to roll over my bones
     When sorrow tries to steal the joy I own
@@ -586,54 +734,6 @@
     Heaven and earth
     Rejoice in His holy Name
     He is exalted the King is exalted on high
-- song: The House Of God, Forever
-  artist: Jon Foreman
-  enabled: false
-  lyrics: |-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest
-    In fields of green
-    With quiet streams
-
-    Even though I walk
-    Through the valley
-    Of death and dying
-    I will not fear
-    Cause you are with me
-    You are with me
-
-    Your shepherd's staff comforts me
-    You are my feast
-    In the presence of enemies
-    Surely goodness will follow me
-    Follow me
-    In the house of God forever
-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest
-    In fields of green
-    By quiet streams
-
-    Even while I'm walking
-    Through the valley
-    Of death and dying
-    I will not fear
-    Cause you are with me
-    You're always with me
-
-    Your shepherd's staff comforts me
-    You are my feast
-    In the presence of enemies
-    Surely goodness will follow me
-    Follow me
-    In the house of God forever
-
-    In the house of God forever
-    In the house of God forever
 - song: Have Mercy
   artist: Sandra McCracken
   enabled: false
@@ -1452,20 +1552,6 @@
     [Bridge]
     I will rejoice in the simple gospel
     I will rejoice in you, Lord
-- song: I Belong To You
-  artist: William McDowe
-  enabled: false
-  lyrics: |-
-    I've been captured by a love I can't explain
-    And now you have me and I'm forever changed
-    I've abandoned everything I've ever known
-    Now I surrender my life is not my own
-    I belong to you, I belong to you [x4]
-    [Repeat x3]
-
-    My life is not my own to you I belong
-    I give myself I give myself to you
-    [x8]
 - song: Scandal of Grace
   artist: Hillsong United
   enabled: false
@@ -3396,44 +3482,6 @@
     Keep my eyes above the waves
     My soul will rest in Your embrace
     I am Yours and You are mine
-- song: Beautiful Things
-  artist: Gungor
-  enabled: false
-  lyrics: |2-
-
-    All this pain
-    I wonder if I’ll ever find my way
-    I wonder if my life could really change at all
-    All this earth
-    Could all that is lost ever be found
-    Could a garden come up from this ground at all
-
-    You make beautiful things
-    You make beautiful things out of the dust
-    You make beautiful things
-    You make beautiful things out of us
-
-    All around
-    Hope is springing up from this old ground
-    Out of chaos life is being found in You
-
-    You make beautiful things
-    You make beautiful things out of the dust
-    You make beautiful things
-    You make beautiful things out of us
-
-    You make beautiful things
-    You make beautiful things out of the dust
-    You make beautiful things
-    You make beautiful things out of us
-
-    You make me new, You are making me new
-    You make me new, You are making me new
-
-    You make beautiful things
-    You make beautiful things out of the dust
-    You make beautiful things
-    You make beautiful things out of us
 - song: Outlaw
   artist: Public Radio
   enabled: false
