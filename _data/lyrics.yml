@@ -1,7 +1,7 @@
 ---
 - song: Annual Commitment Form
   artist: ''
-  enabled: true
+  enabled: false
   lyrics: "[Google Form](https://docs.google.com/forms/u/1/d/1RWTNuWjZ-K6MBUMdNFBRjkGUYsW-HOt5zjDnUH1Lf4c/edit)"
 - song: The House Of God, Forever
   artist: Jon Foreman
