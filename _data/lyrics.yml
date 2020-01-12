@@ -1,7 +1,114 @@
 ---
+- song: The House Of God, Forever
+  artist: Jon Foreman
+  enabled: true
+  lyrics: |-
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    With quiet streams
+
+    Even though I walk
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You are with me
+
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
+
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    By quiet streams
+
+    Even while I'm walking
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You're always with me
+
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
+
+    In the house of God forever
+    In the house of God forever
+- song: Come Ye Sinners, Poor And Needy
+  artist: Joseph Hart
+  enabled: true
+  lyrics: |-
+    Come, ye sinners, poor and needy,
+    Weak and wounded, sick and sore;
+    Jesus ready stands to save you,
+    Full of pity, love and power.
+
+    Refrain
+
+    I will arise and go to Jesus,
+    He will embrace me in His arms;
+    In the arms of my dear Savior,
+    O there are ten thousand charms.
+
+    Come, ye thirsty, come, and welcome,
+    God’s free bounty glorify;
+    True belief and true repentance,
+    Every grace that brings you nigh.
+
+    Refrain
+
+    Come, ye weary, heavy laden,
+    Lost and ruined by the fall;
+    If you tarry till you’re better,
+    You will never come at all.
+
+    Refrain
+- song: Come Thou Fount
+  artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    Come thou fount of every blessing
+    Tune my heart to sing Thy grace
+    Streams of mercy never ceasing
+    Call for songs of loudest praise
+    Teach me some melodious sonnet
+    Sung by flaming tongues above
+    I'll praise the mount I'm fixed upon it
+    Mount of Thy redeeming love
+
+    Here I raise my Ebenezer
+    Hither by Thy help I come
+    And I hope by Thy good pleasure
+    Safely to arrive at home
+    Jesus sought me when a stranger
+    Wondering from the fold of God
+    He, to rescue me from danger
+    Interposed His precious blood
+
+    O to grace how great a debtor
+    daily I'm constrained to be!
+    Let Thy goodness like a fetter,
+    bind my wandering heart to Thee
+    Prone to wander Lord I feel it,
+    prone to leave the God I love
+    Here's my heart, O take and seal it,
+    seal it for Thy courts above
 - song: Set a Fire
   artist: Will Reagan & United Pursuit
-  enabled: true
+  enabled: false
   lyrics: |-
     No place I would rather be
     No place I would rather be
@@ -44,7 +151,7 @@
     I want more of You, God
 - song: Grace Alone
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     I was an orphan lost at the Fall
@@ -95,7 +202,7 @@
     I will reach the end by grace and grace alone
 - song: Heart Won't Stop
   artist: John Mark McMillan & Sarah McMillan
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     There is not a man or beast
@@ -130,54 +237,6 @@
   artist: ''
   enabled: false
   lyrics: "[Google Form](https://docs.google.com/forms/u/1/d/1RWTNuWjZ-K6MBUMdNFBRjkGUYsW-HOt5zjDnUH1Lf4c/edit)"
-- song: The House Of God, Forever
-  artist: Jon Foreman
-  enabled: false
-  lyrics: |-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest
-    In fields of green
-    With quiet streams
-
-    Even though I walk
-    Through the valley
-    Of death and dying
-    I will not fear
-    Cause you are with me
-    You are with me
-
-    Your shepherd's staff comforts me
-    You are my feast
-    In the presence of enemies
-    Surely goodness will follow me
-    Follow me
-    In the house of God forever
-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest
-    In fields of green
-    By quiet streams
-
-    Even while I'm walking
-    Through the valley
-    Of death and dying
-    I will not fear
-    Cause you are with me
-    You're always with me
-
-    Your shepherd's staff comforts me
-    You are my feast
-    In the presence of enemies
-    Surely goodness will follow me
-    Follow me
-    In the house of God forever
-
-    In the house of God forever
-    In the house of God forever
 - song: You Are My Joy
   artist: United Pursuit
   enabled: false
@@ -710,65 +769,6 @@
     Where You lead me
     Where You lead me Lord
     [x2]
-- song: Come Thou Fount
-  artist: Chris Tomlin
-  enabled: false
-  lyrics: |-
-    Come thou fount of every blessing
-    Tune my heart to sing Thy grace
-    Streams of mercy never ceasing
-    Call for songs of loudest praise
-    Teach me some melodious sonnet
-    Sung by flaming tongues above
-    I'll praise the mount I'm fixed upon it
-    Mount of Thy redeeming love
-
-    Here I raise my Ebenezer
-    Hither by Thy help I come
-    And I hope by Thy good pleasure
-    Safely to arrive at home
-    Jesus sought me when a stranger
-    Wondering from the fold of God
-    He, to rescue me from danger
-    Interposed His precious blood
-
-    O to grace how great a debtor
-    daily I'm constrained to be!
-    Let Thy goodness like a fetter,
-    bind my wandering heart to Thee
-    Prone to wander Lord I feel it,
-    prone to leave the God I love
-    Here's my heart, O take and seal it,
-    seal it for Thy courts above
-- song: Come Ye Sinners, Poor And Needy
-  artist: Joseph Hart
-  enabled: false
-  lyrics: |-
-    Come, ye sinners, poor and needy,
-    Weak and wounded, sick and sore;
-    Jesus ready stands to save you,
-    Full of pity, love and power.
-
-    Refrain
-
-    I will arise and go to Jesus,
-    He will embrace me in His arms;
-    In the arms of my dear Savior,
-    O there are ten thousand charms.
-
-    Come, ye thirsty, come, and welcome,
-    God’s free bounty glorify;
-    True belief and true repentance,
-    Every grace that brings you nigh.
-
-    Refrain
-
-    Come, ye weary, heavy laden,
-    Lost and ruined by the fall;
-    If you tarry till you’re better,
-    You will never come at all.
-
-    Refrain
 - song: He Is Exalted
   artist: Twila Paris
   enabled: false
