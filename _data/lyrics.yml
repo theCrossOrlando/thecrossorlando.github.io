@@ -36,6 +36,138 @@
     Let us become more aware of Your presence
     Let us experience the glory of Your goodness
     Here I stand
+- song: Your Love is Strong
+  artist: Jon Foreman
+  enabled: true
+  lyrics: |-
+    Heavenly Father
+    You always amaze me
+    Let Your kingdom come in my world
+    And in my life
+
+    Give me the food I need to live through today
+    And forgive me as I forgive the people that wrong me
+
+    Lead me far from temptation
+    Deliver me from the evil one
+
+    I look out the window
+    The birds are composing
+    Not a note is out of tune
+    Or out of place
+
+    I walk to the meadow
+    And stare at the flowers
+    Better dressed than any girl
+    On her wedding day
+
+    So why should I worry?
+    Why do I freak out?
+    God knows what I need!
+    You know what I need!
+
+    Your love is strong
+
+    The Kingdom of the Heavens
+    Is now advancing
+    Invade my heart
+    Invade this broken town
+
+    The Kingdom of the Heavens
+    Is buried treasure
+    Would you sell yourself
+    To buy the one you've found?
+
+    Two things You told me
+    That You are strong
+    And You love me,
+    Yes You love me
+
+    Your love is strong
+
+    Our God in heaven
+    Hallowed be thy name above all names
+    Your kingdom come
+    Your will be done
+    On earth as it is in heaven
+    Give us, today, our daily bread
+    Forgive us weary sinners
+    Keep us far from our vices and
+    Deliver us from these prisons
+- song: It is Well
+  artist: 
+  enabled: true
+  lyrics: |-
+    Grander earth has quaked before
+    Moved by the sound of His voice
+    Seas that are shaken and stirred
+    Can be calmed and broken for my regard
+
+    And through it all, through it all
+    My eyes are on You
+    And through it all, through it all
+    It is well
+
+    And through it all, through it all
+    My eyes are on You
+    And it is well with me
+
+    And far be it from me to not believe
+    Even when my eyes can't see
+
+    And this mountain that's in front of me
+    Will be thrown into the midst of the sea
+
+    And through it all, through it all
+    My eyes are on You
+    And through it all, through it all
+    It is well
+
+    And through it all, through it all
+    My eyes are on You
+    And it is well
+    It is well
+
+    So let go my soul and trust in Him
+    The waves and wind still know His name
+    So let go my soul and trust in Him
+    The waves and wind still know His name
+    So let go my soul and trust in Him
+    The waves and wind still know His name
+    The waves and wind still know His name
+- song: Heart Won't Stop
+  artist: John Mark McMillan & Sarah McMillan
+  enabled: false
+  lyrics: |-
+    [Verse 1]
+    There is not a man or beast
+    Nothing on the land or underneath
+    Oh nothing that could ever come between
+    The love You have for me
+
+    [Pre-Chorus]
+    I could lay my head in sheol
+    I could make my bed
+    At the bottom of darkness deep
+    Oh but there is not a place I could escape You
+
+    [Chorus]
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Coming after me
+
+    [Verse 2]
+    There is not an angel of the stars
+    There is not a devil in the dark
+    Oh nothing that could change the way You are
+    The love You have for me
+
+    [Pre-Chorus]
+    I could lay my head in sheol
+    I could make my bed
+    At the bottom of darkness deep
+    Oh but there is not a place I could escape You
 - song: Stand In Your Love
   artist: Josh Baldwin
   enabled: false
@@ -372,39 +504,29 @@
     I will run the race by grace and grace alone
     I will slay my sin by grace and grace alone
     I will reach the end by grace and grace alone
-- song: Heart Won't Stop
-  artist: John Mark McMillan & Sarah McMillan
+- song: Come Thou Long Expected Jesus
+  artist: Chris Tomlin
   enabled: false
   lyrics: |-
-    [Verse 1]
-    There is not a man or beast
-    Nothing on the land or underneath
-    Oh nothing that could ever come between
-    The love You have for me
+    Come, Thou long expected Jesus
+    Born to set Thy people free;
+    From our fears and sins release us,
+    Let us find our rest in Thee.
 
-    [Pre-Chorus]
-    I could lay my head in sheol
-    I could make my bed
-    At the bottom of darkness deep
-    Oh but there is not a place I could escape You
+    Israel's strength and consolation,
+    Hope of all the earth Thou art;
+    Dear desire of every nation,
+    Joy of every longing heart.
 
-    [Chorus]
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after me
-    Coming after me
+    Born Thy people to deliver,
+    Born a child and yet a King,
+    Born to reign in us forever,
+    Now Thy gracious kingdom bring.
 
-    [Verse 2]
-    There is not an angel of the stars
-    There is not a devil in the dark
-    Oh nothing that could change the way You are
-    The love You have for me
-
-    [Pre-Chorus]
-    I could lay my head in sheol
-    I could make my bed
-    At the bottom of darkness deep
-    Oh but there is not a place I could escape You
+    By Thine own eternal Spirit
+    Rule in all our hearts alone;
+    By Thine all sufficient merit,
+    Raise us to Thy glorious throne.
 - song: Annual Commitment Form
   artist: ''
   enabled: false
@@ -471,29 +593,6 @@
     My life is not my own to you I belong
     I give myself I give myself to you
     [x8]
-- song: Come Thou Long Expected Jesus
-  artist: Chris Tomlin
-  enabled: false
-  lyrics: |-
-    Come, Thou long expected Jesus
-    Born to set Thy people free;
-    From our fears and sins release us,
-    Let us find our rest in Thee.
-
-    Israel's strength and consolation,
-    Hope of all the earth Thou art;
-    Dear desire of every nation,
-    Joy of every longing heart.
-
-    Born Thy people to deliver,
-    Born a child and yet a King,
-    Born to reign in us forever,
-    Now Thy gracious kingdom bring.
-
-    By Thine own eternal Spirit
-    Rule in all our hearts alone;
-    By Thine all sufficient merit,
-    Raise us to Thy glorious throne.
 - song: Beautiful Things
   artist: Gungor
   enabled: false
@@ -1232,64 +1331,6 @@
     You spoke so tenderly
     And now I choose to believe
     You love me, you love me, you love me
-- song: Your Love is Strong
-  artist: Jon Foreman
-  enabled: false
-  lyrics: |-
-    Heavenly Father
-    You always amaze me
-    Let Your kingdom come in my world
-    And in my life
-
-    Give me the food I need to live through today
-    And forgive me as I forgive the people that wrong me
-
-    Lead me far from temptation
-    Deliver me from the evil one
-
-    I look out the window
-    The birds are composing
-    Not a note is out of tune
-    Or out of place
-
-    I walk to the meadow
-    And stare at the flowers
-    Better dressed than any girl
-    On her wedding day
-
-    So why should I worry?
-    Why do I freak out?
-    God knows what I need!
-    You know what I need!
-
-    Your love is strong
-
-    The Kingdom of the Heavens
-    Is now advancing
-    Invade my heart
-    Invade this broken town
-
-    The Kingdom of the Heavens
-    Is buried treasure
-    Would you sell yourself
-    To buy the one you've found?
-
-    Two things You told me
-    That You are strong
-    And You love me,
-    Yes You love me
-
-    Your love is strong
-
-    Our God in heaven
-    Hallowed be thy name above all names
-    Your kingdom come
-    Your will be done
-    On earth as it is in heaven
-    Give us, today, our daily bread
-    Forgive us weary sinners
-    Keep us far from our vices and
-    Deliver us from these prisons
 - song: 10,000 Reasons
   artist: Matt Redman
   enabled: false
@@ -1785,47 +1826,6 @@
     A garment of praise for my heaviness
     You are the greatest taste
     You're the richest of fair
-- song: It is Well
-  artist: 
-  enabled: false
-  lyrics: |-
-    Grander earth has quaked before
-    Moved by the sound of His voice
-    Seas that are shaken and stirred
-    Can be calmed and broken for my regard
-
-    And through it all, through it all
-    My eyes are on You
-    And through it all, through it all
-    It is well
-
-    And through it all, through it all
-    My eyes are on You
-    And it is well with me
-
-    And far be it from me to not believe
-    Even when my eyes can't see
-
-    And this mountain that's in front of me
-    Will be thrown into the midst of the sea
-
-    And through it all, through it all
-    My eyes are on You
-    And through it all, through it all
-    It is well
-
-    And through it all, through it all
-    My eyes are on You
-    And it is well
-    It is well
-
-    So let go my soul and trust in Him
-    The waves and wind still know His name
-    So let go my soul and trust in Him
-    The waves and wind still know His name
-    So let go my soul and trust in Him
-    The waves and wind still know His name
-    The waves and wind still know His name
 - song: Praise to the Lord, the Almighty
   artist: Joachim Neander
   enabled: false
