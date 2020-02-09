@@ -1,7 +1,44 @@
 ---
+- song: Holy Spirit
+  artist: Jesus Culture
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+
+    There’s nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
+
+    [Chorus]
+
+    Holy Spirit, You are welcome here
+    Come flood this place
+    And fill the atmosphere
+    Your glory, God
+    Is what our hearts long for
+    To be overcome
+    By Your presence, Lord
+    Your presence, Lord
+
+    [Verse 2]
+
+    I’ve tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    [Bridge]
+
+    [4x]
+    Let us become more aware of Your presence
+    Let us experience the glory of Your goodness
+    Here I stand
 - song: Stand In Your Love
   artist: Josh Baldwin
-  enabled: true
+  enabled: false
   lyrics: |-
     When darkness tries to roll over my bones
     When sorrow tries to steal the joy I own
@@ -51,7 +88,7 @@
     When I stand in Your love
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, Love that will not let me go
     I rest my weary soul in Thee
@@ -111,7 +148,7 @@
     Holy, holy, is the King of Kings
 - song: Not in a Hurry
   artist: Will Reagan
-  enabled: true
+  enabled: false
   lyrics: |-
     Lord I don't want to rush on ahead
     In my own strength
@@ -136,7 +173,7 @@
     I'll be your friend, I want to see through Your eyes
 - song: The House Of God, Forever
   artist: Jon Foreman
-  enabled: true
+  enabled: false
   lyrics: |-
     God is my shepherd
     I won't be wanting
@@ -796,43 +833,6 @@
     Lord help my unbelief
     Lord help my unbelief
     Oh Lord, have mercy
-- song: Holy Spirit
-  artist: Jesus Culture
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-
-    There’s nothing worth more
-    That could ever come close
-    No thing can compare
-    You're our living hope
-    Your presence, Lord
-
-    [Chorus]
-
-    Holy Spirit, You are welcome here
-    Come flood this place
-    And fill the atmosphere
-    Your glory, God
-    Is what our hearts long for
-    To be overcome
-    By Your presence, Lord
-    Your presence, Lord
-
-    [Verse 2]
-
-    I’ve tasted and seen
-    Of the sweetest of loves
-    Where my heart becomes free
-    And my shame is undone
-    Your presence, Lord
-
-    [Bridge]
-
-    [4x]
-    Let us become more aware of Your presence
-    Let us experience the glory of Your goodness
-    Here I stand
 - song: So Will I (100 Billion X)
   artist: Hillsong United
   enabled: false
