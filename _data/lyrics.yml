@@ -36,43 +36,91 @@
     Lord, I've been told I don't measure up
     Lord, I've been told I'm not good enough
     But You're here with me
-- song: Holy Spirit
-  artist: Jesus Culture
+- song: Future/Past
+  artist: John Mark McMillan
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+    You hold the reigns on the sun and the moon
+    Like horses driven by kings
+    You cover the mountains, the valleys below
+    With the breadth of Your mighty wings
+
+    [Pre-Chorus]
+    All treasures of wisdom
+    And things to be known
+    Are hidden inside Your hand
+    And in this fortunate turn of events
+    You ask me to be Your friend
+    Ask me to be Your friend
+
+    [Chorus]
+    And You
+    You are my first
+    You are my last
+    You are my future and my past
+
+    Yeah You
+    You are my first
+    You are my last
+    You are my future and my past
+
+    [Verse 3]
+    The constellations are swimming inside
+    The breadth of Your desire
+    So where could I run, where could I hide
+    From Your heart’s jealous fire?
+- song: Grace Alone
+  artist: Dustin Kensrue
   enabled: false
   lyrics: |-
     [Verse 1]
+    I was an orphan lost at the Fall
+    Running away when I'd hear Your call
+    But Father, You worked Your will
+    I had no righteousness of my own
+    I had no right to draw near Your throne
+    But Father, You loved me still
 
-    There’s nothing worth more
-    That could ever come close
-    No thing can compare
-    You're our living hope
-    Your presence, Lord
-
-    [Chorus]
-
-    Holy Spirit, You are welcome here
-    Come flood this place
-    And fill the atmosphere
-    Your glory, God
-    Is what our hearts long for
-    To be overcome
-    By Your presence, Lord
-    Your presence, Lord
+    [Chorus 1]
+    And in love before You laid the world's foundation
+    You predestined to adopt me as Your own
+    You have raised me so high up above my station
+    I'm a child of God by grace and grace alone
 
     [Verse 2]
+    You left Your home to seek out the lost
+    You knew the great and terrible cost
+    But Jesus, Your face was set
+    I worked my fingers down to the bone
+    Nothing I did could ever atone
+    But Jesus, You paid my debt
 
-    I’ve tasted and seen
-    Of the sweetest of loves
-    Where my heart becomes free
-    And my shame is undone
-    Your presence, Lord
+    [Chorus 2]
+    By Your blood, I have redemption and salvation
+    Lord, You died that I might reap what You have sown
+    And You rose that I might be a new creation
+    I am born again by grace and grace alone
 
-    [Bridge]
+    [Verse 3]
+    I was in darkness all of my life
+    I never knew the day from the night
+    But Spirit, You made me see
+    I swore I knew the way on my own
+    Head full of rocks, a heart made of stone
+    But Spirit, You moved in me
 
-    [4x]
-    Let us become more aware of Your presence
-    Let us experience the glory of Your goodness
-    Here I stand
+    [Chorus 3]
+    At your touch my sleeping spirit was awakened
+    On my darkened heart the light of Christ has shone
+    Called into a kingdom that cannot be shaken
+    Heaven's citizen by grace and grace alone
+
+    [Outro]
+    So I'll stand in faith by grace and grace alone
+    I will run the race by grace and grace alone
+    I will slay my sin by grace and grace alone
+    I will reach the end by grace and grace alone
 - song: Another In The Fire
   artist: Hillsong United
   enabled: false
@@ -136,6 +184,43 @@
     And I know I will never be alone
 
 
+- song: Holy Spirit
+  artist: Jesus Culture
+  enabled: false
+  lyrics: |-
+    [Verse 1]
+
+    There’s nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
+
+    [Chorus]
+
+    Holy Spirit, You are welcome here
+    Come flood this place
+    And fill the atmosphere
+    Your glory, God
+    Is what our hearts long for
+    To be overcome
+    By Your presence, Lord
+    Your presence, Lord
+
+    [Verse 2]
+
+    I’ve tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    [Bridge]
+
+    [4x]
+    Let us become more aware of Your presence
+    Let us experience the glory of Your goodness
+    Here I stand
 - song: Your Love is Strong
   artist: Jon Foreman
   enabled: false
@@ -553,57 +638,6 @@
     That I can't contain that I can't control
     I want more of You, God
     I want more of You, God
-- song: Grace Alone
-  artist: Dustin Kensrue
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-    I was an orphan lost at the Fall
-    Running away when I'd hear Your call
-    But Father, You worked Your will
-    I had no righteousness of my own
-    I had no right to draw near Your throne
-    But Father, You loved me still
-
-    [Chorus 1]
-    And in love before You laid the world's foundation
-    You predestined to adopt me as Your own
-    You have raised me so high up above my station
-    I'm a child of God by grace and grace alone
-
-    [Verse 2]
-    You left Your home to seek out the lost
-    You knew the great and terrible cost
-    But Jesus, Your face was set
-    I worked my fingers down to the bone
-    Nothing I did could ever atone
-    But Jesus, You paid my debt
-
-    [Chorus 2]
-    By Your blood, I have redemption and salvation
-    Lord, You died that I might reap what You have sown
-    And You rose that I might be a new creation
-    I am born again by grace and grace alone
-
-    [Verse 3]
-    I was in darkness all of my life
-    I never knew the day from the night
-    But Spirit, You made me see
-    I swore I knew the way on my own
-    Head full of rocks, a heart made of stone
-    But Spirit, You moved in me
-
-    [Chorus 3]
-    At your touch my sleeping spirit was awakened
-    On my darkened heart the light of Christ has shone
-    Called into a kingdom that cannot be shaken
-    Heaven's citizen by grace and grace alone
-
-    [Outro]
-    So I'll stand in faith by grace and grace alone
-    I will run the race by grace and grace alone
-    I will slay my sin by grace and grace alone
-    I will reach the end by grace and grace alone
 - song: Come Thou Long Expected Jesus
   artist: Chris Tomlin
   enabled: false
@@ -1434,7 +1468,7 @@
     And then forevermore
 - song: Nothing I Hold On To
   artist: United Pursuit Band
-  enabled: false
+  enabled: true
   lyrics: |-
     I lean not on my own understanding,
     My life is in the hands of the maker of heaven
@@ -2673,40 +2707,6 @@
 
     O praise Him! O praise Him!
     Alleluia! Alleluia!  Alleluia!
-- song: Future/Past
-  artist: John Mark McMillan
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-    You hold the reigns on the sun and the moon
-    Like horses driven by kings
-    You cover the mountains, the valleys below
-    With the breadth of Your mighty wings
-
-    [Pre-Chorus]
-    All treasures of wisdom
-    And things to be known
-    Are hidden inside Your hand
-    And in this fortunate turn of events
-    You ask me to be Your friend
-    Ask me to be Your friend
-
-    [Chorus]
-    And You
-    You are my first
-    You are my last
-    You are my future and my past
-
-    Yeah You
-    You are my first
-    You are my last
-    You are my future and my past
-
-    [Verse 3]
-    The constellations are swimming inside
-    The breadth of Your desire
-    So where could I run, where could I hide
-    From Your heart’s jealous fire?
 - song: Come Thou Long Expected Jesus
   artist: Chris Tomlin
   enabled: false
