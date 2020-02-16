@@ -70,27 +70,6 @@
     The breadth of Your desire
     So where could I run, where could I hide
     From Your heart’s jealous fire?
-- song: Nothing I Hold On To
-  artist: United Pursuit Band
-  enabled: true
-  lyrics: |-
-    I lean not on my own understanding,
-    My life is in the hands of the maker of heaven
-
-    I Give it all to you God,
-    Trusting that you'll make something beautiful out of me
-
-    I will climb this mountain
-    With my hands wide open
-    I will climb this mountain
-    With my hands wide open
-
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-
-    All Glory To God, Forever. Amen
 - song: Grace Alone
   artist: Dustin Kensrue
   enabled: true
@@ -142,6 +121,27 @@
     I will run the race by grace and grace alone
     I will slay my sin by grace and grace alone
     I will reach the end by grace and grace alone
+- song: Nothing I Hold On To
+  artist: United Pursuit Band
+  enabled: false
+  lyrics: |-
+    I lean not on my own understanding,
+    My life is in the hands of the maker of heaven
+
+    I Give it all to you God,
+    Trusting that you'll make something beautiful out of me
+
+    I will climb this mountain
+    With my hands wide open
+    I will climb this mountain
+    With my hands wide open
+
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+
+    All Glory To God, Forever. Amen
 - song: Another In The Fire
   artist: Hillsong United
   enabled: false
