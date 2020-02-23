@@ -64,6 +64,51 @@
     The breadth of Your desire
     So where could I run, where could I hide
     From Your heart’s jealous fire?
+- song: Great Are You Lord
+  artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    You give life, You are love
+    You bring light to the darkness
+    You give hope, You restore
+    Every heart that is broken
+    Great are You, Lord
+
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise to You only
+
+    You give life, You are love
+    You bring light to the darkness
+    You give hope, You restore
+    Every heart that is broken
+    Great are You, Lord
+
+    [x2]
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise to You only
+
+    And all the earth will shout Your praise
+    Our hearts will cry, these bones will sing
+    Great are You, Lord
+
+    [x2]
+    And all the earth will shout Your praise
+    Our hearts will cry, these bones will sing
+    Great are You, Lord
+
+    [x2]
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise
+    To You only
 - song: Simple Gospel
   artist: ''
   enabled: false
@@ -1324,51 +1369,6 @@
     Praise Him above ye heavenly host
     Praise Father Son and Holy Ghost
     Amen amen amen amen
-- song: Great Are You Lord
-  artist: All Sons & Daughters
-  enabled: true
-  lyrics: |-
-    You give life, You are love
-    You bring light to the darkness
-    You give hope, You restore
-    Every heart that is broken
-    Great are You, Lord
-
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise to You only
-
-    You give life, You are love
-    You bring light to the darkness
-    You give hope, You restore
-    Every heart that is broken
-    Great are You, Lord
-
-    [x2]
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise to You only
-
-    And all the earth will shout Your praise
-    Our hearts will cry, these bones will sing
-    Great are You, Lord
-
-    [x2]
-    And all the earth will shout Your praise
-    Our hearts will cry, these bones will sing
-    Great are You, Lord
-
-    [x2]
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise
-    To You only
 - song: This I Believe
   artist: Hillsong
   enabled: false
@@ -2370,7 +2370,7 @@
     Our Jesus Christ is born
 - song: How Great is our God
   artist: Chris Tomlin
-  enabled: false
+  enabled: true
   lyrics: |-
     The splendor of a King, clothed in majesty
     Let all the earth rejoice
