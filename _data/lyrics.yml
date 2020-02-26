@@ -12,6 +12,17 @@
     mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
     sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
     now. "
+- song: Have Mercy
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Have Mercy on me
+    Have Mercy on me
+    Oh Lord, have mercy
+
+    Lord help my unbelief
+    Lord help my unbelief
+    Oh Lord, have mercy
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
   enabled: true
@@ -41,17 +52,6 @@
     You will never come at all.
 
     Refrain
-- song: Have Mercy
-  artist: Sandra McCracken
-  enabled: true
-  lyrics: |-
-    Have Mercy on me
-    Have Mercy on me
-    Oh Lord, have mercy
-
-    Lord help my unbelief
-    Lord help my unbelief
-    Oh Lord, have mercy
 - song: Almighty God
   artist: Sandra McCracken
   enabled: false
@@ -2849,7 +2849,7 @@
     Life and rest, and joy and peace.
 - song: How Great Thou Art
   artist: Hymn
-  enabled: false
+  enabled: true
   lyrics: |-
     Oh Lord my God
     When I in awesome wonder
