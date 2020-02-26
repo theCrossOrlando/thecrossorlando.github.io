@@ -2849,7 +2849,7 @@
     Life and rest, and joy and peace.
 - song: How Great Thou Art
   artist: Hymn
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh Lord my God
     When I in awesome wonder
