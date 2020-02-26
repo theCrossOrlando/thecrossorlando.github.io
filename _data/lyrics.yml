@@ -1,7 +1,60 @@
 ---
-- song: Almighty God
+- song: My Jesus I Love Thee
+  artist: William R. Featherstone
+  enabled: true
+  lyrics: "My Jesus, I love thee, I know thou art mine;\nfor thee all the follies
+    of sin I resign;\nmy gracious Redeemer, my Savior art thou;\nif ever I loved thee,
+    my Jesus, 'tis now.\n\nI love thee because thou hast first loved me\nand purchased
+    my pardon on Calvary's tree;\nI love thee for wearing the thorns on thy brow;\nif
+    ever I loved thee, my Jesus, 'tis now.\n\nI'll love thee in life, I will love
+    thee in death,\nand praise thee as long as thou lendest me breath,\nand say when
+    the deathdew lies cold on my brow:\nIf ever I loved thee, my Jesus, 'tis now.\n\nIn
+    mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
+    sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
+    now. "
+- song: Come Ye Sinners, Poor And Needy
+  artist: Joseph Hart
+  enabled: false
+  lyrics: |-
+    Come, ye sinners, poor and needy,
+    Weak and wounded, sick and sore;
+    Jesus ready stands to save you,
+    Full of pity, love and power.
+
+    Refrain
+
+    I will arise and go to Jesus,
+    He will embrace me in His arms;
+    In the arms of my dear Savior,
+    O there are ten thousand charms.
+
+    Come, ye thirsty, come, and welcome,
+    God’s free bounty glorify;
+    True belief and true repentance,
+    Every grace that brings you nigh.
+
+    Refrain
+
+    Come, ye weary, heavy laden,
+    Lost and ruined by the fall;
+    If you tarry till you’re better,
+    You will never come at all.
+
+    Refrain
+- song: Have Mercy
   artist: Sandra McCracken
   enabled: true
+  lyrics: |-
+    Have Mercy on me
+    Have Mercy on me
+    Oh Lord, have mercy
+
+    Lord help my unbelief
+    Lord help my unbelief
+    Oh Lord, have mercy
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -32,7 +85,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Future/Past
   artist: John Mark McMillan
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     You hold the reigns on the sun and the moon
@@ -66,7 +119,7 @@
     From Your heart’s jealous fire?
 - song: Great Are You Lord
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     You give life, You are love
     You bring light to the darkness
@@ -663,35 +716,6 @@
     prone to leave the God I love
     Here's my heart, O take and seal it,
     seal it for Thy courts above
-- song: Come Ye Sinners, Poor And Needy
-  artist: Joseph Hart
-  enabled: false
-  lyrics: |-
-    Come, ye sinners, poor and needy,
-    Weak and wounded, sick and sore;
-    Jesus ready stands to save you,
-    Full of pity, love and power.
-
-    Refrain
-
-    I will arise and go to Jesus,
-    He will embrace me in His arms;
-    In the arms of my dear Savior,
-    O there are ten thousand charms.
-
-    Come, ye thirsty, come, and welcome,
-    God’s free bounty glorify;
-    True belief and true repentance,
-    Every grace that brings you nigh.
-
-    Refrain
-
-    Come, ye weary, heavy laden,
-    Lost and ruined by the fall;
-    If you tarry till you’re better,
-    You will never come at all.
-
-    Refrain
 - song: Set a Fire
   artist: Will Reagan & United Pursuit
   enabled: false
@@ -1084,17 +1108,6 @@
     Heaven and earth
     Rejoice in His holy Name
     He is exalted the King is exalted on high
-- song: Have Mercy
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Have Mercy on me
-    Have Mercy on me
-    Oh Lord, have mercy
-
-    Lord help my unbelief
-    Lord help my unbelief
-    Oh Lord, have mercy
 - song: So Will I (100 Billion X)
   artist: Hillsong United
   enabled: false
