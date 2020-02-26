@@ -14,7 +14,7 @@
     now. "
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
-  enabled: false
+  enabled: true
   lyrics: |-
     Come, ye sinners, poor and needy,
     Weak and wounded, sick and sore;
