@@ -62,9 +62,67 @@
     And I know I will never be alone
 
 
+- song: Your Love is Strong
+  artist: Jon Foreman
+  enabled: false
+  lyrics: |-
+    Heavenly Father
+    You always amaze me
+    Let Your kingdom come in my world
+    And in my life
+
+    Give me the food I need to live through today
+    And forgive me as I forgive the people that wrong me
+
+    Lead me far from temptation
+    Deliver me from the evil one
+
+    I look out the window
+    The birds are composing
+    Not a note is out of tune
+    Or out of place
+
+    I walk to the meadow
+    And stare at the flowers
+    Better dressed than any girl
+    On her wedding day
+
+    So why should I worry?
+    Why do I freak out?
+    God knows what I need!
+    You know what I need!
+
+    Your love is strong
+
+    The Kingdom of the Heavens
+    Is now advancing
+    Invade my heart
+    Invade this broken town
+
+    The Kingdom of the Heavens
+    Is buried treasure
+    Would you sell yourself
+    To buy the one you've found?
+
+    Two things You told me
+    That You are strong
+    And You love me,
+    Yes You love me
+
+    Your love is strong
+
+    Our God in heaven
+    Hallowed be thy name above all names
+    Your kingdom come
+    Your will be done
+    On earth as it is in heaven
+    Give us, today, our daily bread
+    Forgive us weary sinners
+    Keep us far from our vices and
+    Deliver us from these prisons
 - song: My Jesus I Love Thee
   artist: William R. Featherstone
-  enabled: true
+  enabled: false
   lyrics: "My Jesus, I love thee, I know thou art mine;\nfor thee all the follies
     of sin I resign;\nmy gracious Redeemer, my Savior art thou;\nif ever I loved thee,
     my Jesus, 'tis now.\n\nI love thee because thou hast first loved me\nand purchased
@@ -371,64 +429,48 @@
     Let us become more aware of Your presence
     Let us experience the glory of Your goodness
     Here I stand
-- song: Your Love is Strong
-  artist: Jon Foreman
-  enabled: false
+- song: Once and For All
+  artist: Lauren Daigle
+  enabled: true
   lyrics: |-
-    Heavenly Father
-    You always amaze me
-    Let Your kingdom come in my world
-    And in my life
+    God I give You all I can today
+    These scattered ashes that I hid away
+    I lay them all at Your feet
 
-    Give me the food I need to live through today
-    And forgive me as I forgive the people that wrong me
+    From the corners of my deepest shame
+    The empty places where I've worn Your name
+    Show me the love I say I believe
 
-    Lead me far from temptation
-    Deliver me from the evil one
+    Oh Help me to lay it down
+    Oh Lord I lay it down
 
-    I look out the window
-    The birds are composing
-    Not a note is out of tune
-    Or out of place
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
 
-    I walk to the meadow
-    And stare at the flowers
-    Better dressed than any girl
-    On her wedding day
+    There is victory in my Saviors loss
+    And In the crimson flowing from the cross
+    Pour over me, pour over me yes
 
-    So why should I worry?
-    Why do I freak out?
-    God knows what I need!
-    You know what I need!
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
 
-    Your love is strong
+    Oh Lord I lay it down
+    Oh Lord I lay it down
+    Help me to lay it down
+    Oh Lord I lay it down
 
-    The Kingdom of the Heavens
-    Is now advancing
-    Invade my heart
-    Invade this broken town
+    Oh let this be where I die
+    My Lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all
 
-    The Kingdom of the Heavens
-    Is buried treasure
-    Would you sell yourself
-    To buy the one you've found?
-
-    Two things You told me
-    That You are strong
-    And You love me,
-    Yes You love me
-
-    Your love is strong
-
-    Our God in heaven
-    Hallowed be thy name above all names
-    Your kingdom come
-    Your will be done
-    On earth as it is in heaven
-    Give us, today, our daily bread
-    Forgive us weary sinners
-    Keep us far from our vices and
-    Deliver us from these prisons
+    Once and for all
+    Oh once and for all
+    Once and for all
 - song: It is Well
   artist: 
   enabled: false
@@ -961,48 +1003,6 @@
     with the dawn of redeeming grace,
     Jesus Lord at thy birth,
     Jesus Lord at thy birth.
-- song: Once and For All
-  artist: Lauren Daigle
-  enabled: false
-  lyrics: |-
-    God I give You all I can today
-    These scattered ashes that I hid away
-    I lay them all at Your feet
-
-    From the corners of my deepest shame
-    The empty places where I've worn Your name
-    Show me the love I say I believe
-
-    Oh Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    There is victory in my Saviors loss
-    And In the crimson flowing from the cross
-    Pour over me, pour over me yes
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    Oh Lord I lay it down
-    Oh Lord I lay it down
-    Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My Lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all
-
-    Once and for all
-    Oh once and for all
-    Once and for all
 - song: Come Holy One
   artist: Young Oceans
   enabled: false
