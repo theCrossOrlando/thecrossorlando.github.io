@@ -24,6 +24,93 @@
     Open my ears, I want to hear You speak
     Tell me your thoughts whats on Your mind
     I'll be your friend, I want to see through Your eyes
+- song: In Christ Alone
+  artist: Natalie Grant
+  enabled: true
+  lyrics: |-
+    In Christ alone my hope is found
+    He is my light, my strength, my song
+    This Cornerstone, this solid ground
+    Firm through the fiercest drought and storm
+    What heights of love, what depths of peace
+    When fears are stilled, when strivings cease
+    My Comforter, my All in All
+    Here in the love of Christ I stand
+
+    In Christ alone, who took on flesh
+    Fullness of God in helpless babe
+    This gift of love and righteousness
+    Scorned by the ones He came to save
+    'Til on that cross as Jesus died
+    The wrath of God was satisfied
+    For every sin on Him was laid
+    Here in the death of Christ I live, I live
+
+    There in the ground His body lay
+    Light of the world by darkness slain
+    Then bursting forth in glorious Day
+    Up from the grave He rose again
+    And as He stands in victory
+    Sin's curse has lost its grip on me
+    For I am His and He is mine
+    Bought with the precious blood of Christ
+
+    No guilt in life, no fear in death
+    This is the power of Christ in me
+    From life's first cry to final breath
+    Jesus commands my destiny
+    No power of hell, no scheme of man
+    Can ever pluck me from His hand
+    Till He returns or calls me home
+    Here in the power of Christ I'll stand
+
+    I will stand
+    I will stand, all other ground is sinking sand
+    All other ground, all other ground
+    Is sinking sand, is sinking sand
+    So I'll stand
+- song: Once and For All
+  artist: Lauren Daigle
+  enabled: true
+  lyrics: |-
+    God I give You all I can today
+    These scattered ashes that I hid away
+    I lay them all at Your feet
+
+    From the corners of my deepest shame
+    The empty places where I've worn Your name
+    Show me the love I say I believe
+
+    Oh Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    There is victory in my Saviors loss
+    And In the crimson flowing from the cross
+    Pour over me, pour over me yes
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    Oh Lord I lay it down
+    Oh Lord I lay it down
+    Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My Lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all
+
+    Once and for all
+    Oh once and for all
+    Once and for all
 - song: Another In The Fire
   artist: Hillsong United
   enabled: true
@@ -505,48 +592,6 @@
     Let us become more aware of Your presence
     Let us experience the glory of Your goodness
     Here I stand
-- song: Once and For All
-  artist: Lauren Daigle
-  enabled: true
-  lyrics: |-
-    God I give You all I can today
-    These scattered ashes that I hid away
-    I lay them all at Your feet
-
-    From the corners of my deepest shame
-    The empty places where I've worn Your name
-    Show me the love I say I believe
-
-    Oh Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    There is victory in my Saviors loss
-    And In the crimson flowing from the cross
-    Pour over me, pour over me yes
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    Oh Lord I lay it down
-    Oh Lord I lay it down
-    Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My Lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all
-
-    Once and for all
-    Oh once and for all
-    Once and for all
 - song: It is Well
   artist: 
   enabled: false
@@ -1249,51 +1294,6 @@
     One with Himself I cannot die
     My soul is purchased by His blood,
     My life is hid with Christ on high
-- song: In Christ Alone
-  artist: Natalie Grant
-  enabled: false
-  lyrics: |-
-    In Christ alone my hope is found
-    He is my light, my strength, my song
-    This Cornerstone, this solid ground
-    Firm through the fiercest drought and storm
-    What heights of love, what depths of peace
-    When fears are stilled, when strivings cease
-    My Comforter, my All in All
-    Here in the love of Christ I stand
-
-    In Christ alone, who took on flesh
-    Fullness of God in helpless babe
-    This gift of love and righteousness
-    Scorned by the ones He came to save
-    'Til on that cross as Jesus died
-    The wrath of God was satisfied
-    For every sin on Him was laid
-    Here in the death of Christ I live, I live
-
-    There in the ground His body lay
-    Light of the world by darkness slain
-    Then bursting forth in glorious Day
-    Up from the grave He rose again
-    And as He stands in victory
-    Sin's curse has lost its grip on me
-    For I am His and He is mine
-    Bought with the precious blood of Christ
-
-    No guilt in life, no fear in death
-    This is the power of Christ in me
-    From life's first cry to final breath
-    Jesus commands my destiny
-    No power of hell, no scheme of man
-    Can ever pluck me from His hand
-    Till He returns or calls me home
-    Here in the power of Christ I'll stand
-
-    I will stand
-    I will stand, all other ground is sinking sand
-    All other ground, all other ground
-    Is sinking sand, is sinking sand
-    So I'll stand
 - song: More Than The Watchman (Psalm 130)
   artist: Rebecca St James
   enabled: false
