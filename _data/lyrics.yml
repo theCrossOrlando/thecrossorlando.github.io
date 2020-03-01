@@ -1,4 +1,29 @@
 ---
+- song: Not in a Hurry
+  artist: Will Reagan
+  enabled: true
+  lyrics: |-
+    Lord I don't want to rush on ahead
+    In my own strength
+    When You're right here
+
+    I'm not in a hurry
+    When it comes to Your spirit
+    When it comes to Your presence
+    When it comes to Your voice
+    I'm learning to listen
+    Just to rest in Your nearness
+    I'm starting to notice
+    You are speaking
+
+    Lord I want to love like You
+    I want to feel what You feel
+    I want to see what You see
+
+    Open my eyes, I want to see You more clearly
+    Open my ears, I want to hear You speak
+    Tell me your thoughts whats on Your mind
+    I'll be your friend, I want to see through Your eyes
 - song: Another In The Fire
   artist: Hillsong United
   enabled: true
@@ -706,31 +731,6 @@
 
     And we will sing:
     Holy, holy, is the King of Kings
-- song: Not in a Hurry
-  artist: Will Reagan
-  enabled: false
-  lyrics: |-
-    Lord I don't want to rush on ahead
-    In my own strength
-    When You're right here
-
-    I'm not in a hurry
-    When it comes to Your spirit
-    When it comes to Your presence
-    When it comes to Your voice
-    I'm learning to listen
-    Just to rest in Your nearness
-    I'm starting to notice
-    You are speaking
-
-    Lord I want to love like You
-    I want to feel what You feel
-    I want to see what You see
-
-    Open my eyes, I want to see You more clearly
-    Open my ears, I want to hear You speak
-    Tell me your thoughts whats on Your mind
-    I'll be your friend, I want to see through Your eyes
 - song: The House Of God, Forever
   artist: Jon Foreman
   enabled: false
