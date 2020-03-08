@@ -1,4 +1,70 @@
 ---
+- song: Open The Eyes of My Heart
+  artist: Paul Baloche
+  enabled: ''
+  lyrics: |-
+    Open the eyes of my heart, Lord
+    Open the eyes of my heart
+    I want to see You
+    I want to see You
+
+    To see You high and lifted up
+    Shinin' in the light of Your glory
+    Pour out Your power and love
+    As we sing holy, holy, holy
+
+    Holy, holy, holy
+    Holy, holy, holy
+    You are holy, holy, holy
+    I want to see you
+- song: Have Mercy
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Have Mercy on me,
+    Have Mercy on me,
+    Oh Lord, have mercy (x2)
+
+    Lord help my unbelief,
+    Lord help my unbelief,
+    Oh Lord, have mercy (x2)
+- song: Holy Spirit
+  artist: Jesus Culture
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+
+    There’s nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
+
+    [Chorus]
+
+    Holy Spirit, You are welcome here
+    Come flood this place
+    And fill the atmosphere
+    Your glory, God
+    Is what our hearts long for
+    To be overcome
+    By Your presence, Lord
+    Your presence, Lord
+
+    [Verse 2]
+
+    I’ve tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    [Bridge]
+
+    [4x]
+    Let us become more aware of Your presence
+    Let us experience the glory of Your goodness
+    Here I stand
 - song: Simple Gospel
   artist: ''
   enabled: true
@@ -383,54 +449,6 @@
     mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
     sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
     now. "
-- song: Have Mercy
-  artist: Sandra McCracken
-  enabled: true
-  lyrics: |-
-    Have Mercy on me,
-    Have Mercy on me,
-    Oh Lord, have mercy (x2)
-
-    Lord help my unbelief,
-    Lord help my unbelief,
-    Oh Lord, have mercy (x2)
-- song: Holy Spirit
-  artist: Jesus Culture
-  enabled: true
-  lyrics: |-
-    [Verse 1]
-
-    There’s nothing worth more
-    That could ever come close
-    No thing can compare
-    You're our living hope
-    Your presence, Lord
-
-    [Chorus]
-
-    Holy Spirit, You are welcome here
-    Come flood this place
-    And fill the atmosphere
-    Your glory, God
-    Is what our hearts long for
-    To be overcome
-    By Your presence, Lord
-    Your presence, Lord
-
-    [Verse 2]
-
-    I’ve tasted and seen
-    Of the sweetest of loves
-    Where my heart becomes free
-    And my shame is undone
-    Your presence, Lord
-
-    [Bridge]
-
-    [4x]
-    Let us become more aware of Your presence
-    Let us experience the glory of Your goodness
-    Here I stand
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
   enabled: false
