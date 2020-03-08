@@ -1,22 +1,4 @@
 ---
-- song: Open The Eyes of My Heart
-  artist: Paul Baloche
-  enabled: true
-  lyrics: |-
-    Open the eyes of my heart, Lord
-    Open the eyes of my heart
-    I want to see You
-    I want to see You
-
-    To see You high and lifted up
-    Shining in the light of Your glory
-    Pour out Your power and love
-    As we sing holy, holy, holy
-
-    Holy, holy, holy
-    Holy, holy, holy
-    You are holy, holy, holy
-    I want to see you
 - song: Have Mercy
   artist: Sandra McCracken
   enabled: true
@@ -152,6 +134,24 @@
     When I stand in Your love
     Shame doesn't stand a chance
     When I stand in Your love
+- song: Open The Eyes of My Heart
+  artist: Paul Baloche
+  enabled: true
+  lyrics: |-
+    Open the eyes of my heart, Lord
+    Open the eyes of my heart
+    I want to see You
+    I want to see You
+
+    To see You high and lifted up
+    Shining in the light of Your glory
+    Pour out Your power and love
+    As we sing holy, holy, holy
+
+    Holy, holy, holy
+    Holy, holy, holy
+    You are holy, holy, holy
+    I want to see you
 - song: Not in a Hurry
   artist: Will Reagan
   enabled: false
