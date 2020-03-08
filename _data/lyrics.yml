@@ -1,4 +1,41 @@
 ---
+- song: Simple Gospel
+  artist: ''
+  enabled: true
+  lyrics: |-
+    I want to know You, Lord
+    Like I know a friend
+    I want to know You, Lord
+    I want to know You, Lord
+    Like I know a friend
+    I want to know You, Lord
+
+    So I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+
+    I use to think that I could box You in
+    But I'm laying down
+    I want to know You, Lord
+    I use to think that I could box You in
+    But I'm laying down
+    I want to know You, Lord
+
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I want to know You, Lord
+
+    Lord, I've been told to be ashamed
+    Lord, I've been told I don't measure up
+    Lord, I've been told I'm not good enough
+    But You're here with me
 - song: Not in a Hurry
   artist: Will Reagan
   enabled: false
@@ -446,43 +483,6 @@
     It's Your breath in our lungs
     So we pour out our praise
     To You only
-- song: Simple Gospel
-  artist: ''
-  enabled: false
-  lyrics: |-
-    I want to know You, Lord
-    Like I know a friend
-    I want to know You, Lord
-    I want to know You, Lord
-    Like I know a friend
-    I want to know You, Lord
-
-    So I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-
-    I use to think that I could box You in
-    But I'm laying down
-    I want to know You, Lord
-    I use to think that I could box You in
-    But I'm laying down
-    I want to know You, Lord
-
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I want to know You, Lord
-
-    Lord, I've been told to be ashamed
-    Lord, I've been told I don't measure up
-    Lord, I've been told I'm not good enough
-    But You're here with me
 - song: Grace Alone
   artist: Dustin Kensrue
   enabled: false
