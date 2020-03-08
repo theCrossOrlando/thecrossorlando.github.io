@@ -1,7 +1,7 @@
 ---
 - song: Open The Eyes of My Heart
   artist: Paul Baloche
-  enabled: ''
+  enabled: true
   lyrics: |-
     Open the eyes of my heart, Lord
     Open the eyes of my heart
@@ -9,7 +9,7 @@
     I want to see You
 
     To see You high and lifted up
-    Shinin' in the light of Your glory
+    Shining in the light of Your glory
     Pour out Your power and love
     As we sing holy, holy, holy
 
