@@ -1,7 +1,7 @@
 ---
 - song: Not in a Hurry
   artist: Will Reagan
-  enabled: true
+  enabled: false
   lyrics: |-
     Lord I don't want to rush on ahead
     In my own strength
@@ -26,7 +26,7 @@
     I'll be your friend, I want to see through Your eyes
 - song: In Christ Alone
   artist: Natalie Grant
-  enabled: true
+  enabled: false
   lyrics: |-
     In Christ alone my hope is found
     He is my light, my strength, my song
@@ -71,7 +71,7 @@
     So I'll stand
 - song: Once and For All
   artist: Lauren Daigle
-  enabled: true
+  enabled: false
   lyrics: |-
     God I give You all I can today
     These scattered ashes that I hid away
@@ -113,7 +113,7 @@
     Once and for all
 - song: Another In The Fire
   artist: Hillsong United
-  enabled: true
+  enabled: false
   lyrics: |+
     There's a grace when the heart is under fire
     Another way when the walls are closing in
