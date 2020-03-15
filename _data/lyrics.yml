@@ -1,37 +1,4 @@
 ---
-- song: It Is Well With My Soul
-  artist: ''
-  enabled: true
-  lyrics: |-
-    When peace like a river, attendeth my way,
-    When sorrows like sea billows roll
-    Whatever my lot, thou hast taught me to say
-    It is well, it is well, with my soul
-
-    It is well (it is well)
-    With my soul (with my soul)
-    It is well, it is well with my soul
-
-    Though Satan should buffet, though trials should come,
-    Let this blest assurance control,
-    That Christ has regarded my helpless estate,
-    And hath shed His own blood for my soul
-
-    It is well (it is well)
-    With my soul (with my soul)
-    It is well, it is well with my soul
-
-    My sin, oh, the bliss of this glorious thought
-    My sin, not in part but the whole,
-    Is nailed to the cross, and I bear it no more,
-    Praise the Lord, praise the Lord, o my soul
-
-    It is well (it is well)
-    With my soul (with my soul)
-    It is well, it is well with my soul
-    It is well (it is well)
-    With my soul (with my soul)
-    It is well, it is well with my soul
 - song: Have Mercy
   artist: Sandra McCracken
   enabled: true
@@ -43,6 +10,57 @@
     Lord help my unbelief,
     Lord help my unbelief,
     Oh Lord, have mercy (x2)
+- song: Grace Alone
+  artist: Dustin Kensrue
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+    I was an orphan lost at the Fall
+    Running away when I'd hear Your call
+    But Father, You worked Your will
+    I had no righteousness of my own
+    I had no right to draw near Your throne
+    But Father, You loved me still
+
+    [Chorus 1]
+    And in love before You laid the world's foundation
+    You predestined to adopt me as Your own
+    You have raised me so high up above my station
+    I'm a child of God by grace and grace alone
+
+    [Verse 2]
+    You left Your home to seek out the lost
+    You knew the great and terrible cost
+    But Jesus, Your face was set
+    I worked my fingers down to the bone
+    Nothing I did could ever atone
+    But Jesus, You paid my debt
+
+    [Chorus 2]
+    By Your blood, I have redemption and salvation
+    Lord, You died that I might reap what You have sown
+    And You rose that I might be a new creation
+    I am born again by grace and grace alone
+
+    [Verse 3]
+    I was in darkness all of my life
+    I never knew the day from the night
+    But Spirit, You made me see
+    I swore I knew the way on my own
+    Head full of rocks, a heart made of stone
+    But Spirit, You moved in me
+
+    [Chorus 3]
+    At your touch my sleeping spirit was awakened
+    On my darkened heart the light of Christ has shone
+    Called into a kingdom that cannot be shaken
+    Heaven's citizen by grace and grace alone
+
+    [Outro]
+    So I'll stand in faith by grace and grace alone
+    I will run the race by grace and grace alone
+    I will slay my sin by grace and grace alone
+    I will reach the end by grace and grace alone
 - song: Future/Past
   artist: John Mark McMillan
   enabled: true
@@ -97,6 +115,39 @@
     You are my first
     You are my last
     You are my future and my past
+- song: It Is Well With My Soul
+  artist: ''
+  enabled: true
+  lyrics: |-
+    When peace like a river, attendeth my way,
+    When sorrows like sea billows roll
+    Whatever my lot, thou hast taught me to say
+    It is well, it is well, with my soul
+
+    It is well (it is well)
+    With my soul (with my soul)
+    It is well, it is well with my soul
+
+    Though Satan should buffet, though trials should come,
+    Let this blest assurance control,
+    That Christ has regarded my helpless estate,
+    And hath shed His own blood for my soul
+
+    It is well (it is well)
+    With my soul (with my soul)
+    It is well, it is well with my soul
+
+    My sin, oh, the bliss of this glorious thought
+    My sin, not in part but the whole,
+    Is nailed to the cross, and I bear it no more,
+    Praise the Lord, praise the Lord, o my soul
+
+    It is well (it is well)
+    With my soul (with my soul)
+    It is well, it is well with my soul
+    It is well (it is well)
+    With my soul (with my soul)
+    It is well, it is well with my soul
 - song: In Christ Alone
   artist: Natalie Grant
   enabled: true
@@ -142,57 +193,6 @@
     All other ground, all other ground
     Is sinking sand, is sinking sand
     So I'll stand
-- song: Grace Alone
-  artist: Dustin Kensrue
-  enabled: true
-  lyrics: |-
-    [Verse 1]
-    I was an orphan lost at the Fall
-    Running away when I'd hear Your call
-    But Father, You worked Your will
-    I had no righteousness of my own
-    I had no right to draw near Your throne
-    But Father, You loved me still
-
-    [Chorus 1]
-    And in love before You laid the world's foundation
-    You predestined to adopt me as Your own
-    You have raised me so high up above my station
-    I'm a child of God by grace and grace alone
-
-    [Verse 2]
-    You left Your home to seek out the lost
-    You knew the great and terrible cost
-    But Jesus, Your face was set
-    I worked my fingers down to the bone
-    Nothing I did could ever atone
-    But Jesus, You paid my debt
-
-    [Chorus 2]
-    By Your blood, I have redemption and salvation
-    Lord, You died that I might reap what You have sown
-    And You rose that I might be a new creation
-    I am born again by grace and grace alone
-
-    [Verse 3]
-    I was in darkness all of my life
-    I never knew the day from the night
-    But Spirit, You made me see
-    I swore I knew the way on my own
-    Head full of rocks, a heart made of stone
-    But Spirit, You moved in me
-
-    [Chorus 3]
-    At your touch my sleeping spirit was awakened
-    On my darkened heart the light of Christ has shone
-    Called into a kingdom that cannot be shaken
-    Heaven's citizen by grace and grace alone
-
-    [Outro]
-    So I'll stand in faith by grace and grace alone
-    I will run the race by grace and grace alone
-    I will slay my sin by grace and grace alone
-    I will reach the end by grace and grace alone
 - song: Holy Spirit
   artist: Jesus Culture
   enabled: false
