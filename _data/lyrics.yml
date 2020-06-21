@@ -1,7 +1,73 @@
 ---
+- song: Lament Liturgy
+  enabled: true
+  lyrics: |-
+    Call to Worship
+
+    Leader: Let us pray
+
+    L: The God of love opens our eyes to see the suffering of all our sisters and brothers
+
+    People: And we will see
+
+    L: The God of justice opens our ears to hear those who cry out
+
+    P: And we will hear
+
+    L: The God of healing opens our hearts to acknowledge and share our own pain
+
+    P: And we will bear it together
+
+    L: In the power of the Spirit we will know the truth
+
+    P: and the truth will set us free
+
+    L: Let us pray together
+
+    All: O God, You who created us all in Your image, who knew us all before we were born, affirm in us the value Your love has unquestionably given to us.  As we embody our core identity found in you, may those who are dehumanized, either by the oppression others or by their own actions of hate, be granted the permission to live in the freedom you offer—By Your compassion grant us what we need—the courage necessary to love boldly, the vulnerability necessary to trust, the submission necessary to heal, the conviction necessary to repent. We belong to You.
+
+    Time of Confession
+
+    L: Let us confess our sins before the Lord. Respond together by saying, “Forgive us O Lord.”
+
+    L: For the times when we have been too consumed by our own pain or distracted by the tasks of life to see and respond to the deaths of those You hold dear,
+
+    A: Forgive us, O Lord
+
+    L: For the times our own hearts desire to hate those who cause us pain,
+
+    A: Forgive us, O Lord
+
+    L: For ways we have not welcomed You into our suffering and disappointment, so that we might forgive,
+
+    A: Forgive us, O Lord
+
+    L: For the ways we have caused You and others pain—for our own sin…
+
+    A: Forgive us, O Lord
+
+    A: Your peace be with us, O Lord
+
+    Prayer of Lamentation
+
+    L: Great God of love, your creation weeps.
+
+    A: Hear the cry of the voiceless.
+
+    L: See the pain and injustice perpetrated on your children.
+
+    A: Bless those who grieve and mourn the broken kingdom on Earth.
+
+    L: “It’s the Holy Spirit’s role to convict, God’s role to judge, and ours to love.”
+
+    A: We ask that you help us to love.
+
+    L: We release the resentment and bitterness we hold towards people who have hurt us, people like us and our friends.
+
+    A: Let justice roll down like waters and righteousness like a mighty stream.  Amen.
 - song: Have Mercy
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Have Mercy on me,
     Have Mercy on me,
@@ -12,7 +78,7 @@
     Oh Lord, have mercy (x2)
 - song: Grace Alone
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     I was an orphan lost at the Fall
     Running away when I'd hear Your call
@@ -56,7 +122,7 @@
     I will reach the end by grace and grace alone
 - song: Future/Past
   artist: John Mark McMillan
-  enabled: true
+  enabled: false
   lyrics: |-
     You hold the reigns on the sun and the moon,
     Like horses driven by kings
@@ -110,7 +176,7 @@
     You are my future and my past
 - song: It Is Well With My Soul
   artist: ''
-  enabled: true
+  enabled: false
   lyrics: |-
     When peace like a river, attendeth my way,
     When sorrows like sea billows roll
@@ -143,7 +209,7 @@
     It is well, it is well with my soul
 - song: In Christ Alone
   artist: Natalie Grant
-  enabled: true
+  enabled: false
   lyrics: |-
     In Christ alone my hope is found
     He is my light, my strength, my song
