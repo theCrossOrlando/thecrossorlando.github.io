@@ -1,4 +1,104 @@
 ---
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: false
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Almighty God to You all hearts are open
+    You take away our sickness and our sin
+    Oh Lamb of God we gather at Your table
+    In bread and wine, You have supplied our needs
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+- song: So Will I (100 Billion X)
+  artist: Hillsong United
+  enabled: false
+  lyrics: |-
+    God of creation
+    There at the start
+    Before the beginning of time
+    With no point of reference
+    You spoke to the dark
+    And fleshed out the wonder of light
+
+    And as You speak
+    A hundred billion galaxies are born
+    In the vapor of Your breath the planets form
+    If the stars were made to worship so will I
+    I can see Your heart in everything You’ve made
+    Every burning star a signal fire of grace
+    If creation sings Your praises so will I
+    So will I
+
+    God of Your promise
+    You don’t speak in vain
+    No syllable empty or void
+    For once You have spoken
+    All nature and science follow the sound of Your voice
+
+    And as You speak
+    A hundred billion creatures catch Your breath
+    Evolving in pursuit of what You said
+    If it all reveals Your nature so will I
+    I can see Your heart in everything You say
+    Every painted sky a canvas of Your grace
+    If creation still obeys You so will I
+    So will I
+
+    If the stars were made to worship so will I
+    If the mountains bow in reverence so will I
+    If the oceans roar Your greatness so will I
+    For if everything exists to lift You high so will I
+    If the wind goes where You send it so will I
+    If the rocks cry out in silence so will I
+    If the sum of all our praises still falls shy
+    Then we’ll sing again a hundred billion times, whoa
+
+    God of salvation
+    You chased down my heart
+    Through all of my failure and pride
+    On a hill You created
+    The light of the world
+    Abandoned in darkness to die
+
+    And as You speak
+    A hundred billion failures disappear
+    Where You lost Your life so I could find it here
+    If You left the grave behind You so will I
+    I can see Your heart in everything You’ve done
+    Every part designed in a work of art called love
+    If You gladly chose surrender so will I
+    I can see Your heart
+    Eight billion different ways
+    Every precious one
+    A child You died to save
+    If You gave Your life to love them so will I
+
+    Like You would again a hundred billion times
+    But what measure could amount to Your desire
+    You’re the One who never leaves the one behind
+
+    Halelujah!
 - song: Lament Liturgy
   enabled: true
   lyrics: |-
@@ -716,37 +816,6 @@
     You will never come at all.
 
     Refrain
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Almighty God to You all hearts are open
-    You take away our sickness and our sin
-    Oh Lamb of God we gather at Your table
-    In bread and wine, You have supplied our needs
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Great Are You Lord
   artist: All Sons & Daughters
   enabled: false
@@ -1283,75 +1352,6 @@
     Heaven and earth
     Rejoice in His holy Name
     He is exalted the King is exalted on high
-- song: So Will I (100 Billion X)
-  artist: Hillsong United
-  enabled: false
-  lyrics: |-
-    God of creation
-    There at the start
-    Before the beginning of time
-    With no point of reference
-    You spoke to the dark
-    And fleshed out the wonder of light
-
-    And as You speak
-    A hundred billion galaxies are born
-    In the vapor of Your breath the planets form
-    If the stars were made to worship so will I
-    I can see Your heart in everything You’ve made
-    Every burning star a signal fire of grace
-    If creation sings Your praises so will I
-    So will I
-
-    God of Your promise
-    You don’t speak in vain
-    No syllable empty or void
-    For once You have spoken
-    All nature and science follow the sound of Your voice
-
-    And as You speak
-    A hundred billion creatures catch Your breath
-    Evolving in pursuit of what You said
-    If it all reveals Your nature so will I
-    I can see Your heart in everything You say
-    Every painted sky a canvas of Your grace
-    If creation still obeys You so will I
-    So will I
-
-    If the stars were made to worship so will I
-    If the mountains bow in reverence so will I
-    If the oceans roar Your greatness so will I
-    For if everything exists to lift You high so will I
-    If the wind goes where You send it so will I
-    If the rocks cry out in silence so will I
-    If the sum of all our praises still falls shy
-    Then we’ll sing again a hundred billion times, whoa
-
-    God of salvation
-    You chased down my heart
-    Through all of my failure and pride
-    On a hill You created
-    The light of the world
-    Abandoned in darkness to die
-
-    And as You speak
-    A hundred billion failures disappear
-    Where You lost Your life so I could find it here
-    If You left the grave behind You so will I
-    I can see Your heart in everything You’ve done
-    Every part designed in a work of art called love
-    If You gladly chose surrender so will I
-    I can see Your heart
-    Eight billion different ways
-    Every precious one
-    A child You died to save
-    If You gave Your life to love them so will I
-
-    Like You would again a hundred billion times
-    But what measure could amount to Your desire
-    You’re the One who never leaves the one behind
-
-    Halelujah!
 - song: Help Me Find My Own Flame
   artist: Will Reagan & United Pursuit
   enabled: false
@@ -3269,7 +3269,7 @@
     When we can have you today.
 - song: We Have Come
   artist: Will Reagan
-  enabled: false
+  enabled: true
   lyrics: |-
     We have come to give You glory
     We have come to give You praise
