@@ -1,7 +1,22 @@
 ---
+- song: We Have Come
+  artist: Will Reagan
+  enabled: true
+  lyrics: |-
+    We have come to give You glory
+    We have come to give You praise
+
+    You’re welcome in this place
+
+    Have Your way
+    Have Your way
+    Have Your way, God
+
+    Bless the Lord oh my soul
+    And let all that’s within me shout out
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: false
+  enabled: true
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -32,7 +47,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: So Will I (100 Billion X)
   artist: Hillsong United
-  enabled: false
+  enabled: true
   lyrics: |-
     God of creation
     There at the start
@@ -99,6 +114,32 @@
     You’re the One who never leaves the one behind
 
     Halelujah!
+- song: More Than The Watchman (Psalm 130)
+  artist: Rebecca St James
+  enabled: true
+  lyrics: |-
+    Out of the depths I cry to my Lord, he lifted me up, he lifted me up
+    Out of the depths I cry to my Lord, he lifted me up, he lifted me
+
+    If you kept a record of sins who could stand, my Lord
+    Who could stand up, Lord, who could stand up?
+    If you kept a record of sins who could stand, my Lord
+    Who could stand up, Lord, who could stand up?
+
+    With you, oh Lord, there is forgiveness
+    With you, oh Lord, unfailing love
+    With you, oh Lord, full redemption
+    You have bought back my soul from the dead with your blood
+
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morning sun
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morn
+
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morning sun
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morn
 - song: Lament Liturgy
   enabled: true
   lyrics: |-
@@ -1424,32 +1465,6 @@
     One with Himself I cannot die
     My soul is purchased by His blood,
     My life is hid with Christ on high
-- song: More Than The Watchman (Psalm 130)
-  artist: Rebecca St James
-  enabled: false
-  lyrics: |-
-    Out of the depths I cry to my Lord, he lifted me up, he lifted me up
-    Out of the depths I cry to my Lord, he lifted me up, he lifted me
-
-    If you kept a record of sins who could stand, my Lord
-    Who could stand up, Lord, who could stand up?
-    If you kept a record of sins who could stand, my Lord
-    Who could stand up, Lord, who could stand up?
-
-    With you, oh Lord, there is forgiveness
-    With you, oh Lord, unfailing love
-    With you, oh Lord, full redemption
-    You have bought back my soul from the dead with your blood
-
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morning sun
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morn
-
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morning sun
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morn
 - song: Good Good Father
   artist: Chris Tomlin
   enabled: false
@@ -2483,34 +2498,6 @@
     And wonders of His love
     And wonders of His love
     And wonder wonders of His love
-- song: Go Tell It on the Mountain
-  artist: 
-  enabled: false
-  lyrics: |-
-    Go tell it on the mountain
-    Over the hills and everywhere
-    Go tell it on the mountain
-    Our Jesus Christ is born
-
-    When I was a seeker
-    I sought both night and day
-    I asked the Lord to help me
-    And he showed me the way
-
-    Go tell it on the mountain
-    Over the hills and everywhere
-    Go tell it on the mountain
-    Our Jesus Christ is born
-
-    He made me a watchman
-    Upon a city wall
-    And if I am a Christian
-    I am the least of all
-
-    Go tell it on the mountain
-    Over the hills and everywhere
-    Go tell it on the mountain
-    Our Jesus Christ is born
 - song: How Great is our God
   artist: Chris Tomlin
   enabled: false
@@ -2544,6 +2531,34 @@
     How great is our God
 
     [Chorus]
+- song: Go Tell It on the Mountain
+  artist: 
+  enabled: false
+  lyrics: |-
+    Go tell it on the mountain
+    Over the hills and everywhere
+    Go tell it on the mountain
+    Our Jesus Christ is born
+
+    When I was a seeker
+    I sought both night and day
+    I asked the Lord to help me
+    And he showed me the way
+
+    Go tell it on the mountain
+    Over the hills and everywhere
+    Go tell it on the mountain
+    Our Jesus Christ is born
+
+    He made me a watchman
+    Upon a city wall
+    And if I am a Christian
+    I am the least of all
+
+    Go tell it on the mountain
+    Over the hills and everywhere
+    Go tell it on the mountain
+    Our Jesus Christ is born
 - song: Closer Walk With Thee
   artist: 
   enabled: false
@@ -3267,21 +3282,6 @@
 
     Why Wait for Tomorrow?
     When we can have you today.
-- song: We Have Come
-  artist: Will Reagan
-  enabled: true
-  lyrics: |-
-    We have come to give You glory
-    We have come to give You praise
-
-    You’re welcome in this place
-
-    Have Your way
-    Have Your way
-    Have Your way, God
-
-    Bless the Lord oh my soul
-    And let all that’s within me shout out
 - song: Great Rejoicing
   artist: Crowder
   enabled: false
