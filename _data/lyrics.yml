@@ -1,7 +1,227 @@
 ---
+- song: Holy Spirit
+  artist: Jesus Culture
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+
+    There’s nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
+
+    [Chorus]
+
+    Holy Spirit, You are welcome here
+    Come flood this place
+    And fill the atmosphere
+    Your glory, God
+    Is what our hearts long for
+    To be overcome
+    By Your presence, Lord
+    Your presence, Lord
+
+    [Verse 2]
+
+    I’ve tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    [Bridge]
+
+    [4x]
+    Let us become more aware of Your presence
+    Let us experience the glory of Your goodness
+    Here I stand
+- song: Simple Gospel
+  artist: ''
+  enabled: true
+  lyrics: |-
+    I want to know You, Lord
+    Like I know a friend
+    I want to know You, Lord
+    I want to know You, Lord
+    Like I know a friend
+    I want to know You, Lord
+
+    So I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+
+    I use to think that I could box You in
+    But I'm laying down
+    I want to know You, Lord
+    I use to think that I could box You in
+    But I'm laying down
+    I want to know You, Lord
+
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I want to know You, Lord
+
+    Lord, I've been told to be ashamed
+    Lord, I've been told I don't measure up
+    Lord, I've been told I'm not good enough
+    But You're here with me
+- song: Come Thou Fount
+  artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    Come thou fount of every blessing
+    Tune my heart to sing Thy grace
+    Streams of mercy never ceasing
+    Call for songs of loudest praise
+    Teach me some melodious sonnet
+    Sung by flaming tongues above
+    I'll praise the mount I'm fixed upon it
+    Mount of Thy redeeming love
+
+    Here I raise my Ebenezer
+    Hither by Thy help I come
+    And I hope by Thy good pleasure
+    Safely to arrive at home
+    Jesus sought me when a stranger
+    Wondering from the fold of God
+    He, to rescue me from danger
+    Interposed His precious blood
+
+    O to grace how great a debtor
+    daily I'm constrained to be!
+    Let Thy goodness like a fetter,
+    bind my wandering heart to Thee
+    Prone to wander Lord I feel it,
+    prone to leave the God I love
+    Here's my heart, O take and seal it,
+    seal it for Thy courts above
+- song: Stand In Your Love
+  artist: Josh Baldwin
+  enabled: true
+  lyrics: |-
+    When darkness tries to roll over my bones
+    When sorrow tries to steal the joy I own
+    When brokenness and pain is all I know
+    I won't be shaken, I won't be shaken (Cause)
+
+    (chorus)
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+
+    Shame no longer has a place to hide
+    I am not a captive to the lies
+    Not afraid to leave my past behind
+    I won't be shaken, I won't be shaken
+
+    (chorus)
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+
+    There's power that can break off every chain
+    There's a power that can empty out a grave
+    There's power that washes every stain
+    (No) I won't be shaken, I won't be shaken
+
+    (chorus)
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+
+    (chorus)
+    (Cause) Shame doesn't stand a chance
+    When I stand in Your love
+    Shame doesn't stand a chance
+    When I stand in Your love
+    Shame doesn't stand a chance
+    When I stand in Your love
+- song: Lament Liturgy
+  enabled: false
+  lyrics: |-
+    Call to Worship
+
+    Leader: Let us pray
+
+    L: The God of love opens our eyes to see the suffering of all our sisters and brothers
+
+    People: And we will see
+
+    L: The God of justice opens our ears to hear those who cry out
+
+    P: And we will hear
+
+    L: The God of healing opens our hearts to acknowledge and share our own pain
+
+    P: And we will bear it together
+
+    L: In the power of the Spirit we will know the truth
+
+    P: and the truth will set us free
+
+    L: Let us pray together
+
+    All: O God, You who created us all in Your image, who knew us all before we were born, affirm in us the value Your love has unquestionably given to us.  As we embody our core identity found in you, may those who are dehumanized, either by the oppression others or by their own actions of hate, be granted the permission to live in the freedom you offer—By Your compassion grant us what we need—the courage necessary to love boldly, the vulnerability necessary to trust, the submission necessary to heal, the conviction necessary to repent. We belong to You.
+
+    Time of Confession
+
+    L: Let us confess our sins before the Lord. Respond together by saying, “Forgive us O Lord.”
+
+    L: For the times when we have been too consumed by our own pain or distracted by the tasks of life to see and respond to the deaths of those You hold dear,
+
+    A: Forgive us, O Lord
+
+    L: For the times our own hearts desire to hate those who cause us pain,
+
+    A: Forgive us, O Lord
+
+    L: For ways we have not welcomed You into our suffering and disappointment, so that we might forgive,
+
+    A: Forgive us, O Lord
+
+    L: For the ways we have caused You and others pain—for our own sin…
+
+    A: Forgive us, O Lord
+
+    A: Your peace be with us, O Lord
+
+    Prayer of Lamentation
+
+    L: Great God of love, your creation weeps.
+
+    A: Hear the cry of the voiceless.
+
+    L: See the pain and injustice perpetrated on your children.
+
+    A: Bless those who grieve and mourn the broken kingdom on Earth.
+
+    L: “It’s the Holy Spirit’s role to convict, God’s role to judge, and ours to love.”
+
+    A: We ask that you help us to love.
+
+    L: We release the resentment and bitterness we hold towards people who have hurt us, people like us and our friends.
+
+    A: Let justice roll down like waters and righteousness like a mighty stream.  Amen.
 - song: Grace Alone
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     I was an orphan lost at the Fall
     Running away when I'd hear Your call
@@ -45,7 +265,7 @@
     I will reach the end by grace and grace alone
 - song: Once and For All
   artist: Lauren Daigle
-  enabled: true
+  enabled: false
   lyrics: |-
     God I give You all I can today
     These scattered ashes that I hid away
@@ -87,7 +307,7 @@
     Once and for all
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -118,7 +338,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: All Creatures of Our God and King
   artist: Francis of Assisi
-  enabled: true
+  enabled: false
   lyrics: |-
     All creatures of our God and King
     Lift up your voice and with us sing,
@@ -260,72 +480,6 @@
     More than watchman who wait for the morning sun
     So my soul waits for the Lord more than watchmen wait
     More than watchman who wait for the morn
-- song: Lament Liturgy
-  enabled: false
-  lyrics: |-
-    Call to Worship
-
-    Leader: Let us pray
-
-    L: The God of love opens our eyes to see the suffering of all our sisters and brothers
-
-    People: And we will see
-
-    L: The God of justice opens our ears to hear those who cry out
-
-    P: And we will hear
-
-    L: The God of healing opens our hearts to acknowledge and share our own pain
-
-    P: And we will bear it together
-
-    L: In the power of the Spirit we will know the truth
-
-    P: and the truth will set us free
-
-    L: Let us pray together
-
-    All: O God, You who created us all in Your image, who knew us all before we were born, affirm in us the value Your love has unquestionably given to us.  As we embody our core identity found in you, may those who are dehumanized, either by the oppression others or by their own actions of hate, be granted the permission to live in the freedom you offer—By Your compassion grant us what we need—the courage necessary to love boldly, the vulnerability necessary to trust, the submission necessary to heal, the conviction necessary to repent. We belong to You.
-
-    Time of Confession
-
-    L: Let us confess our sins before the Lord. Respond together by saying, “Forgive us O Lord.”
-
-    L: For the times when we have been too consumed by our own pain or distracted by the tasks of life to see and respond to the deaths of those You hold dear,
-
-    A: Forgive us, O Lord
-
-    L: For the times our own hearts desire to hate those who cause us pain,
-
-    A: Forgive us, O Lord
-
-    L: For ways we have not welcomed You into our suffering and disappointment, so that we might forgive,
-
-    A: Forgive us, O Lord
-
-    L: For the ways we have caused You and others pain—for our own sin…
-
-    A: Forgive us, O Lord
-
-    A: Your peace be with us, O Lord
-
-    Prayer of Lamentation
-
-    L: Great God of love, your creation weeps.
-
-    A: Hear the cry of the voiceless.
-
-    L: See the pain and injustice perpetrated on your children.
-
-    A: Bless those who grieve and mourn the broken kingdom on Earth.
-
-    L: “It’s the Holy Spirit’s role to convict, God’s role to judge, and ours to love.”
-
-    A: We ask that you help us to love.
-
-    L: We release the resentment and bitterness we hold towards people who have hurt us, people like us and our friends.
-
-    A: Let justice roll down like waters and righteousness like a mighty stream.  Amen.
 - song: Have Mercy
   artist: Sandra McCracken
   enabled: false
@@ -469,130 +623,6 @@
     All other ground, all other ground
     Is sinking sand, is sinking sand
     So I'll stand
-- song: Holy Spirit
-  artist: Jesus Culture
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-
-    There’s nothing worth more
-    That could ever come close
-    No thing can compare
-    You're our living hope
-    Your presence, Lord
-
-    [Chorus]
-
-    Holy Spirit, You are welcome here
-    Come flood this place
-    And fill the atmosphere
-    Your glory, God
-    Is what our hearts long for
-    To be overcome
-    By Your presence, Lord
-    Your presence, Lord
-
-    [Verse 2]
-
-    I’ve tasted and seen
-    Of the sweetest of loves
-    Where my heart becomes free
-    And my shame is undone
-    Your presence, Lord
-
-    [Bridge]
-
-    [4x]
-    Let us become more aware of Your presence
-    Let us experience the glory of Your goodness
-    Here I stand
-- song: Simple Gospel
-  artist: ''
-  enabled: false
-  lyrics: |-
-    I want to know You, Lord
-    Like I know a friend
-    I want to know You, Lord
-    I want to know You, Lord
-    Like I know a friend
-    I want to know You, Lord
-
-    So I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-
-    I use to think that I could box You in
-    But I'm laying down
-    I want to know You, Lord
-    I use to think that I could box You in
-    But I'm laying down
-    I want to know You, Lord
-
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I want to know You, Lord
-
-    Lord, I've been told to be ashamed
-    Lord, I've been told I don't measure up
-    Lord, I've been told I'm not good enough
-    But You're here with me
-- song: Stand In Your Love
-  artist: Josh Baldwin
-  enabled: false
-  lyrics: |-
-    When darkness tries to roll over my bones
-    When sorrow tries to steal the joy I own
-    When brokenness and pain is all I know
-    I won't be shaken, I won't be shaken (Cause)
-
-    (chorus)
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-
-    Shame no longer has a place to hide
-    I am not a captive to the lies
-    Not afraid to leave my past behind
-    I won't be shaken, I won't be shaken
-
-    (chorus)
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-
-    There's power that can break off every chain
-    There's a power that can empty out a grave
-    There's power that washes every stain
-    (No) I won't be shaken, I won't be shaken
-
-    (chorus)
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-
-    (chorus)
-    (Cause) Shame doesn't stand a chance
-    When I stand in Your love
-    Shame doesn't stand a chance
-    When I stand in Your love
-    Shame doesn't stand a chance
-    When I stand in Your love
 - song: Open The Eyes of My Heart
   artist: Paul Baloche
   enabled: false
@@ -1098,36 +1128,6 @@
 
     In the house of God forever
     In the house of God forever
-- song: Come Thou Fount
-  artist: Chris Tomlin
-  enabled: false
-  lyrics: |-
-    Come thou fount of every blessing
-    Tune my heart to sing Thy grace
-    Streams of mercy never ceasing
-    Call for songs of loudest praise
-    Teach me some melodious sonnet
-    Sung by flaming tongues above
-    I'll praise the mount I'm fixed upon it
-    Mount of Thy redeeming love
-
-    Here I raise my Ebenezer
-    Hither by Thy help I come
-    And I hope by Thy good pleasure
-    Safely to arrive at home
-    Jesus sought me when a stranger
-    Wondering from the fold of God
-    He, to rescue me from danger
-    Interposed His precious blood
-
-    O to grace how great a debtor
-    daily I'm constrained to be!
-    Let Thy goodness like a fetter,
-    bind my wandering heart to Thee
-    Prone to wander Lord I feel it,
-    prone to leave the God I love
-    Here's my heart, O take and seal it,
-    seal it for Thy courts above
 - song: Set a Fire
   artist: Will Reagan & United Pursuit
   enabled: false
