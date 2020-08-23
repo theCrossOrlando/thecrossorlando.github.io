@@ -32,7 +32,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Before the Throne
   artist: Dustin Kensrue
-  enabled: false
+  enabled: true
   lyrics: |-
     Before the throne of God above
     I have a strong and perfect plea.
