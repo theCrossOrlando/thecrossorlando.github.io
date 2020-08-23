@@ -63,7 +63,7 @@
     My life is hid with Christ on high
 - song: I Belong to You
   artist: Derek Johnson
-  enabled: true
+  enabled: false
   lyrics: |-
     You can be the One that steals my heart
     With just a simple thought of who You are
@@ -158,7 +158,7 @@
     Oh Lord, have mercy (x2)
 - song: Come Holy One
   artist: Young Oceans
-  enabled: false
+  enabled: true
   lyrics: |-
     Hasten now, O loving Lord to us
     We’re thirsty
