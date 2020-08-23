@@ -50,9 +50,106 @@
 
     And I belong to You
     Forever, I belong to You
+- song: Come Holy One
+  artist: Young Oceans
+  enabled: false
+  lyrics: |-
+    Hasten now, O loving Lord to us
+    We’re thirsty
+    Fill these souls, Spirit, every hour
+    We need Thee
+
+    Refrain
+
+    Come, come Holy One
+    Come meet us
+    All, all for Your glory
+    Lord Jesus
+
+    Lead us on, the perfect path O Lord And may we
+    Sin no more. This
+    spotless bride, the Church
+    Is Yours
+
+    I am yours, only yours
+    I am yours, only yours
+    We are yours, only yours
+    We are yours, only yours
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: false
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Almighty God to You all hearts are open
+    You take away our sickness and our sin
+    Oh Lamb of God we gather at Your table
+    In bread and wine, You have supplied our needs
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+- song: It is Well
+  artist: 
+  enabled: false
+  lyrics: |-
+    Grander earth has quaked before
+    Moved by the sound of His voice
+    Seas that are shaken and stirred
+    Can be calmed and broken for my regard
+
+    And through it all, through it all
+    My eyes are on You
+    And through it all, through it all
+    It is well
+
+    And through it all, through it all
+    My eyes are on You
+    And it is well with me
+
+    And far be it from me to not believe
+    Even when my eyes can't see
+
+    And this mountain that's in front of me
+    Will be thrown into the midst of the sea
+
+    And through it all, through it all
+    My eyes are on You
+    And through it all, through it all
+    It is well
+
+    And through it all, through it all
+    My eyes are on You
+    And it is well
+    It is well
+
+    So let go my soul and trust in Him
+    The waves and wind still know His name
+    So let go my soul and trust in Him
+    The waves and wind still know His name
+    So let go my soul and trust in Him
+    The waves and wind still know His name
+    The waves and wind still know His name
 - song: Holy Spirit
   artist: Jesus Culture
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
 
@@ -89,7 +186,7 @@
     Here I stand
 - song: Simple Gospel
   artist: ''
-  enabled: true
+  enabled: false
   lyrics: |-
     I want to know You, Lord
     Like I know a friend
@@ -126,7 +223,7 @@
     But You're here with me
 - song: Come Thou Fount
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     Come thou fount of every blessing
     Tune my heart to sing Thy grace
@@ -356,37 +453,6 @@
     Once and for all
     Oh once and for all
     Once and for all
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Almighty God to You all hearts are open
-    You take away our sickness and our sin
-    Oh Lamb of God we gather at Your table
-    In bread and wine, You have supplied our needs
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: All Creatures of Our God and King
   artist: Francis of Assisi
   enabled: false
@@ -780,47 +846,6 @@
     And I know I will never be alone
 
 
-- song: It is Well
-  artist: 
-  enabled: false
-  lyrics: |-
-    Grander earth has quaked before
-    Moved by the sound of His voice
-    Seas that are shaken and stirred
-    Can be calmed and broken for my regard
-
-    And through it all, through it all
-    My eyes are on You
-    And through it all, through it all
-    It is well
-
-    And through it all, through it all
-    My eyes are on You
-    And it is well with me
-
-    And far be it from me to not believe
-    Even when my eyes can't see
-
-    And this mountain that's in front of me
-    Will be thrown into the midst of the sea
-
-    And through it all, through it all
-    My eyes are on You
-    And through it all, through it all
-    It is well
-
-    And through it all, through it all
-    My eyes are on You
-    And it is well
-    It is well
-
-    So let go my soul and trust in Him
-    The waves and wind still know His name
-    So let go my soul and trust in Him
-    The waves and wind still know His name
-    So let go my soul and trust in Him
-    The waves and wind still know His name
-    The waves and wind still know His name
 - song: Your Love is Strong
   artist: Jon Foreman
   enabled: false
@@ -1322,31 +1347,6 @@
     with the dawn of redeeming grace,
     Jesus Lord at thy birth,
     Jesus Lord at thy birth.
-- song: Come Holy One
-  artist: Young Oceans
-  enabled: false
-  lyrics: |-
-    Hasten now, O loving Lord to us
-    We’re thirsty
-    Fill these souls, Spirit, every hour
-    We need Thee
-
-    Refrain
-
-    Come, come Holy One
-    Come meet us
-    All, all for Your glory
-    Lord Jesus
-
-    Lead us on, the perfect path O Lord And may we
-    Sin no more. This
-    spotless bride, the Church
-    Is Yours
-
-    I am yours, only yours
-    I am yours, only yours
-    We are yours, only yours
-    We are yours, only yours
 - song: Called Me Higher
   artist: All Sons & Daughters
   enabled: false
