@@ -1,7 +1,49 @@
 ---
+- song: Have Mercy
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Have Mercy on me,
+    Have Mercy on me,
+    Oh Lord, have mercy (x2)
+
+    Lord help my unbelief,
+    Lord help my unbelief,
+    Oh Lord, have mercy (x2)
+- song: Before the Throne
+  artist: Dustin Kensrue
+  enabled: false
+  lyrics: |-
+    Before the throne of God above
+    I have a strong and perfect plea.
+    A great high Priest whose Name is Love
+    Who ever lives and pleads for me
+
+    My name is graven on His hands
+    My name is written on His heart.
+    I know that while in Heaven He stands
+    No tongue can bid me thence depart
+    My life is hid with Christ on high
+
+    When Satan tempts me to despair
+    And tells me of the guilt within
+    Upward I look and see Him there
+    Who made an end of all my sin
+    Because the sinless Savior died
+    My sinful soul is counted free
+    For God the just is satisfied
+    To look on Him and pardon me.
+
+    Behold Him there the risen Lamb
+    My perfect spotless righteousness
+    The great unchangeable I AM
+    The King of glory and of grace,
+    One with Himself I cannot die
+    My soul is purchased by His blood,
+    My life is hid with Christ on high
 - song: I Belong to You
   artist: Derek Johnson
-  enabled: false
+  enabled: true
   lyrics: |-
     You can be the One that steals my heart
     With just a simple thought of who You are
@@ -50,6 +92,39 @@
 
     And I belong to You
     Forever, I belong to You
+- song: It Is Well With My Soul
+  artist: ''
+  enabled: false
+  lyrics: |-
+    When peace like a river, attendeth my way,
+    When sorrows like sea billows roll
+    Whatever my lot, thou hast taught me to say
+    It is well, it is well, with my soul
+
+    It is well (it is well)
+    With my soul (with my soul)
+    It is well, it is well with my soul
+
+    Though Satan should buffet, though trials should come,
+    Let this blest assurance control,
+    That Christ has regarded my helpless estate,
+    And hath shed His own blood for my soul
+
+    It is well (it is well)
+    With my soul (with my soul)
+    It is well, it is well with my soul
+
+    My sin, oh, the bliss of this glorious thought
+    My sin, not in part but the whole,
+    Is nailed to the cross, and I bear it no more,
+    Praise the Lord, praise the Lord, o my soul
+
+    It is well (it is well)
+    With my soul (with my soul)
+    It is well, it is well with my soul
+    It is well (it is well)
+    With my soul (with my soul)
+    It is well, it is well with my soul
 - song: Come Holy One
   artist: Young Oceans
   enabled: false
@@ -106,47 +181,6 @@
     To you all hearts are open, Almighty God…
 
     Hallelujah, hallelujah, hallelujah, hallelujah
-- song: It is Well
-  artist: 
-  enabled: false
-  lyrics: |-
-    Grander earth has quaked before
-    Moved by the sound of His voice
-    Seas that are shaken and stirred
-    Can be calmed and broken for my regard
-
-    And through it all, through it all
-    My eyes are on You
-    And through it all, through it all
-    It is well
-
-    And through it all, through it all
-    My eyes are on You
-    And it is well with me
-
-    And far be it from me to not believe
-    Even when my eyes can't see
-
-    And this mountain that's in front of me
-    Will be thrown into the midst of the sea
-
-    And through it all, through it all
-    My eyes are on You
-    And through it all, through it all
-    It is well
-
-    And through it all, through it all
-    My eyes are on You
-    And it is well
-    It is well
-
-    So let go my soul and trust in Him
-    The waves and wind still know His name
-    So let go my soul and trust in Him
-    The waves and wind still know His name
-    So let go my soul and trust in Him
-    The waves and wind still know His name
-    The waves and wind still know His name
 - song: Holy Spirit
   artist: Jesus Culture
   enabled: false
@@ -597,17 +631,6 @@
     More than watchman who wait for the morning sun
     So my soul waits for the Lord more than watchmen wait
     More than watchman who wait for the morn
-- song: Have Mercy
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Have Mercy on me,
-    Have Mercy on me,
-    Oh Lord, have mercy (x2)
-
-    Lord help my unbelief,
-    Lord help my unbelief,
-    Oh Lord, have mercy (x2)
 - song: Future/Past
   artist: John Mark McMillan
   enabled: false
@@ -662,39 +685,6 @@
     You are my first
     You are my last
     You are my future and my past
-- song: It Is Well With My Soul
-  artist: ''
-  enabled: false
-  lyrics: |-
-    When peace like a river, attendeth my way,
-    When sorrows like sea billows roll
-    Whatever my lot, thou hast taught me to say
-    It is well, it is well, with my soul
-
-    It is well (it is well)
-    With my soul (with my soul)
-    It is well, it is well with my soul
-
-    Though Satan should buffet, though trials should come,
-    Let this blest assurance control,
-    That Christ has regarded my helpless estate,
-    And hath shed His own blood for my soul
-
-    It is well (it is well)
-    With my soul (with my soul)
-    It is well, it is well with my soul
-
-    My sin, oh, the bliss of this glorious thought
-    My sin, not in part but the whole,
-    Is nailed to the cross, and I bear it no more,
-    Praise the Lord, praise the Lord, o my soul
-
-    It is well (it is well)
-    With my soul (with my soul)
-    It is well, it is well with my soul
-    It is well (it is well)
-    With my soul (with my soul)
-    It is well, it is well with my soul
 - song: In Christ Alone
   artist: Natalie Grant
   enabled: false
@@ -1468,37 +1458,6 @@
     I want your burning desire
     Do what only you can do, in my heart tonight
     There's no better time
-- song: Before the Throne
-  artist: Dustin Kensrue
-  enabled: false
-  lyrics: |-
-    Before the throne of God above
-    I have a strong and perfect plea.
-    A great high Priest whose Name is Love
-    Who ever lives and pleads for me
-
-    My name is graven on His hands
-    My name is written on His heart.
-    I know that while in Heaven He stands
-    No tongue can bid me thence depart
-    My life is hid with Christ on high
-
-    When Satan tempts me to despair
-    And tells me of the guilt within
-    Upward I look and see Him there
-    Who made an end of all my sin
-    Because the sinless Savior died
-    My sinful soul is counted free
-    For God the just is satisfied
-    To look on Him and pardon me.
-
-    Behold Him there the risen Lamb
-    My perfect spotless righteousness
-    The great unchangeable I AM
-    The King of glory and of grace,
-    One with Himself I cannot die
-    My soul is purchased by His blood,
-    My life is hid with Christ on high
 - song: Good Good Father
   artist: Chris Tomlin
   enabled: false
