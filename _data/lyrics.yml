@@ -1,7 +1,7 @@
 ---
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -32,7 +32,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Before the Throne
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     Before the throne of God above
     I have a strong and perfect plea.
