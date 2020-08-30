@@ -1,4 +1,79 @@
 ---
+- song: Holy Spirit
+  artist: Jesus Culture
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+
+    There’s nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
+
+    [Chorus]
+
+    Holy Spirit, You are welcome here
+    Come flood this place
+    And fill the atmosphere
+    Your glory, God
+    Is what our hearts long for
+    To be overcome
+    By Your presence, Lord
+    Your presence, Lord
+
+    [Verse 2]
+
+    I’ve tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    [Bridge]
+
+    [4x]
+    Let us become more aware of Your presence
+    Let us experience the glory of Your goodness
+    Here I stand
+- song: 10,000 Reasons
+  artist: Matt Redman
+  enabled: true
+  lyrics: |-
+    Bless the Lord O my soul
+    O my soul
+    Worship His Holy name
+    Sing like never before
+    O my soul
+    I’ll worship Your Holy name
+
+    The sun comes up
+    It’s a new day dawning
+    It’s time to sing Your song again
+    Whatever may pass
+    And whatever lies before me
+    Let me be singing
+    When the evening comes
+
+    You’re rich in love
+    And You’re slow to anger
+    Your name is great
+    And Your heart is kind
+    For all Your goodness
+    I will keep on singing
+
+    Ten thousand reasons
+    For my heart to find
+
+    And on that day
+    When my strength is failing
+    The end draws near
+    And my time has come
+    Still my soul will
+    Sing Your praise unending
+
+    Ten thousand years
+    And then forevermore
 - song: Almighty God
   artist: Sandra McCracken
   enabled: false
@@ -181,43 +256,6 @@
     I am yours, only yours
     We are yours, only yours
     We are yours, only yours
-- song: Holy Spirit
-  artist: Jesus Culture
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-
-    There’s nothing worth more
-    That could ever come close
-    No thing can compare
-    You're our living hope
-    Your presence, Lord
-
-    [Chorus]
-
-    Holy Spirit, You are welcome here
-    Come flood this place
-    And fill the atmosphere
-    Your glory, God
-    Is what our hearts long for
-    To be overcome
-    By Your presence, Lord
-    Your presence, Lord
-
-    [Verse 2]
-
-    I’ve tasted and seen
-    Of the sweetest of loves
-    Where my heart becomes free
-    And my shame is undone
-    Your presence, Lord
-
-    [Bridge]
-
-    [4x]
-    Let us become more aware of Your presence
-    Let us experience the glory of Your goodness
-    Here I stand
 - song: Simple Gospel
   artist: ''
   enabled: false
@@ -1645,44 +1683,6 @@
     You spoke so tenderly
     And now I choose to believe
     You love me, you love me, you love me
-- song: 10,000 Reasons
-  artist: Matt Redman
-  enabled: true
-  lyrics: |-
-    Bless the Lord O my soul
-    O my soul
-    Worship His Holy name
-    Sing like never before
-    O my soul
-    I’ll worship Your Holy name
-
-    The sun comes up
-    It’s a new day dawning
-    It’s time to sing Your song again
-    Whatever may pass
-    And whatever lies before me
-    Let me be singing
-    When the evening comes
-
-    You’re rich in love
-    And You’re slow to anger
-    Your name is great
-    And Your heart is kind
-    For all Your goodness
-    I will keep on singing
-
-    Ten thousand reasons
-    For my heart to find
-
-    And on that day
-    When my strength is failing
-    The end draws near
-    And my time has come
-    Still my soul will
-    Sing Your praise unending
-
-    Ten thousand years
-    And then forevermore
 - song: You Are So Good To Me
   artist: Third Day
   enabled: false
