@@ -1,4 +1,133 @@
 ---
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Almighty God to You all hearts are open
+    You take away our sickness and our sin
+    Oh Lamb of God we gather at Your table
+    In bread and wine, You have supplied our needs
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+- song: 10,000 Reasons
+  artist: Matt Redman
+  enabled: true
+  lyrics: |-
+    Bless the Lord O my soul
+    O my soul
+    Worship His Holy name
+    Sing like never before
+    O my soul
+    I’ll worship Your Holy name
+
+    The sun comes up
+    It’s a new day dawning
+    It’s time to sing Your song again
+    Whatever may pass
+    And whatever lies before me
+    Let me be singing
+    When the evening comes
+
+    You’re rich in love
+    And You’re slow to anger
+    Your name is great
+    And Your heart is kind
+    For all Your goodness
+    I will keep on singing
+
+    Ten thousand reasons
+    For my heart to find
+
+    And on that day
+    When my strength is failing
+    The end draws near
+    And my time has come
+    Still my soul will
+    Sing Your praise unending
+
+    Ten thousand years
+    And then forevermore
+- song: Oh Love That Will Not Let Me Go
+  artist: Ascend the Hill
+  enabled: true
+  lyrics: |-
+    Oh, Love that will not let me go
+    I rest my weary soul in Thee
+    I give You back the life I owe
+    That in Thine ocean's depths its flow
+    May richer, fuller be
+
+    My life is not my own
+    It's Yours
+    My life is not my own
+    I know it's Yours
+
+    Oh, Light that follows all my way
+    I yield my flickering torch to Thee
+    My heart restores its borrowed ray
+    That in Thy sunshine's blaze its day
+    May brighter, fairer be
+
+    So light a fire in my heart
+    And I'll burn for You
+    So light a fire in my heart
+    And I'll burn for You
+
+    Oh, Joy, that seeks me through the pain
+    I cannot close my heart to Thee
+    I trace the rainbow through the rain
+    And feel the promise is not in vain
+    That morn shall tearless be
+
+    So anoint me with joy
+    And joyful I will be
+    So anoint me with joy
+    And joyful I will be
+
+    Oh, cross that's lifing up my head
+    I dare not ask to fly from thee
+    I lay in dust life's glory dead
+    And from the ground there blossoms red
+    Life that shall endless be
+
+    We will sing:
+    Holy, holy
+    Is the King of Kings
+    And we will sing:
+    Holy, holy, is the King of Kings
+    (repeat)
+
+    On that day we will sing:
+    Holy, holy
+    Is the King of Kings
+
+    We will join with the angels and we will sing:
+    Holy, holy
+    Is the King of Kings
+
+    And we will sing:
+    Holy, holy, is the King of Kings
 - song: Not in a Hurry
   artist: Will Reagan
   enabled: true
@@ -42,6 +171,49 @@
     This is a way that I say I'm yours
     This is a way
     This is a way
+- song: A Good Shepherd Litany
+  artist: ''
+  enabled: true
+  lyrics: |-
+    Most High God, Shepherd of Israel:
+
+    Hear us and help us, we humbly pray.
+
+    Good Shepherd, who was willing to die for the sheep:
+
+    Hear us and help us, we humbly pray.
+
+    Good Shepherd, who knows the name of each one of his sheep:
+
+    Hear us and help us, we humbly pray.
+
+    Good Shepherd, who revives our drooping spirits:
+
+    Hear us and help us, we humbly pray.
+
+    Good Shepherd, who goes after each sheep that strays:
+
+    Hear us and help us, we humbly pray.
+
+    Good Shepherd, who rescues his sheep from the wolves:
+
+    Hear us and help us, we humbly pray.
+
+    Good Shepherd, who guards and guides his wandering sheep:
+
+    Hear us and help us, we humbly pray.
+
+    Good Shepherd, who hears the prayers of the whole flock:
+
+    Hear us and help us, we humbly pray.
+
+    Good Shepherd, whose goodness and kindness follow us all the days of our life:
+
+    Hear us and help us, we humbly pray.
+
+    Good Shepherd, who pastures his sheep through all eternity:
+
+    Hear us and help us, we humbly pray.
 - song: Another In The Fire
   artist: Hillsong United
   enabled: false
@@ -105,49 +277,6 @@
     And I know I will never be alone
 
 
-- song: A Good Shepherd Litany
-  artist: ''
-  enabled: true
-  lyrics: |-
-    Most High God, Shepherd of Israel:
-
-    Hear us and help us, we humbly pray.
-
-    Good Shepherd, who was willing to die for the sheep:
-
-    Hear us and help us, we humbly pray.
-
-    Good Shepherd, who knows the name of each one of his sheep:
-
-    Hear us and help us, we humbly pray.
-
-    Good Shepherd, who revives our drooping spirits:
-
-    Hear us and help us, we humbly pray.
-
-    Good Shepherd, who goes after each sheep that strays:
-
-    Hear us and help us, we humbly pray.
-
-    Good Shepherd, who rescues his sheep from the wolves:
-
-    Hear us and help us, we humbly pray.
-
-    Good Shepherd, who guards and guides his wandering sheep:
-
-    Hear us and help us, we humbly pray.
-
-    Good Shepherd, who hears the prayers of the whole flock:
-
-    Hear us and help us, we humbly pray.
-
-    Good Shepherd, whose goodness and kindness follow us all the days of our life:
-
-    Hear us and help us, we humbly pray.
-
-    Good Shepherd, who pastures his sheep through all eternity:
-
-    Hear us and help us, we humbly pray.
 - song: Holy Spirit
   artist: Jesus Culture
   enabled: false
@@ -185,44 +314,6 @@
     Let us become more aware of Your presence
     Let us experience the glory of Your goodness
     Here I stand
-- song: 10,000 Reasons
-  artist: Matt Redman
-  enabled: false
-  lyrics: |-
-    Bless the Lord O my soul
-    O my soul
-    Worship His Holy name
-    Sing like never before
-    O my soul
-    I’ll worship Your Holy name
-
-    The sun comes up
-    It’s a new day dawning
-    It’s time to sing Your song again
-    Whatever may pass
-    And whatever lies before me
-    Let me be singing
-    When the evening comes
-
-    You’re rich in love
-    And You’re slow to anger
-    Your name is great
-    And Your heart is kind
-    For all Your goodness
-    I will keep on singing
-
-    Ten thousand reasons
-    For my heart to find
-
-    And on that day
-    When my strength is failing
-    The end draws near
-    And my time has come
-    Still my soul will
-    Sing Your praise unending
-
-    Ten thousand years
-    And then forevermore
 - song: Great Are You Lord
   artist: All Sons & Daughters
   enabled: false
@@ -268,97 +359,6 @@
     It's Your breath in our lungs
     So we pour out our praise
     To You only
-- song: Oh Love That Will Not Let Me Go
-  artist: Ascend the Hill
-  enabled: false
-  lyrics: |-
-    Oh, Love that will not let me go
-    I rest my weary soul in Thee
-    I give You back the life I owe
-    That in Thine ocean's depths its flow
-    May richer, fuller be
-
-    My life is not my own
-    It's Yours
-    My life is not my own
-    I know it's Yours
-
-    Oh, Light that follows all my way
-    I yield my flickering torch to Thee
-    My heart restores its borrowed ray
-    That in Thy sunshine's blaze its day
-    May brighter, fairer be
-
-    So light a fire in my heart
-    And I'll burn for You
-    So light a fire in my heart
-    And I'll burn for You
-
-    Oh, Joy, that seeks me through the pain
-    I cannot close my heart to Thee
-    I trace the rainbow through the rain
-    And feel the promise is not in vain
-    That morn shall tearless be
-
-    So anoint me with joy
-    And joyful I will be
-    So anoint me with joy
-    And joyful I will be
-
-    Oh, cross that's lifing up my head
-    I dare not ask to fly from thee
-    I lay in dust life's glory dead
-    And from the ground there blossoms red
-    Life that shall endless be
-
-    We will sing:
-    Holy, holy
-    Is the King of Kings
-    And we will sing:
-    Holy, holy, is the King of Kings
-    (repeat)
-
-    On that day we will sing:
-    Holy, holy
-    Is the King of Kings
-
-    We will join with the angels and we will sing:
-    Holy, holy
-    Is the King of Kings
-
-    And we will sing:
-    Holy, holy, is the King of Kings
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Almighty God to You all hearts are open
-    You take away our sickness and our sin
-    Oh Lamb of God we gather at Your table
-    In bread and wine, You have supplied our needs
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Before the Throne
   artist: Dustin Kensrue
   enabled: false
