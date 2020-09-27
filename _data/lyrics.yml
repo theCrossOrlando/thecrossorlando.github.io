@@ -1,4 +1,110 @@
 ---
+- song: Not in a Hurry
+  artist: Will Reagan
+  enabled: true
+  lyrics: |-
+    Lord I don't want to rush on ahead
+    In my own strength
+    When You're right here
+
+    I'm not in a hurry
+    When it comes to Your spirit
+    When it comes to Your presence
+    When it comes to Your voice
+    I'm learning to listen
+    Just to rest in Your nearness
+    I'm starting to notice
+    You are speaking
+
+    Lord I want to love like You
+    I want to feel what You feel
+    I want to see what You see
+
+    Open my eyes, I want to see You more clearly
+    Open my ears, I want to hear You speak
+    Tell me your thoughts whats on Your mind
+    I'll be your friend, I want to see through Your eyes
+
+    –
+    Learning to Breathe By Switchfoot
+    –
+
+    And I'm learning to breathe
+    I'm learning to crawl
+    I'm finding that you and you alone can break my fall
+    I'm living again, awake and alive
+    I'm dying to breathe in these abundant skies
+    These abundant skies
+    Yeah, abundant skies, yeah
+
+    This is a way that I say I need you
+    This is a way that I say I love you
+    This is a way that I say I'm yours
+    This is a way
+    This is a way
+- song: Another In The Fire
+  artist: Hillsong United
+  enabled: false
+  lyrics: |+
+    There's a grace when the heart is under fire
+    Another way when the walls are closing in
+    And when I look at the space between
+    Where I used to be and this reckoning
+    I know I will never be alone
+
+    There was another in the fire
+    Standing next to me
+    There was another in the waters
+    Holding back the seas
+    And should I ever need reminding
+    Of how I've been set free
+    There is a cross that bears the burden
+    Where another died for me
+
+    There is another in the fire
+
+    All my debt left for dead beneath the waters
+    I'm no longer a slave to my sin anymore
+    And should I fall in the space between
+    What remains of me and this reckoning
+    Either way I won't bow to the things of this world
+    And I know I will never be alone
+
+    There is another in the fire
+    Standing next to me
+    There is another in the waters
+    Holding back the seas
+    And should I ever need reminding
+    What power set me free
+    There is a grave that holds no body
+    And now that power lives in me
+
+    There'll be another in the fire
+    Standing next to me
+    There'll be another in the waters
+    Holding back the seas
+    And should I ever need reminding
+    How good You've been to me
+    I'll count the joy come every battle
+    'Cause I know that's where You'll be
+
+    And I can see the light in the darkness
+    As the darkness bows to Him
+    I can hear the roar in the heavens
+    As the space between wears thin
+    I can feel the ground shake beneath us
+    As the prison walls cave in
+    Nothing stands between us
+    Nothing stands between us
+
+    There is no other name but the name that is Jesus
+    He who was and still is, and will be through it all
+    So come what may in the space between
+    All the things unseen and this reckoning
+    And I know I will never be alone
+    And I know I will never be alone
+
+
 - song: A Good Shepherd Litany
   artist: ''
   enabled: true
@@ -934,94 +1040,6 @@
     Holy, holy, holy
     You are holy, holy, holy
     I want to see you
-- song: Not in a Hurry
-  artist: Will Reagan
-  enabled: false
-  lyrics: |-
-    Lord I don't want to rush on ahead
-    In my own strength
-    When You're right here
-
-    I'm not in a hurry
-    When it comes to Your spirit
-    When it comes to Your presence
-    When it comes to Your voice
-    I'm learning to listen
-    Just to rest in Your nearness
-    I'm starting to notice
-    You are speaking
-
-    Lord I want to love like You
-    I want to feel what You feel
-    I want to see what You see
-
-    Open my eyes, I want to see You more clearly
-    Open my ears, I want to hear You speak
-    Tell me your thoughts whats on Your mind
-    I'll be your friend, I want to see through Your eyes
-- song: Another In The Fire
-  artist: Hillsong United
-  enabled: false
-  lyrics: |+
-    There's a grace when the heart is under fire
-    Another way when the walls are closing in
-    And when I look at the space between
-    Where I used to be and this reckoning
-    I know I will never be alone
-
-    There was another in the fire
-    Standing next to me
-    There was another in the waters
-    Holding back the seas
-    And should I ever need reminding
-    Of how I've been set free
-    There is a cross that bears the burden
-    Where another died for me
-
-    There is another in the fire
-
-    All my debt left for dead beneath the waters
-    I'm no longer a slave to my sin anymore
-    And should I fall in the space between
-    What remains of me and this reckoning
-    Either way I won't bow to the things of this world
-    And I know I will never be alone
-
-    There is another in the fire
-    Standing next to me
-    There is another in the waters
-    Holding back the seas
-    And should I ever need reminding
-    What power set me free
-    There is a grave that holds no body
-    And now that power lives in me
-
-    There'll be another in the fire
-    Standing next to me
-    There'll be another in the waters
-    Holding back the seas
-    And should I ever need reminding
-    How good You've been to me
-    I'll count the joy come every battle
-    'Cause I know that's where You'll be
-
-    And I can see the light in the darkness
-    As the darkness bows to Him
-    I can hear the roar in the heavens
-    As the space between wears thin
-    I can feel the ground shake beneath us
-    As the prison walls cave in
-    Nothing stands between us
-    Nothing stands between us
-
-    There is no other name but the name that is Jesus
-    He who was and still is, and will be through it all
-    So come what may in the space between
-    All the things unseen and this reckoning
-    And I know I will never be alone
-    And I know I will never be alone
-
-
 - song: Your Love is Strong
   artist: Jon Foreman
   enabled: false
