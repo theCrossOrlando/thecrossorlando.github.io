@@ -1,7 +1,184 @@
 ---
+- song: I Won't Let You Go
+  artist: Jon Foreman, Lauren Daigle
+  enabled: ''
+  lyrics: |-
+    When it feels like surgery
+    And it burns like third degree
+    And you wonder what is it worth?
+    When your insides breaking in
+    And you feel that ache again
+    And you wonder
+    What's giving birth?
+    If you could let the pain of the past go
+    Of your soul
+    None of this is in your control
+    If you could only let your guard down
+    You could learn to trust me somehow
+    I swear, that I won't let you go
+    If you could only let go your doubts
+    If you could just believe in me now
+    I swear, that I won't let you go
+    I won't let you go
+    When your fear is currency
+    And you feel that urgency
+    You want peace but there's war in your head
+    Maybe that's where life is born
+    When our façades are torn
+    Pain gives birth to the promise ahead
+    If you could let the pain of the past go
+    Of your soul
+    None of this is in your control
+    If you could only let your guard down
+    If you could learn to trust me somehow
+    I swear, that I won't let you go
+    If you could only let go your doubts
+    If you could just believe in me now
+    I swear, that I won't let you go
+    I won't let you go
+    I'll always be by your side
+    Yeah
+    If you could only let your guard down
+    If you could learn to trust me somehow
+    I swear, that I won't let you go
+    If you could only let go your doubts
+    If you could just believe in me now
+    I swear, that I won't let you go
+    I won't let you go
+    (I won't let you go)
+    There ain't no darkness strong enough that could tear you out from my heart
+    There ain't no strength that's strong enough that could tear this love apart
+    Never gonna let you go
+    Never gonna let you go
+    No I won't let you go
+- song: Holy Spirit
+  artist: Jesus Culture
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+
+    There’s nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
+
+    [Chorus]
+
+    Holy Spirit, You are welcome here
+    Come flood this place
+    And fill the atmosphere
+    Your glory, God
+    Is what our hearts long for
+    To be overcome
+    By Your presence, Lord
+    Your presence, Lord
+
+    [Verse 2]
+
+    I’ve tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    [Bridge]
+
+    [4x]
+    Let us become more aware of Your presence
+    Let us experience the glory of Your goodness
+    Here I stand
+- song: Simple Gospel
+  artist: ''
+  enabled: true
+  lyrics: |-
+    I want to know You, Lord
+    Like I know a friend
+    I want to know You, Lord
+    I want to know You, Lord
+    Like I know a friend
+    I want to know You, Lord
+
+    So I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+
+    I use to think that I could box You in
+    But I'm laying down
+    I want to know You, Lord
+    I use to think that I could box You in
+    But I'm laying down
+    I want to know You, Lord
+
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I want to know You, Lord
+
+    Lord, I've been told to be ashamed
+    Lord, I've been told I don't measure up
+    Lord, I've been told I'm not good enough
+    But You're here with me
+- song: I Belong to You
+  artist: Derek Johnson
+  enabled: true
+  lyrics: |-
+    You can be the One that steals my heart
+    With just a simple thought of who You are
+    Let Your light shine in the darkest parts
+    Let Your love fill the world
+
+    You can be the fire down in my soul
+    That I can't contain, that I can't control
+    Would You fill me up to overflow
+    Let Your love fill the world
+
+    And I belong to You
+    Forever, I belong to You
+
+    Let Your Words be like a burning flame
+    Come in close to touch my heart again
+    The whole earth trembles at the sound of Your name
+    Let Your love fill the world
+
+    And all I want is more of You
+    Your breath is life, Your word is truth
+    Your glory here is bursting through
+    Let Your love fill the world
+
+    And I belong to You
+    Forever, I belong to You
+
+    And You have set my heart on fire
+    My love and my desire
+    Only for You
+
+    And as Your glory fills this place
+    Your love we will embrace
+    Only for You, for You
+
+    And I belong to You
+    Forever, I belong to You
+
+    And You have set my heart on fire
+    My love and my desire
+    Only for You
+
+    And as Your glory fills this place
+    Your love we will embrace
+    Only for You, for You
+
+    And I belong to You
+    Forever, I belong to You
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -32,7 +209,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: 10,000 Reasons
   artist: Matt Redman
-  enabled: true
+  enabled: false
   lyrics: |-
     Bless the Lord O my soul
     O my soul
@@ -70,7 +247,7 @@
     And then forevermore
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, Love that will not let me go
     I rest my weary soul in Thee
@@ -130,7 +307,7 @@
     Holy, holy, is the King of Kings
 - song: Not in a Hurry
   artist: Will Reagan
-  enabled: true
+  enabled: false
   lyrics: |-
     Lord I don't want to rush on ahead
     In my own strength
@@ -277,43 +454,6 @@
     And I know I will never be alone
 
 
-- song: Holy Spirit
-  artist: Jesus Culture
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-
-    There’s nothing worth more
-    That could ever come close
-    No thing can compare
-    You're our living hope
-    Your presence, Lord
-
-    [Chorus]
-
-    Holy Spirit, You are welcome here
-    Come flood this place
-    And fill the atmosphere
-    Your glory, God
-    Is what our hearts long for
-    To be overcome
-    By Your presence, Lord
-    Your presence, Lord
-
-    [Verse 2]
-
-    I’ve tasted and seen
-    Of the sweetest of loves
-    Where my heart becomes free
-    And my shame is undone
-    Your presence, Lord
-
-    [Bridge]
-
-    [4x]
-    Let us become more aware of Your presence
-    Let us experience the glory of Your goodness
-    Here I stand
 - song: Great Are You Lord
   artist: All Sons & Daughters
   enabled: false
@@ -390,57 +530,6 @@
     One with Himself I cannot die
     My soul is purchased by His blood,
     My life is hid with Christ on high
-- song: I Belong to You
-  artist: Derek Johnson
-  enabled: false
-  lyrics: |-
-    You can be the One that steals my heart
-    With just a simple thought of who You are
-    Let Your light shine in the darkest parts
-    Let Your love fill the world
-
-    You can be the fire down in my soul
-    That I can't contain, that I can't control
-    Would You fill me up to overflow
-    Let Your love fill the world
-
-    And I belong to You
-    Forever, I belong to You
-
-    Let Your Words be like a burning flame
-    Come in close to touch my heart again
-    The whole earth trembles at the sound of Your name
-    Let Your love fill the world
-
-    And all I want is more of You
-    Your breath is life, Your word is truth
-    Your glory here is bursting through
-    Let Your love fill the world
-
-    And I belong to You
-    Forever, I belong to You
-
-    And You have set my heart on fire
-    My love and my desire
-    Only for You
-
-    And as Your glory fills this place
-    Your love we will embrace
-    Only for You, for You
-
-    And I belong to You
-    Forever, I belong to You
-
-    And You have set my heart on fire
-    My love and my desire
-    Only for You
-
-    And as Your glory fills this place
-    Your love we will embrace
-    Only for You, for You
-
-    And I belong to You
-    Forever, I belong to You
 - song: It Is Well With My Soul
   artist: ''
   enabled: false
@@ -510,43 +599,6 @@
     I am yours, only yours
     We are yours, only yours
     We are yours, only yours
-- song: Simple Gospel
-  artist: ''
-  enabled: false
-  lyrics: |-
-    I want to know You, Lord
-    Like I know a friend
-    I want to know You, Lord
-    I want to know You, Lord
-    Like I know a friend
-    I want to know You, Lord
-
-    So I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-
-    I use to think that I could box You in
-    But I'm laying down
-    I want to know You, Lord
-    I use to think that I could box You in
-    But I'm laying down
-    I want to know You, Lord
-
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I want to know You, Lord
-
-    Lord, I've been told to be ashamed
-    Lord, I've been told I don't measure up
-    Lord, I've been told I'm not good enough
-    But You're here with me
 - song: Come Thou Fount
   artist: Chris Tomlin
   enabled: false
