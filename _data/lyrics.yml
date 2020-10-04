@@ -1,7 +1,7 @@
 ---
 - song: Jesus Paid It All
   artist: Jack Fascinato, Ernest J. Ford, Chris Tomlin
-  enabled: ''
+  enabled: true
   lyrics: "O Praise the one who paid my debt\nAnd raised this life up from the dead\n\nI
     hear the Savior say, Thy strength indeed is small\nChild of weakness, watch and
     pray, \nFind in Me thine all in all\n\nJesus paid it all\nAll to Him I owe\nSin
