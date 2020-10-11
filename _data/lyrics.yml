@@ -1,7 +1,61 @@
 ---
+- song: Future/Past
+  artist: John Mark McMillan
+  enabled: true
+  lyrics: |-
+    You hold the reigns on the sun and the moon,
+    Like horses driven by kings
+    You cover the mountains, the valleys below,
+    With the breadth of Your mighty wings
+
+    [Pre-Chorus]
+    All treasures of wisdom
+    And things to be known
+    Are hidden inside Your hand
+    And in this fortunate turn of events
+    You ask me to be Your friend
+    Ask me to be Your friend
+
+    [Chorus]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    Yeah, You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    The constellations are swimming inside,
+    The breadth of Your desire
+    So where could I run, where could I hide,
+    From Your heart’s jealous fire?
+
+    [Pre-Chorus]
+    All treasures of wisdom
+    And things to be known
+    Are hidden inside Your hand
+    And in this fortunate turn of events
+    You ask me to be Your friend
+    Ask me to be Your friend
+
+    [Chorus]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    You are the beginning and the end
+
+    [Chorus]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
 - song: Jesus Paid It All
   artist: Jack Fascinato, Ernest J. Ford, Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: "O Praise the one who paid my debt\nAnd raised this life up from the dead\n\nI
     hear the Savior say, Thy strength indeed is small\nChild of weakness, watch and
     pray, \nFind in Me thine all in all\n\nJesus paid it all\nAll to Him I owe\nSin
@@ -15,7 +69,7 @@
     dead\n"
 - song: Holy Spirit
   artist: Jesus Culture
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
 
@@ -52,7 +106,7 @@
     Here I stand
 - song: Simple Gospel
   artist: Will Reagan
-  enabled: true
+  enabled: false
   lyrics: |-
     I want to know You, Lord
     Like I know a friend
@@ -89,7 +143,7 @@
     But You're here with me
 - song: I Belong to You
   artist: Derek Johnson
-  enabled: true
+  enabled: false
   lyrics: |-
     You can be the One that steals my heart
     With just a simple thought of who You are
@@ -140,7 +194,7 @@
     Forever, I belong to You
 - song: I Won't Let You Go
   artist: Jon Foreman, Lauren Daigle
-  enabled: true
+  enabled: false
   lyrics: |-
     When it feels like surgery
     And it burns like third degree
@@ -997,60 +1051,6 @@
     More than watchman who wait for the morning sun
     So my soul waits for the Lord more than watchmen wait
     More than watchman who wait for the morn
-- song: Future/Past
-  artist: John Mark McMillan
-  enabled: false
-  lyrics: |-
-    You hold the reigns on the sun and the moon,
-    Like horses driven by kings
-    You cover the mountains, the valleys below,
-    With the breadth of Your mighty wings
-
-    [Pre-Chorus]
-    All treasures of wisdom
-    And things to be known
-    Are hidden inside Your hand
-    And in this fortunate turn of events
-    You ask me to be Your friend
-    Ask me to be Your friend
-
-    [Chorus]
-    And You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    Yeah, You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    The constellations are swimming inside,
-    The breadth of Your desire
-    So where could I run, where could I hide,
-    From Your heart’s jealous fire?
-
-    [Pre-Chorus]
-    All treasures of wisdom
-    And things to be known
-    Are hidden inside Your hand
-    And in this fortunate turn of events
-    You ask me to be Your friend
-    Ask me to be Your friend
-
-    [Chorus]
-    And You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    You are the beginning and the end
-
-    [Chorus]
-    And You,
-    You are my first
-    You are my last
-    You are my future and my past
 - song: In Christ Alone
   artist: Natalie Grant
   enabled: false
