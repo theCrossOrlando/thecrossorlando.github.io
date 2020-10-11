@@ -1,27 +1,4 @@
 ---
-- song: May The Words of My Mouth
-  artist: Shane and Shane
-  enabled: true
-  lyrics: |-
-    May the words of my mouth
-    And the meditation from my heart
-    Be pleasing to you
-    Pleasing to you (2x)
-    My God
-
-    You're my rock and my redeemer
-    You're the reason that i sing
-    I desire to give a blessing
-    In Your eyes
-
-    Every hour and every moment
-    Lord i want to be your servant
-    I desire to be a blessing
-    In Your eyes
-    In Your eyes
-
-    Oh, in your eyes
-    In your eyes
 - song: Future/Past
   artist: John Mark McMillan
   enabled: true
@@ -76,34 +53,29 @@
     You are my first
     You are my last
     You are my future and my past
-- song: Oh Lord, You're Beautiful
-  artist: Keith Green
+- song: May The Words of My Mouth
+  artist: Shane and Shane
   enabled: true
   lyrics: |-
-    Oh Lord, you're beautiful,
-    Your face is all I seek,
-    For when your eyes are on this child,
-    Your grace abounds to me.
+    May the words of my mouth
+    And the meditation from my heart
+    Be pleasing to you
+    Pleasing to you (2x)
+    My God
 
-    Oh Lord, please light the fire,
-    That once burned bright and clear.
-    Replace the lamp of my first love,
-    That burns with Holy fear.
+    You're my rock and my redeemer
+    You're the reason that i sing
+    I desire to give a blessing
+    In Your eyes
 
-    I want to take your word and shine it all around.
-    But first help me to just, live it Lord.
-    And when I'm doing well, help me to never seek a crown.
-    For my reward is giving glory to you.
+    Every hour and every moment
+    Lord i want to be your servant
+    I desire to be a blessing
+    In Your eyes
+    In Your eyes
 
-    Oh Lord, you're beautiful,
-    Your face is all I seek,
-    For when your eyes are on this child,
-    Your grace abounds to me.
-
-    I want to take your word and shine it all around.
-    But first help me to just, live it Lord.
-    And when I'm doing well, help me to never seek a crown.
-    For my reward is giving glory to you.
+    Oh, in your eyes
+    In your eyes
 - song: So Will I (100 Billion X)
   artist: Hillsong United
   enabled: true
@@ -173,6 +145,34 @@
     You’re the One who never leaves the one behind
 
     Halelujah!
+- song: Oh Lord, You're Beautiful
+  artist: Keith Green
+  enabled: true
+  lyrics: |-
+    Oh Lord, you're beautiful,
+    Your face is all I seek,
+    For when your eyes are on this child,
+    Your grace abounds to me.
+
+    Oh Lord, please light the fire,
+    That once burned bright and clear.
+    Replace the lamp of my first love,
+    That burns with Holy fear.
+
+    I want to take your word and shine it all around.
+    But first help me to just, live it Lord.
+    And when I'm doing well, help me to never seek a crown.
+    For my reward is giving glory to you.
+
+    Oh Lord, you're beautiful,
+    Your face is all I seek,
+    For when your eyes are on this child,
+    Your grace abounds to me.
+
+    I want to take your word and shine it all around.
+    But first help me to just, live it Lord.
+    And when I'm doing well, help me to never seek a crown.
+    For my reward is giving glory to you.
 - song: Jesus Paid It All
   artist: Jack Fascinato, Ernest J. Ford, Chris Tomlin
   enabled: false
@@ -1267,7 +1267,7 @@
     Refrain
 - song: Nothing I Hold On To
   artist: United Pursuit Band
-  enabled: false
+  enabled: true
   lyrics: |-
     I lean not on my own understanding,
     My life is in the hands of the maker of heaven
