@@ -1,4 +1,32 @@
 ---
+- song: Oh Lord, You're Beautiful
+  artist: Keith Green
+  enabled: ''
+  lyrics: |-
+    Oh Lord, you're beautiful,
+    Your face is all I seek,
+    For when your eyes are on this child,
+    Your grace abounds to me.
+
+    Oh Lord, please light the fire,
+    That once burned bright and clear.
+    Replace the lamp of my first love,
+    That burns with Holy fear.
+
+    I want to take your word and shine it all around.
+    But first help me to just, live it Lord.
+    And when I'm doing well, help me to never seek a crown.
+    For my reward is giving glory to you.
+
+    Oh Lord, you're beautiful,
+    Your face is all I seek,
+    For when your eyes are on this child,
+    Your grace abounds to me.
+
+    I want to take your word and shine it all around.
+    But first help me to just, live it Lord.
+    And when I'm doing well, help me to never seek a crown.
+    For my reward is giving glory to you.
 - song: Future/Past
   artist: John Mark McMillan
   enabled: true
