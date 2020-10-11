@@ -1,4 +1,32 @@
 ---
+- song: Oh Lord, You're Beautiful
+  artist: Keith Green
+  enabled: true
+  lyrics: |-
+    Oh Lord, you're beautiful,
+    Your face is all I seek,
+    For when your eyes are on this child,
+    Your grace abounds to me.
+
+    Oh Lord, please light the fire,
+    That once burned bright and clear.
+    Replace the lamp of my first love,
+    That burns with Holy fear.
+
+    I want to take your word and shine it all around.
+    But first help me to just, live it Lord.
+    And when I'm doing well, help me to never seek a crown.
+    For my reward is giving glory to you.
+
+    Oh Lord, you're beautiful,
+    Your face is all I seek,
+    For when your eyes are on this child,
+    Your grace abounds to me.
+
+    I want to take your word and shine it all around.
+    But first help me to just, live it Lord.
+    And when I'm doing well, help me to never seek a crown.
+    For my reward is giving glory to you.
 - song: Future/Past
   artist: John Mark McMillan
   enabled: true
@@ -145,34 +173,27 @@
     You’re the One who never leaves the one behind
 
     Halelujah!
-- song: Oh Lord, You're Beautiful
-  artist: Keith Green
+- song: Nothing I Hold On To
+  artist: United Pursuit Band
   enabled: true
   lyrics: |-
-    Oh Lord, you're beautiful,
-    Your face is all I seek,
-    For when your eyes are on this child,
-    Your grace abounds to me.
+    I lean not on my own understanding,
+    My life is in the hands of the maker of heaven
 
-    Oh Lord, please light the fire,
-    That once burned bright and clear.
-    Replace the lamp of my first love,
-    That burns with Holy fear.
+    I Give it all to you God,
+    Trusting that you'll make something beautiful out of me
 
-    I want to take your word and shine it all around.
-    But first help me to just, live it Lord.
-    And when I'm doing well, help me to never seek a crown.
-    For my reward is giving glory to you.
+    I will climb this mountain
+    With my hands wide open
+    I will climb this mountain
+    With my hands wide open
 
-    Oh Lord, you're beautiful,
-    Your face is all I seek,
-    For when your eyes are on this child,
-    Your grace abounds to me.
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
 
-    I want to take your word and shine it all around.
-    But first help me to just, live it Lord.
-    And when I'm doing well, help me to never seek a crown.
-    For my reward is giving glory to you.
+    All Glory To God, Forever. Amen
 - song: Jesus Paid It All
   artist: Jack Fascinato, Ernest J. Ford, Chris Tomlin
   enabled: false
@@ -1265,27 +1286,6 @@
     You will never come at all.
 
     Refrain
-- song: Nothing I Hold On To
-  artist: United Pursuit Band
-  enabled: true
-  lyrics: |-
-    I lean not on my own understanding,
-    My life is in the hands of the maker of heaven
-
-    I Give it all to you God,
-    Trusting that you'll make something beautiful out of me
-
-    I will climb this mountain
-    With my hands wide open
-    I will climb this mountain
-    With my hands wide open
-
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-
-    All Glory To God, Forever. Amen
 - song: Heart Won't Stop
   artist: John Mark McMillan & Sarah McMillan
   enabled: false
