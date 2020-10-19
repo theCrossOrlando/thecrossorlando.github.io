@@ -1,7 +1,7 @@
 ---
 title: The Cross Orlando Core Values_Lineage
 date: 'Sun, 18 Sep 2017 10:00:00 EDT'
-file: http://crosssermons.cflcn.org/2017-08-27-lineage.m4a
+file: https://crosssermons.cflcn.org/2017-08-27-lineage.m4a
 length: 16708717
 duration: '34:40'
 excerpt: ''

@@ -23,11 +23,11 @@ layout: null
     <language>en-US</language>
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
-    <generator>http://jekyllrb.com</generator>
+    <generator>https://jekyllrb.com</generator>
     <itunes:summary>{{ site.description }}</itunes:summary>
     <itunes:author>{{ site.podcast_author }}</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://crosssermons.cflcn.org/logo.png"/>
+    <itunes:image href="https://crosssermons.cflcn.org/logo.png"/>
     <itunes:owner>
       <itunes:name>{{ site.podcast_author }}</itunes:name>
       <itunes:email>{{ site.podcast_email }}</itunes:email>
@@ -37,7 +37,7 @@ layout: null
     <itunes:subtitle>{{ site.description }}</itunes:subtitle>
     <image>
       <title>{{ site.title }}</title>
-      <url>http://crosssermons.cflcn.org/logo.png</url>
+      <url>https://crosssermons.cflcn.org/logo.png</url>
       <link>{{ site.url }}</link>
     </image>
     <itunes:category text="Religion &amp; Spirituality"/>
@@ -69,7 +69,7 @@ layout: null
           <![CDATA[{{ ep.summary | expand_urls: site.url | cdata_escape }}]]>
         </itunes:summary>
         <itunes:author>{{ podcast_author }}</itunes:author>
-        <itunes:image href="http://crosssermons.cflcn.org/logo.png"/>
+        <itunes:image href="https://crosssermons.cflcn.org/logo.png"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:duration>{{ ep.duration }}</itunes:duration>
       </item>

@@ -39,7 +39,7 @@
         <pubDate>{{ message.date | date_to_rfc822 }}</pubDate>
         <description>{{ message.excerpt | xml_escape }}</description>
         <guid isPermaLink="true">{{ site.url }}{{ message.url }}</guid>
-        <enclosure url="http:{{ message.file }}" length="{{ message.length }}" type="audio/mp3"/>
+        <enclosure url="https:{{ message.file }}" length="{{ message.length }}" type="audio/mp3"/>
         <itunes:author>{{ site.author }}</itunes:author>
         <itunes:subtitle>{{ site.title }}: {{ message.title }}</itunes:subtitle>
         <itunes:summary>{{ message.summary | xml_escape }}</itunes:summary>

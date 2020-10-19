@@ -1,7 +1,7 @@
 ---
 title: The Bronze Serpent
 date: 'Sun, 19 Aug 2018 10:00:00 EDT'
-file: http://crosssermons.cflcn.org/2018-08-19-the-bronze-serpent.m4a
+file: https://crosssermons.cflcn.org/2018-08-19-the-bronze-serpent.m4a
 length: 12182853
 duration: '25:20'
 excerpt: ''
