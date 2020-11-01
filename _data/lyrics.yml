@@ -1,7 +1,221 @@
 ---
+- song: I Belong to You
+  artist: Derek Johnson
+  enabled: true
+  lyrics: |-
+    You can be the One that steals my heart
+    With just a simple thought of who You are
+    Let Your light shine in the darkest parts
+    Let Your love fill the world
+
+    You can be the fire down in my soul
+    That I can't contain, that I can't control
+    Would You fill me up to overflow
+    Let Your love fill the world
+
+    And I belong to You
+    Forever, I belong to You
+
+    Let Your Words be like a burning flame
+    Come in close to touch my heart again
+    The whole earth trembles at the sound of Your name
+    Let Your love fill the world
+
+    And all I want is more of You
+    Your breath is life, Your word is truth
+    Your glory here is bursting through
+    Let Your love fill the world
+
+    And I belong to You
+    Forever, I belong to You
+
+    And You have set my heart on fire
+    My love and my desire
+    Only for You
+
+    And as Your glory fills this place
+    Your love we will embrace
+    Only for You, for You
+
+    And I belong to You
+    Forever, I belong to You
+
+    And You have set my heart on fire
+    My love and my desire
+    Only for You
+
+    And as Your glory fills this place
+    Your love we will embrace
+    Only for You, for You
+
+    And I belong to You
+    Forever, I belong to You
+- song: Come Ye Sinners, Poor And Needy
+  artist: Joseph Hart
+  enabled: true
+  lyrics: |-
+    Come, ye sinners, poor and needy,
+    Weak and wounded, sick and sore;
+    Jesus ready stands to save you,
+    Full of pity, love and power.
+
+    Refrain
+
+    I will arise and go to Jesus,
+    He will embrace me in His arms;
+    In the arms of my dear Savior,
+    O there are ten thousand charms.
+
+    Come, ye thirsty, come, and welcome,
+    God’s free bounty glorify;
+    True belief and true repentance,
+    Every grace that brings you nigh.
+
+    Refrain
+
+    Come, ye weary, heavy laden,
+    Lost and ruined by the fall;
+    If you tarry till you’re better,
+    You will never come at all.
+
+    Refrain
+- song: Once and For All
+  artist: Lauren Daigle
+  enabled: true
+  lyrics: |-
+    God I give You all I can today
+    These scattered ashes that I hid away
+    I lay them all at Your feet
+
+    From the corners of my deepest shame
+    The empty places where I've worn Your name
+    Show me the love I say I believe
+
+    Oh Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    There is victory in my Saviors loss
+    And In the crimson flowing from the cross
+    Pour over me, pour over me yes
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    Oh Lord I lay it down
+    Oh Lord I lay it down
+    Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My Lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all
+
+    Once and for all
+    Oh once and for all
+    Once and for all
+- song: What a Beautiful Name
+  artist: Hillsong Worship
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+    You were the Word at the beginning
+    One With God the Lord Most High
+    Your hidden glory in creation
+    Now revealed in You Our Christ
+
+    [Chorus 1]
+    What a beautiful Name it is, what a beautiful Name it is
+    The Name of Jesus Christ my King
+    What a beautiful Name it is, nothing compares to this
+    What a beautiful Name it is, the Name of Jesus
+
+    [Verse 2]
+    You didn't want heaven without us
+    So Jesus You brought heaven down
+    My sin was great, Your love was greater
+    What could seperate us now
+
+    [Chorus 2]
+    What a wonderful Name it is, what a wonderful Name it is
+    The Name of Jesus Christ my King
+    What a wonderful Name it is, nothing compares to this
+    What a wonderful Name it is, the Name of Jesus
+    What a wonderful Name it is, the Name of Jesus
+
+    [Bridge 1]
+    Death could not hold You, the veil tore before You
+    You silenced the boast of sin and grave
+    The heavens are roaring, the praise of Your glory
+    For You are raised to life again
+
+    [Bridge 2]
+    You have no rival, You have no equal
+    Now and forever God you reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name above all names
+
+    [Chorus 3]
+    What a powerful Name it is, What a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, Nothing can stand against
+    What a powerful Name it is, The Name of Jesus
+
+    [Chorus 3]
+    What a powerful Name it is, what a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, nothing can stand against
+    What a powerful Name it is, the Name of Jesus
+
+    [Bridge 2]
+    You have no rival, You have no equal
+    Now and forever God you reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name above all names
+
+    [Chorus 3]
+    What a powerful Name it is, What a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, Nothing can stand against
+    What a powerful Name it is, The Name of Jesus
+
+    [Bridge 2]
+    You have no rival, You have no equal
+    Now and forever God you reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name above all names
+
+    [Chorus 3]
+    What a powerful Name it is, what a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, nothing can stand against
+    What a powerful Name it is, the Name of Jesus
+    What a powerful Name it is, The Name of Jesus
+    What a powerful Name it is, The Name of Jesus
+- song: Beauty for Ashes
+  artist: Shane and Shane
+  enabled: true
+  lyrics: |-
+    Beauty for ashes
+    A garment of praise for my heaviness
+    Beauty for ashes
+    Take this heart of stone and make it Yours, Yours
+
+    I delight myself in the Richest of Fare
+    Trading all that I've had for all that is better
+    A garment of praise for my heaviness
+    You are the greatest taste
+    You're the richest of fair
 - song: Set a Fire
   artist: Will Reagan & United Pursuit
-  enabled: true
+  enabled: false
   lyrics: |-
     No place I would rather be
     No place I would rather be
@@ -44,7 +258,7 @@
     I want more of You, God
 - song: Grace Alone
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     I was an orphan lost at the Fall
     Running away when I'd hear Your call
@@ -88,7 +302,7 @@
     I will reach the end by grace and grace alone
 - song: Another In The Fire
   artist: Hillsong United
-  enabled: true
+  enabled: false
   lyrics: |+
     There's a grace when the heart is under fire
     Another way when the walls are closing in
@@ -151,7 +365,7 @@
 
 - song: Great Are You Lord
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     You give life, You are love
     You bring light to the darkness
@@ -477,57 +691,6 @@
     Let us become more aware of Your presence
     Let us experience the glory of Your goodness
     Here I stand
-- song: I Belong to You
-  artist: Derek Johnson
-  enabled: false
-  lyrics: |-
-    You can be the One that steals my heart
-    With just a simple thought of who You are
-    Let Your light shine in the darkest parts
-    Let Your love fill the world
-
-    You can be the fire down in my soul
-    That I can't contain, that I can't control
-    Would You fill me up to overflow
-    Let Your love fill the world
-
-    And I belong to You
-    Forever, I belong to You
-
-    Let Your Words be like a burning flame
-    Come in close to touch my heart again
-    The whole earth trembles at the sound of Your name
-    Let Your love fill the world
-
-    And all I want is more of You
-    Your breath is life, Your word is truth
-    Your glory here is bursting through
-    Let Your love fill the world
-
-    And I belong to You
-    Forever, I belong to You
-
-    And You have set my heart on fire
-    My love and my desire
-    Only for You
-
-    And as Your glory fills this place
-    Your love we will embrace
-    Only for You, for You
-
-    And I belong to You
-    Forever, I belong to You
-
-    And You have set my heart on fire
-    My love and my desire
-    Only for You
-
-    And as Your glory fills this place
-    Your love we will embrace
-    Only for You, for You
-
-    And I belong to You
-    Forever, I belong to You
 - song: I Won't Let You Go
   artist: Jon Foreman, Lauren Daigle
   enabled: false
@@ -1049,48 +1212,6 @@
     L: We release the resentment and bitterness we hold towards people who have hurt us, people like us and our friends.
 
     A: Let justice roll down like waters and righteousness like a mighty stream.  Amen.
-- song: Once and For All
-  artist: Lauren Daigle
-  enabled: false
-  lyrics: |-
-    God I give You all I can today
-    These scattered ashes that I hid away
-    I lay them all at Your feet
-
-    From the corners of my deepest shame
-    The empty places where I've worn Your name
-    Show me the love I say I believe
-
-    Oh Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    There is victory in my Saviors loss
-    And In the crimson flowing from the cross
-    Pour over me, pour over me yes
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    Oh Lord I lay it down
-    Oh Lord I lay it down
-    Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My Lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all
-
-    Once and for all
-    Oh once and for all
-    Once and for all
 - song: All Creatures of Our God and King
   artist: Francis of Assisi
   enabled: false
@@ -1300,35 +1421,6 @@
     mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
     sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
     now. "
-- song: Come Ye Sinners, Poor And Needy
-  artist: Joseph Hart
-  enabled: false
-  lyrics: |-
-    Come, ye sinners, poor and needy,
-    Weak and wounded, sick and sore;
-    Jesus ready stands to save you,
-    Full of pity, love and power.
-
-    Refrain
-
-    I will arise and go to Jesus,
-    He will embrace me in His arms;
-    In the arms of my dear Savior,
-    O there are ten thousand charms.
-
-    Come, ye thirsty, come, and welcome,
-    God’s free bounty glorify;
-    True belief and true repentance,
-    Every grace that brings you nigh.
-
-    Refrain
-
-    Come, ye weary, heavy laden,
-    Lost and ruined by the fall;
-    If you tarry till you’re better,
-    You will never come at all.
-
-    Refrain
 - song: Heart Won't Stop
   artist: John Mark McMillan & Sarah McMillan
   enabled: false
@@ -2246,20 +2338,6 @@
     I long to love You
     With all I am
     I belong to You
-- song: Beauty for Ashes
-  artist: Shane and Shane
-  enabled: false
-  lyrics: |-
-    Beauty for ashes
-    A garment of praise for my heaviness
-    Beauty for ashes
-    Take this heart of stone and make it Yours, Yours
-
-    I delight myself in the Richest of Fare
-    Trading all that I've had for all that is better
-    A garment of praise for my heaviness
-    You are the greatest taste
-    You're the richest of fair
 - song: Praise to the Lord, the Almighty
   artist: Joachim Neander
   enabled: false
@@ -2379,84 +2457,6 @@
     You are high and lifted up, that all the world will praise Your great name
     Your great name, yeah
     Your great name, yeah
-- song: What a Beautiful Name
-  artist: Hillsong Worship
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-    You were the Word at the beginning
-    One With God the Lord Most High
-    Your hidden glory in creation
-    Now revealed in You Our Christ
-
-    [Chorus 1]
-    What a beautiful Name it is, what a beautiful Name it is
-    The Name of Jesus Christ my King
-    What a beautiful Name it is, nothing compares to this
-    What a beautiful Name it is, the Name of Jesus
-
-    [Verse 2]
-    You didn't want heaven without us
-    So Jesus You brought heaven down
-    My sin was great, Your love was greater
-    What could seperate us now
-
-    [Chorus 2]
-    What a wonderful Name it is, what a wonderful Name it is
-    The Name of Jesus Christ my King
-    What a wonderful Name it is, nothing compares to this
-    What a wonderful Name it is, the Name of Jesus
-    What a wonderful Name it is, the Name of Jesus
-
-    [Bridge 1]
-    Death could not hold You, the veil tore before You
-    You silenced the boast of sin and grave
-    The heavens are roaring, the praise of Your glory
-    For You are raised to life again
-
-    [Bridge 2]
-    You have no rival, You have no equal
-    Now and forever God you reign
-    Yours is the Kingdom, Yours is the glory
-    Yours is the Name above all names
-
-    [Chorus 3]
-    What a powerful Name it is, What a powerful Name it is
-    The Name of Jesus Christ my King
-    What a powerful Name it is, Nothing can stand against
-    What a powerful Name it is, The Name of Jesus
-
-    [Chorus 3]
-    What a powerful Name it is, what a powerful Name it is
-    The Name of Jesus Christ my King
-    What a powerful Name it is, nothing can stand against
-    What a powerful Name it is, the Name of Jesus
-
-    [Bridge 2]
-    You have no rival, You have no equal
-    Now and forever God you reign
-    Yours is the Kingdom, Yours is the glory
-    Yours is the Name above all names
-
-    [Chorus 3]
-    What a powerful Name it is, What a powerful Name it is
-    The Name of Jesus Christ my King
-    What a powerful Name it is, Nothing can stand against
-    What a powerful Name it is, The Name of Jesus
-
-    [Bridge 2]
-    You have no rival, You have no equal
-    Now and forever God you reign
-    Yours is the Kingdom, Yours is the glory
-    Yours is the Name above all names
-
-    [Chorus 3]
-    What a powerful Name it is, what a powerful Name it is
-    The Name of Jesus Christ my King
-    What a powerful Name it is, nothing can stand against
-    What a powerful Name it is, the Name of Jesus
-    What a powerful Name it is, The Name of Jesus
-    What a powerful Name it is, The Name of Jesus
 - song: Praise to the Lord, the Almighty
   artist: Hymn
   enabled: false
