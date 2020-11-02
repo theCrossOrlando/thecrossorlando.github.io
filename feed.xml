@@ -47,7 +47,7 @@ layout: null
       {%- assign podcast_author = ep.podcast_author -%}
       {%- endif -%}
       <item>
-        <title>{{ ep.title }}</title>
+        <title>{{ ep.title | escape_once }}</title>
         <link>{{ site.url }}{{ ep.url }}</link>
         <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %Z" }}</pubDate>
         <dc:creator>
