@@ -1,7 +1,143 @@
 ---
+- song: Not in a Hurry
+  artist: Will Reagan
+  enabled: true
+  lyrics: |
+    Lord I don't want to rush on ahead
+    In my own strength
+    When You're right here
+
+    I'm not in a hurry
+    When it comes to Your spirit
+    When it comes to Your presence
+    When it comes to Your voice
+    I'm learning to listen
+    Just to rest in Your nearness
+    I'm starting to notice
+    You are speaking
+
+    Lord I want to love like You
+    I want to feel what You feel
+    I want to see what You see
+
+    Open my eyes, I want to see You more clearly
+    Open my ears, I want to hear You speak
+    Tell me your thoughts whats on Your mind
+    I'll be your friend, I want to see through Your eyes
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Almighty God to You all hearts are open
+    You take away our sickness and our sin
+    Oh Lamb of God we gather at Your table
+    In bread and wine, You have supplied our needs
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+- song: All Creatures of Our God and King
+  artist: Francis of Assisi
+  enabled: true
+  lyrics: |-
+    All creatures of our God and King
+    Lift up your voice and with us sing,
+
+    Alleluia! Alleluia!
+
+    Thou burning sun with golden beam,
+    Thou silver moon with softer gleam!
+
+    O praise Him! O praise Him!
+    Alleluia! Alleluia! Alleluia!
+
+    Thou rushing wind that art so strong
+    Ye clouds that sail in Heaven along,
+    O praise Him! Alleluia!
+
+    Thou rising moon, in praise rejoice,
+    Ye lights of evening, find a voice!
+
+    O praise Him! O praise Him!
+    Alleluia! Alleluia! Alleluia!
+
+    Let all things their Creator bless,
+    And worship Him in humbleness,
+    O praise Him! Alleluia!
+
+    Praise, praise the Father, praise the Son,
+    And praise the Spirit, Three in One!
+
+    O praise Him! O praise Him!
+    Alleluia! Alleluia!  Alleluia!
+- song: You're Beautiful
+  artist: Phil Wickham
+  enabled: true
+  lyrics: |-
+    I see Your face in every sunrise
+    The colors of the morning are inside Your eyes
+    The world awakens in the light of the day
+    I look up to the sky and say
+    You're beautiful
+    (Oh, Oh, Oh, Oh)
+
+    I see Your power in the moonlit night
+    Where planets are in motion and galaxies are bright
+    We are amazed in the light of the stars
+    It's all proclaiming who You are
+    You're beautiful
+    (Oh, Oh, You're beautiful, Oh, Oh)
+
+    I see You there hanging on a tree
+    You bled and then you died and then you rose again for me
+    Now You are sitting on Your heavenly throne
+    Soon we will be coming home
+    You're beautiful
+    (Oh, Oh, You're beautiful, Oh, Oh)
+
+    (We're singing out)
+    When we arrive at eternity's shore
+    Where death is just a memory and tears are no more
+    We'll enter in as the wedding bells ring
+    Your bride will come together and we'll sing
+    You're beautiful
+    Oh, You're beautiful
+
+    I see Your face, You're beautiful
+    You're beautiful
+    You're beautiful
+
+    I see Your face, You're beautiful
+    You're beautiful
+    You're beautiful
+
+    I see Your face
+    I see Your face
+    I see Your face, You're beautiful
+    You're beautiful
+    You're beautiful
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, Love that will not let me go
     I rest my weary soul in Thee
@@ -61,7 +197,7 @@
     Holy, holy, is the King of Kings
 - song: Before the Throne
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     Before the throne of God above
     I have a strong and perfect plea.
@@ -92,7 +228,7 @@
     My life is hid with Christ on high
 - song: More Than The Watchman (Psalm 130)
   artist: Rebecca St James
-  enabled: true
+  enabled: false
   lyrics: |-
     Out of the depths I cry to my Lord, he lifted me up, he lifted me up
     Out of the depths I cry to my Lord, he lifted me up, he lifted me
@@ -858,37 +994,6 @@
     I'm never gonna let you go
 
     No I won't let you go
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Almighty God to You all hearts are open
-    You take away our sickness and our sin
-    Oh Lamb of God we gather at Your table
-    In bread and wine, You have supplied our needs
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: 10,000 Reasons
   artist: Matt Redman
   enabled: false
@@ -927,49 +1032,6 @@
 
     Ten thousand years
     And then forevermore
-- song: Not in a Hurry
-  artist: Will Reagan
-  enabled: false
-  lyrics: |-
-    Lord I don't want to rush on ahead
-    In my own strength
-    When You're right here
-
-    I'm not in a hurry
-    When it comes to Your spirit
-    When it comes to Your presence
-    When it comes to Your voice
-    I'm learning to listen
-    Just to rest in Your nearness
-    I'm starting to notice
-    You are speaking
-
-    Lord I want to love like You
-    I want to feel what You feel
-    I want to see what You see
-
-    Open my eyes, I want to see You more clearly
-    Open my ears, I want to hear You speak
-    Tell me your thoughts whats on Your mind
-    I'll be your friend, I want to see through Your eyes
-
-    –
-    Learning to Breathe By Switchfoot
-    –
-
-    And I'm learning to breathe
-    I'm learning to crawl
-    I'm finding that you and you alone can break my fall
-    I'm living again, awake and alive
-    I'm dying to breathe in these abundant skies
-    These abundant skies
-    Yeah, abundant skies, yeah
-
-    This is a way that I say I need you
-    This is a way that I say I love you
-    This is a way that I say I'm yours
-    This is a way
-    This is a way
 - song: A Good Shepherd Litany
   artist: ''
   enabled: false
@@ -1228,40 +1290,6 @@
     L: We release the resentment and bitterness we hold towards people who have hurt us, people like us and our friends.
 
     A: Let justice roll down like waters and righteousness like a mighty stream.  Amen.
-- song: All Creatures of Our God and King
-  artist: Francis of Assisi
-  enabled: false
-  lyrics: |-
-    All creatures of our God and King
-    Lift up your voice and with us sing,
-
-    Alleluia! Alleluia!
-
-    Thou burning sun with golden beam,
-    Thou silver moon with softer gleam!
-
-    O praise Him! O praise Him!
-    Alleluia! Alleluia! Alleluia!
-
-    Thou rushing wind that art so strong
-    Ye clouds that sail in Heaven along,
-    O praise Him! Alleluia!
-
-    Thou rising moon, in praise rejoice,
-    Ye lights of evening, find a voice!
-
-    O praise Him! O praise Him!
-    Alleluia! Alleluia! Alleluia!
-
-    Let all things their Creator bless,
-    And worship Him in humbleness,
-    O praise Him! Alleluia!
-
-    Praise, praise the Father, praise the Son,
-    And praise the Spirit, Three in One!
-
-    O praise Him! O praise Him!
-    Alleluia! Alleluia!  Alleluia!
 - song: We Have Come
   artist: Will Reagan
   enabled: false
@@ -1976,52 +2004,6 @@
     You are my dancing rhythm
     You are my perfect rhyme
     And I want to sing forever
-- song: You're Beautiful
-  artist: Phil Wickham
-  enabled: false
-  lyrics: |-
-    I see Your face in every sunrise
-    The colors of the morning are inside Your eyes
-    The world awakens in the light of the day
-    I look up to the sky and say
-    You're beautiful
-    (Oh, Oh, Oh, Oh)
-
-    I see Your power in the moonlit night
-    Where planets are in motion and galaxies are bright
-    We are amazed in the light of the stars
-    It's all proclaiming who You are
-    You're beautiful
-    (Oh, Oh, You're beautiful, Oh, Oh)
-
-    I see You there hanging on a tree
-    You bled and then you died and then you rose again for me
-    Now You are sitting on Your heavenly throne
-    Soon we will be coming home
-    You're beautiful
-    (Oh, Oh, You're beautiful, Oh, Oh)
-
-    (We're singing out)
-    When we arrive at eternity's shore
-    Where death is just a memory and tears are no more
-    We'll enter in as the wedding bells ring
-    Your bride will come together and we'll sing
-    You're beautiful
-    Oh, You're beautiful
-
-    I see Your face, You're beautiful
-    You're beautiful
-    You're beautiful
-
-    I see Your face, You're beautiful
-    You're beautiful
-    You're beautiful
-
-    I see Your face
-    I see Your face
-    I see Your face, You're beautiful
-    You're beautiful
-    You're beautiful
 - song: Amazing Grace
   artist: Chris Tomlin
   enabled: false
