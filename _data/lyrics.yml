@@ -1,7 +1,58 @@
 ---
+- song: I Belong to You
+  artist: Derek Johnson
+  enabled: true
+  lyrics: |-
+    You can be the One that steals my heart
+    With just a simple thought of who You are
+    Let Your light shine in the darkest parts
+    Let Your love fill the world
+
+    You can be the fire down in my soul
+    That I can't contain, that I can't control
+    Would You fill me up to overflow
+    Let Your love fill the world
+
+    And I belong to You
+    Forever, I belong to You
+
+    Let Your Words be like a burning flame
+    Come in close to touch my heart again
+    The whole earth trembles at the sound of Your name
+    Let Your love fill the world
+
+    And all I want is more of You
+    Your breath is life, Your word is truth
+    Your glory here is bursting through
+    Let Your love fill the world
+
+    And I belong to You
+    Forever, I belong to You
+
+    And You have set my heart on fire
+    My love and my desire
+    Only for You
+
+    And as Your glory fills this place
+    Your love we will embrace
+    Only for You, for You
+
+    And I belong to You
+    Forever, I belong to You
+
+    And You have set my heart on fire
+    My love and my desire
+    Only for You
+
+    And as Your glory fills this place
+    Your love we will embrace
+    Only for You, for You
+
+    And I belong to You
+    Forever, I belong to You
 - song: Not in a Hurry
   artist: Will Reagan
-  enabled: true
+  enabled: false
   lyrics: |
     Lord I don't want to rush on ahead
     In my own strength
@@ -26,7 +77,7 @@
     I'll be your friend, I want to see through Your eyes
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -91,7 +142,7 @@
     Alleluia! Alleluia!  Alleluia!
 - song: You're Beautiful
   artist: Phil Wickham
-  enabled: true
+  enabled: false
   lyrics: |-
     I see Your face in every sunrise
     The colors of the morning are inside Your eyes
@@ -252,57 +303,6 @@
     More than watchman who wait for the morning sun
     So my soul waits for the Lord more than watchmen wait
     More than watchman who wait for the morn
-- song: I Belong to You
-  artist: Derek Johnson
-  enabled: false
-  lyrics: |-
-    You can be the One that steals my heart
-    With just a simple thought of who You are
-    Let Your light shine in the darkest parts
-    Let Your love fill the world
-
-    You can be the fire down in my soul
-    That I can't contain, that I can't control
-    Would You fill me up to overflow
-    Let Your love fill the world
-
-    And I belong to You
-    Forever, I belong to You
-
-    Let Your Words be like a burning flame
-    Come in close to touch my heart again
-    The whole earth trembles at the sound of Your name
-    Let Your love fill the world
-
-    And all I want is more of You
-    Your breath is life, Your word is truth
-    Your glory here is bursting through
-    Let Your love fill the world
-
-    And I belong to You
-    Forever, I belong to You
-
-    And You have set my heart on fire
-    My love and my desire
-    Only for You
-
-    And as Your glory fills this place
-    Your love we will embrace
-    Only for You, for You
-
-    And I belong to You
-    Forever, I belong to You
-
-    And You have set my heart on fire
-    My love and my desire
-    Only for You
-
-    And as Your glory fills this place
-    Your love we will embrace
-    Only for You, for You
-
-    And I belong to You
-    Forever, I belong to You
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
   enabled: false
