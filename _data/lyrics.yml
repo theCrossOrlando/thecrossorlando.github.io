@@ -2520,6 +2520,39 @@
 
     Here's my life, Lord [x3]
     Speak what is true [x3]
+- song: How Great is our God
+  artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    The splendor of a King, clothed in majesty
+    Let all the earth rejoice
+    All the earth rejoice
+    He wraps himself in Light, and darkness tries to hide
+    And trembles at His voice
+    Trembles at His voice
+
+    [Chorus]
+    How great is our God, sing with me
+    How great is our God, and all will see
+    How great, how great is our God
+
+    Age to age He stands
+    And time is in His hands
+    Beginning and the end
+    Beginning and the end
+    The Godhead Three in One
+    Father Spirit Son
+    The Lion and the Lamb
+    The Lion and the Lamb
+
+    [Chorus]
+
+    Name above all names
+    Worthy of our praise
+    My heart will sing
+    How great is our God
+
+    [Chorus]
 - song: Brokenness Aside
   artist: All Sons & Daughters
   enabled: false
@@ -2649,39 +2682,6 @@
     And wonders of His love
     And wonders of His love
     And wonder wonders of His love
-- song: How Great is our God
-  artist: Chris Tomlin
-  enabled: false
-  lyrics: |-
-    The splendor of a King, clothed in majesty
-    Let all the earth rejoice
-    All the earth rejoice
-    He wraps himself in Light, and darkness tries to hide
-    And trembles at His voice
-    Trembles at His voice
-
-    [Chorus]
-    How great is our God, sing with me
-    How great is our God, and all will see
-    How great, how great is our God
-
-    Age to age He stands
-    And time is in His hands
-    Beginning and the end
-    Beginning and the end
-    The Godhead Three in One
-    Father Spirit Son
-    The Lion and the Lamb
-    The Lion and the Lamb
-
-    [Chorus]
-
-    Name above all names
-    Worthy of our praise
-    My heart will sing
-    How great is our God
-
-    [Chorus]
 - song: Go Tell It on the Mountain
   artist: 
   enabled: false
