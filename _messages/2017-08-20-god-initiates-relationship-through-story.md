@@ -1,7 +1,7 @@
 ---
 title: The Cross Orlando Core Values_Story
 date: 'Sun, 20 Aug 2017 10:00:00 EDT'
-file: https://crosssermons.cflcn.org/2017-08-20-god_initiates_relationship_through_story.m4a
+file: https://cflcn.org/sermons/2017-08-20-god_initiates_relationship_through_story.m4a
 length: 20710786
 duration: '43:00'
 excerpt: ''

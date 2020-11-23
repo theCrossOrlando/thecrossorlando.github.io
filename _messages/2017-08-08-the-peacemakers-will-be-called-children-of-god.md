@@ -1,7 +1,7 @@
 ---
 title: The Peacemakers will be called Children of God
 date: 'Sun, 08 Aug 2017 10:00:00 EDT'
-file: https://crosssermons.cflcn.org/2017-08-06-peace_transcends.m4a
+file: https://cflcn.org/sermons/2017-08-06-peace_transcends.m4a
 length: 15823231
 duration: '32:50'
 excerpt: ''
