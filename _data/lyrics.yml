@@ -1,7 +1,7 @@
 ---
 - song: I Belong to You
   artist: Derek Johnson
-  enabled: true
+  enabled: false
   lyrics: |-
     You can be the One that steals my heart
     With just a simple thought of who You are
@@ -52,7 +52,7 @@
     Forever, I belong to You
 - song: Come Thou Fount
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     Come thou fount of every blessing
     Tune my heart to sing Thy grace
@@ -82,7 +82,7 @@
     seal it for Thy courts above
 - song: Simple Gospel
   artist: Will Reagan
-  enabled: true
+  enabled: false
   lyrics: |-
     I want to know You, Lord
     Like I know a friend
@@ -189,7 +189,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: All Creatures of Our God and King
   artist: Francis of Assisi
-  enabled: true
+  enabled: false
   lyrics: |-
     All creatures of our God and King
     Lift up your voice and with us sing,
