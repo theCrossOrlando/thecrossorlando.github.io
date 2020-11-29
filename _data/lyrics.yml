@@ -2522,7 +2522,7 @@
     Speak what is true [x3]
 - song: How Great is our God
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     The splendor of a King, clothed in majesty
     Let all the earth rejoice
