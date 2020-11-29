@@ -1,4 +1,101 @@
 ---
+- song: Set a Fire
+  artist: Will Reagan & United Pursuit
+  enabled: true
+  lyrics: |-
+    No place I would rather be
+    No place I would rather be
+    No place I would rather be
+    Than here in your love, here in your love
+
+    Set a fire down in my soul
+    That I can't contain that I can't control
+    I want more of You, God
+    I want more of You, God
+
+    I want more, I want more
+    I want more, I want more
+    I want more, I want more of you
+    Pour it out
+
+    Set a fire down in my soul
+    That I can't contain that I can't control
+    I want more of You, God
+    I want more of You, God
+
+    No place I would rather be
+    No place I would rather be
+    No place I would rather be
+    Than here in your love, here in your love
+
+    Set a fire down in my soul
+    That I can't contain that I can't control
+    I want more of You, God
+    I want more of You, God
+
+    I want more, I want more
+    I want more, I want more
+    I want more, I want more of you
+    Pour it out
+
+    Set a fire down in my soul
+    That I can't contain that I can't control
+    I want more of You, God
+    I want more of You, God
+- song: Future/Past
+  artist: John Mark McMillan
+  enabled: true
+  lyrics: |-
+    You hold the reigns on the sun and the moon,
+    Like horses driven by kings
+    You cover the mountains, the valleys below,
+    With the breadth of Your mighty wings
+
+    [Pre-Chorus]
+    All treasures of wisdom
+    And things to be known
+    Are hidden inside Your hand
+    And in this fortunate turn of events
+    You ask me to be Your friend
+    Ask me to be Your friend
+
+    [Chorus]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    Yeah, You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    The constellations are swimming inside,
+    The breadth of Your desire
+    So where could I run, where could I hide,
+    From Your heart’s jealous fire?
+
+    [Pre-Chorus]
+    All treasures of wisdom
+    And things to be known
+    Are hidden inside Your hand
+    And in this fortunate turn of events
+    You ask me to be Your friend
+    Ask me to be Your friend
+
+    [Chorus]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    You are the beginning and the end
+
+    [Chorus]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
 - song: I Belong to You
   artist: Derek Johnson
   enabled: false
@@ -523,49 +620,6 @@
     What a powerful Name it is, the Name of Jesus
     What a powerful Name it is, The Name of Jesus
     What a powerful Name it is, The Name of Jesus
-- song: Set a Fire
-  artist: Will Reagan & United Pursuit
-  enabled: false
-  lyrics: |-
-    No place I would rather be
-    No place I would rather be
-    No place I would rather be
-    Than here in your love, here in your love
-
-    Set a fire down in my soul
-    That I can't contain that I can't control
-    I want more of You, God
-    I want more of You, God
-
-    I want more, I want more
-    I want more, I want more
-    I want more, I want more of you
-    Pour it out
-
-    Set a fire down in my soul
-    That I can't contain that I can't control
-    I want more of You, God
-    I want more of You, God
-
-    No place I would rather be
-    No place I would rather be
-    No place I would rather be
-    Than here in your love, here in your love
-
-    Set a fire down in my soul
-    That I can't contain that I can't control
-    I want more of You, God
-    I want more of You, God
-
-    I want more, I want more
-    I want more, I want more
-    I want more, I want more of you
-    Pour it out
-
-    Set a fire down in my soul
-    That I can't contain that I can't control
-    I want more of You, God
-    I want more of You, God
 - song: Grace Alone
   artist: Dustin Kensrue
   enabled: false
@@ -746,60 +800,6 @@
     But first help me to just, live it Lord.
     And when I'm doing well, help me to never seek a crown.
     For my reward is giving glory to you.
-- song: Future/Past
-  artist: John Mark McMillan
-  enabled: false
-  lyrics: |-
-    You hold the reigns on the sun and the moon,
-    Like horses driven by kings
-    You cover the mountains, the valleys below,
-    With the breadth of Your mighty wings
-
-    [Pre-Chorus]
-    All treasures of wisdom
-    And things to be known
-    Are hidden inside Your hand
-    And in this fortunate turn of events
-    You ask me to be Your friend
-    Ask me to be Your friend
-
-    [Chorus]
-    And You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    Yeah, You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    The constellations are swimming inside,
-    The breadth of Your desire
-    So where could I run, where could I hide,
-    From Your heart’s jealous fire?
-
-    [Pre-Chorus]
-    All treasures of wisdom
-    And things to be known
-    Are hidden inside Your hand
-    And in this fortunate turn of events
-    You ask me to be Your friend
-    Ask me to be Your friend
-
-    [Chorus]
-    And You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    You are the beginning and the end
-
-    [Chorus]
-    And You,
-    You are my first
-    You are my last
-    You are my future and my past
 - song: So Will I (100 Billion X)
   artist: Hillsong United
   enabled: false
