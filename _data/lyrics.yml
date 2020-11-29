@@ -96,6 +96,39 @@
     You are my first
     You are my last
     You are my future and my past
+- song: Heart Won't Stop
+  artist: John Mark McMillan & Sarah McMillan
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+    There is not a man or beast
+    Nothing on the land or underneath
+    Oh nothing that could ever come between
+    The love You have for me
+
+    [Pre-Chorus]
+    I could lay my head in sheol
+    I could make my bed
+    At the bottom of darkness deep
+    Oh but there is not a place I could escape You
+
+    [Chorus]
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Coming after me
+
+    [Verse 2]
+    There is not an angel of the stars
+    There is not a devil in the dark
+    Oh nothing that could change the way You are
+    The love You have for me
+
+    [Pre-Chorus]
+    I could lay my head in sheol
+    I could make my bed
+    At the bottom of darkness deep
+    Oh but there is not a place I could escape You
 - song: I Belong to You
   artist: Derek Johnson
   enabled: false
@@ -1350,6 +1383,54 @@
     All other ground, all other ground
     Is sinking sand, is sinking sand
     So I'll stand
+- song: The House Of God, Forever
+  artist: Jon Foreman
+  enabled: true
+  lyrics: |-
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    With quiet streams
+
+    Even though I walk
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You are with me
+
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
+
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    By quiet streams
+
+    Even while I'm walking
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You're always with me
+
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
+
+    In the house of God forever
+    In the house of God forever
 - song: Open The Eyes of My Heart
   artist: Paul Baloche
   enabled: false
@@ -1439,87 +1520,6 @@
     mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
     sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
     now. "
-- song: Heart Won't Stop
-  artist: John Mark McMillan & Sarah McMillan
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-    There is not a man or beast
-    Nothing on the land or underneath
-    Oh nothing that could ever come between
-    The love You have for me
-
-    [Pre-Chorus]
-    I could lay my head in sheol
-    I could make my bed
-    At the bottom of darkness deep
-    Oh but there is not a place I could escape You
-
-    [Chorus]
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after me
-    Coming after me
-
-    [Verse 2]
-    There is not an angel of the stars
-    There is not a devil in the dark
-    Oh nothing that could change the way You are
-    The love You have for me
-
-    [Pre-Chorus]
-    I could lay my head in sheol
-    I could make my bed
-    At the bottom of darkness deep
-    Oh but there is not a place I could escape You
-- song: The House Of God, Forever
-  artist: Jon Foreman
-  enabled: false
-  lyrics: |-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest
-    In fields of green
-    With quiet streams
-
-    Even though I walk
-    Through the valley
-    Of death and dying
-    I will not fear
-    Cause you are with me
-    You are with me
-
-    Your shepherd's staff comforts me
-    You are my feast
-    In the presence of enemies
-    Surely goodness will follow me
-    Follow me
-    In the house of God forever
-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest
-    In fields of green
-    By quiet streams
-
-    Even while I'm walking
-    Through the valley
-    Of death and dying
-    I will not fear
-    Cause you are with me
-    You're always with me
-
-    Your shepherd's staff comforts me
-    You are my feast
-    In the presence of enemies
-    Surely goodness will follow me
-    Follow me
-    In the house of God forever
-
-    In the house of God forever
-    In the house of God forever
 - song: Come Thou Long Expected Jesus
   artist: Chris Tomlin
   enabled: false
