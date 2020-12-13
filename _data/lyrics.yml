@@ -1,7 +1,121 @@
 ---
+- song: Oh Come Let Us Adore Him
+  artist: ''
+  enabled: ''
+  lyrics: |-
+    O come, all ye faithful,
+    Joyful and triumphant,
+    O come ye,
+    O come ye to Bethlehem;
+    Come and behold Him
+    Born the King of angels;
+
+    O come, let us adore Him,
+    O come, let us adore Him,
+    O come, let us adore Him,
+    Christ, the Lord.
+
+    Sing, choirs of angels,
+    Sing in exultation,
+    Sing, all ye citizens
+    Of heaven above;
+    Glory to God,
+    Glory in the highest;
+
+    O come, let us adore Him,
+    O come, let us adore Him,
+    O come, let us adore Him,
+    Christ, the Lord.
+
+    Yea, Lord, we greet Thee,
+    Born this happy morning,
+    Jesus, to Thee be
+    All glory given;
+    Word of the Father,
+    Now in flesh appearing;
+
+    O come, let us adore Him,
+    O come, let us adore Him,
+    O come, let us adore Him,
+    Christ, the Lord.
+- song: I Belong to You
+  artist: Derek Johnson
+  enabled: false
+  lyrics: |-
+    You can be the One that steals my heart
+    With just a simple thought of who You are
+    Let Your light shine in the darkest parts
+    Let Your love fill the world
+
+    You can be the fire down in my soul
+    That I can't contain, that I can't control
+    Would You fill me up to overflow
+    Let Your love fill the world
+
+    And I belong to You
+    Forever, I belong to You
+
+    Let Your Words be like a burning flame
+    Come in close to touch my heart again
+    The whole earth trembles at the sound of Your name
+    Let Your love fill the world
+
+    And all I want is more of You
+    Your breath is life, Your word is truth
+    Your glory here is bursting through
+    Let Your love fill the world
+
+    And I belong to You
+    Forever, I belong to You
+
+    And You have set my heart on fire
+    My love and my desire
+    Only for You
+
+    And as Your glory fills this place
+    Your love we will embrace
+    Only for You, for You
+
+    And I belong to You
+    Forever, I belong to You
+
+    And You have set my heart on fire
+    My love and my desire
+    Only for You
+
+    And as Your glory fills this place
+    Your love we will embrace
+    Only for You, for You
+
+    And I belong to You
+    Forever, I belong to You
+- song: Silent Night
+  artist: Joseph Mohr
+  enabled: true
+  lyrics: |-
+    Silent night, holy night
+    All is calm, All is bright
+    Round yon Virgin, Mother and Child
+    Holy Infant so Tender and mild,
+    Sleep in heavenly peace,
+    Sleep in heavenly peace.
+
+    Silent night, holy night
+    Shepherds quake at the sight,
+    Glories stream from heaven afar,
+    Heavenly hosts sing Alleluia
+    Christ the Saviour is born!
+    Christ the saviour is born.
+
+    Silent night, holy night
+    Son of God, love's pure light
+    Radiant beams from Thy holy face
+    with the dawn of redeeming grace,
+    Jesus Lord at thy birth,
+    Jesus Lord at thy birth.
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -32,7 +146,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Grace Alone
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     I was an orphan lost at the Fall
     Running away when I'd hear Your call
@@ -76,7 +190,7 @@
     I will reach the end by grace and grace alone
 - song: Come Thou Long Expected Jesus
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     Come, Thou long expected Jesus
     Born to set Thy people free;
@@ -99,7 +213,7 @@
     Raise us to Thy glorious throne.
 - song: Great Are You Lord
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     You give life, You are love
     You bring light to the darkness
@@ -272,57 +386,6 @@
     I could make my bed
     At the bottom of darkness deep
     Oh but there is not a place I could escape You
-- song: I Belong to You
-  artist: Derek Johnson
-  enabled: false
-  lyrics: |-
-    You can be the One that steals my heart
-    With just a simple thought of who You are
-    Let Your light shine in the darkest parts
-    Let Your love fill the world
-
-    You can be the fire down in my soul
-    That I can't contain, that I can't control
-    Would You fill me up to overflow
-    Let Your love fill the world
-
-    And I belong to You
-    Forever, I belong to You
-
-    Let Your Words be like a burning flame
-    Come in close to touch my heart again
-    The whole earth trembles at the sound of Your name
-    Let Your love fill the world
-
-    And all I want is more of You
-    Your breath is life, Your word is truth
-    Your glory here is bursting through
-    Let Your love fill the world
-
-    And I belong to You
-    Forever, I belong to You
-
-    And You have set my heart on fire
-    My love and my desire
-    Only for You
-
-    And as Your glory fills this place
-    Your love we will embrace
-    Only for You, for You
-
-    And I belong to You
-    Forever, I belong to You
-
-    And You have set my heart on fire
-    My love and my desire
-    Only for You
-
-    And as Your glory fills this place
-    Your love we will embrace
-    Only for You, for You
-
-    And I belong to You
-    Forever, I belong to You
 - song: Come Thou Fount
   artist: Chris Tomlin
   enabled: false
@@ -1647,30 +1710,6 @@
     You make beautiful things out of the dust
     You make beautiful things
     You make beautiful things out of us
-- song: Silent Night
-  artist: Joseph Mohr
-  enabled: false
-  lyrics: |-
-    Silent night, holy night
-    All is calm, All is bright
-    Round yon Virgin, Mother and Child
-    Holy Infant so Tender and mild,
-    Sleep in heavenly peace,
-    Sleep in heavenly peace.
-
-    Silent night, holy night
-    Shepherds quake at the sight,
-    Glories stream from heaven afar,
-    Heavenly hosts sing Alleluia
-    Christ the Saviour is born!
-    Christ the saviour is born.
-
-    Silent night, holy night
-    Son of God, love's pure light
-    Radiant beams from Thy holy face
-    with the dawn of redeeming grace,
-    Jesus Lord at thy birth,
-    Jesus Lord at thy birth.
 - song: Called Me Higher
   artist: All Sons & Daughters
   enabled: false
