@@ -1,7 +1,7 @@
 ---
 - song: Oh Come Let Us Adore Him
   artist: ''
-  enabled: ''
+  enabled: true
   lyrics: |-
     O come, all ye faithful,
     Joyful and triumphant,
