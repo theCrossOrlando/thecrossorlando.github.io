@@ -2700,7 +2700,7 @@
     Rejoice! Rejoice! Rejoice!
 - song: Joy To The World
   artist: 
-  enabled: false
+  enabled: true
   lyrics: |-
     Joy to The world! the Lord is come
     Let earth receive her King
