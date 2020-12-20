@@ -1,4 +1,118 @@
 ---
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Almighty God to You all hearts are open
+    You take away our sickness and our sin
+    Oh Lamb of God we gather at Your table
+    In bread and wine, You have supplied our needs
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+- song: Simple Gospel
+  artist: Will Reagan
+  enabled: true
+  lyrics: |-
+    I want to know You, Lord
+    Like I know a friend
+    I want to know You, Lord
+    I want to know You, Lord
+    Like I know a friend
+    I want to know You, Lord
+
+    So I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+
+    I use to think that I could box You in
+    But I'm laying down
+    I want to know You, Lord
+    I use to think that I could box You in
+    But I'm laying down
+    I want to know You, Lord
+
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I want to know You, Lord
+
+    Lord, I've been told to be ashamed
+    Lord, I've been told I don't measure up
+    Lord, I've been told I'm not good enough
+    But You're here with me
+- song: Come Thou Long Expected Jesus
+  artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    Come, Thou long expected Jesus
+    Born to set Thy people free;
+    From our fears and sins release us,
+    Let us find our rest in Thee.
+
+    Israel's strength and consolation,
+    Hope of all the earth Thou art;
+    Dear desire of every nation,
+    Joy of every longing heart.
+
+    Born Thy people to deliver,
+    Born a child and yet a King,
+    Born to reign in us forever,
+    Now Thy gracious kingdom bring.
+
+    By Thine own eternal Spirit
+    Rule in all our hearts alone;
+    By Thine all sufficient merit,
+    Raise us to Thy glorious throne.
+- song: Joy To The World
+  artist: 
+  enabled: true
+  lyrics: |-
+    Joy to The world! the Lord is come
+    Let earth receive her King
+    Let ev'ry heart prepare him room
+    And heaven and nature sing
+    And heaven and nature sing
+    And heaven and nature sing
+
+    Joy to the world! the Savior reigns
+    Let men their songs employ
+    While fields and floods, rocks, hills and plains
+    Repeat the sounding joy
+    Repeat the sounding joy
+    Repeat the sounding joy
+
+    He rules the world with truth and grace
+    And makes the nations prove The glories of His righteousness
+    And wonders of His love
+    And wonders of His love
+    And wonder wonders of His love
 - song: Silent Night
   artist: Joseph Mohr
   enabled: false
@@ -113,37 +227,6 @@
 
     And I belong to You
     Forever, I belong to You
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: true
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Almighty God to You all hearts are open
-    You take away our sickness and our sin
-    Oh Lamb of God we gather at Your table
-    In bread and wine, You have supplied our needs
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Grace Alone
   artist: Dustin Kensrue
   enabled: false
@@ -188,29 +271,6 @@
     I will run the race by grace and grace alone
     I will slay my sin by grace and grace alone
     I will reach the end by grace and grace alone
-- song: Come Thou Long Expected Jesus
-  artist: Chris Tomlin
-  enabled: true
-  lyrics: |-
-    Come, Thou long expected Jesus
-    Born to set Thy people free;
-    From our fears and sins release us,
-    Let us find our rest in Thee.
-
-    Israel's strength and consolation,
-    Hope of all the earth Thou art;
-    Dear desire of every nation,
-    Joy of every longing heart.
-
-    Born Thy people to deliver,
-    Born a child and yet a King,
-    Born to reign in us forever,
-    Now Thy gracious kingdom bring.
-
-    By Thine own eternal Spirit
-    Rule in all our hearts alone;
-    By Thine all sufficient merit,
-    Raise us to Thy glorious throne.
 - song: Great Are You Lord
   artist: All Sons & Daughters
   enabled: false
@@ -416,43 +476,6 @@
     prone to leave the God I love
     Here's my heart, O take and seal it,
     seal it for Thy courts above
-- song: Simple Gospel
-  artist: Will Reagan
-  enabled: false
-  lyrics: |-
-    I want to know You, Lord
-    Like I know a friend
-    I want to know You, Lord
-    I want to know You, Lord
-    Like I know a friend
-    I want to know You, Lord
-
-    So I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-
-    I use to think that I could box You in
-    But I'm laying down
-    I want to know You, Lord
-    I use to think that I could box You in
-    But I'm laying down
-    I want to know You, Lord
-
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I want to know You, Lord
-
-    Lord, I've been told to be ashamed
-    Lord, I've been told I don't measure up
-    Lord, I've been told I'm not good enough
-    But You're here with me
 - song: Beauty for Ashes
   artist: Shane and Shane
   enabled: false
@@ -2698,29 +2721,6 @@
     In cloud, and majesty and awe.
     Rejoice! Rejoice! Rejoice!
     Rejoice! Rejoice! Rejoice!
-- song: Joy To The World
-  artist: 
-  enabled: true
-  lyrics: |-
-    Joy to The world! the Lord is come
-    Let earth receive her King
-    Let ev'ry heart prepare him room
-    And heaven and nature sing
-    And heaven and nature sing
-    And heaven and nature sing
-
-    Joy to the world! the Savior reigns
-    Let men their songs employ
-    While fields and floods, rocks, hills and plains
-    Repeat the sounding joy
-    Repeat the sounding joy
-    Repeat the sounding joy
-
-    He rules the world with truth and grace
-    And makes the nations prove The glories of His righteousness
-    And wonders of His love
-    And wonders of His love
-    And wonder wonders of His love
 - song: Go Tell It on the Mountain
   artist: 
   enabled: false
