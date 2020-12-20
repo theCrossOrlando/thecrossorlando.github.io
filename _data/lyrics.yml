@@ -33,7 +33,7 @@
 - song: Simple Gospel
   artist: Will Reagan
   enabled: true
-  lyrics: |-
+  lyrics: |
     I want to know You, Lord
     Like I know a friend
     I want to know You, Lord
@@ -48,7 +48,7 @@
     I'm laying down
     I want to know You, Lord
 
-    I use to think that I could box You in
+    I used to think that I could box You in
     But I'm laying down
     I want to know You, Lord
     I use to think that I could box You in
@@ -67,6 +67,28 @@
     Lord, I've been told I don't measure up
     Lord, I've been told I'm not good enough
     But You're here with me
+
+    And I reach out and You find me in the dust
+    You say no amount of untruths can separate us
+
+    I will rejoice in the simple gospel
+    I will rejoice in You, Lord
+    I will rejoice in the simple gospel
+    I will rejoice in You, Lord
+    I will rejoice in the simple gospel
+    I will rejoice in You, Lord
+
+    I will rejoice, I will rejoice in the simple gospel
+    I will rejoice in You, Lord
+    I will rejoice in the simple gospel
+    And I will rejoice in You, Lord
+
+    So I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
 - song: Come Thou Long Expected Jesus
   artist: Chris Tomlin
   enabled: true
