@@ -1,7 +1,7 @@
 ---
 - song: Silent Night
   artist: Joseph Mohr
-  enabled: true
+  enabled: false
   lyrics: |-
     Silent night, holy night
     All is calm, All is bright
@@ -25,7 +25,7 @@
     Jesus Lord at thy birth.
 - song: Oh Come Let Us Adore Him
   artist: ''
-  enabled: true
+  enabled: false
   lyrics: |-
     O come, all ye faithful,
     Joyful and triumphant,
@@ -64,7 +64,7 @@
     Christ, the Lord.
 - song: I Belong to You
   artist: Derek Johnson
-  enabled: true
+  enabled: false
   lyrics: |-
     You can be the One that steals my heart
     With just a simple thought of who You are
@@ -115,7 +115,7 @@
     Forever, I belong to You
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: false
+  enabled: true
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
