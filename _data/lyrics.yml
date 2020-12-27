@@ -1,4 +1,18 @@
 ---
+- song: Nunc Dimittis
+  enabled: true
+  lyrics: |-
+    Lord, now You are letting Your servant depart in peace,
+
+    According to Your word;
+
+    For my eyes have seen Your salvation
+
+    Which You have prepared before the face of all peoples,
+
+    A light to bring revelation to the Gentiles,
+
+    And the glory of Your people Israel.
 - song: Almighty God
   artist: Sandra McCracken
   enabled: true
