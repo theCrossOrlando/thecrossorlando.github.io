@@ -50,6 +50,77 @@
     Let us become more aware of Your presence
     Let us experience the glory of Your goodness
     Here I stand
+- song: The House Of God, Forever
+  artist: Jon Foreman
+  enabled: true
+  lyrics: |-
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    With quiet streams
+
+    Even though I walk
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You are with me
+
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
+
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    By quiet streams
+
+    Even while I'm walking
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You're always with me
+
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
+
+    In the house of God forever
+    In the house of God forever
+- song: Joy To The World
+  artist: 
+  enabled: true
+  lyrics: |-
+    Joy to The world! the Lord is come
+    Let earth receive her King
+    Let ev'ry heart prepare him room
+    And heaven and nature sing
+    And heaven and nature sing
+    And heaven and nature sing
+
+    Joy to the world! the Savior reigns
+    Let men their songs employ
+    While fields and floods, rocks, hills and plains
+    Repeat the sounding joy
+    Repeat the sounding joy
+    Repeat the sounding joy
+
+    He rules the world with truth and grace
+    And makes the nations prove The glories of His righteousness
+    And wonders of His love
+    And wonders of His love
+    And wonder wonders of His love
 - song: Almighty God
   artist: Sandra McCracken
   enabled: false
@@ -163,29 +234,6 @@
     Rule in all our hearts alone;
     By Thine all sufficient merit,
     Raise us to Thy glorious throne.
-- song: Joy To The World
-  artist: 
-  enabled: true
-  lyrics: |-
-    Joy to The world! the Lord is come
-    Let earth receive her King
-    Let ev'ry heart prepare him room
-    And heaven and nature sing
-    And heaven and nature sing
-    And heaven and nature sing
-
-    Joy to the world! the Savior reigns
-    Let men their songs employ
-    While fields and floods, rocks, hills and plains
-    Repeat the sounding joy
-    Repeat the sounding joy
-    Repeat the sounding joy
-
-    He rules the world with truth and grace
-    And makes the nations prove The glories of His righteousness
-    And wonders of His love
-    And wonders of His love
-    And wonder wonders of His love
 - song: Silent Night
   artist: Joseph Mohr
   enabled: false
@@ -1528,54 +1576,6 @@
     All other ground, all other ground
     Is sinking sand, is sinking sand
     So I'll stand
-- song: The House Of God, Forever
-  artist: Jon Foreman
-  enabled: true
-  lyrics: |-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest
-    In fields of green
-    With quiet streams
-
-    Even though I walk
-    Through the valley
-    Of death and dying
-    I will not fear
-    Cause you are with me
-    You are with me
-
-    Your shepherd's staff comforts me
-    You are my feast
-    In the presence of enemies
-    Surely goodness will follow me
-    Follow me
-    In the house of God forever
-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest
-    In fields of green
-    By quiet streams
-
-    Even while I'm walking
-    Through the valley
-    Of death and dying
-    I will not fear
-    Cause you are with me
-    You're always with me
-
-    Your shepherd's staff comforts me
-    You are my feast
-    In the presence of enemies
-    Surely goodness will follow me
-    Follow me
-    In the house of God forever
-
-    In the house of God forever
-    In the house of God forever
 - song: Open The Eyes of My Heart
   artist: Paul Baloche
   enabled: false
