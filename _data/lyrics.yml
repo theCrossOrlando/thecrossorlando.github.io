@@ -13,9 +13,46 @@
     A light to bring revelation to the Gentiles,
 
     And the glory of Your people Israel.
+- song: Holy Spirit
+  artist: Jesus Culture
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+
+    There’s nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
+
+    [Chorus]
+
+    Holy Spirit, You are welcome here
+    Come flood this place
+    And fill the atmosphere
+    Your glory, God
+    Is what our hearts long for
+    To be overcome
+    By Your presence, Lord
+    Your presence, Lord
+
+    [Verse 2]
+
+    I’ve tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    [Bridge]
+
+    [4x]
+    Let us become more aware of Your presence
+    Let us experience the glory of Your goodness
+    Here I stand
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -46,7 +83,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Simple Gospel
   artist: Will Reagan
-  enabled: true
+  enabled: false
   lyrics: |
     I want to know You, Lord
     Like I know a friend
@@ -105,7 +142,7 @@
     I want to know You, Lord
 - song: Come Thou Long Expected Jesus
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     Come, Thou long expected Jesus
     Born to set Thy people free;
@@ -1105,43 +1142,6 @@
     paid it all\nAll to Him I owe\nSin had left a crimson stain, \nHe washed it white
     as snow\n\nO Praise the one who paid my debt\nAnd raised this life up from the
     dead\n"
-- song: Holy Spirit
-  artist: Jesus Culture
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-
-    There’s nothing worth more
-    That could ever come close
-    No thing can compare
-    You're our living hope
-    Your presence, Lord
-
-    [Chorus]
-
-    Holy Spirit, You are welcome here
-    Come flood this place
-    And fill the atmosphere
-    Your glory, God
-    Is what our hearts long for
-    To be overcome
-    By Your presence, Lord
-    Your presence, Lord
-
-    [Verse 2]
-
-    I’ve tasted and seen
-    Of the sweetest of loves
-    Where my heart becomes free
-    And my shame is undone
-    Your presence, Lord
-
-    [Bridge]
-
-    [4x]
-    Let us become more aware of Your presence
-    Let us experience the glory of Your goodness
-    Here I stand
 - song: I Won't Let You Go
   artist: Jon Foreman, Lauren Daigle
   enabled: false
@@ -1530,7 +1530,7 @@
     So I'll stand
 - song: The House Of God, Forever
   artist: Jon Foreman
-  enabled: false
+  enabled: true
   lyrics: |-
     God is my shepherd
     I won't be wanting
