@@ -1,55 +1,44 @@
 ---
-- song: Nunc Dimittis
+- song: January Prayer
   enabled: true
   lyrics: |-
-    Lord, now You are letting Your servant depart in peace,
-
-    According to Your word;
-
-    For my eyes have seen Your salvation
-
-    Which You have prepared before the face of all peoples,
-
-    A light to bring revelation to the Gentiles,
-
-    And the glory of Your people Israel.
-- song: Holy Spirit
-  artist: Jesus Culture
+    O God, who wonderfully created, and yet more wonderfully
+    restored, the dignity of human nature: Grant that we may
+    share the divine life of him who humbled himself to share
+    our humanity, your Son Jesus Christ; who lives and reigns
+    with you, in the unity of the Holy Spirit, one God, for ever
+    and ever. Amen.
+- song: Almighty God
+  artist: Sandra McCracken
   enabled: true
   lyrics: |-
-    [Verse 1]
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
 
-    There’s nothing worth more
-    That could ever come close
-    No thing can compare
-    You're our living hope
-    Your presence, Lord
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
 
-    [Chorus]
+    Hallelujah, hallelujah, hallelujah, hallelujah
 
-    Holy Spirit, You are welcome here
-    Come flood this place
-    And fill the atmosphere
-    Your glory, God
-    Is what our hearts long for
-    To be overcome
-    By Your presence, Lord
-    Your presence, Lord
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
 
-    [Verse 2]
+    Almighty God to You all hearts are open
+    You take away our sickness and our sin
+    Oh Lamb of God we gather at Your table
+    In bread and wine, You have supplied our needs
 
-    I’ve tasted and seen
-    Of the sweetest of loves
-    Where my heart becomes free
-    And my shame is undone
-    Your presence, Lord
+    Hallelujah, hallelujah, hallelujah, hallelujah
 
-    [Bridge]
+    To you all hearts are open, Almighty God…
 
-    [4x]
-    Let us become more aware of Your presence
-    Let us experience the glory of Your goodness
-    Here I stand
+    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Psalm 145
   enabled: true
   lyrics: |-
@@ -91,9 +80,210 @@
 
     Oh, let all that lives ever bless His name
     Oh, let all that lives ever bless His name
+- song: What a Beautiful Name
+  artist: Hillsong Worship
+  enabled: true
+  lyrics: |2-
+
+    You were the Word at the beginning
+    One With God the Lord Most High
+    Your hidden glory in creation
+    Now revealed in You Our Christ
+
+
+    What a beautiful Name it is, what a beautiful Name it is
+    The Name of Jesus Christ my King
+    What a beautiful Name it is, nothing compares to this
+    What a beautiful Name it is, the Name of Jesus
+
+    You didn't want heaven without us
+    So Jesus You brought heaven down
+    My sin was great, Your love was greater
+    What could separate us now
+
+    What a wonderful Name it is, what a wonderful Name it is
+    The Name of Jesus Christ my King
+    What a wonderful Name it is, nothing compares to this
+    What a wonderful Name it is, the Name of Jesus
+    What a wonderful Name it is, the Name of Jesus
+
+    Death could not hold You, the veil tore before You
+    You silenced the boast of sin and grave
+    The heavens are roaring, the praise of Your glory
+    For You are raised to life again
+
+    You have no rival, You have no equal
+    Now and forever God you reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name above all names
+
+    What a powerful Name it is, What a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, Nothing can stand against
+    What a powerful Name it is, The Name of Jesus
+
+    What a powerful Name it is, what a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, nothing can stand against
+    What a powerful Name it is, the Name of Jesus
+
+    You have no rival, You have no equal
+    Now and forever God you reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name above all names
+
+    What a powerful Name it is, What a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, Nothing can stand against
+    What a powerful Name it is, The Name of Jesus
+
+    You have no rival, You have no equal
+    Now and forever God you reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name above all names
+
+    What a powerful Name it is, what a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, nothing can stand against
+    What a powerful Name it is, the Name of Jesus
+    What a powerful Name it is, The Name of Jesus
+    What a powerful Name it is, The Name of Jesus
+- song: Grace Alone
+  artist: Dustin Kensrue
+  enabled: true
+  lyrics: |-
+    I was an orphan lost at the Fall
+    Running away when I'd hear Your call
+    But Father, You worked Your will
+    I had no righteousness of my own
+    I had no right to draw near Your throne
+    But Father, You loved me still
+
+    And in love before You laid the world's foundation
+    You predestined to adopt me as Your own
+    You have raised me so high up above my station
+    I'm a child of God by grace and grace alone
+
+    You left Your home to seek out the lost
+    You knew the great and terrible cost
+    But Jesus, Your face was set
+    I worked my fingers down to the bone
+    Nothing I did could ever atone
+    But Jesus, You paid my debt
+
+    By Your blood, I have redemption and salvation
+    Lord, You died that I might reap what You have sown
+    And You rose that I might be a new creation
+    I am born again by grace and grace alone
+
+    I was in darkness all of my life
+    I never knew the day from the night
+    But Spirit, You made me see
+    I swore I knew the way on my own
+    Head full of rocks, a heart made of stone
+    But Spirit, You moved in me
+
+    At your touch my sleeping spirit was awakened
+    On my darkened heart the light of Christ has shone
+    Called into a kingdom that cannot be shaken
+    Heaven's citizen by grace and grace alone
+
+    So I'll stand in faith by grace and grace alone
+    I will run the race by grace and grace alone
+    I will slay my sin by grace and grace alone
+    I will reach the end by grace and grace alone
+- song: 10,000 Reasons
+  artist: Matt Redman
+  enabled: true
+  lyrics: |-
+    Bless the Lord O my soul
+    O my soul
+    Worship His Holy name
+    Sing like never before
+    O my soul
+    I’ll worship Your Holy name
+
+    The sun comes up
+    It’s a new day dawning
+    It’s time to sing Your song again
+    Whatever may pass
+    And whatever lies before me
+    Let me be singing
+    When the evening comes
+
+    You’re rich in love
+    And You’re slow to anger
+    Your name is great
+    And Your heart is kind
+    For all Your goodness
+    I will keep on singing
+
+    Ten thousand reasons
+    For my heart to find
+
+    And on that day
+    When my strength is failing
+    The end draws near
+    And my time has come
+    Still my soul will
+    Sing Your praise unending
+
+    Ten thousand years
+    And then forevermore
+- song: Nunc Dimittis
+  enabled: false
+  lyrics: |-
+    Lord, now You are letting Your servant depart in peace,
+
+    According to Your word;
+
+    For my eyes have seen Your salvation
+
+    Which You have prepared before the face of all peoples,
+
+    A light to bring revelation to the Gentiles,
+
+    And the glory of Your people Israel.
+- song: Holy Spirit
+  artist: Jesus Culture
+  enabled: false
+  lyrics: |-
+    [Verse 1]
+
+    There’s nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
+
+    [Chorus]
+
+    Holy Spirit, You are welcome here
+    Come flood this place
+    And fill the atmosphere
+    Your glory, God
+    Is what our hearts long for
+    To be overcome
+    By Your presence, Lord
+    Your presence, Lord
+
+    [Verse 2]
+
+    I’ve tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    [Bridge]
+
+    [4x]
+    Let us become more aware of Your presence
+    Let us experience the glory of Your goodness
+    Here I stand
 - song: The House Of God, Forever
   artist: Jon Foreman
-  enabled: true
+  enabled: false
   lyrics: |-
     God is my shepherd
     I won't be wanting
@@ -141,7 +331,7 @@
     In the house of God forever
 - song: Joy To The World
   artist: 
-  enabled: true
+  enabled: false
   lyrics: |-
     Joy to The world! the Lord is come
     Let earth receive her King
@@ -162,37 +352,6 @@
     And wonders of His love
     And wonders of His love
     And wonder wonders of His love
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Almighty God to You all hearts are open
-    You take away our sickness and our sin
-    Oh Lamb of God we gather at Your table
-    In bread and wine, You have supplied our needs
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Simple Gospel
   artist: Will Reagan
   enabled: false
@@ -389,50 +548,6 @@
 
     And I belong to You
     Forever, I belong to You
-- song: Grace Alone
-  artist: Dustin Kensrue
-  enabled: false
-  lyrics: |-
-    I was an orphan lost at the Fall
-    Running away when I'd hear Your call
-    But Father, You worked Your will
-    I had no righteousness of my own
-    I had no right to draw near Your throne
-    But Father, You loved me still
-
-    And in love before You laid the world's foundation
-    You predestined to adopt me as Your own
-    You have raised me so high up above my station
-    I'm a child of God by grace and grace alone
-
-    You left Your home to seek out the lost
-    You knew the great and terrible cost
-    But Jesus, Your face was set
-    I worked my fingers down to the bone
-    Nothing I did could ever atone
-    But Jesus, You paid my debt
-
-    By Your blood, I have redemption and salvation
-    Lord, You died that I might reap what You have sown
-    And You rose that I might be a new creation
-    I am born again by grace and grace alone
-
-    I was in darkness all of my life
-    I never knew the day from the night
-    But Spirit, You made me see
-    I swore I knew the way on my own
-    Head full of rocks, a heart made of stone
-    But Spirit, You moved in me
-
-    At your touch my sleeping spirit was awakened
-    On my darkened heart the light of Christ has shone
-    Called into a kingdom that cannot be shaken
-    Heaven's citizen by grace and grace alone
-
-    So I'll stand in faith by grace and grace alone
-    I will run the race by grace and grace alone
-    I will slay my sin by grace and grace alone
-    I will reach the end by grace and grace alone
 - song: Great Are You Lord
   artist: All Sons & Daughters
   enabled: false
@@ -945,74 +1060,6 @@
     Once and for all
     Oh once and for all
     Once and for all
-- song: What a Beautiful Name
-  artist: Hillsong Worship
-  enabled: false
-  lyrics: |2-
-
-    You were the Word at the beginning
-    One With God the Lord Most High
-    Your hidden glory in creation
-    Now revealed in You Our Christ
-
-
-    What a beautiful Name it is, what a beautiful Name it is
-    The Name of Jesus Christ my King
-    What a beautiful Name it is, nothing compares to this
-    What a beautiful Name it is, the Name of Jesus
-
-    You didn't want heaven without us
-    So Jesus You brought heaven down
-    My sin was great, Your love was greater
-    What could separate us now
-
-    What a wonderful Name it is, what a wonderful Name it is
-    The Name of Jesus Christ my King
-    What a wonderful Name it is, nothing compares to this
-    What a wonderful Name it is, the Name of Jesus
-    What a wonderful Name it is, the Name of Jesus
-
-    Death could not hold You, the veil tore before You
-    You silenced the boast of sin and grave
-    The heavens are roaring, the praise of Your glory
-    For You are raised to life again
-
-    You have no rival, You have no equal
-    Now and forever God you reign
-    Yours is the Kingdom, Yours is the glory
-    Yours is the Name above all names
-
-    What a powerful Name it is, What a powerful Name it is
-    The Name of Jesus Christ my King
-    What a powerful Name it is, Nothing can stand against
-    What a powerful Name it is, The Name of Jesus
-
-    What a powerful Name it is, what a powerful Name it is
-    The Name of Jesus Christ my King
-    What a powerful Name it is, nothing can stand against
-    What a powerful Name it is, the Name of Jesus
-
-    You have no rival, You have no equal
-    Now and forever God you reign
-    Yours is the Kingdom, Yours is the glory
-    Yours is the Name above all names
-
-    What a powerful Name it is, What a powerful Name it is
-    The Name of Jesus Christ my King
-    What a powerful Name it is, Nothing can stand against
-    What a powerful Name it is, The Name of Jesus
-
-    You have no rival, You have no equal
-    Now and forever God you reign
-    Yours is the Kingdom, Yours is the glory
-    Yours is the Name above all names
-
-    What a powerful Name it is, what a powerful Name it is
-    The Name of Jesus Christ my King
-    What a powerful Name it is, nothing can stand against
-    What a powerful Name it is, the Name of Jesus
-    What a powerful Name it is, The Name of Jesus
-    What a powerful Name it is, The Name of Jesus
 - song: Another In The Fire
   artist: Hillsong United
   enabled: false
@@ -1291,44 +1338,6 @@
     I'm never gonna let you go
 
     No I won't let you go
-- song: 10,000 Reasons
-  artist: Matt Redman
-  enabled: false
-  lyrics: |-
-    Bless the Lord O my soul
-    O my soul
-    Worship His Holy name
-    Sing like never before
-    O my soul
-    I’ll worship Your Holy name
-
-    The sun comes up
-    It’s a new day dawning
-    It’s time to sing Your song again
-    Whatever may pass
-    And whatever lies before me
-    Let me be singing
-    When the evening comes
-
-    You’re rich in love
-    And You’re slow to anger
-    Your name is great
-    And Your heart is kind
-    For all Your goodness
-    I will keep on singing
-
-    Ten thousand reasons
-    For my heart to find
-
-    And on that day
-    When my strength is failing
-    The end draws near
-    And my time has come
-    Still my soul will
-    Sing Your praise unending
-
-    Ten thousand years
-    And then forevermore
 - song: A Good Shepherd Litany
   artist: ''
   enabled: false
