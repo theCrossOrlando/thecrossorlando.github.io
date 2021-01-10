@@ -1,4 +1,20 @@
 ---
+- song: 'All Who Are Thirsty '
+  enabled: true
+  lyrics: |
+    All who are thirsty
+    All who are weak
+    Come to the fountain
+    Dip your heart in the streams of life
+    Let the pain and the sorrow
+    Be washed away
+    In the waves of his mercy
+    As deep cries out to deep, we sing
+
+    Come Lord Jesus, come
+    Come Lord Jesus, come
+    Come Lord Jesus, come
+    Come Lord Jesus, come
 - song: January Prayer
   enabled: true
   lyrics: |-
@@ -10,7 +26,7 @@
     and ever. Amen.
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -40,7 +56,7 @@
 
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Psalm 145
-  enabled: true
+  enabled: false
   lyrics: |-
     I will bless You all of my days LORD
     I will praise you always, My God and King
@@ -82,7 +98,7 @@
     Oh, let all that lives ever bless His name
 - song: What a Beautiful Name
   artist: Hillsong Worship
-  enabled: true
+  enabled: false
   lyrics: |2-
 
     You were the Word at the beginning
@@ -150,7 +166,7 @@
     What a powerful Name it is, The Name of Jesus
 - song: Grace Alone
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     I was an orphan lost at the Fall
     Running away when I'd hear Your call
