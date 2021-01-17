@@ -62,6 +62,95 @@
     You are my first
     You are my last
     You are my future and my past
+- song: Stand In Your Love
+  artist: Josh Baldwin
+  enabled: true
+  lyrics: |-
+    When darkness tries to roll over my bones
+    When sorrow tries to steal the joy I own
+    When brokenness and pain is all I know
+    I won't be shaken, I won't be shaken (Cause)
+
+    (chorus)
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+
+    Shame no longer has a place to hide
+    I am not a captive to the lies
+    Not afraid to leave my past behind
+    I won't be shaken, I won't be shaken
+
+    (chorus)
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+
+    There's power that can break off every chain
+    There's a power that can empty out a grave
+    There's power that washes every stain
+    (No) I won't be shaken, I won't be shaken
+
+    (chorus)
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+    Fear doesn't stand a chance
+    When I stand in Your love
+
+    (chorus)
+    (Cause) Shame doesn't stand a chance
+    When I stand in Your love
+    Shame doesn't stand a chance
+    When I stand in Your love
+    Shame doesn't stand a chance
+    When I stand in Your love
+- song: How Deep The Father's Love For Us
+  artist: 
+  enabled: false
+  lyrics: |-
+    How deep the Father’s love for us,
+    How vast beyond all measure,
+    That He should give His only Son
+    To make a wretch His treasure.
+    How great the pain of searing loss -
+    The Father turns His face away,
+    As wounds which mar the Chosen One
+    Bring many sons to glory.
+
+    Behold the man upon a cross,
+    My sin upon His shoulders;
+    Ashamed, I hear my mocking voice
+    Call out among the scoffers.
+    It was my sin that held Him there
+    Until it was accomplished;
+    His dying breath has brought me life -
+    I know that it is finished.
+
+    I will not boast in anything,
+    No gifts, no power, no wisdom;
+    But I will boast in Jesus Christ,
+    His death and resurrection.
+    Why should I gain from His reward?
+    I cannot give an answer;
+    But this I know with all my heart -
+    His wounds have paid my ransom.
+- song: Doxology
+  artist: 
+  enabled: false
+  lyrics: |-
+    Praise God from Whom all blessings flow
+    Praise Him all creatures here below
+    Praise Him above ye heavenly host
+    Praise Father Son and Holy Ghost
+    Amen amen amen amen
 - song: 'All Who Are Thirsty '
   enabled: false
   lyrics: |
@@ -1499,56 +1588,6 @@
     I am yours, only yours
     We are yours, only yours
     We are yours, only yours
-- song: Stand In Your Love
-  artist: Josh Baldwin
-  enabled: false
-  lyrics: |-
-    When darkness tries to roll over my bones
-    When sorrow tries to steal the joy I own
-    When brokenness and pain is all I know
-    I won't be shaken, I won't be shaken (Cause)
-
-    (chorus)
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-
-    Shame no longer has a place to hide
-    I am not a captive to the lies
-    Not afraid to leave my past behind
-    I won't be shaken, I won't be shaken
-
-    (chorus)
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-
-    There's power that can break off every chain
-    There's a power that can empty out a grave
-    There's power that washes every stain
-    (No) I won't be shaken, I won't be shaken
-
-    (chorus)
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-
-    (chorus)
-    (Cause) Shame doesn't stand a chance
-    When I stand in Your love
-    Shame doesn't stand a chance
-    When I stand in Your love
-    Shame doesn't stand a chance
-    When I stand in Your love
 - song: Lament Liturgy
   enabled: false
   lyrics: |-
@@ -2042,15 +2081,6 @@
     And I'm loved by you
     (you are perfect in all of your ways)
     It's who I am, it's who I am it's who I am
-- song: Doxology
-  artist: 
-  enabled: false
-  lyrics: |-
-    Praise God from Whom all blessings flow
-    Praise Him all creatures here below
-    Praise Him above ye heavenly host
-    Praise Father Son and Holy Ghost
-    Amen amen amen amen
 - song: This I Believe
   artist: Hillsong
   enabled: false
@@ -2398,36 +2428,6 @@
     Give all I have just to know You
     Jesus, there's no one besides You
     Forever the hope in my heart
-- song: How Deep The Father's Love For Us
-  artist: 
-  enabled: false
-  lyrics: |-
-    How deep the Father’s love for us,
-    How vast beyond all measure,
-    That He should give His only Son
-    To make a wretch His treasure.
-    How great the pain of searing loss -
-    The Father turns His face away,
-    As wounds which mar the Chosen One
-    Bring many sons to glory.
-
-    Behold the man upon a cross,
-    My sin upon His shoulders;
-    Ashamed, I hear my mocking voice
-    Call out among the scoffers.
-    It was my sin that held Him there
-    Until it was accomplished;
-    His dying breath has brought me life -
-    I know that it is finished.
-
-    I will not boast in anything,
-    No gifts, no power, no wisdom;
-    But I will boast in Jesus Christ,
-    His death and resurrection.
-    Why should I gain from His reward?
-    I cannot give an answer;
-    But this I know with all my heart -
-    His wounds have paid my ransom.
 - song: Where Did My Hope Go
   artist: Kat Porter
   enabled: false
