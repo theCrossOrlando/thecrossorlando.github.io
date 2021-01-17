@@ -1,13 +1,4 @@
 ---
-- song: January Prayer
-  enabled: true
-  lyrics: |-
-    O God, who wonderfully created, and yet more wonderfully
-    restored, the dignity of human nature: Grant that we may
-    share the divine life of him who humbled himself to share
-    our humanity, your Son Jesus Christ; who lives and reigns
-    with you, in the unity of the Holy Spirit, one God, for ever
-    and ever. Amen.
 - song: Future/Past
   artist: John Mark McMillan
   enabled: true
@@ -62,6 +53,45 @@
     You are my first
     You are my last
     You are my future and my past
+- song: How Deep The Father's Love For Us
+  artist: 
+  enabled: true
+  lyrics: |-
+    How deep the Father’s love for us,
+    How vast beyond all measure,
+    That He should give His only Son
+    To make a wretch His treasure.
+    How great the pain of searing loss -
+    The Father turns His face away,
+    As wounds which mar the Chosen One
+    Bring many sons to glory.
+
+    Behold the man upon a cross,
+    My sin upon His shoulders;
+    Ashamed, I hear my mocking voice
+    Call out among the scoffers.
+    It was my sin that held Him there
+    Until it was accomplished;
+    His dying breath has brought me life -
+    I know that it is finished.
+
+    I will not boast in anything,
+    No gifts, no power, no wisdom;
+    But I will boast in Jesus Christ,
+    His death and resurrection.
+    Why should I gain from His reward?
+    I cannot give an answer;
+    But this I know with all my heart -
+    His wounds have paid my ransom.
+- song: January Prayer
+  enabled: true
+  lyrics: |-
+    O God, who wonderfully created, and yet more wonderfully
+    restored, the dignity of human nature: Grant that we may
+    share the divine life of him who humbled himself to share
+    our humanity, your Son Jesus Christ; who lives and reigns
+    with you, in the unity of the Holy Spirit, one God, for ever
+    and ever. Amen.
 - song: Stand In Your Love
   artist: Josh Baldwin
   enabled: true
@@ -112,36 +142,6 @@
     When I stand in Your love
     Shame doesn't stand a chance
     When I stand in Your love
-- song: How Deep The Father's Love For Us
-  artist: 
-  enabled: true
-  lyrics: |-
-    How deep the Father’s love for us,
-    How vast beyond all measure,
-    That He should give His only Son
-    To make a wretch His treasure.
-    How great the pain of searing loss -
-    The Father turns His face away,
-    As wounds which mar the Chosen One
-    Bring many sons to glory.
-
-    Behold the man upon a cross,
-    My sin upon His shoulders;
-    Ashamed, I hear my mocking voice
-    Call out among the scoffers.
-    It was my sin that held Him there
-    Until it was accomplished;
-    His dying breath has brought me life -
-    I know that it is finished.
-
-    I will not boast in anything,
-    No gifts, no power, no wisdom;
-    But I will boast in Jesus Christ,
-    His death and resurrection.
-    Why should I gain from His reward?
-    I cannot give an answer;
-    But this I know with all my heart -
-    His wounds have paid my ransom.
 - song: Doxology
   artist: 
   enabled: true
