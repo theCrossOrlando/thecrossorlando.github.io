@@ -56,33 +56,16 @@
 - song: How Deep The Father's Love For Us
   artist: 
   enabled: true
-  lyrics: |-
-    How deep the Father’s love for us,
-    How vast beyond all measure,
-    That He should give His only Son
-    To make a wretch His treasure.
-    How great the pain of searing loss -
-    The Father turns His face away,
-    As wounds which mar the Chosen One
-    Bring many sons to glory.
-
-    Behold the man upon a cross,
-    My sin upon His shoulders;
-    Ashamed, I hear my mocking voice
-    Call out among the scoffers.
-    It was my sin that held Him there
-    Until it was accomplished;
-    His dying breath has brought me life -
-    I know that it is finished.
-
-    I will not boast in anything,
-    No gifts, no power, no wisdom;
-    But I will boast in Jesus Christ,
-    His death and resurrection.
-    Why should I gain from His reward?
-    I cannot give an answer;
-    But this I know with all my heart -
-    His wounds have paid my ransom.
+  lyrics: "How deep the Father’s love for us,\nHow vast beyond all measure,\nThat
+    He should give His only Son\nTo make a wretch His treasure.\nHow great the pain
+    of searing loss -\nThe Father turns His face away,\nAs wounds which mar the Chosen
+    One\nBring many sons to glory.\n\nBehold the man upon a cross,\nMy sin upon His
+    shoulders;\nAshamed, I hear my mocking voice\nCall out among the scoffers.\nIt
+    was my sin that held Him there\nUntil it was accomplished;\nHis dying breath has
+    brought me life -\nI know that it is finished.\n\nI will not boast in anything,\nNo
+    gifts, no power, no wisdom;\nBut I will boast in Jesus Christ,\nHis death and
+    resurrection.\nWhy should I gain from His reward?\nI cannot give an answer;\nBut
+    this I know with all my heart -\nHis wounds have paid my ransom. "
 - song: January Prayer
   enabled: true
   lyrics: |-
