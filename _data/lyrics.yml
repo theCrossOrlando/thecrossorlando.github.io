@@ -80,7 +80,7 @@
     Come Lord Jesus, come
 - song: Nothing I Hold On To
   artist: United Pursuit Band
-  enabled: true
+  enabled: false
   lyrics: |-
     I lean not on my own understanding,
     My life is in the hands of the maker of heaven
@@ -101,7 +101,7 @@
     All Glory To God, Forever. Amen
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, Love that will not let me go
     I rest my weary soul in Thee
@@ -161,7 +161,7 @@
     Holy, holy, is the King of Kings
 - song: How Great is our God
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     The splendor of a King, clothed in majesty
     Let all the earth rejoice
