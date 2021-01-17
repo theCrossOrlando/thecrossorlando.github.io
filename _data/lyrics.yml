@@ -114,7 +114,7 @@
     When I stand in Your love
 - song: How Deep The Father's Love For Us
   artist: 
-  enabled: false
+  enabled: true
   lyrics: |-
     How deep the Father’s love for us,
     How vast beyond all measure,
@@ -144,7 +144,7 @@
     His wounds have paid my ransom.
 - song: Doxology
   artist: 
-  enabled: false
+  enabled: true
   lyrics: |-
     Praise God from Whom all blessings flow
     Praise Him all creatures here below
