@@ -128,12 +128,8 @@
 - song: Doxology
   artist: 
   enabled: true
-  lyrics: |-
-    Praise God from Whom all blessings flow
-    Praise Him all creatures here below
-    Praise Him above ye heavenly host
-    Praise Father Son and Holy Ghost
-    Amen amen amen amen
+  lyrics: "Praise God from Whom all blessings flow\nPraise Him all creatures here
+    below\nPraise Him above ye heavenly host\nPraise Father Son and Holy Ghost\nAmen "
 - song: 'All Who Are Thirsty '
   enabled: false
   lyrics: |
