@@ -1,7 +1,91 @@
 ---
+- song: You Are So Good To Me
+  artist: Third Day
+  enabled: true
+  lyrics: |-
+    You are so good to me
+    You heal my broken heart
+    You are my Father in heaven [2x]
+
+    You ride upon the clouds
+    You lead me to the truth
+    You are the Spirit inside me [2x]
+
+    You poured out all your blood
+    You died upon the cross
+    You are my Jesus who loves me [2x]
+
+    [Chorus:]
+    You are beautiful my sweet, sweet, song [3x]
+    I will sing again
+
+    [Bridge:]
+    You are my strong melody
+    You are my dancing rhythm
+    You are my perfect rhyme
+    And I want to sing forever
+- song: Simple Gospel
+  artist: Will Reagan
+  enabled: true
+  lyrics: |
+    I want to know You, Lord
+    Like I know a friend
+    I want to know You, Lord
+    I want to know You, Lord
+    Like I know a friend
+    I want to know You, Lord
+
+    So I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+
+    I used to think that I could box You in
+    But I'm laying down
+    I want to know You, Lord
+    I use to think that I could box You in
+    But I'm laying down
+    I want to know You, Lord
+
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I want to know You, Lord
+
+    Lord, I've been told to be ashamed
+    Lord, I've been told I don't measure up
+    Lord, I've been told I'm not good enough
+    But You're here with me
+
+    And I reach out and You find me in the dust
+    You say no amount of untruths can separate us
+
+    I will rejoice in the simple gospel
+    I will rejoice in You, Lord
+    I will rejoice in the simple gospel
+    I will rejoice in You, Lord
+    I will rejoice in the simple gospel
+    I will rejoice in You, Lord
+
+    I will rejoice, I will rejoice in the simple gospel
+    I will rejoice in You, Lord
+    I will rejoice in the simple gospel
+    And I will rejoice in You, Lord
+
+    So I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
 - song: Future/Past
   artist: John Mark McMillan
-  enabled: true
+  enabled: false
   lyrics: |-
     You hold the reigns on the sun and the moon,
     Like horses driven by kings
@@ -55,7 +139,7 @@
     You are my future and my past
 - song: How Deep The Father's Love For Us
   artist: 
-  enabled: true
+  enabled: false
   lyrics: "How deep the Father’s love for us,\nHow vast beyond all measure,\nThat
     He should give His only Son\nTo make a wretch His treasure.\nHow great the pain
     of searing loss -\nThe Father turns His face away,\nAs wounds which mar the Chosen
@@ -77,7 +161,7 @@
     and ever. Amen.
 - song: Stand In Your Love
   artist: Josh Baldwin
-  enabled: true
+  enabled: false
   lyrics: |-
     When darkness tries to roll over my bones
     When sorrow tries to steal the joy I own
@@ -127,7 +211,7 @@
     When I stand in Your love
 - song: Doxology
   artist: 
-  enabled: true
+  enabled: false
   lyrics: "Praise God from Whom all blessings flow\nPraise Him all creatures here
     below\nPraise Him above ye heavenly host\nPraise Father Son and Holy Ghost\nAmen "
 - song: 'All Who Are Thirsty '
@@ -604,65 +688,6 @@
     And wonders of His love
     And wonders of His love
     And wonder wonders of His love
-- song: Simple Gospel
-  artist: Will Reagan
-  enabled: false
-  lyrics: |
-    I want to know You, Lord
-    Like I know a friend
-    I want to know You, Lord
-    I want to know You, Lord
-    Like I know a friend
-    I want to know You, Lord
-
-    So I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-
-    I used to think that I could box You in
-    But I'm laying down
-    I want to know You, Lord
-    I use to think that I could box You in
-    But I'm laying down
-    I want to know You, Lord
-
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I want to know You, Lord
-
-    Lord, I've been told to be ashamed
-    Lord, I've been told I don't measure up
-    Lord, I've been told I'm not good enough
-    But You're here with me
-
-    And I reach out and You find me in the dust
-    You say no amount of untruths can separate us
-
-    I will rejoice in the simple gospel
-    I will rejoice in You, Lord
-    I will rejoice in the simple gospel
-    I will rejoice in You, Lord
-    I will rejoice in the simple gospel
-    I will rejoice in You, Lord
-
-    I will rejoice, I will rejoice in the simple gospel
-    I will rejoice in You, Lord
-    I will rejoice in the simple gospel
-    And I will rejoice in You, Lord
-
-    So I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
 - song: Come Thou Long Expected Jesus
   artist: Chris Tomlin
   enabled: false
@@ -1633,6 +1658,53 @@
     L: We release the resentment and bitterness we hold towards people who have hurt us, people like us and our friends.
 
     A: Let justice roll down like waters and righteousness like a mighty stream.  Amen.
+- song: Simple Gospel
+  artist: United Pursuit
+  enabled: false
+  lyrics: |-
+    [Verse 1]
+    I want to know you, Lord, like I know a friend
+    I want to know you Lord
+    I want to know you, Lord, like I know a friend
+    I want to know you Lord
+
+    [Chorus]
+    I’m laying down all my religion
+    I’m laying down, I wanna know you Lord
+    I’m laying down all my religion
+    I’m laying down, I wanna know you Lord
+
+    [Verse 2]
+    I used to think that could I box you in
+    But I’m laying down, I wanna know you Lord
+    I used to think that could I box you in
+    But I’m laying down, I wanna know you Lord
+
+    [Chorus]
+
+    [Verse 3]
+    Lord, I’ve been told to be ashamed
+    Lord, I’ve been told I don’t measure up
+    Lord, I’ve been told I’m not good enough
+    But you’re here with me
+
+    [Chorus 2]
+    I reach out and you find me in the dust
+    They say no amount of untruth can separate us
+    I reach out and you find me in the dust
+    They say no amount of untruths can separate us
+    x2
+
+    [Bridge]
+    I will rejoice in the simple gospel
+    I will rejoice in you, Lord
+    x3
+
+    [Chorus 2]
+
+    [Bridge]
+    I will rejoice in the simple gospel
+    I will rejoice in you, Lord
 - song: We Have Come
   artist: Will Reagan
   enabled: false
@@ -2185,31 +2257,6 @@
     You spoke so tenderly
     And now I choose to believe
     You love me, you love me, you love me
-- song: You Are So Good To Me
-  artist: Third Day
-  enabled: false
-  lyrics: |-
-    You are so good to me
-    You heal my broken heart
-    You are my Father in heaven [2x]
-
-    You ride upon the clouds
-    You lead me to the truth
-    You are the Spirit inside me [2x]
-
-    You poured out all your blood
-    You died upon the cross
-    You are my Jesus who loves me [2x]
-
-    [Chorus:]
-    You are beautiful my sweet, sweet, song [3x]
-    I will sing again
-
-    [Bridge:]
-    You are my strong melody
-    You are my dancing rhythm
-    You are my perfect rhyme
-    And I want to sing forever
 - song: Amazing Grace
   artist: Chris Tomlin
   enabled: false
@@ -2301,53 +2348,6 @@
     May I reach Heaven’s joys, O bright Heaven’s Sun!
     Heart of my own heart, whatever befall,
     Still be my Vision, O Ruler of all.
-- song: Simple Gospel
-  artist: United Pursuit
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-    I want to know you, Lord, like I know a friend
-    I want to know you Lord
-    I want to know you, Lord, like I know a friend
-    I want to know you Lord
-
-    [Chorus]
-    I’m laying down all my religion
-    I’m laying down, I wanna know you Lord
-    I’m laying down all my religion
-    I’m laying down, I wanna know you Lord
-
-    [Verse 2]
-    I used to think that could I box you in
-    But I’m laying down, I wanna know you Lord
-    I used to think that could I box you in
-    But I’m laying down, I wanna know you Lord
-
-    [Chorus]
-
-    [Verse 3]
-    Lord, I’ve been told to be ashamed
-    Lord, I’ve been told I don’t measure up
-    Lord, I’ve been told I’m not good enough
-    But you’re here with me
-
-    [Chorus 2]
-    I reach out and you find me in the dust
-    They say no amount of untruth can separate us
-    I reach out and you find me in the dust
-    They say no amount of untruths can separate us
-    x2
-
-    [Bridge]
-    I will rejoice in the simple gospel
-    I will rejoice in you, Lord
-    x3
-
-    [Chorus 2]
-
-    [Bridge]
-    I will rejoice in the simple gospel
-    I will rejoice in you, Lord
 - song: Scandal of Grace
   artist: Hillsong United
   enabled: false
