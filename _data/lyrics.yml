@@ -1,6 +1,65 @@
 ---
-- song: Psalm 145
+- song: Holy Spirit
+  artist: Jesus Culture
   enabled: true
+  lyrics: |-
+    [Verse 1]
+
+    There’s nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
+
+    [Chorus]
+
+    Holy Spirit, You are welcome here
+    Come flood this place
+    And fill the atmosphere
+    Your glory, God
+    Is what our hearts long for
+    To be overcome
+    By Your presence, Lord
+    Your presence, Lord
+
+    [Verse 2]
+
+    I’ve tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    [Bridge]
+
+    [4x]
+    Let us become more aware of Your presence
+    Let us experience the glory of Your goodness
+    Here I stand
+- song: The Kingdom is Yours
+  artist: Common Hymnal
+  enabled: true
+  lyrics: "Blessed are the ones who do not bury\nAll the broken pieces of their heart\nBlessed
+    are the tears of all the weary\nPouring like a sky of falling stars\n\nBlessed
+    are the wounded ones in mourning\nBrave enough to show the Lord their scars\nBlessed
+    are the hurts that are not hidden\nOpen to the healing touch of God\n\nThe Kingdom
+    is yours, the Kingdom is yours\nHold on a little more, this is not the end\nHope
+    is in the Lord, keep your eyes on Him\n\nAnd blessed are the ones who walk in
+    kindness\nEven in the face of great abuse\nBlessed are the deeds that go unnoticed\nServing
+    with unguarded gratitude\n\nAnd blessed are the ones who fight for justice\nLonging
+    for the coming day of peace\nBlessed is the soul that thirsts for righteousness\nWelcoming
+    the last, the lost, the least\n\nThe Kingdom is yours, the Kingdom is yours\nHold
+    on a little more, this is not the end\nHope is in the Lord, keep your eyes on
+    Him\nThe Kingdom is yours, the Kingdom is yours\nHold on a little more, this is
+    not the end\nHope is in the Lord, keep your eyes on Him\n\nBlessed are the ones
+    who suffer violence\nAnd still have strength to love their enemies\nBlessed is
+    the faith of those who persevere\nThough they fall, they'll never know defeat\n\nThe
+    Kingdom is yours, the Kingdom is yours\nHold on a little more, this is not the
+    end\nHope is in the Lord, keep your eyes on Him\nThe Kingdom is yours, the Kingdom
+    is yours\nHold on a little more, this is not the end\nHope is in the Lord, keep
+    your eyes on Him "
+- song: Psalm 145
+  enabled: false
   lyrics: |-
     I will bless You all of my days LORD
     I will praise you always, My God and King
@@ -40,31 +99,9 @@
 
     Oh, let all that lives ever bless His name
     Oh, let all that lives ever bless His name
-- song: The Kingdom is Yours
-  artist: Common Hymnal
-  enabled: true
-  lyrics: "Blessed are the ones who do not bury\nAll the broken pieces of their heart\nBlessed
-    are the tears of all the weary\nPouring like a sky of falling stars\n\nBlessed
-    are the wounded ones in mourning\nBrave enough to show the Lord their scars\nBlessed
-    are the hurts that are not hidden\nOpen to the healing touch of God\n\nThe Kingdom
-    is yours, the Kingdom is yours\nHold on a little more, this is not the end\nHope
-    is in the Lord, keep your eyes on Him\n\nAnd blessed are the ones who walk in
-    kindness\nEven in the face of great abuse\nBlessed are the deeds that go unnoticed\nServing
-    with unguarded gratitude\n\nAnd blessed are the ones who fight for justice\nLonging
-    for the coming day of peace\nBlessed is the soul that thirsts for righteousness\nWelcoming
-    the last, the lost, the least\n\nThe Kingdom is yours, the Kingdom is yours\nHold
-    on a little more, this is not the end\nHope is in the Lord, keep your eyes on
-    Him\nThe Kingdom is yours, the Kingdom is yours\nHold on a little more, this is
-    not the end\nHope is in the Lord, keep your eyes on Him\n\nBlessed are the ones
-    who suffer violence\nAnd still have strength to love their enemies\nBlessed is
-    the faith of those who persevere\nThough they fall, they'll never know defeat\n\nThe
-    Kingdom is yours, the Kingdom is yours\nHold on a little more, this is not the
-    end\nHope is in the Lord, keep your eyes on Him\nThe Kingdom is yours, the Kingdom
-    is yours\nHold on a little more, this is not the end\nHope is in the Lord, keep
-    your eyes on Him "
 - song: 10,000 Reasons
   artist: Matt Redman
-  enabled: true
+  enabled: false
   lyrics: |-
     Bless the Lord O my soul
     O my soul
@@ -100,7 +137,7 @@
     And then forevermore
 - song: Good, Good Father
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |
     Oh, I've heard a thousand stories of what they think you're like
     But I've heard the tender whispers of love in the dead of night
@@ -645,43 +682,6 @@
     A light to bring revelation to the Gentiles,
 
     And the glory of Your people Israel.
-- song: Holy Spirit
-  artist: Jesus Culture
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-
-    There’s nothing worth more
-    That could ever come close
-    No thing can compare
-    You're our living hope
-    Your presence, Lord
-
-    [Chorus]
-
-    Holy Spirit, You are welcome here
-    Come flood this place
-    And fill the atmosphere
-    Your glory, God
-    Is what our hearts long for
-    To be overcome
-    By Your presence, Lord
-    Your presence, Lord
-
-    [Verse 2]
-
-    I’ve tasted and seen
-    Of the sweetest of loves
-    Where my heart becomes free
-    And my shame is undone
-    Your presence, Lord
-
-    [Bridge]
-
-    [4x]
-    Let us become more aware of Your presence
-    Let us experience the glory of Your goodness
-    Here I stand
 - song: The House Of God, Forever
   artist: Jon Foreman
   enabled: false
