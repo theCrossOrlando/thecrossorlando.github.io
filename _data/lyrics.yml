@@ -1,7 +1,61 @@
 ---
+- song: May The Words of My Mouth
+  artist: Shane and Shane
+  enabled: true
+  lyrics: |-
+    May the words of my mouth
+    And the meditation from my heart
+    Be pleasing to you
+    Pleasing to you (2x)
+    My God
+
+    You're my rock and my redeemer
+    You're the reason that i sing
+    I desire to give a blessing
+    In Your eyes
+
+    Every hour and every moment
+    Lord i want to be your servant
+    I desire to be a blessing
+    In Your eyes
+    In Your eyes
+
+    Oh, in your eyes
+    In your eyes
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Almighty God to You all hearts are open
+    You take away our sickness and our sin
+    Oh Lamb of God we gather at Your table
+    In bread and wine, You have supplied our needs
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Holy Spirit
   artist: Jesus Culture
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
 
@@ -38,7 +92,7 @@
     Here I stand
 - song: Come Thou Fount
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     Come thou fount of every blessing
     Tune my heart to sing Thy grace
@@ -68,7 +122,7 @@
     seal it for Thy courts above
 - song: Once and For All
   artist: Lauren Daigle
-  enabled: true
+  enabled: false
   lyrics: |-
     God I give You all I can today
     These scattered ashes that I hid away
@@ -110,7 +164,7 @@
     Once and for all
 - song: The Kingdom is Yours
   artist: Common Hymnal
-  enabled: true
+  enabled: false
   lyrics: "Blessed are the ones who do not bury\nAll the broken pieces of their heart\nBlessed
     are the tears of all the weary\nPouring like a sky of falling stars\n\nBlessed
     are the wounded ones in mourning\nBrave enough to show the Lord their scars\nBlessed
@@ -352,37 +406,6 @@
     I'm laying down all my religion
     I'm laying down
     I want to know You, Lord
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Almighty God to You all hearts are open
-    You take away our sickness and our sin
-    Oh Lamb of God we gather at Your table
-    In bread and wine, You have supplied our needs
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Future/Past
   artist: John Mark McMillan
   enabled: false
@@ -1448,29 +1471,6 @@
     You’re the One who never leaves the one behind
 
     Halelujah!
-- song: May The Words of My Mouth
-  artist: Shane and Shane
-  enabled: false
-  lyrics: |-
-    May the words of my mouth
-    And the meditation from my heart
-    Be pleasing to you
-    Pleasing to you (2x)
-    My God
-
-    You're my rock and my redeemer
-    You're the reason that i sing
-    I desire to give a blessing
-    In Your eyes
-
-    Every hour and every moment
-    Lord i want to be your servant
-    I desire to be a blessing
-    In Your eyes
-    In Your eyes
-
-    Oh, in your eyes
-    In your eyes
 - song: Jesus Paid It All
   artist: Jack Fascinato, Ernest J. Ford, Chris Tomlin
   enabled: false
