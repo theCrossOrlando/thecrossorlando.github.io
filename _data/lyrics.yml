@@ -1,7 +1,7 @@
 ---
 - song: February's Prayer
   artist: ''
-  enabled: ''
+  enabled: true
   lyrics: 'O God, whose blessed Son came to earth in order to destroy the works of
     the devil, and make us children of God, and heirs of eternal life: Grant, we humbly
     ask, that, having this hope, we may purify ourselves, even as he is pure, that
