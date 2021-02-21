@@ -1,20 +1,4 @@
 ---
-- song: Closer
-  enabled: ''
-  lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
-    the raging storm\nWould you hold me in your arms, arms\n'Cause I need you, how
-    I need you\n\nI need your love like I need water\nI need your love like I need
-    breath inside of my lungs\nBurn in my heart just like a fire, come and take me
-    over\nJesus draw me closer to your heart\nTo your heart\n\nAnd through the wind
-    and rain\nI can hear you call my name, name\nWhen the nights get rough, I will
-    still sing out your praise\n'Cause I need you, how I need you \n\nI need your
-    love like I need water\nAnd I need your love like I need breath inside of my lungs\nBurn
-    in my heart just like a fire, come and take me over\nJesus draw me closer to your
-    heart\nTo your heart, your heart\n\nAnd closer than my every breath\nCloser than
-    my every step\nCloser than the song I sing\nCloser than anything\n\nI need your
-    love like I need water\nI need your love like I need breath inside of my lungs\nBurn
-    in my heart just like a fire, come and take me over\nJesus draw me closer to your
-    heart\nTo your heart, your heart"
 - song: February's Prayer
   artist: ''
   enabled: true
@@ -61,6 +45,22 @@
     Let us become more aware of Your presence
     Let us experience the glory of Your goodness
     Here I stand
+- song: Closer
+  enabled: true
+  lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
+    the raging storm\nWould you hold me in your arms, arms\n'Cause I need you, how
+    I need you\n\nI need your love like I need water\nI need your love like I need
+    breath inside of my lungs\nBurn in my heart just like a fire, come and take me
+    over\nJesus draw me closer to your heart\nTo your heart\n\nAnd through the wind
+    and rain\nI can hear you call my name, name\nWhen the nights get rough, I will
+    still sing out your praise\n'Cause I need you, how I need you \n\nI need your
+    love like I need water\nAnd I need your love like I need breath inside of my lungs\nBurn
+    in my heart just like a fire, come and take me over\nJesus draw me closer to your
+    heart\nTo your heart, your heart\n\nAnd closer than my every breath\nCloser than
+    my every step\nCloser than the song I sing\nCloser than anything\n\nI need your
+    love like I need water\nI need your love like I need breath inside of my lungs\nBurn
+    in my heart just like a fire, come and take me over\nJesus draw me closer to your
+    heart\nTo your heart, your heart"
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
   enabled: true
