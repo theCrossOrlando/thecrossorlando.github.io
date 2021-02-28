@@ -8,9 +8,83 @@
     when He appears again with power and glory, we may be made like him in his eternal
     and glorious kingdom; where with you, O Father, and you, O Holy Spirit, he lives
     and reigns forever, one God, world without end. Amen. '
+- song: Set a Fire
+  artist: Will Reagan & United Pursuit
+  enabled: true
+  lyrics: |-
+    No place I would rather be
+    No place I would rather be
+    No place I would rather be
+    Than here in your love, here in your love
+
+    Set a fire down in my soul
+    That I can't contain that I can't control
+    I want more of You, God
+    I want more of You, God
+
+    I want more, I want more
+    I want more, I want more
+    I want more, I want more of you
+    Pour it out
+
+    Set a fire down in my soul
+    That I can't contain that I can't control
+    I want more of You, God
+    I want more of You, God
+
+    No place I would rather be
+    No place I would rather be
+    No place I would rather be
+    Than here in your love, here in your love
+
+    Set a fire down in my soul
+    That I can't contain that I can't control
+    I want more of You, God
+    I want more of You, God
+
+    I want more, I want more
+    I want more, I want more
+    I want more, I want more of you
+    Pour it out
+
+    Set a fire down in my soul
+    That I can't contain that I can't control
+    I want more of You, God
+    I want more of You, God
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Almighty God to You all hearts are open
+    You take away our sickness and our sin
+    Oh Lamb of God we gather at Your table
+    In bread and wine, You have supplied our needs
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Holy Spirit
   artist: Jesus Culture
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
 
@@ -46,7 +120,7 @@
     Let us experience the glory of Your goodness
     Here I stand
 - song: Closer
-  enabled: true
+  enabled: false
   lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
     the raging storm\nWould you hold me in your arms, arms\n\n'Cause I need you, how
     I need you\n\nI need your love like I need water\nI need your love like I need
@@ -63,7 +137,7 @@
     heart\nTo your heart, your heart"
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, Love that will not let me go
     I rest my weary soul in Thee
@@ -223,37 +297,6 @@
 
     Oh, in your eyes
     In your eyes
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Almighty God to You all hearts are open
-    You take away our sickness and our sin
-    Oh Lamb of God we gather at Your table
-    In bread and wine, You have supplied our needs
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Grace Alone
   artist: Dustin Kensrue
   enabled: false
@@ -1071,49 +1114,6 @@
     It's Your breath in our lungs
     So we pour out our praise
     To You only
-- song: Set a Fire
-  artist: Will Reagan & United Pursuit
-  enabled: false
-  lyrics: |-
-    No place I would rather be
-    No place I would rather be
-    No place I would rather be
-    Than here in your love, here in your love
-
-    Set a fire down in my soul
-    That I can't contain that I can't control
-    I want more of You, God
-    I want more of You, God
-
-    I want more, I want more
-    I want more, I want more
-    I want more, I want more of you
-    Pour it out
-
-    Set a fire down in my soul
-    That I can't contain that I can't control
-    I want more of You, God
-    I want more of You, God
-
-    No place I would rather be
-    No place I would rather be
-    No place I would rather be
-    Than here in your love, here in your love
-
-    Set a fire down in my soul
-    That I can't contain that I can't control
-    I want more of You, God
-    I want more of You, God
-
-    I want more, I want more
-    I want more, I want more
-    I want more, I want more of you
-    Pour it out
-
-    Set a fire down in my soul
-    That I can't contain that I can't control
-    I want more of You, God
-    I want more of You, God
 - song: Heart Won't Stop
   artist: John Mark McMillan & Sarah McMillan
   enabled: false
