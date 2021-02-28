@@ -82,6 +82,64 @@
     To you all hearts are open, Almighty God…
 
     Hallelujah, hallelujah, hallelujah, hallelujah
+- song: Your Love is Strong
+  artist: Jon Foreman
+  enabled: true
+  lyrics: |-
+    Heavenly Father
+    You always amaze me
+    Let Your kingdom come in my world
+    And in my life
+
+    Give me the food I need to live through today
+    And forgive me as I forgive the people that wrong me
+
+    Lead me far from temptation
+    Deliver me from the evil one
+
+    I look out the window
+    The birds are composing
+    Not a note is out of tune
+    Or out of place
+
+    I walk to the meadow
+    And stare at the flowers
+    Better dressed than any girl
+    On her wedding day
+
+    So why should I worry?
+    Why do I freak out?
+    God knows what I need!
+    You know what I need!
+
+    Your love is strong
+
+    The Kingdom of the Heavens
+    Is now advancing
+    Invade my heart
+    Invade this broken town
+
+    The Kingdom of the Heavens
+    Is buried treasure
+    Would you sell yourself
+    To buy the one you've found?
+
+    Two things You told me
+    That You are strong
+    And You love me,
+    Yes You love me
+
+    Your love is strong
+
+    Our God in heaven
+    Hallowed be thy name above all names
+    Your kingdom come
+    Your will be done
+    On earth as it is in heaven
+    Give us, today, our daily bread
+    Forgive us weary sinners
+    Keep us far from our vices and
+    Deliver us from these prisons
 - song: Holy Spirit
   artist: Jesus Culture
   enabled: false
@@ -1268,7 +1326,7 @@
     You're beautiful
 - song: Before the Throne
   artist: Dustin Kensrue
-  enabled: false
+  enabled: true
   lyrics: |-
     Before the throne of God above
     I have a strong and perfect plea.
@@ -1889,64 +1947,6 @@
     Holy, holy, holy
     You are holy, holy, holy
     I want to see you
-- song: Your Love is Strong
-  artist: Jon Foreman
-  enabled: false
-  lyrics: |-
-    Heavenly Father
-    You always amaze me
-    Let Your kingdom come in my world
-    And in my life
-
-    Give me the food I need to live through today
-    And forgive me as I forgive the people that wrong me
-
-    Lead me far from temptation
-    Deliver me from the evil one
-
-    I look out the window
-    The birds are composing
-    Not a note is out of tune
-    Or out of place
-
-    I walk to the meadow
-    And stare at the flowers
-    Better dressed than any girl
-    On her wedding day
-
-    So why should I worry?
-    Why do I freak out?
-    God knows what I need!
-    You know what I need!
-
-    Your love is strong
-
-    The Kingdom of the Heavens
-    Is now advancing
-    Invade my heart
-    Invade this broken town
-
-    The Kingdom of the Heavens
-    Is buried treasure
-    Would you sell yourself
-    To buy the one you've found?
-
-    Two things You told me
-    That You are strong
-    And You love me,
-    Yes You love me
-
-    Your love is strong
-
-    Our God in heaven
-    Hallowed be thy name above all names
-    Your kingdom come
-    Your will be done
-    On earth as it is in heaven
-    Give us, today, our daily bread
-    Forgive us weary sinners
-    Keep us far from our vices and
-    Deliver us from these prisons
 - song: My Jesus I Love Thee
   artist: William R. Featherstone
   enabled: false
