@@ -1,4 +1,20 @@
 ---
+- song: " Mighty Is the Power of the Cross"
+  artist: Chris Tomlin
+  enabled: true
+  lyrics: "What can take a dying man\nAnd raise him up to life again?\nWhat can heal
+    the wounded soul?\nWhat can make us white as snow?\nWhat can fill the emptiness?\nWhat
+    can mend our brokenness? Brokenness?\n\nMighty, awesome, wonderful\nIs the Holy
+    cross\nWhere the Lamb lay down His life\nTo lift us from the fall\nMighty is the
+    power of the cross\n\nWhat restores our faith in God?\nWhat reveals the Father's
+    love?\nWhat can lead the wayward home?\nWhat can melt a heart of stone?\nWhat
+    can free the guilty ones?\nWhat can save and overcome? Overcome?\n\nMighty, awesome,
+    wonderful\nIs the Holy cross\nWhere the Lamb lay down His life\nTo lift us from
+    the fall\nMighty is the power of the cross\n\nIt's a miracle to me\n(It's a miracle
+    to me)\nIt's still a mystery \n(And it's still a mystery\nIt's a miracle to me\nThe
+    power of God\nFor those who believe\n\nMighty, awesome, wonderful\nIs the Holy
+    cross\nWhere the Lamb lay down His life\nTo lift us from the fall\nMighty is the
+    power of the cross\n"
 - song: February's Prayer
   artist: ''
   enabled: true
@@ -8,6 +24,57 @@
     when He appears again with power and glory, we may be made like him in his eternal
     and glorious kingdom; where with you, O Father, and you, O Holy Spirit, he lives
     and reigns forever, one God, world without end. Amen. '
+- song: I Belong to You
+  artist: Derek Johnson
+  enabled: true
+  lyrics: |-
+    You can be the One that steals my heart
+    With just a simple thought of who You are
+    Let Your light shine in the darkest parts
+    Let Your love fill the world
+
+    You can be the fire down in my soul
+    That I can't contain, that I can't control
+    Would You fill me up to overflow
+    Let Your love fill the world
+
+    And I belong to You
+    Forever, I belong to You
+
+    Let Your Words be like a burning flame
+    Come in close to touch my heart again
+    The whole earth trembles at the sound of Your name
+    Let Your love fill the world
+
+    And all I want is more of You
+    Your breath is life, Your word is truth
+    Your glory here is bursting through
+    Let Your love fill the world
+
+    And I belong to You
+    Forever, I belong to You
+
+    And You have set my heart on fire
+    My love and my desire
+    Only for You
+
+    And as Your glory fills this place
+    Your love we will embrace
+    Only for You, for You
+
+    And I belong to You
+    Forever, I belong to You
+
+    And You have set my heart on fire
+    My love and my desire
+    Only for You
+
+    And as Your glory fills this place
+    Your love we will embrace
+    Only for You, for You
+
+    And I belong to You
+    Forever, I belong to You
 - song: Closer
   enabled: true
   lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
@@ -1107,57 +1174,6 @@
     O come, let us adore Him,
     O come, let us adore Him,
     Christ, the Lord.
-- song: I Belong to You
-  artist: Derek Johnson
-  enabled: true
-  lyrics: |-
-    You can be the One that steals my heart
-    With just a simple thought of who You are
-    Let Your light shine in the darkest parts
-    Let Your love fill the world
-
-    You can be the fire down in my soul
-    That I can't contain, that I can't control
-    Would You fill me up to overflow
-    Let Your love fill the world
-
-    And I belong to You
-    Forever, I belong to You
-
-    Let Your Words be like a burning flame
-    Come in close to touch my heart again
-    The whole earth trembles at the sound of Your name
-    Let Your love fill the world
-
-    And all I want is more of You
-    Your breath is life, Your word is truth
-    Your glory here is bursting through
-    Let Your love fill the world
-
-    And I belong to You
-    Forever, I belong to You
-
-    And You have set my heart on fire
-    My love and my desire
-    Only for You
-
-    And as Your glory fills this place
-    Your love we will embrace
-    Only for You, for You
-
-    And I belong to You
-    Forever, I belong to You
-
-    And You have set my heart on fire
-    My love and my desire
-    Only for You
-
-    And as Your glory fills this place
-    Your love we will embrace
-    Only for You, for You
-
-    And I belong to You
-    Forever, I belong to You
 - song: Great Are You Lord
   artist: All Sons & Daughters
   enabled: false
