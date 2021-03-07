@@ -1,4 +1,29 @@
 ---
+- song: February's Prayer
+  artist: ''
+  enabled: true
+  lyrics: 'O God, whose blessed Son came to earth in order to destroy the works of
+    the devil, and make us children of God, and heirs of eternal life: Grant, we humbly
+    ask, that, having this hope, we may purify ourselves, even as he is pure, that
+    when He appears again with power and glory, we may be made like him in his eternal
+    and glorious kingdom; where with you, O Father, and you, O Holy Spirit, he lives
+    and reigns forever, one God, world without end. Amen. '
+- song: Closer
+  enabled: true
+  lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
+    the raging storm\nWould you hold me in your arms, arms\n\n'Cause I need you, how
+    I need you\n\nI need your love like I need water\nI need your love like I need
+    breath inside of my lungs\nBurn in my heart just like a fire, come and take me
+    over\nJesus draw me closer to your heart\nTo your heart\n\nAnd through the wind
+    and rain\nI can hear you call my name, name\nWhen the nights get rough, I will
+    still sing out your praise\n'Cause I need you, how I need you \n\nI need your
+    love like I need water\nAnd I need your love like I need breath inside of my lungs\nBurn
+    in my heart just like a fire, come and take me over\nJesus draw me closer to your
+    heart\nTo your heart, your heart\n\nAnd closer than my every breath\nCloser than
+    my every step\nCloser than the song I sing\nCloser than anything\n\nI need your
+    love like I need water\nI need your love like I need breath inside of my lungs\nBurn
+    in my heart just like a fire, come and take me over\nJesus draw me closer to your
+    heart\nTo your heart, your heart"
 - song: " Mighty Is the Power of the Cross"
   artist: Chris Tomlin
   enabled: true
@@ -11,19 +36,10 @@
     can free the guilty ones?\nWhat can save and overcome? Overcome?\n\nMighty, awesome,
     wonderful\nIs the Holy cross\nWhere the Lamb lay down His life\nTo lift us from
     the fall\nMighty is the power of the cross\n\nIt's a miracle to me\n(It's a miracle
-    to me)\nIt's still a mystery \n(And it's still a mystery\nIt's a miracle to me\nThe
+    to me)\nIt's still a mystery \n(And it's still a mystery)\nIt's a miracle to me\nThe
     power of God\nFor those who believe\n\nMighty, awesome, wonderful\nIs the Holy
     cross\nWhere the Lamb lay down His life\nTo lift us from the fall\nMighty is the
     power of the cross\n"
-- song: February's Prayer
-  artist: ''
-  enabled: true
-  lyrics: 'O God, whose blessed Son came to earth in order to destroy the works of
-    the devil, and make us children of God, and heirs of eternal life: Grant, we humbly
-    ask, that, having this hope, we may purify ourselves, even as he is pure, that
-    when He appears again with power and glory, we may be made like him in his eternal
-    and glorious kingdom; where with you, O Father, and you, O Holy Spirit, he lives
-    and reigns forever, one God, world without end. Amen. '
 - song: I Belong to You
   artist: Derek Johnson
   enabled: true
@@ -75,22 +91,6 @@
 
     And I belong to You
     Forever, I belong to You
-- song: Closer
-  enabled: true
-  lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
-    the raging storm\nWould you hold me in your arms, arms\n\n'Cause I need you, how
-    I need you\n\nI need your love like I need water\nI need your love like I need
-    breath inside of my lungs\nBurn in my heart just like a fire, come and take me
-    over\nJesus draw me closer to your heart\nTo your heart\n\nAnd through the wind
-    and rain\nI can hear you call my name, name\nWhen the nights get rough, I will
-    still sing out your praise\n'Cause I need you, how I need you \n\nI need your
-    love like I need water\nAnd I need your love like I need breath inside of my lungs\nBurn
-    in my heart just like a fire, come and take me over\nJesus draw me closer to your
-    heart\nTo your heart, your heart\n\nAnd closer than my every breath\nCloser than
-    my every step\nCloser than the song I sing\nCloser than anything\n\nI need your
-    love like I need water\nI need your love like I need breath inside of my lungs\nBurn
-    in my heart just like a fire, come and take me over\nJesus draw me closer to your
-    heart\nTo your heart, your heart"
 - song: Set a Fire
   artist: Will Reagan & United Pursuit
   enabled: false
