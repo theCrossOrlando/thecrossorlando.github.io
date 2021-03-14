@@ -8,8 +8,101 @@
     when He appears again with power and glory, we may be made like him in his eternal
     and glorious kingdom; where with you, O Father, and you, O Holy Spirit, he lives
     and reigns forever, one God, world without end. Amen. '
-- song: Closer
+- song: Psalm 145
   enabled: true
+  lyrics: |-
+    I will bless You all of my days LORD
+    I will praise you always, My God and King
+    I will bless and honor Your name LORD
+    Always and forever my soul will sing
+    Such a vast, unsearchable greatness
+    Great is Yahweh, worthy of all of praise
+    Let Your people sound through the ages
+    All Your awesome works till the end of days
+
+    We have seen Your splendor and glory
+    We have seen Your wonders and stand amazed
+    Every tongue will echo Your story
+    Everyone will sing of Your righteous ways
+
+    Oh, let all that lives ever bless His name
+
+    All that You have made, LORD, will praise You
+    All your saints will worship You in joyful strains
+    Praise the LORD who ransoms and rescues
+    Praise the God of Glory who ever reigns
+
+    He is Holy judging the wicked
+    Guarding those that love him and fear his name
+    All that call out, Yahweh is with them
+    He will hear their cries, He is strong to save
+
+    He upholds the one who is stumbling
+    Lifting up those burdened with heavy loads
+    Opening His hands to the hungry
+    Blessing all that look to their Lord in hope
+
+    He is tender toward His creation
+    He is faithful and gracious in all He does
+    Great is Yahweh, full of compassion
+    Slow to anger, filled with unfailing love
+
+    Oh, let all that lives ever bless His name
+    Oh, let all that lives ever bless His name
+- song: The Kingdom is Yours
+  artist: Common Hymnal
+  enabled: true
+  lyrics: "Blessed are the ones who do not bury\nAll the broken pieces of their heart\nBlessed
+    are the tears of all the weary\nPouring like a sky of falling stars\n\nBlessed
+    are the wounded ones in mourning\nBrave enough to show the Lord their scars\nBlessed
+    are the hurts that are not hidden\nOpen to the healing touch of God\n\nThe Kingdom
+    is yours, the Kingdom is yours\nHold on a little more, this is not the end\nHope
+    is in the Lord, keep your eyes on Him\n\nAnd blessed are the ones who walk in
+    kindness\nEven in the face of great abuse\nBlessed are the deeds that go unnoticed\nServing
+    with unguarded gratitude\n\nAnd blessed are the ones who fight for justice\nLonging
+    for the coming day of peace\nBlessed is the soul that thirsts for righteousness\nWelcoming
+    the last, the lost, the least\n\nThe Kingdom is yours, the Kingdom is yours\nHold
+    on a little more, this is not the end\nHope is in the Lord, keep your eyes on
+    Him\nThe Kingdom is yours, the Kingdom is yours\nHold on a little more, this is
+    not the end\nHope is in the Lord, keep your eyes on Him\n\nBlessed are the ones
+    who suffer violence\nAnd still have strength to love their enemies\nBlessed is
+    the faith of those who persevere\nThough they fall, they'll never know defeat\n\nThe
+    Kingdom is yours, the Kingdom is yours\nHold on a little more, this is not the
+    end\nHope is in the Lord, keep your eyes on Him\nThe Kingdom is yours, the Kingdom
+    is yours\nHold on a little more, this is not the end\nHope is in the Lord, keep
+    your eyes on Him "
+- song: Come Thou Fount
+  artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    Come thou fount of every blessing
+    Tune my heart to sing Thy grace
+    Streams of mercy never ceasing
+    Call for songs of loudest praise
+    Teach me some melodious sonnet
+    Sung by flaming tongues above
+    I'll praise the mount I'm fixed upon it
+    Mount of Thy redeeming love
+
+    Here I raise my Ebenezer
+    Hither by Thy help I come
+    And I hope by Thy good pleasure
+    Safely to arrive at home
+    Jesus sought me when a stranger
+    Wondering from the fold of God
+    He, to rescue me from danger
+    Interposed His precious blood
+
+    O to grace how great a debtor
+    daily I'm constrained to be!
+    Let Thy goodness like a fetter,
+    bind my wandering heart to Thee
+    Prone to wander Lord I feel it,
+    prone to leave the God I love
+    Here's my heart, O take and seal it,
+    seal it for Thy courts above
+- song: Closer
+  enabled: false
   lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
     the raging storm\nWould you hold me in your arms, arms\n\n'Cause I need you, how
     I need you\n\nI need your love like I need water\nI need your love like I need
@@ -27,7 +120,7 @@
   artist: Brandon Lake
 - song: " Mighty Is the Power of the Cross"
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: "What can take a dying man\nAnd raise him up to life again?\nWhat can heal
     the wounded soul?\nWhat can make us white as snow?\nWhat can fill the emptiness?\nWhat
     can mend our brokenness? Brokenness?\n\nMighty, awesome, wonderful\nIs the Holy
@@ -43,7 +136,7 @@
     power of the cross\n"
 - song: I Belong to You
   artist: Derek Johnson
-  enabled: true
+  enabled: false
   lyrics: |
     You can be the One that steals my heart
     With just a simple thought of who You are
@@ -352,69 +445,6 @@
 
     And we will sing:
     Holy, holy, is the King of Kings
-- song: The Kingdom is Yours
-  artist: Common Hymnal
-  enabled: false
-  lyrics: "Blessed are the ones who do not bury\nAll the broken pieces of their heart\nBlessed
-    are the tears of all the weary\nPouring like a sky of falling stars\n\nBlessed
-    are the wounded ones in mourning\nBrave enough to show the Lord their scars\nBlessed
-    are the hurts that are not hidden\nOpen to the healing touch of God\n\nThe Kingdom
-    is yours, the Kingdom is yours\nHold on a little more, this is not the end\nHope
-    is in the Lord, keep your eyes on Him\n\nAnd blessed are the ones who walk in
-    kindness\nEven in the face of great abuse\nBlessed are the deeds that go unnoticed\nServing
-    with unguarded gratitude\n\nAnd blessed are the ones who fight for justice\nLonging
-    for the coming day of peace\nBlessed is the soul that thirsts for righteousness\nWelcoming
-    the last, the lost, the least\n\nThe Kingdom is yours, the Kingdom is yours\nHold
-    on a little more, this is not the end\nHope is in the Lord, keep your eyes on
-    Him\nThe Kingdom is yours, the Kingdom is yours\nHold on a little more, this is
-    not the end\nHope is in the Lord, keep your eyes on Him\n\nBlessed are the ones
-    who suffer violence\nAnd still have strength to love their enemies\nBlessed is
-    the faith of those who persevere\nThough they fall, they'll never know defeat\n\nThe
-    Kingdom is yours, the Kingdom is yours\nHold on a little more, this is not the
-    end\nHope is in the Lord, keep your eyes on Him\nThe Kingdom is yours, the Kingdom
-    is yours\nHold on a little more, this is not the end\nHope is in the Lord, keep
-    your eyes on Him "
-- song: Psalm 145
-  enabled: false
-  lyrics: |-
-    I will bless You all of my days LORD
-    I will praise you always, My God and King
-    I will bless and honor Your name LORD
-    Always and forever my soul will sing
-    Such a vast, unsearchable greatness
-    Great is Yahweh, worthy of all of praise
-    Let Your people sound through the ages
-    All Your awesome works till the end of days
-
-    We have seen Your splendor and glory
-    We have seen Your wonders and stand amazed
-    Every tongue will echo Your story
-    Everyone will sing of Your righteous ways
-
-    Oh, let all that lives ever bless His name
-
-    All that You have made, LORD, will praise You
-    All your saints will worship You in joyful strains
-    Praise the LORD who ransoms and rescues
-    Praise the God of Glory who ever reigns
-
-    He is Holy judging the wicked
-    Guarding those that love him and fear his name
-    All that call out, Yahweh is with them
-    He will hear their cries, He is strong to save
-
-    He upholds the one who is stumbling
-    Lifting up those burdened with heavy loads
-    Opening His hands to the hungry
-    Blessing all that look to their Lord in hope
-
-    He is tender toward His creation
-    He is faithful and gracious in all He does
-    Great is Yahweh, full of compassion
-    Slow to anger, filled with unfailing love
-
-    Oh, let all that lives ever bless His name
-    Oh, let all that lives ever bless His name
 - song: He Is Exalted
   artist: Twila Paris
   enabled: false
@@ -498,36 +528,6 @@
     I will run the race by grace and grace alone
     I will slay my sin by grace and grace alone
     I will reach the end by grace and grace alone
-- song: Come Thou Fount
-  artist: Chris Tomlin
-  enabled: false
-  lyrics: |-
-    Come thou fount of every blessing
-    Tune my heart to sing Thy grace
-    Streams of mercy never ceasing
-    Call for songs of loudest praise
-    Teach me some melodious sonnet
-    Sung by flaming tongues above
-    I'll praise the mount I'm fixed upon it
-    Mount of Thy redeeming love
-
-    Here I raise my Ebenezer
-    Hither by Thy help I come
-    And I hope by Thy good pleasure
-    Safely to arrive at home
-    Jesus sought me when a stranger
-    Wondering from the fold of God
-    He, to rescue me from danger
-    Interposed His precious blood
-
-    O to grace how great a debtor
-    daily I'm constrained to be!
-    Let Thy goodness like a fetter,
-    bind my wandering heart to Thee
-    Prone to wander Lord I feel it,
-    prone to leave the God I love
-    Here's my heart, O take and seal it,
-    seal it for Thy courts above
 - song: Once and For All
   artist: Lauren Daigle
   enabled: false
