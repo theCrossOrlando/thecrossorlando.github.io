@@ -21,8 +21,173 @@
     when He appears again with power and glory, we may be made like him in his eternal
     and glorious kingdom; where with you, O Father, and you, O Holy Spirit, he lives
     and reigns forever, one God, world without end. Amen. '
-- song: Psalm 145
+- song: Future/Past
+  artist: John Mark McMillan
   enabled: true
+  lyrics: |-
+    You hold the reigns on the sun and the moon,
+    Like horses driven by kings
+    You cover the mountains, the valleys below,
+    With the breadth of Your mighty wings
+
+    [Pre-Chorus]
+    All treasures of wisdom
+    And things to be known
+    Are hidden inside Your hand
+    And in this fortunate turn of events
+    You ask me to be Your friend
+    Ask me to be Your friend
+
+    [Chorus]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    Yeah, You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    The constellations are swimming inside,
+    The breadth of Your desire
+    So where could I run, where could I hide,
+    From Your heart’s jealous fire?
+
+    [Pre-Chorus]
+    All treasures of wisdom
+    And things to be known
+    Are hidden inside Your hand
+    And in this fortunate turn of events
+    You ask me to be Your friend
+    Ask me to be Your friend
+
+    [Chorus]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    You are the beginning and the end
+
+    [Chorus]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
+- song: Oh Love That Will Not Let Me Go
+  artist: Ascend the Hill
+  enabled: true
+  lyrics: |-
+    Oh, Love that will not let me go
+    I rest my weary soul in Thee
+    I give You back the life I owe
+    That in Thine ocean's depths its flow
+    May richer, fuller be
+
+    My life is not my own
+    It's Yours
+    My life is not my own
+    I know it's Yours
+
+    Oh, Light that follows all my way
+    I yield my flickering torch to Thee
+    My heart restores its borrowed ray
+    That in Thy sunshine's blaze its day
+    May brighter, fairer be
+
+    So light a fire in my heart
+    And I'll burn for You
+    So light a fire in my heart
+    And I'll burn for You
+
+    Oh, Joy, that seeks me through the pain
+    I cannot close my heart to Thee
+    I trace the rainbow through the rain
+    And feel the promise is not in vain
+    That morn shall tearless be
+
+    So anoint me with joy
+    And joyful I will be
+    So anoint me with joy
+    And joyful I will be
+
+    Oh, cross that's lifing up my head
+    I dare not ask to fly from thee
+    I lay in dust life's glory dead
+    And from the ground there blossoms red
+    Life that shall endless be
+
+    We will sing:
+    Holy, holy
+    Is the King of Kings
+    And we will sing:
+    Holy, holy, is the King of Kings
+    (repeat)
+
+    On that day we will sing:
+    Holy, holy
+    Is the King of Kings
+
+    We will join with the angels and we will sing:
+    Holy, holy
+    Is the King of Kings
+
+    And we will sing:
+    Holy, holy, is the King of Kings
+- song: I Belong to You
+  artist: Derek Johnson
+  enabled: false
+  lyrics: |
+    You can be the One that steals my heart
+    With just a simple thought of who You are
+    Let Your light shine in the darkest parts
+    Let Your love fill the world
+
+    You can be the fire down in my soul
+    That I can't contain, that I can't control
+    Would You fill me up to overflow
+    Let Your love fill the world
+
+    And I belong to You
+    Forever, I belong to You
+
+    Let Your Words be like a burning flame
+    Come in close to touch my heart again
+    The whole earth trembles at the sound of Your name
+    Let Your love fill the world
+
+    And all I want is more of You
+    Your breath is life, Your word is truth
+    Your glory here is bursting through
+    Let Your love fill the world
+
+    And I belong to You
+    Forever, I belong to You
+
+    And You have set my heart on fire
+    My love and my desire
+    Only for You
+
+    And as Your glory fills this place
+    Your love we will embrace
+    Only for You, for You
+
+    And I belong to You
+    Forever, I belong to You
+
+    And You have set my heart on fire
+    My love and my desire
+    Only for You
+
+    And as Your glory fills this place
+    Your love we will embrace
+    Only for You, for You
+
+    And I belong to You
+    Forever, I belong to You
+- song: Psalm 145
+  enabled: false
   lyrics: |-
     I will bless You all of my days LORD
     I will praise you always, My God and King
@@ -64,7 +229,7 @@
     Oh, let all that lives ever bless His name
 - song: The Kingdom is Yours
   artist: Common Hymnal
-  enabled: true
+  enabled: false
   lyrics: "Blessed are the ones who do not bury\nAll the broken pieces of their heart\nBlessed
     are the tears of all the weary\nPouring like a sky of falling stars\n\nBlessed
     are the wounded ones in mourning\nBrave enough to show the Lord their scars\nBlessed
@@ -86,7 +251,7 @@
     your eyes on Him "
 - song: Come Thou Fount
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     Come thou fount of every blessing
     Tune my heart to sing Thy grace
@@ -147,57 +312,6 @@
     power of God\nFor those who believe\n\nMighty, awesome, wonderful\nIs the Holy
     cross\nWhere the Lamb lay down His life\nTo lift us from the fall\nMighty is the
     power of the cross\n"
-- song: I Belong to You
-  artist: Derek Johnson
-  enabled: false
-  lyrics: |
-    You can be the One that steals my heart
-    With just a simple thought of who You are
-    Let Your light shine in the darkest parts
-    Let Your love fill the world
-
-    You can be the fire down in my soul
-    That I can't contain, that I can't control
-    Would You fill me up to overflow
-    Let Your love fill the world
-
-    And I belong to You
-    Forever, I belong to You
-
-    Let Your Words be like a burning flame
-    Come in close to touch my heart again
-    The whole earth trembles at the sound of Your name
-    Let Your love fill the world
-
-    And all I want is more of You
-    Your breath is life, Your word is truth
-    Your glory here is bursting through
-    Let Your love fill the world
-
-    And I belong to You
-    Forever, I belong to You
-
-    And You have set my heart on fire
-    My love and my desire
-    Only for You
-
-    And as Your glory fills this place
-    Your love we will embrace
-    Only for You, for You
-
-    And I belong to You
-    Forever, I belong to You
-
-    And You have set my heart on fire
-    My love and my desire
-    Only for You
-
-    And as Your glory fills this place
-    Your love we will embrace
-    Only for You, for You
-
-    And I belong to You
-    Forever, I belong to You
 - song: Set a Fire
   artist: Will Reagan & United Pursuit
   enabled: false
@@ -398,66 +512,6 @@
     Let us become more aware of Your presence
     Let us experience the glory of Your goodness
     Here I stand
-- song: Oh Love That Will Not Let Me Go
-  artist: Ascend the Hill
-  enabled: false
-  lyrics: |-
-    Oh, Love that will not let me go
-    I rest my weary soul in Thee
-    I give You back the life I owe
-    That in Thine ocean's depths its flow
-    May richer, fuller be
-
-    My life is not my own
-    It's Yours
-    My life is not my own
-    I know it's Yours
-
-    Oh, Light that follows all my way
-    I yield my flickering torch to Thee
-    My heart restores its borrowed ray
-    That in Thy sunshine's blaze its day
-    May brighter, fairer be
-
-    So light a fire in my heart
-    And I'll burn for You
-    So light a fire in my heart
-    And I'll burn for You
-
-    Oh, Joy, that seeks me through the pain
-    I cannot close my heart to Thee
-    I trace the rainbow through the rain
-    And feel the promise is not in vain
-    That morn shall tearless be
-
-    So anoint me with joy
-    And joyful I will be
-    So anoint me with joy
-    And joyful I will be
-
-    Oh, cross that's lifing up my head
-    I dare not ask to fly from thee
-    I lay in dust life's glory dead
-    And from the ground there blossoms red
-    Life that shall endless be
-
-    We will sing:
-    Holy, holy
-    Is the King of Kings
-    And we will sing:
-    Holy, holy, is the King of Kings
-    (repeat)
-
-    On that day we will sing:
-    Holy, holy
-    Is the King of Kings
-
-    We will join with the angels and we will sing:
-    Holy, holy
-    Is the King of Kings
-
-    And we will sing:
-    Holy, holy, is the King of Kings
 - song: He Is Exalted
   artist: Twila Paris
   enabled: false
@@ -764,60 +818,6 @@
     I'm laying down all my religion
     I'm laying down
     I want to know You, Lord
-- song: Future/Past
-  artist: John Mark McMillan
-  enabled: false
-  lyrics: |-
-    You hold the reigns on the sun and the moon,
-    Like horses driven by kings
-    You cover the mountains, the valleys below,
-    With the breadth of Your mighty wings
-
-    [Pre-Chorus]
-    All treasures of wisdom
-    And things to be known
-    Are hidden inside Your hand
-    And in this fortunate turn of events
-    You ask me to be Your friend
-    Ask me to be Your friend
-
-    [Chorus]
-    And You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    Yeah, You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    The constellations are swimming inside,
-    The breadth of Your desire
-    So where could I run, where could I hide,
-    From Your heart’s jealous fire?
-
-    [Pre-Chorus]
-    All treasures of wisdom
-    And things to be known
-    Are hidden inside Your hand
-    And in this fortunate turn of events
-    You ask me to be Your friend
-    Ask me to be Your friend
-
-    [Chorus]
-    And You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    You are the beginning and the end
-
-    [Chorus]
-    And You,
-    You are my first
-    You are my last
-    You are my future and my past
 - song: How Deep The Father's Love For Us
   artist: 
   enabled: false
