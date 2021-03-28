@@ -1,4 +1,17 @@
 ---
+- song: My Jesus I Love Thee
+  artist: William R. Featherstone
+  enabled: true
+  lyrics: "My Jesus, I love thee, I know thou art mine;\nfor thee all the follies
+    of sin I resign;\nmy gracious Redeemer, my Savior art thou;\nif ever I loved thee,
+    my Jesus, 'tis now.\n\nI love thee because thou hast first loved me\nand purchased
+    my pardon on Calvary's tree;\nI love thee for wearing the thorns on thy brow;\nif
+    ever I loved thee, my Jesus, 'tis now.\n\nI'll love thee in life, I will love
+    thee in death,\nand praise thee as long as thou lendest me breath,\nand say when
+    the deathdew lies cold on my brow:\nIf ever I loved thee, my Jesus, 'tis now.\n\nIn
+    mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
+    sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
+    now. "
 - song: March Prayer
   artist: ''
   enabled: true
@@ -12,6 +25,91 @@
     who is alive and reigns with you,
     in the unity of the Holy Spirit,
     one God, now and for ever.
+- song: Simple Gospel
+  artist: Will Reagan
+  enabled: true
+  lyrics: |
+    I want to know You, Lord
+    Like I know a friend
+    I want to know You, Lord
+    I want to know You, Lord
+    Like I know a friend
+    I want to know You, Lord
+
+    So I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+
+    I used to think that I could box You in
+    But I'm laying down
+    I want to know You, Lord
+    I use to think that I could box You in
+    But I'm laying down
+    I want to know You, Lord
+
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I want to know You, Lord
+
+    Lord, I've been told to be ashamed
+    Lord, I've been told I don't measure up
+    Lord, I've been told I'm not good enough
+    But You're here with me
+
+    And I reach out and You find me in the dust
+    You say no amount of untruths can separate us
+
+    I will rejoice in the simple gospel
+    I will rejoice in You, Lord
+    I will rejoice in the simple gospel
+    I will rejoice in You, Lord
+    I will rejoice in the simple gospel
+    I will rejoice in You, Lord
+
+    I will rejoice, I will rejoice in the simple gospel
+    I will rejoice in You, Lord
+    I will rejoice in the simple gospel
+    And I will rejoice in You, Lord
+
+    So I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+- song: More Than The Watchman (Psalm 130)
+  artist: Rebecca St James
+  enabled: true
+  lyrics: |-
+    Out of the depths I cry to my Lord, he lifted me up, he lifted me up
+    Out of the depths I cry to my Lord, he lifted me up, he lifted me
+
+    If you kept a record of sins who could stand, my Lord
+    Who could stand up, Lord, who could stand up?
+    If you kept a record of sins who could stand, my Lord
+    Who could stand up, Lord, who could stand up?
+
+    With you, oh Lord, there is forgiveness
+    With you, oh Lord, unfailing love
+    With you, oh Lord, full redemption
+    You have bought back my soul from the dead with your blood
+
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morning sun
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morn
+
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morning sun
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morn
 - song: February's Prayer
   artist: ''
   enabled: false
@@ -21,60 +119,6 @@
     when He appears again with power and glory, we may be made like him in his eternal
     and glorious kingdom; where with you, O Father, and you, O Holy Spirit, he lives
     and reigns forever, one God, world without end. Amen. '
-- song: Future/Past
-  artist: John Mark McMillan
-  enabled: false
-  lyrics: |-
-    You hold the reigns on the sun and the moon,
-    Like horses driven by kings
-    You cover the mountains, the valleys below,
-    With the breadth of Your mighty wings
-
-    [Pre-Chorus]
-    All treasures of wisdom
-    And things to be known
-    Are hidden inside Your hand
-    And in this fortunate turn of events
-    You ask me to be Your friend
-    Ask me to be Your friend
-
-    [Chorus]
-    And You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    Yeah, You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    The constellations are swimming inside,
-    The breadth of Your desire
-    So where could I run, where could I hide,
-    From Your heart’s jealous fire?
-
-    [Pre-Chorus]
-    All treasures of wisdom
-    And things to be known
-    Are hidden inside Your hand
-    And in this fortunate turn of events
-    You ask me to be Your friend
-    Ask me to be Your friend
-
-    [Chorus]
-    And You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    You are the beginning and the end
-
-    [Chorus]
-    And You,
-    You are my first
-    You are my last
-    You are my future and my past
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
   enabled: false
@@ -135,6 +179,60 @@
 
     And we will sing:
     Holy, holy, is the King of Kings
+- song: Future/Past
+  artist: John Mark McMillan
+  enabled: false
+  lyrics: |-
+    You hold the reigns on the sun and the moon,
+    Like horses driven by kings
+    You cover the mountains, the valleys below,
+    With the breadth of Your mighty wings
+
+    [Pre-Chorus]
+    All treasures of wisdom
+    And things to be known
+    Are hidden inside Your hand
+    And in this fortunate turn of events
+    You ask me to be Your friend
+    Ask me to be Your friend
+
+    [Chorus]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    Yeah, You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    The constellations are swimming inside,
+    The breadth of Your desire
+    So where could I run, where could I hide,
+    From Your heart’s jealous fire?
+
+    [Pre-Chorus]
+    All treasures of wisdom
+    And things to be known
+    Are hidden inside Your hand
+    And in this fortunate turn of events
+    You ask me to be Your friend
+    Ask me to be Your friend
+
+    [Chorus]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    You are the beginning and the end
+
+    [Chorus]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
 - song: It is Well
   artist: ''
   enabled: ''
@@ -797,65 +895,6 @@
     Come Lord Jesus, come
     Come Lord Jesus, come
     Come Lord Jesus, come
-- song: Simple Gospel
-  artist: Will Reagan
-  enabled: true
-  lyrics: |
-    I want to know You, Lord
-    Like I know a friend
-    I want to know You, Lord
-    I want to know You, Lord
-    Like I know a friend
-    I want to know You, Lord
-
-    So I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-
-    I used to think that I could box You in
-    But I'm laying down
-    I want to know You, Lord
-    I use to think that I could box You in
-    But I'm laying down
-    I want to know You, Lord
-
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I want to know You, Lord
-
-    Lord, I've been told to be ashamed
-    Lord, I've been told I don't measure up
-    Lord, I've been told I'm not good enough
-    But You're here with me
-
-    And I reach out and You find me in the dust
-    You say no amount of untruths can separate us
-
-    I will rejoice in the simple gospel
-    I will rejoice in You, Lord
-    I will rejoice in the simple gospel
-    I will rejoice in You, Lord
-    I will rejoice in the simple gospel
-    I will rejoice in You, Lord
-
-    I will rejoice, I will rejoice in the simple gospel
-    I will rejoice in You, Lord
-    I will rejoice in the simple gospel
-    And I will rejoice in You, Lord
-
-    So I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
 - song: How Deep The Father's Love For Us
   artist: 
   enabled: false
@@ -1226,6 +1265,53 @@
     O come, let us adore Him,
     O come, let us adore Him,
     Christ, the Lord.
+- song: Simple Gospel
+  artist: United Pursuit
+  enabled: false
+  lyrics: |-
+    [Verse 1]
+    I want to know you, Lord, like I know a friend
+    I want to know you Lord
+    I want to know you, Lord, like I know a friend
+    I want to know you Lord
+
+    [Chorus]
+    I’m laying down all my religion
+    I’m laying down, I wanna know you Lord
+    I’m laying down all my religion
+    I’m laying down, I wanna know you Lord
+
+    [Verse 2]
+    I used to think that could I box you in
+    But I’m laying down, I wanna know you Lord
+    I used to think that could I box you in
+    But I’m laying down, I wanna know you Lord
+
+    [Chorus]
+
+    [Verse 3]
+    Lord, I’ve been told to be ashamed
+    Lord, I’ve been told I don’t measure up
+    Lord, I’ve been told I’m not good enough
+    But you’re here with me
+
+    [Chorus 2]
+    I reach out and you find me in the dust
+    They say no amount of untruth can separate us
+    I reach out and you find me in the dust
+    They say no amount of untruths can separate us
+    x2
+
+    [Bridge]
+    I will rejoice in the simple gospel
+    I will rejoice in you, Lord
+    x3
+
+    [Chorus 2]
+
+    [Bridge]
+    I will rejoice in the simple gospel
+    I will rejoice in you, Lord
 - song: Great Are You Lord
   artist: All Sons & Daughters
   enabled: false
@@ -1423,32 +1509,6 @@
     I see Your face, You're beautiful
     You're beautiful
     You're beautiful
-- song: More Than The Watchman (Psalm 130)
-  artist: Rebecca St James
-  enabled: true
-  lyrics: |-
-    Out of the depths I cry to my Lord, he lifted me up, he lifted me up
-    Out of the depths I cry to my Lord, he lifted me up, he lifted me
-
-    If you kept a record of sins who could stand, my Lord
-    Who could stand up, Lord, who could stand up?
-    If you kept a record of sins who could stand, my Lord
-    Who could stand up, Lord, who could stand up?
-
-    With you, oh Lord, there is forgiveness
-    With you, oh Lord, unfailing love
-    With you, oh Lord, full redemption
-    You have bought back my soul from the dead with your blood
-
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morning sun
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morn
-
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morning sun
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morn
 - song: Come Holy One
   artist: Young Oceans
   enabled: false
@@ -1890,53 +1950,6 @@
     L: We release the resentment and bitterness we hold towards people who have hurt us, people like us and our friends.
 
     A: Let justice roll down like waters and righteousness like a mighty stream.  Amen.
-- song: Simple Gospel
-  artist: United Pursuit
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-    I want to know you, Lord, like I know a friend
-    I want to know you Lord
-    I want to know you, Lord, like I know a friend
-    I want to know you Lord
-
-    [Chorus]
-    I’m laying down all my religion
-    I’m laying down, I wanna know you Lord
-    I’m laying down all my religion
-    I’m laying down, I wanna know you Lord
-
-    [Verse 2]
-    I used to think that could I box you in
-    But I’m laying down, I wanna know you Lord
-    I used to think that could I box you in
-    But I’m laying down, I wanna know you Lord
-
-    [Chorus]
-
-    [Verse 3]
-    Lord, I’ve been told to be ashamed
-    Lord, I’ve been told I don’t measure up
-    Lord, I’ve been told I’m not good enough
-    But you’re here with me
-
-    [Chorus 2]
-    I reach out and you find me in the dust
-    They say no amount of untruth can separate us
-    I reach out and you find me in the dust
-    They say no amount of untruths can separate us
-    x2
-
-    [Bridge]
-    I will rejoice in the simple gospel
-    I will rejoice in you, Lord
-    x3
-
-    [Chorus 2]
-
-    [Bridge]
-    I will rejoice in the simple gospel
-    I will rejoice in you, Lord
 - song: We Have Come
   artist: Will Reagan
   enabled: false
@@ -2015,19 +2028,6 @@
     Holy, holy, holy
     You are holy, holy, holy
     I want to see you
-- song: My Jesus I Love Thee
-  artist: William R. Featherstone
-  enabled: true
-  lyrics: "My Jesus, I love thee, I know thou art mine;\nfor thee all the follies
-    of sin I resign;\nmy gracious Redeemer, my Savior art thou;\nif ever I loved thee,
-    my Jesus, 'tis now.\n\nI love thee because thou hast first loved me\nand purchased
-    my pardon on Calvary's tree;\nI love thee for wearing the thorns on thy brow;\nif
-    ever I loved thee, my Jesus, 'tis now.\n\nI'll love thee in life, I will love
-    thee in death,\nand praise thee as long as thou lendest me breath,\nand say when
-    the deathdew lies cold on my brow:\nIf ever I loved thee, my Jesus, 'tis now.\n\nIn
-    mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
-    sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
-    now. "
 - song: Annual Commitment Form
   artist: ''
   enabled: false
