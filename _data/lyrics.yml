@@ -1,4 +1,92 @@
 ---
+- song: March Prayer
+  artist: ''
+  enabled: true
+  lyrics: |-
+    Almighty God,
+    whose most dear Son went not up to joy but first he suffered pain,
+    and entered not into glory before he was crucified:
+    mercifully grant that we, walking in the way of the cross,
+    may find it none other than the way of life and peace;
+    through Jesus Christ your Son our Lord,
+    who is alive and reigns with you,
+    in the unity of the Holy Spirit,
+    one God, now and for ever.
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Almighty God to You all hearts are open
+    You take away our sickness and our sin
+    Oh Lamb of God we gather at Your table
+    In bread and wine, You have supplied our needs
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+- song: Closer
+  enabled: true
+  lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
+    the raging storm\nWould you hold me in your arms, arms\n\n'Cause I need you, how
+    I need you\n\nI need your love like I need water\nI need your love like I need
+    breath inside of my lungs\nBurn in my heart just like a fire, come and take me
+    over\nJesus draw me closer to your heart\nTo your heart\n\nAnd through the wind
+    and rain\nI can hear you call my name, name\nWhen the nights get rough, I will
+    still sing out your praise\n'Cause I need you, how I need you \n\nI need your
+    love like I need water\nAnd I need your love like I need breath inside of my lungs\nBurn
+    in my heart just like a fire, come and take me over\nJesus draw me closer to your
+    heart\nTo your heart, your heart\n\nAnd closer than my every breath\nCloser than
+    my every step\nCloser than the song I sing\nCloser than anything\n\nI need your
+    love like I need water\nI need your love like I need breath inside of my lungs\nBurn
+    in my heart just like a fire, come and take me over\nJesus draw me closer to your
+    heart\nTo your heart, your heart"
+  artist: Brandon Lake
+- song: Here Is Love
+  artist: Passion
+  enabled: true
+  lyrics: |
+    Here is love, vast as the ocean
+    Lovingkindness as the flood
+    When the Prince of Life, our Ransom
+    Shed for us His precious blood
+    Who His love will not remember?
+    Who can cease to sing His praise?
+    He can never be forgotten
+    Throughout Heav'n's eternal days
+
+    On the mount of crucifixion
+    Fountains opened deep and wide
+    Through the floodgates of God's mercy
+    Flowed a vast a gracious tide
+    Grace and love, like mighty rivers
+    Poured incessant from above
+    And Heav'n's peace and perfect justice
+    Kissed a guilty world in love
+
+    Chorus:
+    No love is higher, no love is wider
+    No love is deeper, no love is truer
+    No love is higher, no love is wider
+    No love is like your love, oh Lord
 - song: Aint No Grave
   artist: ''
   enabled: true
@@ -53,46 +141,6 @@
     Could hold my body down
     There ain't no grave
     Could hold my body down
-- song: Here Is Love
-  artist: Passion
-  enabled: true
-  lyrics: |
-    Here is love, vast as the ocean
-    Lovingkindness as the flood
-    When the Prince of Life, our Ransom
-    Shed for us His precious blood
-    Who His love will not remember?
-    Who can cease to sing His praise?
-    He can never be forgotten
-    Throughout Heav'n's eternal days
-
-    On the mount of crucifixion
-    Fountains opened deep and wide
-    Through the floodgates of God's mercy
-    Flowed a vast a gracious tide
-    Grace and love, like mighty rivers
-    Poured incessant from above
-    And Heav'n's peace and perfect justice
-    Kissed a guilty world in love
-
-    Chorus:
-    No love is higher, no love is wider
-    No love is deeper, no love is truer
-    No love is higher, no love is wider
-    No love is like your love, oh Lord
-- song: March Prayer
-  artist: ''
-  enabled: true
-  lyrics: |-
-    Almighty God,
-    whose most dear Son went not up to joy but first he suffered pain,
-    and entered not into glory before he was crucified:
-    mercifully grant that we, walking in the way of the cross,
-    may find it none other than the way of life and peace;
-    through Jesus Christ your Son our Lord,
-    who is alive and reigns with you,
-    in the unity of the Holy Spirit,
-    one God, now and for ever.
 - song: My Jesus I Love Thee
   artist: William R. Featherstone
   enabled: false
@@ -444,6 +492,49 @@
 
     Oh, let all that lives ever bless His name
     Oh, let all that lives ever bless His name
+- song: Set a Fire
+  artist: Will Reagan & United Pursuit
+  enabled: false
+  lyrics: |-
+    No place I would rather be
+    No place I would rather be
+    No place I would rather be
+    Than here in your love, here in your love
+
+    Set a fire down in my soul
+    That I can't contain that I can't control
+    I want more of You, God
+    I want more of You, God
+
+    I want more, I want more
+    I want more, I want more
+    I want more, I want more of you
+    Pour it out
+
+    Set a fire down in my soul
+    That I can't contain that I can't control
+    I want more of You, God
+    I want more of You, God
+
+    No place I would rather be
+    No place I would rather be
+    No place I would rather be
+    Than here in your love, here in your love
+
+    Set a fire down in my soul
+    That I can't contain that I can't control
+    I want more of You, God
+    I want more of You, God
+
+    I want more, I want more
+    I want more, I want more
+    I want more, I want more of you
+    Pour it out
+
+    Set a fire down in my soul
+    That I can't contain that I can't control
+    I want more of You, God
+    I want more of You, God
 - song: The Kingdom is Yours
   artist: Common Hymnal
   enabled: false
@@ -496,23 +587,6 @@
     prone to leave the God I love
     Here's my heart, O take and seal it,
     seal it for Thy courts above
-- song: Closer
-  enabled: true
-  lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
-    the raging storm\nWould you hold me in your arms, arms\n\n'Cause I need you, how
-    I need you\n\nI need your love like I need water\nI need your love like I need
-    breath inside of my lungs\nBurn in my heart just like a fire, come and take me
-    over\nJesus draw me closer to your heart\nTo your heart\n\nAnd through the wind
-    and rain\nI can hear you call my name, name\nWhen the nights get rough, I will
-    still sing out your praise\n'Cause I need you, how I need you \n\nI need your
-    love like I need water\nAnd I need your love like I need breath inside of my lungs\nBurn
-    in my heart just like a fire, come and take me over\nJesus draw me closer to your
-    heart\nTo your heart, your heart\n\nAnd closer than my every breath\nCloser than
-    my every step\nCloser than the song I sing\nCloser than anything\n\nI need your
-    love like I need water\nI need your love like I need breath inside of my lungs\nBurn
-    in my heart just like a fire, come and take me over\nJesus draw me closer to your
-    heart\nTo your heart, your heart"
-  artist: Brandon Lake
 - song: " Mighty Is the Power of the Cross"
   artist: Chris Tomlin
   enabled: false
@@ -529,80 +603,6 @@
     power of God\nFor those who believe\n\nMighty, awesome, wonderful\nIs the Holy
     cross\nWhere the Lamb lay down His life\nTo lift us from the fall\nMighty is the
     power of the cross\n"
-- song: Set a Fire
-  artist: Will Reagan & United Pursuit
-  enabled: false
-  lyrics: |-
-    No place I would rather be
-    No place I would rather be
-    No place I would rather be
-    Than here in your love, here in your love
-
-    Set a fire down in my soul
-    That I can't contain that I can't control
-    I want more of You, God
-    I want more of You, God
-
-    I want more, I want more
-    I want more, I want more
-    I want more, I want more of you
-    Pour it out
-
-    Set a fire down in my soul
-    That I can't contain that I can't control
-    I want more of You, God
-    I want more of You, God
-
-    No place I would rather be
-    No place I would rather be
-    No place I would rather be
-    Than here in your love, here in your love
-
-    Set a fire down in my soul
-    That I can't contain that I can't control
-    I want more of You, God
-    I want more of You, God
-
-    I want more, I want more
-    I want more, I want more
-    I want more, I want more of you
-    Pour it out
-
-    Set a fire down in my soul
-    That I can't contain that I can't control
-    I want more of You, God
-    I want more of You, God
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: true
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Almighty God to You all hearts are open
-    You take away our sickness and our sin
-    Oh Lamb of God we gather at Your table
-    In bread and wine, You have supplied our needs
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Before the Throne
   artist: Dustin Kensrue
   enabled: false
