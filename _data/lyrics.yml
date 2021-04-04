@@ -14,7 +14,7 @@
     one God, now and for ever.
 - song: My Jesus I Love Thee
   artist: William R. Featherstone
-  enabled: true
+  enabled: false
   lyrics: "My Jesus, I love thee, I know thou art mine;\nfor thee all the follies
     of sin I resign;\nmy gracious Redeemer, my Savior art thou;\nif ever I loved thee,
     my Jesus, 'tis now.\n\nI love thee because thou hast first loved me\nand purchased
@@ -27,7 +27,7 @@
     now. "
 - song: Simple Gospel
   artist: Will Reagan
-  enabled: true
+  enabled: false
   lyrics: |
     I want to know You, Lord
     Like I know a friend
@@ -86,7 +86,7 @@
     I want to know You, Lord
 - song: More Than The Watchman (Psalm 130)
   artist: Rebecca St James
-  enabled: true
+  enabled: false
   lyrics: |-
     Out of the depths I cry to my Lord, he lifted me up, he lifted me up
     Out of the depths I cry to my Lord, he lifted me up, he lifted me
