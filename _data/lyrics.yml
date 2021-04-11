@@ -1,7 +1,7 @@
 ---
 - song: April Prayer
   artist: ''
-  enabled: ''
+  enabled: true
   lyrics: "O God, who didst make this most holy season to shine with \nthe glory of
     the Lord's resurrection: Stir up in thy Church \nthat Spirit of adoption which
     is given to us in Baptism, that \nwe, being renewed both in body and mind, may
