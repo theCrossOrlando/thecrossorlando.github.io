@@ -1109,7 +1109,7 @@
     [Chorus]
 - song: What a Beautiful Name
   artist: Hillsong Worship
-  enabled: false
+  enabled: true
   lyrics: |2-
 
     You were the Word at the beginning
