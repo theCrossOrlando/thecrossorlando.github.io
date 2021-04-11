@@ -14,7 +14,7 @@
     one God, now and for ever.
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -43,8 +43,49 @@
     To you all hearts are open, Almighty God…
 
     Hallelujah, hallelujah, hallelujah, hallelujah
-- song: Closer
+- song: Psalm 145
   enabled: true
+  lyrics: |-
+    I will bless You all of my days LORD
+    I will praise you always, My God and King
+    I will bless and honor Your name LORD
+    Always and forever my soul will sing
+    Such a vast, unsearchable greatness
+    Great is Yahweh, worthy of all of praise
+    Let Your people sound through the ages
+    All Your awesome works till the end of days
+
+    We have seen Your splendor and glory
+    We have seen Your wonders and stand amazed
+    Every tongue will echo Your story
+    Everyone will sing of Your righteous ways
+
+    Oh, let all that lives ever bless His name
+
+    All that You have made, LORD, will praise You
+    All your saints will worship You in joyful strains
+    Praise the LORD who ransoms and rescues
+    Praise the God of Glory who ever reigns
+
+    He is Holy judging the wicked
+    Guarding those that love him and fear his name
+    All that call out, Yahweh is with them
+    He will hear their cries, He is strong to save
+
+    He upholds the one who is stumbling
+    Lifting up those burdened with heavy loads
+    Opening His hands to the hungry
+    Blessing all that look to their Lord in hope
+
+    He is tender toward His creation
+    He is faithful and gracious in all He does
+    Great is Yahweh, full of compassion
+    Slow to anger, filled with unfailing love
+
+    Oh, let all that lives ever bless His name
+    Oh, let all that lives ever bless His name
+- song: Closer
+  enabled: false
   lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
     the raging storm\nWould you hold me in your arms, arms\n\n'Cause I need you, how
     I need you\n\nI need your love like I need water\nI need your love like I need
@@ -62,7 +103,7 @@
   artist: Brandon Lake
 - song: Here Is Love
   artist: Passion
-  enabled: true
+  enabled: false
   lyrics: |
     Here is love, vast as the ocean
     Lovingkindness as the flood
@@ -89,7 +130,7 @@
     No love is like your love, oh Lord
 - song: Ain't No Grave
   artist: ''
-  enabled: true
+  enabled: false
   lyrics: |
     Oh, shame is a prison as cruel as a grave
     Shame is a robber and he's come to take my name
@@ -451,47 +492,6 @@
 
     And I belong to You
     Forever, I belong to You
-- song: Psalm 145
-  enabled: false
-  lyrics: |-
-    I will bless You all of my days LORD
-    I will praise you always, My God and King
-    I will bless and honor Your name LORD
-    Always and forever my soul will sing
-    Such a vast, unsearchable greatness
-    Great is Yahweh, worthy of all of praise
-    Let Your people sound through the ages
-    All Your awesome works till the end of days
-
-    We have seen Your splendor and glory
-    We have seen Your wonders and stand amazed
-    Every tongue will echo Your story
-    Everyone will sing of Your righteous ways
-
-    Oh, let all that lives ever bless His name
-
-    All that You have made, LORD, will praise You
-    All your saints will worship You in joyful strains
-    Praise the LORD who ransoms and rescues
-    Praise the God of Glory who ever reigns
-
-    He is Holy judging the wicked
-    Guarding those that love him and fear his name
-    All that call out, Yahweh is with them
-    He will hear their cries, He is strong to save
-
-    He upholds the one who is stumbling
-    Lifting up those burdened with heavy loads
-    Opening His hands to the hungry
-    Blessing all that look to their Lord in hope
-
-    He is tender toward His creation
-    He is faithful and gracious in all He does
-    Great is Yahweh, full of compassion
-    Slow to anger, filled with unfailing love
-
-    Oh, let all that lives ever bless His name
-    Oh, let all that lives ever bless His name
 - song: Set a Fire
   artist: Will Reagan & United Pursuit
   enabled: false
