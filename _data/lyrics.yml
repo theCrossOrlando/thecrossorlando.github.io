@@ -8,6 +8,54 @@
     worship thee \nin sincerity and truth; through the same Jesus Christ our \nLord,
     who liveth and reigneth with thee in the unity of the \nsame Spirit, one God,
     now and for ever. Amen."
+- song: The House Of God, Forever
+  artist: Jon Foreman
+  enabled: true
+  lyrics: |-
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    With quiet streams
+
+    Even though I walk
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You are with me
+
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
+
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    By quiet streams
+
+    Even while I'm walking
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You're always with me
+
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
+
+    In the house of God forever
+    In the house of God forever
 - song: March Prayer
   artist: ''
   enabled: false
@@ -53,7 +101,7 @@
 
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Psalm 145
-  enabled: true
+  enabled: false
   lyrics: |-
     I will bless You all of my days LORD
     I will praise you always, My God and King
@@ -95,7 +143,7 @@
     Oh, let all that lives ever bless His name
 - song: The Kingdom is Yours
   artist: Common Hymnal
-  enabled: true
+  enabled: false
   lyrics: "Blessed are the ones who do not bury\nAll the broken pieces of their heart\nBlessed
     are the tears of all the weary\nPouring like a sky of falling stars\n\nBlessed
     are the wounded ones in mourning\nBrave enough to show the Lord their scars\nBlessed
@@ -117,7 +165,7 @@
     your eyes on Him "
 - song: What a Beautiful Name
   artist: Hillsong Worship
-  enabled: true
+  enabled: false
   lyrics: |2-
 
     You were the Word at the beginning
@@ -1160,54 +1208,6 @@
     A light to bring revelation to the Gentiles,
 
     And the glory of Your people Israel.
-- song: The House Of God, Forever
-  artist: Jon Foreman
-  enabled: false
-  lyrics: |-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest
-    In fields of green
-    With quiet streams
-
-    Even though I walk
-    Through the valley
-    Of death and dying
-    I will not fear
-    Cause you are with me
-    You are with me
-
-    Your shepherd's staff comforts me
-    You are my feast
-    In the presence of enemies
-    Surely goodness will follow me
-    Follow me
-    In the house of God forever
-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest
-    In fields of green
-    By quiet streams
-
-    Even while I'm walking
-    Through the valley
-    Of death and dying
-    I will not fear
-    Cause you are with me
-    You're always with me
-
-    Your shepherd's staff comforts me
-    You are my feast
-    In the presence of enemies
-    Surely goodness will follow me
-    Follow me
-    In the house of God forever
-
-    In the house of God forever
-    In the house of God forever
 - song: Joy To The World
   artist: 
   enabled: false
@@ -1411,37 +1411,37 @@
     To You only
 - song: Heart Won't Stop
   artist: John Mark McMillan & Sarah McMillan
-  enabled: false
+  enabled: true
   lyrics: |-
-    [Verse 1]
     There is not a man or beast
     Nothing on the land or underneath
     Oh nothing that could ever come between
     The love You have for me
 
-    [Pre-Chorus]
     I could lay my head in sheol
     I could make my bed
     At the bottom of darkness deep
     Oh but there is not a place I could escape You
 
-    [Chorus]
     Your heart won't stop, coming after me
     Your heart won't stop, coming after me
     Your heart won't stop, coming after me
     Coming after me
 
-    [Verse 2]
     There is not an angel of the stars
     There is not a devil in the dark
     Oh nothing that could change the way You are
     The love You have for me
 
-    [Pre-Chorus]
     I could lay my head in sheol
     I could make my bed
     At the bottom of darkness deep
     Oh but there is not a place I could escape You
+
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Coming after me
 - song: Beauty for Ashes
   artist: Shane and Shane
   enabled: false
