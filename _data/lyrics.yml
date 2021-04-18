@@ -8,6 +8,33 @@
     worship thee \nin sincerity and truth; through the same Jesus Christ our \nLord,
     who liveth and reigneth with thee in the unity of the \nsame Spirit, one God,
     now and for ever. Amen."
+- song: Here Is Love
+  artist: Passion
+  enabled: true
+  lyrics: |
+    Here is love, vast as the ocean
+    Lovingkindness as the flood
+    When the Prince of Life, our Ransom
+    Shed for us His precious blood
+    Who His love will not remember?
+    Who can cease to sing His praise?
+    He can never be forgotten
+    Throughout Heav'n's eternal days
+
+    On the mount of crucifixion
+    Fountains opened deep and wide
+    Through the floodgates of God's mercy
+    Flowed a vast a gracious tide
+    Grace and love, like mighty rivers
+    Poured incessant from above
+    And Heav'n's peace and perfect justice
+    Kissed a guilty world in love
+
+    Chorus:
+    No love is higher, no love is wider
+    No love is deeper, no love is truer
+    No love is higher, no love is wider
+    No love is like your love, oh Lord
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
   enabled: true
@@ -277,33 +304,6 @@
     in my heart just like a fire, come and take me over\nJesus draw me closer to your
     heart\nTo your heart, your heart"
   artist: Brandon Lake
-- song: Here Is Love
-  artist: Passion
-  enabled: true
-  lyrics: |
-    Here is love, vast as the ocean
-    Lovingkindness as the flood
-    When the Prince of Life, our Ransom
-    Shed for us His precious blood
-    Who His love will not remember?
-    Who can cease to sing His praise?
-    He can never be forgotten
-    Throughout Heav'n's eternal days
-
-    On the mount of crucifixion
-    Fountains opened deep and wide
-    Through the floodgates of God's mercy
-    Flowed a vast a gracious tide
-    Grace and love, like mighty rivers
-    Poured incessant from above
-    And Heav'n's peace and perfect justice
-    Kissed a guilty world in love
-
-    Chorus:
-    No love is higher, no love is wider
-    No love is deeper, no love is truer
-    No love is higher, no love is wider
-    No love is like your love, oh Lord
 - song: Ain't No Grave
   artist: ''
   enabled: false
@@ -3812,7 +3812,7 @@
     You are my prince of peace and I will live my life for you.
 - song: Come Let Us Return to The Lord
   artist: Matt Redman
-  enabled: false
+  enabled: true
   lyrics: |-
     Come, come let us return to the Lord
     Come, come let us return to the Lord
