@@ -8,6 +8,30 @@
     worship thee \nin sincerity and truth; through the same Jesus Christ our \nLord,
     who liveth and reigneth with thee in the unity of the \nsame Spirit, one God,
     now and for ever. Amen."
+- song: Come Let Us Return to The Lord
+  artist: Matt Redman
+  enabled: true
+  lyrics: |-
+    Come, come let us return to the Lord
+    Come, come let us return to the Lord
+    In brokenness of heart, we consecrate our lives singing
+    Come, come let us return to the Lord
+
+    With a rending of the heart
+    With the bowing of a knee
+    Oh we are returning
+    With a prayer and with a fast
+    With a song in minor key
+    Lord we are repenting
+
+    Even now, even now
+    With all of our hearts
+    You may turn, You may leave a blessing behind
+
+    In Your mercy You will come
+    In Your mercy You will come
+    Surely as the rising sun
+    Surely as the rising sun
 - song: Here Is Love
   artist: Passion
   enabled: true
@@ -35,35 +59,6 @@
     No love is deeper, no love is truer
     No love is higher, no love is wider
     No love is like your love, oh Lord
-- song: Come Ye Sinners, Poor And Needy
-  artist: Joseph Hart
-  enabled: true
-  lyrics: |-
-    Come, ye sinners, poor and needy,
-    Weak and wounded, sick and sore;
-    Jesus ready stands to save you,
-    Full of pity, love and power.
-
-    Refrain
-
-    I will arise and go to Jesus,
-    He will embrace me in His arms;
-    In the arms of my dear Savior,
-    O there are ten thousand charms.
-
-    Come, ye thirsty, come, and welcome,
-    God’s free bounty glorify;
-    True belief and true repentance,
-    Every grace that brings you nigh.
-
-    Refrain
-
-    Come, ye weary, heavy laden,
-    Lost and ruined by the fall;
-    If you tarry till you’re better,
-    You will never come at all.
-
-    Refrain
 - song: The House Of God, Forever
   artist: Jon Foreman
   enabled: true
@@ -112,6 +107,35 @@
 
     In the house of God forever
     In the house of God forever
+- song: Come Ye Sinners, Poor And Needy
+  artist: Joseph Hart
+  enabled: true
+  lyrics: |-
+    Come, ye sinners, poor and needy,
+    Weak and wounded, sick and sore;
+    Jesus ready stands to save you,
+    Full of pity, love and power.
+
+    Refrain
+
+    I will arise and go to Jesus,
+    He will embrace me in His arms;
+    In the arms of my dear Savior,
+    O there are ten thousand charms.
+
+    Come, ye thirsty, come, and welcome,
+    God’s free bounty glorify;
+    True belief and true repentance,
+    Every grace that brings you nigh.
+
+    Refrain
+
+    Come, ye weary, heavy laden,
+    Lost and ruined by the fall;
+    If you tarry till you’re better,
+    You will never come at all.
+
+    Refrain
 - song: March Prayer
   artist: ''
   enabled: false
@@ -1440,7 +1464,7 @@
     To You only
 - song: Heart Won't Stop
   artist: John Mark McMillan & Sarah McMillan
-  enabled: true
+  enabled: false
   lyrics: |-
     There is not a man or beast
     Nothing on the land or underneath
@@ -3810,30 +3834,6 @@
     redeemer, and friend
 
     You are my prince of peace and I will live my life for you.
-- song: Come Let Us Return to The Lord
-  artist: Matt Redman
-  enabled: true
-  lyrics: |-
-    Come, come let us return to the Lord
-    Come, come let us return to the Lord
-    In brokenness of heart, we consecrate our lives singing
-    Come, come let us return to the Lord
-
-    With a rending of the heart
-    With the bowing of a knee
-    Oh we are returning
-    With a prayer and with a fast
-    With a song in minor key
-    Lord we are repenting
-
-    Even now, even now
-    With all of our hearts
-    You may turn, You may leave a blessing behind
-
-    In Your mercy You will come
-    In Your mercy You will come
-    Surely as the rising sun
-    Surely as the rising sun
 - song: All Creatures of Our God and King
   artist: Francis of Assisi
   enabled: false
