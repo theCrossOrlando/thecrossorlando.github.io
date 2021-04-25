@@ -10,7 +10,7 @@
     now and for ever. Amen."
 - song: Come Let Us Return to The Lord
   artist: Matt Redman
-  enabled: true
+  enabled: false
   lyrics: |-
     Come, come let us return to the Lord
     Come, come let us return to the Lord
@@ -34,7 +34,7 @@
     Surely as the rising sun
 - song: Here Is Love
   artist: Passion
-  enabled: true
+  enabled: false
   lyrics: |
     Here is love, vast as the ocean
     Lovingkindness as the flood
@@ -61,7 +61,7 @@
     No love is like your love, oh Lord
 - song: The House Of God, Forever
   artist: Jon Foreman
-  enabled: true
+  enabled: false
   lyrics: |-
     God is my shepherd
     I won't be wanting
@@ -109,7 +109,7 @@
     In the house of God forever
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
-  enabled: true
+  enabled: false
   lyrics: |-
     Come, ye sinners, poor and needy,
     Weak and wounded, sick and sore;
@@ -1704,7 +1704,7 @@
 
 - song: Oh Lord, You're Beautiful
   artist: Keith Green
-  enabled: false
+  enabled: true
   lyrics: |-
     Oh Lord, you're beautiful,
     Your face is all I seek,
