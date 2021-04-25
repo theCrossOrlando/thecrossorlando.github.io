@@ -59,6 +59,69 @@
     No love is deeper, no love is truer
     No love is higher, no love is wider
     No love is like your love, oh Lord
+- song: Closer
+  enabled: true
+  lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
+    the raging storm\nWould you hold me in your arms, arms\n\n'Cause I need you, how
+    I need you\n\nI need your love like I need water\nI need your love like I need
+    breath inside of my lungs\nBurn in my heart just like a fire, come and take me
+    over\nJesus draw me closer to your heart\nTo your heart\n\nAnd through the wind
+    and rain\nI can hear you call my name, name\nWhen the nights get rough, I will
+    still sing out your praise\n'Cause I need you, how I need you \n\nI need your
+    love like I need water\nAnd I need your love like I need breath inside of my lungs\nBurn
+    in my heart just like a fire, come and take me over\nJesus draw me closer to your
+    heart\nTo your heart, your heart\n\nAnd closer than my every breath\nCloser than
+    my every step\nCloser than the song I sing\nCloser than anything\n\nI need your
+    love like I need water\nI need your love like I need breath inside of my lungs\nBurn
+    in my heart just like a fire, come and take me over\nJesus draw me closer to your
+    heart\nTo your heart, your heart"
+  artist: Brandon Lake
+- song: You're Beautiful
+  artist: Phil Wickham
+  enabled: true
+  lyrics: |-
+    I see Your face in every sunrise
+    The colors of the morning are inside Your eyes
+    The world awakens in the light of the day
+    I look up to the sky and say
+    You're beautiful
+    (Oh, Oh, Oh, Oh)
+
+    I see Your power in the moonlit night
+    Where planets are in motion and galaxies are bright
+    We are amazed in the light of the stars
+    It's all proclaiming who You are
+    You're beautiful
+    (Oh, Oh, You're beautiful, Oh, Oh)
+
+    I see You there hanging on a tree
+    You bled and then you died and then you rose again for me
+    Now You are sitting on Your heavenly throne
+    Soon we will be coming home
+    You're beautiful
+    (Oh, Oh, You're beautiful, Oh, Oh)
+
+    (We're singing out)
+    When we arrive at eternity's shore
+    Where death is just a memory and tears are no more
+    We'll enter in as the wedding bells ring
+    Your bride will come together and we'll sing
+    You're beautiful
+    Oh, You're beautiful
+
+    I see Your face, You're beautiful
+    You're beautiful
+    You're beautiful
+
+    I see Your face, You're beautiful
+    You're beautiful
+    You're beautiful
+
+    I see Your face
+    I see Your face
+    I see Your face, You're beautiful
+    You're beautiful
+    You're beautiful
 - song: The House Of God, Forever
   artist: Jon Foreman
   enabled: false
@@ -311,23 +374,6 @@
     What a powerful Name it is, the Name of Jesus
     What a powerful Name it is, The Name of Jesus
     What a powerful Name it is, The Name of Jesus
-- song: Closer
-  enabled: false
-  lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
-    the raging storm\nWould you hold me in your arms, arms\n\n'Cause I need you, how
-    I need you\n\nI need your love like I need water\nI need your love like I need
-    breath inside of my lungs\nBurn in my heart just like a fire, come and take me
-    over\nJesus draw me closer to your heart\nTo your heart\n\nAnd through the wind
-    and rain\nI can hear you call my name, name\nWhen the nights get rough, I will
-    still sing out your praise\n'Cause I need you, how I need you \n\nI need your
-    love like I need water\nAnd I need your love like I need breath inside of my lungs\nBurn
-    in my heart just like a fire, come and take me over\nJesus draw me closer to your
-    heart\nTo your heart, your heart\n\nAnd closer than my every breath\nCloser than
-    my every step\nCloser than the song I sing\nCloser than anything\n\nI need your
-    love like I need water\nI need your love like I need breath inside of my lungs\nBurn
-    in my heart just like a fire, come and take me over\nJesus draw me closer to your
-    heart\nTo your heart, your heart"
-  artist: Brandon Lake
 - song: Ain't No Grave
   artist: ''
   enabled: false
@@ -1568,52 +1614,6 @@
 
     O praise Him! O praise Him!
     Alleluia! Alleluia!  Alleluia!
-- song: You're Beautiful
-  artist: Phil Wickham
-  enabled: false
-  lyrics: |-
-    I see Your face in every sunrise
-    The colors of the morning are inside Your eyes
-    The world awakens in the light of the day
-    I look up to the sky and say
-    You're beautiful
-    (Oh, Oh, Oh, Oh)
-
-    I see Your power in the moonlit night
-    Where planets are in motion and galaxies are bright
-    We are amazed in the light of the stars
-    It's all proclaiming who You are
-    You're beautiful
-    (Oh, Oh, You're beautiful, Oh, Oh)
-
-    I see You there hanging on a tree
-    You bled and then you died and then you rose again for me
-    Now You are sitting on Your heavenly throne
-    Soon we will be coming home
-    You're beautiful
-    (Oh, Oh, You're beautiful, Oh, Oh)
-
-    (We're singing out)
-    When we arrive at eternity's shore
-    Where death is just a memory and tears are no more
-    We'll enter in as the wedding bells ring
-    Your bride will come together and we'll sing
-    You're beautiful
-    Oh, You're beautiful
-
-    I see Your face, You're beautiful
-    You're beautiful
-    You're beautiful
-
-    I see Your face, You're beautiful
-    You're beautiful
-    You're beautiful
-
-    I see Your face
-    I see Your face
-    I see Your face, You're beautiful
-    You're beautiful
-    You're beautiful
 - song: Come Holy One
   artist: Young Oceans
   enabled: false
@@ -1704,7 +1704,7 @@
 
 - song: Oh Lord, You're Beautiful
   artist: Keith Green
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh Lord, you're beautiful,
     Your face is all I seek,
