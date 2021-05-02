@@ -16,6 +16,85 @@
     worship thee \nin sincerity and truth; through the same Jesus Christ our \nLord,
     who liveth and reigneth with thee in the unity of the \nsame Spirit, one God,
     now and for ever. Amen."
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Almighty God to You all hearts are open
+    You take away our sickness and our sin
+    Oh Lamb of God we gather at Your table
+    In bread and wine, You have supplied our needs
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+- song: All Creatures of Our God and King
+  artist: Francis of Assisi
+  enabled: true
+  lyrics: |-
+    All creatures of our God and King
+    Lift up your voice and with us sing,
+
+    Alleluia! Alleluia!
+
+    Thou burning sun with golden beam,
+    Thou silver moon with softer gleam!
+
+    O praise Him! O praise Him!
+    Alleluia! Alleluia! Alleluia!
+
+    Thou rushing wind that art so strong
+    Ye clouds that sail in Heaven along,
+    O praise Him! Alleluia!
+
+    Thou rising moon, in praise rejoice,
+    Ye lights of evening, find a voice!
+
+    O praise Him! O praise Him!
+    Alleluia! Alleluia! Alleluia!
+
+    Let all things their Creator bless,
+    And worship Him in humbleness,
+    O praise Him! Alleluia!
+
+    Praise, praise the Father, praise the Son,
+    And praise the Spirit, Three in One!
+
+    O praise Him! O praise Him!
+    Alleluia! Alleluia!  Alleluia!
+- song: I Belong To You
+  artist: William McDowe
+  enabled: false
+  lyrics: |-
+    I've been captured by a love I can't explain
+    And now you have me and I'm forever changed
+    I've abandoned everything I've ever known
+    Now I surrender my life is not my own
+    I belong to you, I belong to you [x4]
+    [Repeat x3]
+
+    My life is not my own to you I belong
+    I give myself I give myself to you
+    [x8]
 - song: Come Let Us Return to The Lord
   artist: Matt Redman
   enabled: false
@@ -220,37 +299,6 @@
     who is alive and reigns with you,
     in the unity of the Holy Spirit,
     one God, now and for ever.
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: true
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Almighty God to You all hearts are open
-    You take away our sickness and our sin
-    Oh Lamb of God we gather at Your table
-    In bread and wine, You have supplied our needs
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Psalm 145
   enabled: false
   lyrics: |-
@@ -1588,40 +1636,6 @@
     Open my ears, I want to hear You speak
     Tell me your thoughts whats on Your mind
     I'll be your friend, I want to see through Your eyes
-- song: All Creatures of Our God and King
-  artist: Francis of Assisi
-  enabled: false
-  lyrics: |-
-    All creatures of our God and King
-    Lift up your voice and with us sing,
-
-    Alleluia! Alleluia!
-
-    Thou burning sun with golden beam,
-    Thou silver moon with softer gleam!
-
-    O praise Him! O praise Him!
-    Alleluia! Alleluia! Alleluia!
-
-    Thou rushing wind that art so strong
-    Ye clouds that sail in Heaven along,
-    O praise Him! Alleluia!
-
-    Thou rising moon, in praise rejoice,
-    Ye lights of evening, find a voice!
-
-    O praise Him! O praise Him!
-    Alleluia! Alleluia! Alleluia!
-
-    Let all things their Creator bless,
-    And worship Him in humbleness,
-    O praise Him! Alleluia!
-
-    Praise, praise the Father, praise the Son,
-    And praise the Spirit, Three in One!
-
-    O praise Him! O praise Him!
-    Alleluia! Alleluia!  Alleluia!
 - song: Come Holy One
   artist: Young Oceans
   enabled: false
@@ -2164,20 +2178,6 @@
 
     Ala alao, ala oh
     Ala alao, ala oh
-- song: I Belong To You
-  artist: William McDowe
-  enabled: false
-  lyrics: |-
-    I've been captured by a love I can't explain
-    And now you have me and I'm forever changed
-    I've abandoned everything I've ever known
-    Now I surrender my life is not my own
-    I belong to you, I belong to you [x4]
-    [Repeat x3]
-
-    My life is not my own to you I belong
-    I give myself I give myself to you
-    [x8]
 - song: Beautiful Things
   artist: Gungor
   enabled: false
