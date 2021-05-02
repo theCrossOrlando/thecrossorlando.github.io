@@ -1,4 +1,19 @@
 ---
+- song: O Come To The Altar
+  artist: Elevation Worship
+  enabled: true
+  lyrics: "\nAre you hurting and broken within?\nOverwhelmed by the weight of your
+    sin?\nJesus is calling\n\nHave you come to the end of yourself\nDo you thirst
+    for a drink from the well?\nJesus is calling\n\nO come to the altar\nThe Father's
+    arms are open wide\nForgiveness was bought with \nthe precious blood of Jesus
+    Christ\n\nLeave behind your regrets and mistakes\nCome today there's no reason
+    to wait\nJesus is calling\n\nBring your sorrows and trade them for joy\nFrom the
+    ashes a new life is born\nJesus is calling\n\nO come to the altar\nThe Father's
+    arms are open wide\nForgiveness was bought with \nthe precious blood of Jesus
+    Christ\n\nOh, what a Savior\nIsn't He wonderful?\nSing Hallelujah, Christ is risen\nBow
+    down before Him\nFor He is Lord of all\nSing Hallelujah, Christ is risen\n\nBear
+    your cross as you wait for the crown\nTell the world of the treasure you found\nJesus
+    is Calling\nJesus is Calling"
 - song: May Prayer
   artist: ''
   enabled: true
