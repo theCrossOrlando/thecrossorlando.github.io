@@ -1,19 +1,4 @@
 ---
-- song: O Come To The Altar
-  artist: Elevation Worship
-  enabled: true
-  lyrics: "\nAre you hurting and broken within?\nOverwhelmed by the weight of your
-    sin?\nJesus is calling\n\nHave you come to the end of yourself\nDo you thirst
-    for a drink from the well?\nJesus is calling\n\nO come to the altar\nThe Father's
-    arms are open wide\nForgiveness was bought with \nthe precious blood of Jesus
-    Christ\n\nLeave behind your regrets and mistakes\nCome today there's no reason
-    to wait\nJesus is calling\n\nBring your sorrows and trade them for joy\nFrom the
-    ashes a new life is born\nJesus is calling\n\nO come to the altar\nThe Father's
-    arms are open wide\nForgiveness was bought with \nthe precious blood of Jesus
-    Christ\n\nOh, what a Savior\nIsn't He wonderful?\nSing Hallelujah, Christ is risen\nBow
-    down before Him\nFor He is Lord of all\nSing Hallelujah, Christ is risen\n\nBear
-    your cross as you wait for the crown\nTell the world of the treasure you found\nJesus
-    is Calling\nJesus is Calling"
 - song: May Prayer
   artist: ''
   enabled: true
@@ -33,7 +18,7 @@
     now and for ever. Amen."
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -62,9 +47,38 @@
     To you all hearts are open, Almighty God…
 
     Hallelujah, hallelujah, hallelujah, hallelujah
+- song: I Belong To You
+  artist: William McDowe
+  enabled: false
+  lyrics: |-
+    I've been captured by a love I can't explain
+    And now you have me and I'm forever changed
+    I've abandoned everything I've ever known
+    Now I surrender my life is not my own
+    I belong to you, I belong to you [x4]
+    [Repeat x3]
+
+    My life is not my own to you I belong
+    I give myself I give myself to you
+    [x8]
+- song: O Come To The Altar
+  artist: Elevation Worship
+  enabled: false
+  lyrics: "\nAre you hurting and broken within?\nOverwhelmed by the weight of your
+    sin?\nJesus is calling\n\nHave you come to the end of yourself\nDo you thirst
+    for a drink from the well?\nJesus is calling\n\nO come to the altar\nThe Father's
+    arms are open wide\nForgiveness was bought with \nthe precious blood of Jesus
+    Christ\n\nLeave behind your regrets and mistakes\nCome today there's no reason
+    to wait\nJesus is calling\n\nBring your sorrows and trade them for joy\nFrom the
+    ashes a new life is born\nJesus is calling\n\nO come to the altar\nThe Father's
+    arms are open wide\nForgiveness was bought with \nthe precious blood of Jesus
+    Christ\n\nOh, what a Savior\nIsn't He wonderful?\nSing Hallelujah, Christ is risen\nBow
+    down before Him\nFor He is Lord of all\nSing Hallelujah, Christ is risen\n\nBear
+    your cross as you wait for the crown\nTell the world of the treasure you found\nJesus
+    is Calling\nJesus is Calling"
 - song: All Creatures of Our God and King
   artist: Francis of Assisi
-  enabled: true
+  enabled: false
   lyrics: |-
     All creatures of our God and King
     Lift up your voice and with us sing,
@@ -96,20 +110,6 @@
 
     O praise Him! O praise Him!
     Alleluia! Alleluia!  Alleluia!
-- song: I Belong To You
-  artist: William McDowe
-  enabled: false
-  lyrics: |-
-    I've been captured by a love I can't explain
-    And now you have me and I'm forever changed
-    I've abandoned everything I've ever known
-    Now I surrender my life is not my own
-    I belong to you, I belong to you [x4]
-    [Repeat x3]
-
-    My life is not my own to you I belong
-    I give myself I give myself to you
-    [x8]
 - song: Come Let Us Return to The Lord
   artist: Matt Redman
   enabled: false
@@ -357,7 +357,7 @@
     Oh, let all that lives ever bless His name
 - song: The Kingdom is Yours
   artist: Common Hymnal
-  enabled: false
+  enabled: true
   lyrics: "Blessed are the ones who do not bury\nAll the broken pieces of their heart\nBlessed
     are the tears of all the weary\nPouring like a sky of falling stars\n\nBlessed
     are the wounded ones in mourning\nBrave enough to show the Lord their scars\nBlessed
