@@ -7,6 +7,88 @@
     you in all things and above all things, may obtain your promises, which exceed
     all that we can desire; through Jesus Christ our Lord, who lives and reigns with
     you and the Holy Spirit, one God, for ever and ever. Amen.'
+- song: The Kingdom is Yours
+  artist: Common Hymnal
+  enabled: true
+  lyrics: "Blessed are the ones who do not bury\nAll the broken pieces of their heart\nBlessed
+    are the tears of all the weary\nPouring like a sky of falling stars\n\nBlessed
+    are the wounded ones in mourning\nBrave enough to show the Lord their scars\nBlessed
+    are the hurts that are not hidden\nOpen to the healing touch of God\n\nThe Kingdom
+    is yours, the Kingdom is yours\nHold on a little more, this is not the end\nHope
+    is in the Lord, keep your eyes on Him\n\nAnd blessed are the ones who walk in
+    kindness\nEven in the face of great abuse\nBlessed are the deeds that go unnoticed\nServing
+    with unguarded gratitude\n\nAnd blessed are the ones who fight for justice\nLonging
+    for the coming day of peace\nBlessed is the soul that thirsts for righteousness\nWelcoming
+    the last, the lost, the least\n\nThe Kingdom is yours, the Kingdom is yours\nHold
+    on a little more, this is not the end\nHope is in the Lord, keep your eyes on
+    Him\nThe Kingdom is yours, the Kingdom is yours\nHold on a little more, this is
+    not the end\nHope is in the Lord, keep your eyes on Him\n\nBlessed are the ones
+    who suffer violence\nAnd still have strength to love their enemies\nBlessed is
+    the faith of those who persevere\nThough they fall, they'll never know defeat\n\nThe
+    Kingdom is yours, the Kingdom is yours\nHold on a little more, this is not the
+    end\nHope is in the Lord, keep your eyes on Him\nThe Kingdom is yours, the Kingdom
+    is yours\nHold on a little more, this is not the end\nHope is in the Lord, keep
+    your eyes on Him "
+- song: Oh Love That Will Not Let Me Go
+  artist: Ascend the Hill
+  enabled: true
+  lyrics: |-
+    Oh, Love that will not let me go
+    I rest my weary soul in Thee
+    I give You back the life I owe
+    That in Thine ocean's depths its flow
+    May richer, fuller be
+
+    My life is not my own
+    It's Yours
+    My life is not my own
+    I know it's Yours
+
+    Oh, Light that follows all my way
+    I yield my flickering torch to Thee
+    My heart restores its borrowed ray
+    That in Thy sunshine's blaze its day
+    May brighter, fairer be
+
+    So light a fire in my heart
+    And I'll burn for You
+    So light a fire in my heart
+    And I'll burn for You
+
+    Oh, Joy, that seeks me through the pain
+    I cannot close my heart to Thee
+    I trace the rainbow through the rain
+    And feel the promise is not in vain
+    That morn shall tearless be
+
+    So anoint me with joy
+    And joyful I will be
+    So anoint me with joy
+    And joyful I will be
+
+    Oh, cross that's lifing up my head
+    I dare not ask to fly from thee
+    I lay in dust life's glory dead
+    And from the ground there blossoms red
+    Life that shall endless be
+
+    We will sing:
+    Holy, holy
+    Is the King of Kings
+    And we will sing:
+    Holy, holy, is the King of Kings
+    (repeat)
+
+    On that day we will sing:
+    Holy, holy
+    Is the King of Kings
+
+    We will join with the angels and we will sing:
+    Holy, holy
+    Is the King of Kings
+
+    And we will sing:
+    Holy, holy, is the King of Kings
 - song: April Prayer
   artist: ''
   enabled: false
@@ -355,28 +437,6 @@
 
     Oh, let all that lives ever bless His name
     Oh, let all that lives ever bless His name
-- song: The Kingdom is Yours
-  artist: Common Hymnal
-  enabled: true
-  lyrics: "Blessed are the ones who do not bury\nAll the broken pieces of their heart\nBlessed
-    are the tears of all the weary\nPouring like a sky of falling stars\n\nBlessed
-    are the wounded ones in mourning\nBrave enough to show the Lord their scars\nBlessed
-    are the hurts that are not hidden\nOpen to the healing touch of God\n\nThe Kingdom
-    is yours, the Kingdom is yours\nHold on a little more, this is not the end\nHope
-    is in the Lord, keep your eyes on Him\n\nAnd blessed are the ones who walk in
-    kindness\nEven in the face of great abuse\nBlessed are the deeds that go unnoticed\nServing
-    with unguarded gratitude\n\nAnd blessed are the ones who fight for justice\nLonging
-    for the coming day of peace\nBlessed is the soul that thirsts for righteousness\nWelcoming
-    the last, the lost, the least\n\nThe Kingdom is yours, the Kingdom is yours\nHold
-    on a little more, this is not the end\nHope is in the Lord, keep your eyes on
-    Him\nThe Kingdom is yours, the Kingdom is yours\nHold on a little more, this is
-    not the end\nHope is in the Lord, keep your eyes on Him\n\nBlessed are the ones
-    who suffer violence\nAnd still have strength to love their enemies\nBlessed is
-    the faith of those who persevere\nThough they fall, they'll never know defeat\n\nThe
-    Kingdom is yours, the Kingdom is yours\nHold on a little more, this is not the
-    end\nHope is in the Lord, keep your eyes on Him\nThe Kingdom is yours, the Kingdom
-    is yours\nHold on a little more, this is not the end\nHope is in the Lord, keep
-    your eyes on Him "
 - song: What a Beautiful Name
   artist: Hillsong Worship
   enabled: false
@@ -606,66 +666,6 @@
     when He appears again with power and glory, we may be made like him in his eternal
     and glorious kingdom; where with you, O Father, and you, O Holy Spirit, he lives
     and reigns forever, one God, world without end. Amen. '
-- song: Oh Love That Will Not Let Me Go
-  artist: Ascend the Hill
-  enabled: false
-  lyrics: |-
-    Oh, Love that will not let me go
-    I rest my weary soul in Thee
-    I give You back the life I owe
-    That in Thine ocean's depths its flow
-    May richer, fuller be
-
-    My life is not my own
-    It's Yours
-    My life is not my own
-    I know it's Yours
-
-    Oh, Light that follows all my way
-    I yield my flickering torch to Thee
-    My heart restores its borrowed ray
-    That in Thy sunshine's blaze its day
-    May brighter, fairer be
-
-    So light a fire in my heart
-    And I'll burn for You
-    So light a fire in my heart
-    And I'll burn for You
-
-    Oh, Joy, that seeks me through the pain
-    I cannot close my heart to Thee
-    I trace the rainbow through the rain
-    And feel the promise is not in vain
-    That morn shall tearless be
-
-    So anoint me with joy
-    And joyful I will be
-    So anoint me with joy
-    And joyful I will be
-
-    Oh, cross that's lifing up my head
-    I dare not ask to fly from thee
-    I lay in dust life's glory dead
-    And from the ground there blossoms red
-    Life that shall endless be
-
-    We will sing:
-    Holy, holy
-    Is the King of Kings
-    And we will sing:
-    Holy, holy, is the King of Kings
-    (repeat)
-
-    On that day we will sing:
-    Holy, holy
-    Is the King of Kings
-
-    We will join with the angels and we will sing:
-    Holy, holy
-    Is the King of Kings
-
-    And we will sing:
-    Holy, holy, is the King of Kings
 - song: Future/Past
   artist: John Mark McMillan
   enabled: false
