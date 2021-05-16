@@ -9,7 +9,7 @@
     you and the Holy Spirit, one God, for ever and ever. Amen.'
 - song: The Kingdom is Yours
   artist: Common Hymnal
-  enabled: true
+  enabled: false
   lyrics: "Blessed are the ones who do not bury\nAll the broken pieces of their heart\nBlessed
     are the tears of all the weary\nPouring like a sky of falling stars\n\nBlessed
     are the wounded ones in mourning\nBrave enough to show the Lord their scars\nBlessed
@@ -31,7 +31,7 @@
     your eyes on Him "
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, Love that will not let me go
     I rest my weary soul in Thee
@@ -574,7 +574,7 @@
     now. "
 - song: Simple Gospel
   artist: Will Reagan
-  enabled: true
+  enabled: false
   lyrics: |
     I want to know You, Lord
     Like I know a friend
