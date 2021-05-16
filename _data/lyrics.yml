@@ -7,6 +7,19 @@
     you in all things and above all things, may obtain your promises, which exceed
     all that we can desire; through Jesus Christ our Lord, who lives and reigns with
     you and the Holy Spirit, one God, for ever and ever. Amen.'
+- song: My Jesus I Love Thee
+  artist: William R. Featherstone
+  enabled: true
+  lyrics: "My Jesus, I love thee, I know thou art mine;\nfor thee all the follies
+    of sin I resign;\nmy gracious Redeemer, my Savior art thou;\nif ever I loved thee,
+    my Jesus, 'tis now.\n\nI love thee because thou hast first loved me\nand purchased
+    my pardon on Calvary's tree;\nI love thee for wearing the thorns on thy brow;\nif
+    ever I loved thee, my Jesus, 'tis now.\n\nI'll love thee in life, I will love
+    thee in death,\nand praise thee as long as thou lendest me breath,\nand say when
+    the deathdew lies cold on my brow:\nIf ever I loved thee, my Jesus, 'tis now.\n\nIn
+    mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
+    sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
+    now. "
 - song: The Kingdom is Yours
   artist: Common Hymnal
   enabled: false
@@ -559,19 +572,6 @@
     Could hold my body down
     There ain't no grave
     Could hold my body down
-- song: My Jesus I Love Thee
-  artist: William R. Featherstone
-  enabled: false
-  lyrics: "My Jesus, I love thee, I know thou art mine;\nfor thee all the follies
-    of sin I resign;\nmy gracious Redeemer, my Savior art thou;\nif ever I loved thee,
-    my Jesus, 'tis now.\n\nI love thee because thou hast first loved me\nand purchased
-    my pardon on Calvary's tree;\nI love thee for wearing the thorns on thy brow;\nif
-    ever I loved thee, my Jesus, 'tis now.\n\nI'll love thee in life, I will love
-    thee in death,\nand praise thee as long as thou lendest me breath,\nand say when
-    the deathdew lies cold on my brow:\nIf ever I loved thee, my Jesus, 'tis now.\n\nIn
-    mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
-    sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
-    now. "
 - song: Simple Gospel
   artist: Will Reagan
   enabled: false
