@@ -7,6 +7,37 @@
     you in all things and above all things, may obtain your promises, which exceed
     all that we can desire; through Jesus Christ our Lord, who lives and reigns with
     you and the Holy Spirit, one God, for ever and ever. Amen.'
+- song: Power in the Name of Jesus
+  artist: Ascend the Hill
+  enabled: true
+  lyrics: |-
+    I was far away from You
+    Jesus brought me near
+    I was broken off from you
+    Jesus brought me near
+
+    I was far away from You
+    Jesus brought me near
+    I was broken off from you
+    Jesus brought me near
+
+    My hope, my song, my sacrifice of praise
+    Is Christ crucified for me
+    My strength, my boast, my sacrifice of praise
+    Is the mention of your name
+
+    Jesus
+    Just the mention of Your name
+    The blood that brings me near
+    Jesus
+    You brought me near
+
+    There is power in the Name
+    There is power in the Name
+    There is power in the Name
+    There is power in the Name
+
+    Jesus
 - song: My Jesus I Love Thee
   artist: William R. Featherstone
   enabled: true
@@ -668,7 +699,7 @@
     and reigns forever, one God, world without end. Amen. '
 - song: Future/Past
   artist: John Mark McMillan
-  enabled: false
+  enabled: true
   lyrics: |-
     You hold the reigns on the sun and the moon,
     Like horses driven by kings
@@ -720,6 +751,13 @@
     You are my first
     You are my last
     You are my future and my past
+
+    –––––––––––
+
+    And He loves us,
+    Oh, how He loves us,
+    Oh, how He loves us,
+    Oh how He loves
 - song: I Belong to You
   artist: Derek Johnson
   enabled: false
@@ -2498,37 +2536,6 @@
     But God who called me here below
     Will be forever mine, will be forever mine
     You are forever mine
-- song: Power in the Name of Jesus
-  artist: Ascend the Hill
-  enabled: true
-  lyrics: |-
-    I was far away from You
-    Jesus brought me near
-    I was broken off from you
-    Jesus brought me near
-
-    I was far away from You
-    Jesus brought me near
-    I was broken off from you
-    Jesus brought me near
-
-    My hope, my song, my sacrifice of praise
-    Is Christ crucified for me
-    My strength, my boast, my sacrifice of praise
-    Is the mention of your name
-
-    Jesus
-    Just the mention of Your name
-    The blood that brings me near
-    Jesus
-    You brought me near
-
-    There is power in the Name
-    There is power in the Name
-    There is power in the Name
-    There is power in the Name
-
-    Jesus
 - song: Be Thou My Vision
   artist: Ascend the Hill
   enabled: false
