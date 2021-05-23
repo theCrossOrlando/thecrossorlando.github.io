@@ -9,7 +9,7 @@
     you and the Holy Spirit, one God, for ever and ever. Amen.'
 - song: Power in the Name of Jesus
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     I was far away from You
     Jesus brought me near
@@ -40,7 +40,7 @@
     Jesus
 - song: My Jesus I Love Thee
   artist: William R. Featherstone
-  enabled: true
+  enabled: false
   lyrics: "My Jesus, I love thee, I know thou art mine;\nfor thee all the follies
     of sin I resign;\nmy gracious Redeemer, my Savior art thou;\nif ever I loved thee,
     my Jesus, 'tis now.\n\nI love thee because thou hast first loved me\nand purchased
@@ -53,7 +53,7 @@
     now. "
 - song: Future/Past, How He Loves Us
   artist: John Mark McMillan
-  enabled: true
+  enabled: false
   lyrics: |-
     You hold the reigns on the sun and the moon,
     Like horses driven by kings
@@ -989,7 +989,7 @@
     Deliver us from these prisons
 - song: Holy Spirit
   artist: Jesus Culture
-  enabled: false
+  enabled: true
   lyrics: |-
     [Verse 1]
 
