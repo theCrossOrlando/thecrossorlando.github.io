@@ -9,7 +9,7 @@
     you and the Holy Spirit, one God, for ever and ever. Amen.'
 - song: Grace Alone
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     I was an orphan lost at the Fall
     Running away when I'd hear Your call
@@ -53,7 +53,7 @@
     I will reach the end by grace and grace alone
 - song: Holy Spirit
   artist: Jesus Culture
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
 
@@ -90,7 +90,7 @@
     Here I stand
 - song: Help Me Find My Own Flame
   artist: Will Reagan & United Pursuit
-  enabled: true
+  enabled: false
   lyrics: |-
     I don't wanna ride on somebody else's passion.
     I don't wanna find that I am just dry bones.
@@ -327,7 +327,7 @@
     now and for ever. Amen."
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: false
+  enabled: true
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
