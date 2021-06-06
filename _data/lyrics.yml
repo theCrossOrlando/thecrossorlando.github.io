@@ -1,4 +1,38 @@
 ---
+- song: Holy, Holy, Holy
+  artist: ''
+  enabled: true
+  lyrics: |-
+    Holy, holy, holy!
+    Lord God Almighty
+    Early in the morning
+    Our song shall rise to Thee
+
+    Holy, holy, holy!
+    Merciful and mighty
+    God in three persons
+    Blessed Trinity!
+
+    Holy, holy, holy!
+    Though the darkness hide thee
+    Though the eye of sinful man
+    Thy glory may not see
+
+    Only Thou art holy
+    There is none beside Thee
+    Perfect in power, in love and purity
+
+    Holy, holy, holy!
+    Lord God Almighty
+    Oh thy works shall praise Thy name
+    In earth and sky and sea
+
+    Holy, holy, holy!
+    Merciful and mighty
+    God in three persons
+    Blessed Trinity
+    God in three persons
+    Blessed Trinity!
 - song: May Prayer
   artist: ''
   enabled: true
@@ -40,7 +74,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Before the Throne
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     Before the throne of God above
     I have a strong and perfect plea.
@@ -71,7 +105,7 @@
     My life is hid with Christ on high
 - song: 10,000 Reasons
   artist: Matt Redman
-  enabled: true
+  enabled: false
   lyrics: |-
     Bless the Lord O my soul
     O my soul
@@ -107,7 +141,7 @@
     And then forevermore
 - song: Amazing Grace
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     Amazing grace how sweet the sound
     That saved a wretch like me
