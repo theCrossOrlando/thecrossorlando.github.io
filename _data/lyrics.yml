@@ -1,60 +1,11 @@
 ---
-- song: Light of Your Love
-  artist: Young Oceans
+- song: June Prayer
+  artist: ''
   enabled: ''
-  lyrics: |-
-    In the light of Your love
-    So pure and so clear
-    There's nothing I want
-    And nothing to fear
-
-    You tell me that I
-    Am free as a child
-    I've nothing to fear
-    In the light of Your love
-
-    In the light of Your love
-    My heart is Your home
-    Never abandoned
-    Never alone
-
-    You tell me I'm Yours
-    Shielded and sure
-    My heart is Your home
-    In the light of Your love
-
-    I wanna live in wild abandon
-    I wanna know the heart of Heaven
-    I wanna see with eyes from above
-    In the light, in the light
-
-    Will You open,
-    Open up my eyes?
-    Will You open,
-    Open up my eyes?
-
-    Will You open,
-    Open up my eyes?
-    Will You open,
-    Open up my eyes?
-
-    I wanna live in wild abandon
-    I wanna know the heart of Heaven
-    I wanna see with eyes from above
-    In the light
-
-    I wanna live in wild abandon
-    I wanna know the heart of Heaven
-    I wanna see with eyes from above
-    In the light, in the light
-
-    The light of Your love
-    (In the light of Your love)
-    The light of Your love
-    (In the light of Your love)
-    The light of Your love
-    (In the light of Your love)
-    The light of Your love
+  lyrics: "Grant, O Lord, that the course of this world may be peaceably governed
+    by your providence; and that your Church may joyfully serve you in confidence
+    and serenity; through Jesus Christ our Lord, who lives and reigns with you and
+    the Holy Spirit, one God, forever and ever. \nAmen."
 - song: May Prayer
   artist: ''
   enabled: true
@@ -158,6 +109,62 @@
     To you all hearts are open, Almighty God…
 
     Hallelujah, hallelujah, hallelujah, hallelujah
+- song: Light of Your Love
+  artist: Young Oceans
+  enabled: true
+  lyrics: |-
+    In the light of Your love
+    So pure and so clear
+    There's nothing I want
+    And nothing to fear
+
+    You tell me that I
+    Am free as a child
+    I've nothing to fear
+    In the light of Your love
+
+    In the light of Your love
+    My heart is Your home
+    Never abandoned
+    Never alone
+
+    You tell me I'm Yours
+    Shielded and sure
+    My heart is Your home
+    In the light of Your love
+
+    I wanna live in wild abandon
+    I wanna know the heart of Heaven
+    I wanna see with eyes from above
+    In the light, in the light
+
+    Will You open,
+    Open up my eyes?
+    Will You open,
+    Open up my eyes?
+
+    Will You open,
+    Open up my eyes?
+    Will You open,
+    Open up my eyes?
+
+    I wanna live in wild abandon
+    I wanna know the heart of Heaven
+    I wanna see with eyes from above
+    In the light
+
+    I wanna live in wild abandon
+    I wanna know the heart of Heaven
+    I wanna see with eyes from above
+    In the light, in the light
+
+    The light of Your love
+    (In the light of Your love)
+    The light of Your love
+    (In the light of Your love)
+    The light of Your love
+    (In the light of Your love)
+    The light of Your love
 - song: Before the Throne
   artist: Dustin Kensrue
   enabled: false
