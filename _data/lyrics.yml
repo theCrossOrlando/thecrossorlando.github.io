@@ -1,7 +1,7 @@
 ---
 - song: June Prayer
   artist: ''
-  enabled: ''
+  enabled: true
   lyrics: "Grant, O Lord, that the course of this world may be peaceably governed
     by your providence; and that your Church may joyfully serve you in confidence
     and serenity; through Jesus Christ our Lord, who lives and reigns with you and
