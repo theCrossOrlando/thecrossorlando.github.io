@@ -16,7 +16,7 @@
     you and the Holy Spirit, one God, for ever and ever. Amen.'
 - song: Holy, Holy, Holy
   artist: ''
-  enabled: true
+  enabled: false
   lyrics: |-
     Holy, holy, holy!
     Lord God Almighty
@@ -80,7 +80,7 @@
     seal it for Thy courts above
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -111,7 +111,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Light of Your Love
   artist: Young Oceans
-  enabled: true
+  enabled: false
   lyrics: |-
     In the light of Your love
     So pure and so clear
