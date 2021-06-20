@@ -16,7 +16,7 @@
     you and the Holy Spirit, one God, for ever and ever. Amen.'
 - song: Come Thou Fount
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     Come thou fount of every blessing
     Tune my heart to sing Thy grace
@@ -45,7 +45,7 @@
     Here's my heart, O take and seal it,
     seal it for Thy courts above
 - song: Closer
-  enabled: true
+  enabled: false
   lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
     the raging storm\nWould you hold me in your arms, arms\n\n'Cause I need you, how
     I need you\n\nI need your love like I need water\nI need your love like I need
@@ -63,7 +63,7 @@
   artist: Brandon Lake
 - song: Your Love is Strong
   artist: Jon Foreman
-  enabled: true
+  enabled: false
   lyrics: |-
     Heavenly Father
     You always amaze me
@@ -1749,7 +1749,7 @@
     I will rejoice in you, Lord
 - song: Great Are You Lord
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     You give life, You are love
     You bring light to the darkness
