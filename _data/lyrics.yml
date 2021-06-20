@@ -75,6 +75,48 @@
     Oh, how He loves us,
     Oh, how He loves us,
     How He loves us all
+- song: Once and For All
+  artist: Lauren Daigle
+  enabled: true
+  lyrics: |-
+    God I give You all I can today
+    These scattered ashes that I hid away
+    I lay them all at Your feet
+
+    From the corners of my deepest shame
+    The empty places where I've worn Your name
+    Show me the love I say I believe
+
+    Oh Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    There is victory in my Saviors loss
+    And In the crimson flowing from the cross
+    Pour over me, pour over me yes
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    Oh Lord I lay it down
+    Oh Lord I lay it down
+    Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My Lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all
+
+    Once and for all
+    Oh once and for all
+    Once and for all
 - song: Come Thou Fount
   artist: Chris Tomlin
   enabled: false
@@ -449,6 +491,28 @@
     I will run the race by grace and grace alone
     I will slay my sin by grace and grace alone
     I will reach the end by grace and grace alone
+- song: The Kingdom is Yours
+  artist: Common Hymnal
+  enabled: true
+  lyrics: "Blessed are the ones who do not bury\nAll the broken pieces of their heart\nBlessed
+    are the tears of all the weary\nPouring like a sky of falling stars\n\nBlessed
+    are the wounded ones in mourning\nBrave enough to show the Lord their scars\nBlessed
+    are the hurts that are not hidden\nOpen to the healing touch of God\n\nThe Kingdom
+    is yours, the Kingdom is yours\nHold on a little more, this is not the end\nHope
+    is in the Lord, keep your eyes on Him\n\nAnd blessed are the ones who walk in
+    kindness\nEven in the face of great abuse\nBlessed are the deeds that go unnoticed\nServing
+    with unguarded gratitude\n\nAnd blessed are the ones who fight for justice\nLonging
+    for the coming day of peace\nBlessed is the soul that thirsts for righteousness\nWelcoming
+    the last, the lost, the least\n\nThe Kingdom is yours, the Kingdom is yours\nHold
+    on a little more, this is not the end\nHope is in the Lord, keep your eyes on
+    Him\nThe Kingdom is yours, the Kingdom is yours\nHold on a little more, this is
+    not the end\nHope is in the Lord, keep your eyes on Him\n\nBlessed are the ones
+    who suffer violence\nAnd still have strength to love their enemies\nBlessed is
+    the faith of those who persevere\nThough they fall, they'll never know defeat\n\nThe
+    Kingdom is yours, the Kingdom is yours\nHold on a little more, this is not the
+    end\nHope is in the Lord, keep your eyes on Him\nThe Kingdom is yours, the Kingdom
+    is yours\nHold on a little more, this is not the end\nHope is in the Lord, keep
+    your eyes on Him "
 - song: Holy Spirit
   artist: Jesus Culture
   enabled: false
@@ -571,28 +635,6 @@
     mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
     sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
     now. "
-- song: The Kingdom is Yours
-  artist: Common Hymnal
-  enabled: false
-  lyrics: "Blessed are the ones who do not bury\nAll the broken pieces of their heart\nBlessed
-    are the tears of all the weary\nPouring like a sky of falling stars\n\nBlessed
-    are the wounded ones in mourning\nBrave enough to show the Lord their scars\nBlessed
-    are the hurts that are not hidden\nOpen to the healing touch of God\n\nThe Kingdom
-    is yours, the Kingdom is yours\nHold on a little more, this is not the end\nHope
-    is in the Lord, keep your eyes on Him\n\nAnd blessed are the ones who walk in
-    kindness\nEven in the face of great abuse\nBlessed are the deeds that go unnoticed\nServing
-    with unguarded gratitude\n\nAnd blessed are the ones who fight for justice\nLonging
-    for the coming day of peace\nBlessed is the soul that thirsts for righteousness\nWelcoming
-    the last, the lost, the least\n\nThe Kingdom is yours, the Kingdom is yours\nHold
-    on a little more, this is not the end\nHope is in the Lord, keep your eyes on
-    Him\nThe Kingdom is yours, the Kingdom is yours\nHold on a little more, this is
-    not the end\nHope is in the Lord, keep your eyes on Him\n\nBlessed are the ones
-    who suffer violence\nAnd still have strength to love their enemies\nBlessed is
-    the faith of those who persevere\nThough they fall, they'll never know defeat\n\nThe
-    Kingdom is yours, the Kingdom is yours\nHold on a little more, this is not the
-    end\nHope is in the Lord, keep your eyes on Him\nThe Kingdom is yours, the Kingdom
-    is yours\nHold on a little more, this is not the end\nHope is in the Lord, keep
-    your eyes on Him "
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
   enabled: false
@@ -1318,48 +1360,6 @@
 
     Oh, in your eyes
     In your eyes
-- song: Once and For All
-  artist: Lauren Daigle
-  enabled: true
-  lyrics: |-
-    God I give You all I can today
-    These scattered ashes that I hid away
-    I lay them all at Your feet
-
-    From the corners of my deepest shame
-    The empty places where I've worn Your name
-    Show me the love I say I believe
-
-    Oh Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    There is victory in my Saviors loss
-    And In the crimson flowing from the cross
-    Pour over me, pour over me yes
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    Oh Lord I lay it down
-    Oh Lord I lay it down
-    Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My Lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all
-
-    Once and for all
-    Oh once and for all
-    Once and for all
 - song: Good, Good Father
   artist: Chris Tomlin
   enabled: false
