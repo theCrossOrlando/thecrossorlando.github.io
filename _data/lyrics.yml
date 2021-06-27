@@ -16,7 +16,7 @@
     you and the Holy Spirit, one God, for ever and ever. Amen.'
 - song: Future/Past, How He Loves Us
   artist: John Mark McMillan
-  enabled: true
+  enabled: false
   lyrics: |-
     You hold the reigns on the sun and the moon,
     Like horses driven by kings
@@ -77,7 +77,7 @@
     How He loves us all
 - song: Once and For All
   artist: Lauren Daigle
-  enabled: true
+  enabled: false
   lyrics: |-
     God I give You all I can today
     These scattered ashes that I hid away
@@ -258,7 +258,7 @@
     Blessed Trinity!
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: false
+  enabled: true
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -493,7 +493,7 @@
     I will reach the end by grace and grace alone
 - song: The Kingdom is Yours
   artist: Common Hymnal
-  enabled: true
+  enabled: false
   lyrics: "Blessed are the ones who do not bury\nAll the broken pieces of their heart\nBlessed
     are the tears of all the weary\nPouring like a sky of falling stars\n\nBlessed
     are the wounded ones in mourning\nBrave enough to show the Lord their scars\nBlessed
