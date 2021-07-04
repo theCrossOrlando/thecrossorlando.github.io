@@ -1,7 +1,7 @@
 ---
 - song: June Prayer
   artist: ''
-  enabled: true
+  enabled: false
   lyrics: "Grant, O Lord, that the course of this world may be peaceably governed
     by your providence; and that your Church may joyfully serve you in confidence
     and serenity; through Jesus Christ our Lord, who lives and reigns with you and
@@ -16,7 +16,7 @@
     you and the Holy Spirit, one God, for ever and ever. Amen.'
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, Love that will not let me go
     I rest my weary soul in Thee
@@ -76,7 +76,7 @@
     Holy, holy, is the King of Kings
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
-  enabled: true
+  enabled: false
   lyrics: |-
     Come, ye sinners, poor and needy,
     Weak and wounded, sick and sore;
@@ -105,7 +105,7 @@
     Refrain
 - song: Doxology
   artist: 
-  enabled: true
+  enabled: false
   lyrics: "Praise God from Whom all blessings flow\nPraise Him all creatures here
     below\nPraise Him above ye heavenly host\nPraise Father Son and Holy Ghost\nAmen "
 - song: Future/Past, How He Loves Us
@@ -2736,7 +2736,7 @@
     Rise up my soul (repeat)
 - song: White as Snow
   artist: Jon Foreman
-  enabled: false
+  enabled: true
   lyrics: |-
     Have mercy on me, oh God
     According to Your unfailing love
