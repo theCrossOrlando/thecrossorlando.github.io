@@ -15,7 +15,7 @@
     the Holy Spirit, one God, forever and ever. \nAmen."
 - song: Future/Past, How He Loves Us
   artist: John Mark McMillan
-  enabled: true
+  enabled: false
   lyrics: |-
     You hold the reigns on the sun and the moon,
     Like horses driven by kings
@@ -394,7 +394,7 @@
     Here's my heart, O take and seal it,
     seal it for Thy courts above
 - song: Closer
-  enabled: true
+  enabled: false
   lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
     the raging storm\nWould you hold me in your arms, arms\n\n'Cause I need you, how
     I need you\n\nI need your love like I need water\nI need your love like I need
@@ -3546,7 +3546,7 @@
     Life and rest, and joy and peace.
 - song: How Great Thou Art
   artist: Hymn
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh Lord my God
     When I in awesome wonder
