@@ -111,6 +111,62 @@
     Let us become more aware of Your presence
     Let us experience the glory of Your goodness
     Here I stand
+- song: Come Thou Fount
+  artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    Come thou fount of every blessing
+    Tune my heart to sing Thy grace
+    Streams of mercy never ceasing
+    Call for songs of loudest praise
+    Teach me some melodious sonnet
+    Sung by flaming tongues above
+    I'll praise the mount I'm fixed upon it
+    Mount of Thy redeeming love
+
+    Here I raise my Ebenezer
+    Hither by Thy help I come
+    And I hope by Thy good pleasure
+    Safely to arrive at home
+    Jesus sought me when a stranger
+    Wondering from the fold of God
+    He, to rescue me from danger
+    Interposed His precious blood
+
+    O to grace how great a debtor
+    daily I'm constrained to be!
+    Let Thy goodness like a fetter,
+    bind my wandering heart to Thee
+    Prone to wander Lord I feel it,
+    prone to leave the God I love
+    Here's my heart, O take and seal it,
+    seal it for Thy courts above
+- song: More Than The Watchman (Psalm 130)
+  artist: Rebecca St James
+  enabled: true
+  lyrics: |-
+    Out of the depths I cry to my Lord, he lifted me up, he lifted me up
+    Out of the depths I cry to my Lord, he lifted me up, he lifted me
+
+    If you kept a record of sins who could stand, my Lord
+    Who could stand up, Lord, who could stand up?
+    If you kept a record of sins who could stand, my Lord
+    Who could stand up, Lord, who could stand up?
+
+    With you, oh Lord, there is forgiveness
+    With you, oh Lord, unfailing love
+    With you, oh Lord, full redemption
+    You have bought back my soul from the dead with your blood
+
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morning sun
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morn
+
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morning sun
+    So my soul waits for the Lord more than watchmen wait
+    More than watchman who wait for the morn
 - song: May Prayer
   artist: ''
   enabled: false
@@ -417,36 +473,6 @@
     Once and for all
     Oh once and for all
     Once and for all
-- song: Come Thou Fount
-  artist: Chris Tomlin
-  enabled: false
-  lyrics: |-
-    Come thou fount of every blessing
-    Tune my heart to sing Thy grace
-    Streams of mercy never ceasing
-    Call for songs of loudest praise
-    Teach me some melodious sonnet
-    Sung by flaming tongues above
-    I'll praise the mount I'm fixed upon it
-    Mount of Thy redeeming love
-
-    Here I raise my Ebenezer
-    Hither by Thy help I come
-    And I hope by Thy good pleasure
-    Safely to arrive at home
-    Jesus sought me when a stranger
-    Wondering from the fold of God
-    He, to rescue me from danger
-    Interposed His precious blood
-
-    O to grace how great a debtor
-    daily I'm constrained to be!
-    Let Thy goodness like a fetter,
-    bind my wandering heart to Thee
-    Prone to wander Lord I feel it,
-    prone to leave the God I love
-    Here's my heart, O take and seal it,
-    seal it for Thy courts above
 - song: Your Love is Strong
   artist: Jon Foreman
   enabled: false
@@ -1129,32 +1155,6 @@
     Could hold my body down
     There ain't no grave
     Could hold my body down
-- song: More Than The Watchman (Psalm 130)
-  artist: Rebecca St James
-  enabled: false
-  lyrics: |-
-    Out of the depths I cry to my Lord, he lifted me up, he lifted me up
-    Out of the depths I cry to my Lord, he lifted me up, he lifted me
-
-    If you kept a record of sins who could stand, my Lord
-    Who could stand up, Lord, who could stand up?
-    If you kept a record of sins who could stand, my Lord
-    Who could stand up, Lord, who could stand up?
-
-    With you, oh Lord, there is forgiveness
-    With you, oh Lord, unfailing love
-    With you, oh Lord, full redemption
-    You have bought back my soul from the dead with your blood
-
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morning sun
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morn
-
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morning sun
-    So my soul waits for the Lord more than watchmen wait
-    More than watchman who wait for the morn
 - song: February's Prayer
   artist: ''
   enabled: false
