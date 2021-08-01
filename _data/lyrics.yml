@@ -29,6 +29,31 @@
   enabled: true
   lyrics: "Praise God from Whom all blessings flow\nPraise Him all creatures here
     below\nPraise Him above ye heavenly host\nPraise Father Son and Holy Ghost\nAmen "
+- song: Not in a Hurry
+  artist: Will Reagan
+  enabled: true
+  lyrics: |
+    Lord I don't want to rush on ahead
+    In my own strength
+    When You're right here
+
+    I'm not in a hurry
+    When it comes to Your spirit
+    When it comes to Your presence
+    When it comes to Your voice
+    I'm learning to listen
+    Just to rest in Your nearness
+    I'm starting to notice
+    You are speaking
+
+    Lord I want to love like You
+    I want to feel what You feel
+    I want to see what You see
+
+    Open my eyes, I want to see You more clearly
+    Open my ears, I want to hear You speak
+    Tell me your thoughts whats on Your mind
+    I'll be your friend, I want to see through Your eyes
 - song: Future/Past, How He Loves Us
   artist: John Mark McMillan
   enabled: true
@@ -90,6 +115,28 @@
     Oh, how He loves us,
     Oh, how He loves us,
     How He loves us all
+- song: The Kingdom is Yours
+  artist: Common Hymnal
+  enabled: true
+  lyrics: "Blessed are the ones who do not bury\nAll the broken pieces of their heart\nBlessed
+    are the tears of all the weary\nPouring like a sky of falling stars\n\nBlessed
+    are the wounded ones in mourning\nBrave enough to show the Lord their scars\nBlessed
+    are the hurts that are not hidden\nOpen to the healing touch of God\n\nThe Kingdom
+    is yours, the Kingdom is yours\nHold on a little more, this is not the end\nHope
+    is in the Lord, keep your eyes on Him\n\nAnd blessed are the ones who walk in
+    kindness\nEven in the face of great abuse\nBlessed are the deeds that go unnoticed\nServing
+    with unguarded gratitude\n\nAnd blessed are the ones who fight for justice\nLonging
+    for the coming day of peace\nBlessed is the soul that thirsts for righteousness\nWelcoming
+    the last, the lost, the least\n\nThe Kingdom is yours, the Kingdom is yours\nHold
+    on a little more, this is not the end\nHope is in the Lord, keep your eyes on
+    Him\nThe Kingdom is yours, the Kingdom is yours\nHold on a little more, this is
+    not the end\nHope is in the Lord, keep your eyes on Him\n\nBlessed are the ones
+    who suffer violence\nAnd still have strength to love their enemies\nBlessed is
+    the faith of those who persevere\nThough they fall, they'll never know defeat\n\nThe
+    Kingdom is yours, the Kingdom is yours\nHold on a little more, this is not the
+    end\nHope is in the Lord, keep your eyes on Him\nThe Kingdom is yours, the Kingdom
+    is yours\nHold on a little more, this is not the end\nHope is in the Lord, keep
+    your eyes on Him "
 - song: Holy Spirit
   artist: Jesus Culture
   enabled: true
@@ -856,28 +903,6 @@
     I will run the race by grace and grace alone
     I will slay my sin by grace and grace alone
     I will reach the end by grace and grace alone
-- song: The Kingdom is Yours
-  artist: Common Hymnal
-  enabled: false
-  lyrics: "Blessed are the ones who do not bury\nAll the broken pieces of their heart\nBlessed
-    are the tears of all the weary\nPouring like a sky of falling stars\n\nBlessed
-    are the wounded ones in mourning\nBrave enough to show the Lord their scars\nBlessed
-    are the hurts that are not hidden\nOpen to the healing touch of God\n\nThe Kingdom
-    is yours, the Kingdom is yours\nHold on a little more, this is not the end\nHope
-    is in the Lord, keep your eyes on Him\n\nAnd blessed are the ones who walk in
-    kindness\nEven in the face of great abuse\nBlessed are the deeds that go unnoticed\nServing
-    with unguarded gratitude\n\nAnd blessed are the ones who fight for justice\nLonging
-    for the coming day of peace\nBlessed is the soul that thirsts for righteousness\nWelcoming
-    the last, the lost, the least\n\nThe Kingdom is yours, the Kingdom is yours\nHold
-    on a little more, this is not the end\nHope is in the Lord, keep your eyes on
-    Him\nThe Kingdom is yours, the Kingdom is yours\nHold on a little more, this is
-    not the end\nHope is in the Lord, keep your eyes on Him\n\nBlessed are the ones
-    who suffer violence\nAnd still have strength to love their enemies\nBlessed is
-    the faith of those who persevere\nThough they fall, they'll never know defeat\n\nThe
-    Kingdom is yours, the Kingdom is yours\nHold on a little more, this is not the
-    end\nHope is in the Lord, keep your eyes on Him\nThe Kingdom is yours, the Kingdom
-    is yours\nHold on a little more, this is not the end\nHope is in the Lord, keep
-    your eyes on Him "
 - song: Help Me Find My Own Flame
   artist: Will Reagan & United Pursuit
   enabled: false
@@ -1857,31 +1882,6 @@
     A garment of praise for my heaviness
     You are the greatest taste
     You're the richest of fair
-- song: Not in a Hurry
-  artist: Will Reagan
-  enabled: false
-  lyrics: |
-    Lord I don't want to rush on ahead
-    In my own strength
-    When You're right here
-
-    I'm not in a hurry
-    When it comes to Your spirit
-    When it comes to Your presence
-    When it comes to Your voice
-    I'm learning to listen
-    Just to rest in Your nearness
-    I'm starting to notice
-    You are speaking
-
-    Lord I want to love like You
-    I want to feel what You feel
-    I want to see what You see
-
-    Open my eyes, I want to see You more clearly
-    Open my ears, I want to hear You speak
-    Tell me your thoughts whats on Your mind
-    I'll be your friend, I want to see through Your eyes
 - song: Come Holy One
   artist: Young Oceans
   enabled: false
