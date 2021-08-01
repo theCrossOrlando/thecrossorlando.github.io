@@ -1,12 +1,4 @@
 ---
-- song: August Prayer
-  artist: ''
-  enabled: true
-  lyrics: 'Oh God by whom the meek are guided in judgment, and light rises up in the
-    darkness for the godly: Grant us, in all our doubts and uncertainties, the grace
-    to ask what you would have us to do, that the spirit of wisdom may save us from
-    all false choices, and that in your light  and  we may see light, and in your
-    straight path we may not stumble; through Jesus Christ our lord. Amen.'
 - song: July Prayer
   artist: ''
   enabled: false
@@ -21,6 +13,14 @@
     by your providence; and that your Church may joyfully serve you in confidence
     and serenity; through Jesus Christ our Lord, who lives and reigns with you and
     the Holy Spirit, one God, forever and ever. \nAmen."
+- song: August Prayer
+  artist: ''
+  enabled: true
+  lyrics: 'Oh God by whom the meek are guided in judgment, and light rises up in the
+    darkness for the godly: Grant us, in all our doubts and uncertainties, the grace
+    to ask what you would have us to do, that the spirit of wisdom may save us from
+    all false choices, and that in your light  and  we may see light, and in your
+    straight path we may not stumble; through Jesus Christ our lord. Amen.'
 - song: Have Mercy
   artist: Sandra McCracken
   enabled: true
