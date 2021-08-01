@@ -24,6 +24,11 @@
     Lord help my unbelief,
     Lord help my unbelief,
     Oh Lord, have mercy (x2)
+- song: Doxology
+  artist: 
+  enabled: true
+  lyrics: "Praise God from Whom all blessings flow\nPraise Him all creatures here
+    below\nPraise Him above ye heavenly host\nPraise Father Son and Holy Ghost\nAmen "
 - song: Future/Past, How He Loves Us
   artist: John Mark McMillan
   enabled: true
@@ -482,11 +487,6 @@
     You will never come at all.
 
     Refrain
-- song: Doxology
-  artist: 
-  enabled: true
-  lyrics: "Praise God from Whom all blessings flow\nPraise Him all creatures here
-    below\nPraise Him above ye heavenly host\nPraise Father Son and Holy Ghost\nAmen "
 - song: Once and For All
   artist: Lauren Daigle
   enabled: false
