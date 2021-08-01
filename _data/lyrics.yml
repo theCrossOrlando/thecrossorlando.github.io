@@ -1,7 +1,15 @@
 ---
-- song: July Prayer
+- song: August Prayer
   artist: ''
   enabled: true
+  lyrics: 'Oh God by whom the meek are guided in judgment, and light rises up in the
+    darkness for the godly: Grant us, in all our doubts and uncertainties, the grace
+    to ask what you would have us to do, that the spirit of wisdom may save us from
+    all false choices, and that in your light  and  we may see light, and in your
+    straight path we may not stumble; through Jesus Christ our lord. Amen.'
+- song: July Prayer
+  artist: ''
+  enabled: false
   lyrics: 'Oh, God of peace, who has taught us that in returning and rest we will
     be saved, in quietness and confidence will be our strength: By the might of your
     Spirit lift us, we pray, to your presence, where we may be still and know that
