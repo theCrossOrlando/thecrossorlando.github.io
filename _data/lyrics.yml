@@ -34,12 +34,12 @@
     Oh Lord, have mercy (x2)
 - song: Doxology
   artist: 
-  enabled: true
+  enabled: false
   lyrics: "Praise God from Whom all blessings flow\nPraise Him all creatures here
     below\nPraise Him above ye heavenly host\nPraise Father Son and Holy Ghost\nAmen "
 - song: Not in a Hurry
   artist: Will Reagan
-  enabled: true
+  enabled: false
   lyrics: |
     Lord I don't want to rush on ahead
     In my own strength
@@ -64,7 +64,7 @@
     I'll be your friend, I want to see through Your eyes
 - song: Future/Past, How He Loves Us
   artist: John Mark McMillan
-  enabled: true
+  enabled: false
   lyrics: |-
     You hold the reigns on the sun and the moon,
     Like horses driven by kings
@@ -147,7 +147,7 @@
     your eyes on Him "
 - song: Holy Spirit
   artist: Jesus Culture
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
 
@@ -184,7 +184,7 @@
     Here I stand
 - song: Come Thou Fount
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     Come thou fount of every blessing
     Tune my heart to sing Thy grace
@@ -240,7 +240,7 @@
     More than watchman who wait for the morn
 - song: Great Are You Lord
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     You give life, You are love
     You bring light to the darkness
