@@ -32,6 +32,51 @@
     Lord help my unbelief,
     Lord help my unbelief,
     Oh Lord, have mercy (x2)
+- song: In Christ Alone
+  artist: Natalie Grant
+  enabled: true
+  lyrics: |-
+    In Christ alone my hope is found
+    He is my light, my strength, my song
+    This Cornerstone, this solid ground
+    Firm through the fiercest drought and storm
+    What heights of love, what depths of peace
+    When fears are stilled, when strivings cease
+    My Comforter, my All in All
+    Here in the love of Christ I stand
+
+    In Christ alone, who took on flesh
+    Fullness of God in helpless babe
+    This gift of love and righteousness
+    Scorned by the ones He came to save
+    'Til on that cross as Jesus died
+    The wrath of God was satisfied
+    For every sin on Him was laid
+    Here in the death of Christ I live, I live
+
+    There in the ground His body lay
+    Light of the world by darkness slain
+    Then bursting forth in glorious Day
+    Up from the grave He rose again
+    And as He stands in victory
+    Sin's curse has lost its grip on me
+    For I am His and He is mine
+    Bought with the precious blood of Christ
+
+    No guilt in life, no fear in death
+    This is the power of Christ in me
+    From life's first cry to final breath
+    Jesus commands my destiny
+    No power of hell, no scheme of man
+    Can ever pluck me from His hand
+    Till He returns or calls me home
+    Here in the power of Christ I'll stand
+
+    I will stand
+    I will stand, all other ground is sinking sand
+    All other ground, all other ground
+    Is sinking sand, is sinking sand
+    So I'll stand
 - song: Doxology
   artist: 
   enabled: false
@@ -1571,54 +1616,26 @@
     and ever. Amen.
 - song: Stand In Your Love
   artist: Josh Baldwin
-  enabled: false
-  lyrics: |-
-    When darkness tries to roll over my bones
-    When sorrow tries to steal the joy I own
-    When brokenness and pain is all I know
-    I won't be shaken, I won't be shaken
-
-    (chorus)
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-
-    Shame no longer has a place to hide
-    I am not a captive to the lies
-    Not afraid to leave my past behind
-    I won't be shaken, I won't be shaken
-
-    (chorus)
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-
-    There's power that can break off every chain
-    There's a power that can empty out a grave
-    There's power that washes every stain
-    (No) I won't be shaken, I won't be shaken
-
-    (chorus)
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-    Fear doesn't stand a chance
-    When I stand in Your love
-
-    (chorus)
-    Shame doesn't stand a chance
-    When I stand in Your love
-    Shame doesn't stand a chance
-    When I stand in Your love
-    Shame doesn't stand a chance
-    When I stand in Your love
+  enabled: true
+  lyrics: "When darkness tries to roll over my bones\nWhen sorrow tries to steal the
+    joy I own\nWhen brokenness and pain is all I know\nI won't be shaken, I won't
+    be shaken\n\n(chorus)\nFear doesn't stand a chance\nWhen I stand in Your love\nFear
+    doesn't stand a chance\nWhen I stand in Your love\nFear doesn't stand a chance\nWhen
+    I stand in Your love\n\nShame no longer has a place to hide\nI am not a captive
+    to the lies\nNot afraid to leave my past behind\nI won't be shaken, I won't be
+    shaken\n\n(chorus)\nFear doesn't stand a chance\nWhen I stand in Your love\nFear
+    doesn't stand a chance\nWhen I stand in Your love\nFear doesn't stand a chance\nWhen
+    I stand in Your love\n\nThere's power that can break off every chain\nThere's
+    a power that can empty out a grave\nThere's power that washes every stain\n(No)
+    I won't be shaken, I won't be shaken\n\n(chorus)\nFear doesn't stand a chance\nWhen
+    I stand in Your love\nFear doesn't stand a chance\nWhen I stand in Your love\nFear
+    doesn't stand a chance\nWhen I stand in Your love\n\n(chorus)\nShame doesn't stand
+    a chance\nWhen I stand in Your love\nShame doesn't stand a chance\nWhen I stand
+    in Your love\nShame doesn't stand a chance\nWhen I stand in Your love\n\n– \n\nSet
+    a fire down in my soul\nThat I can't contain \nThat I cant control,\nI want more
+    of you God\nI want more of you God\n\nThere's no place I would rather be\nNo place
+    I would rather be\nThere's no place I would rather be\nThan here in your love,\nHere
+    in your love\n"
 - song: How Great is our God
   artist: Chris Tomlin
   enabled: false
@@ -2306,51 +2323,6 @@
 
     Bless the Lord oh my soul
     And let all that’s within me shout out
-- song: In Christ Alone
-  artist: Natalie Grant
-  enabled: true
-  lyrics: |-
-    In Christ alone my hope is found
-    He is my light, my strength, my song
-    This Cornerstone, this solid ground
-    Firm through the fiercest drought and storm
-    What heights of love, what depths of peace
-    When fears are stilled, when strivings cease
-    My Comforter, my All in All
-    Here in the love of Christ I stand
-
-    In Christ alone, who took on flesh
-    Fullness of God in helpless babe
-    This gift of love and righteousness
-    Scorned by the ones He came to save
-    'Til on that cross as Jesus died
-    The wrath of God was satisfied
-    For every sin on Him was laid
-    Here in the death of Christ I live, I live
-
-    There in the ground His body lay
-    Light of the world by darkness slain
-    Then bursting forth in glorious Day
-    Up from the grave He rose again
-    And as He stands in victory
-    Sin's curse has lost its grip on me
-    For I am His and He is mine
-    Bought with the precious blood of Christ
-
-    No guilt in life, no fear in death
-    This is the power of Christ in me
-    From life's first cry to final breath
-    Jesus commands my destiny
-    No power of hell, no scheme of man
-    Can ever pluck me from His hand
-    Till He returns or calls me home
-    Here in the power of Christ I'll stand
-
-    I will stand
-    I will stand, all other ground is sinking sand
-    All other ground, all other ground
-    Is sinking sand, is sinking sand
-    So I'll stand
 - song: Open The Eyes of My Heart
   artist: Paul Baloche
   enabled: false
