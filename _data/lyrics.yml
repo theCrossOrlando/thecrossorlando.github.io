@@ -35,7 +35,7 @@
 - song: In Christ Alone
   artist: Natalie Grant
   enabled: true
-  lyrics: |-
+  lyrics: |
     In Christ alone my hope is found
     He is my light, my strength, my song
     This Cornerstone, this solid ground
@@ -71,12 +71,6 @@
     Can ever pluck me from His hand
     Till He returns or calls me home
     Here in the power of Christ I'll stand
-
-    I will stand
-    I will stand, all other ground is sinking sand
-    All other ground, all other ground
-    Is sinking sand, is sinking sand
-    So I'll stand
 - song: Stand In Your Love / Set A Fire
   artist: Josh Baldwin / Will Reagan
   enabled: true
