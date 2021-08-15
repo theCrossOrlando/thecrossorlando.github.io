@@ -34,7 +34,7 @@
     Oh Lord, have mercy (x2)
 - song: In Christ Alone
   artist: Natalie Grant
-  enabled: true
+  enabled: false
   lyrics: |
     In Christ alone my hope is found
     He is my light, my strength, my song
@@ -73,7 +73,7 @@
     Here in the power of Christ I'll stand
 - song: Stand In Your Love / Set A Fire
   artist: Josh Baldwin / Will Reagan
-  enabled: true
+  enabled: false
   lyrics: "When darkness tries to roll over my bones\nWhen sorrow tries to steal the
     joy I own\nWhen brokenness and pain is all I know\nI won't be shaken, I won't
     be shaken\n\n(chorus)\nFear doesn't stand a chance\nWhen I stand in Your love\nFear
@@ -95,7 +95,7 @@
     in your love\n"
 - song: 10,000 Reasons
   artist: Matt Redman
-  enabled: true
+  enabled: false
   lyrics: |-
     Bless the Lord O my soul
     O my soul
