@@ -32,6 +32,39 @@
     Lord help my unbelief,
     Lord help my unbelief,
     Oh Lord, have mercy (x2)
+- song: Heart Won't Stop
+  artist: John Mark McMillan & Sarah McMillan
+  enabled: true
+  lyrics: |-
+    There is not a man or beast
+    Nothing on the land or underneath
+    Oh nothing that could ever come between
+    The love You have for me
+
+    I could lay my head in sheol
+    I could make my bed
+    At the bottom of darkness deep
+    Oh but there is not a place I could escape You
+
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Coming after me
+
+    There is not an angel of the stars
+    There is not a devil in the dark
+    Oh nothing that could change the way You are
+    The love You have for me
+
+    I could lay my head in sheol
+    I could make my bed
+    At the bottom of darkness deep
+    Oh but there is not a place I could escape You
+
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Coming after me
 - song: In Christ Alone
   artist: Natalie Grant
   enabled: false
@@ -930,7 +963,7 @@
     You are forever mine
 - song: Grace Alone
   artist: Dustin Kensrue
-  enabled: false
+  enabled: true
   lyrics: |-
     I was an orphan lost at the Fall
     Running away when I'd hear Your call
@@ -1854,39 +1887,6 @@
     [Bridge]
     I will rejoice in the simple gospel
     I will rejoice in you, Lord
-- song: Heart Won't Stop
-  artist: John Mark McMillan & Sarah McMillan
-  enabled: false
-  lyrics: |-
-    There is not a man or beast
-    Nothing on the land or underneath
-    Oh nothing that could ever come between
-    The love You have for me
-
-    I could lay my head in sheol
-    I could make my bed
-    At the bottom of darkness deep
-    Oh but there is not a place I could escape You
-
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after me
-    Coming after me
-
-    There is not an angel of the stars
-    There is not a devil in the dark
-    Oh nothing that could change the way You are
-    The love You have for me
-
-    I could lay my head in sheol
-    I could make my bed
-    At the bottom of darkness deep
-    Oh but there is not a place I could escape You
-
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after me
-    Coming after me
 - song: Beauty for Ashes
   artist: Shane and Shane
   enabled: false
