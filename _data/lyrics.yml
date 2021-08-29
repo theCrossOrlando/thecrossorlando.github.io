@@ -34,7 +34,7 @@
     Oh Lord, have mercy (x2)
 - song: Heart Won't Stop
   artist: John Mark McMillan & Sarah McMillan
-  enabled: true
+  enabled: false
   lyrics: |-
     There is not a man or beast
     Nothing on the land or underneath
@@ -98,7 +98,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Grace Alone
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     I was an orphan lost at the Fall
     Running away when I'd hear Your call
@@ -141,7 +141,7 @@
     I will slay my sin by grace and grace alone
     I will reach the end by grace and grace alone
 - song: Psalm 145
-  enabled: true
+  enabled: false
   lyrics: |-
     I will bless You all of my days LORD
     I will praise you always, My God and King
