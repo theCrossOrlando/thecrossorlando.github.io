@@ -1,32 +1,4 @@
 ---
-- song: Thy Mercy
-  artist: Caedmon's Call
-  enabled: ''
-  lyrics: |
-    Thy mercy my God is the theme of my song
-    The joy of my heart, and the boast of my tongue
-    Thy free grace alone, from the first to the last
-    Hath won my affection and bound my soul fast
-
-    Without Thy sweet mercy, I could not live here
-    Sin would reduce me to utter despair
-    But through Thy free goodness, my spirit's revived
-    And He that first made me still keeps me alive
-
-    Thy mercy is more than a match for my heart
-    Which wonders to feel its own hardness depart
-    Dissolved by Thy goodness, I fall to the ground
-    And weep for the praise of the mercy I've found
-
-    (Hallelujah, Hallelujah, Hallelujah)
-    Hallelujah (Hallelujah, Hallelujah, Hallelujah)
-
-    Great Father of mercies, Thy goodness I own
-    In the covenant love of Thy crucified Son
-    All praise to the Spirit, Whose whisper divine
-    Seals mercy and pardon and righteousness mine
-    All praise to the Spirit, Whose whisper divine
-    Seals mercy and pardon and righteousness mine
 - song: July Prayer
   artist: ''
   enabled: false
@@ -60,6 +32,171 @@
     Lord help my unbelief,
     Lord help my unbelief,
     Oh Lord, have mercy (x2)
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Almighty God to You all hearts are open
+    You take away our sickness and our sin
+    Oh Lamb of God we gather at Your table
+    In bread and wine, You have supplied our needs
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+- song: Great Are You Lord
+  artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    You give life, You are love
+    You bring light to the darkness
+    You give hope, You restore
+    Every heart that is broken
+    Great are You, Lord
+
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise to You only
+
+    You give life, You are love
+    You bring light to the darkness
+    You give hope, You restore
+    Every heart that is broken
+    Great are You, Lord
+
+    [x2]
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise to You only
+
+    And all the earth will shout Your praise
+    Our hearts will cry, these bones will sing
+    Great are You, Lord
+
+    [x2]
+    And all the earth will shout Your praise
+    Our hearts will cry, these bones will sing
+    Great are You, Lord
+
+    [x2]
+    It's Your breath in our lungs
+    So we pour out our praise
+    We pour out our praise
+    It's Your breath in our lungs
+    So we pour out our praise
+    To You only
+- song: Future/Past, How He Loves Us
+  artist: John Mark McMillan
+  enabled: true
+  lyrics: |-
+    You hold the reigns on the sun and the moon,
+    Like horses driven by kings
+    You cover the mountains, the valleys below,
+    With the breadth of Your mighty wings
+
+    [Pre-Chorus]
+    All treasures of wisdom
+    And things to be known
+    Are hidden inside Your hand
+    And in this fortunate turn of events
+    You ask me to be Your friend
+    Ask me to be Your friend
+
+    [Chorus]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    Yeah, You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    The constellations are swimming inside,
+    The breadth of Your desire
+    So where could I run, where could I hide,
+    From Your heart’s jealous fire?
+
+    [Pre-Chorus]
+    All treasures of wisdom
+    And things to be known
+    Are hidden inside Your hand
+    And in this fortunate turn of events
+    You ask me to be Your friend
+    Ask me to be Your friend
+
+    [Chorus]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    You are the beginning and the end
+
+    [Chorus]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    –––––––––––
+
+    And He loves us,
+    Oh, how He loves us,
+    Oh, how He loves us,
+    How He loves us all
+- song: Thy Mercy
+  artist: Caedmon's Call
+  enabled: true
+  lyrics: |
+    Thy mercy my God is the theme of my song
+    The joy of my heart, and the boast of my tongue
+    Thy free grace alone, from the first to the last
+    Hath won my affection and bound my soul fast
+
+    Without Thy sweet mercy, I could not live here
+    Sin would reduce me to utter despair
+    But through Thy free goodness, my spirit's revived
+    And He that first made me still keeps me alive
+
+    Thy mercy is more than a match for my heart
+    Which wonders to feel its own hardness depart
+    Dissolved by Thy goodness, I fall to the ground
+    And weep for the praise of the mercy I've found
+
+    (Hallelujah, Hallelujah, Hallelujah)
+    Hallelujah (Hallelujah, Hallelujah, Hallelujah)
+
+    Great Father of mercies, Thy goodness I own
+    In the covenant love of Thy crucified Son
+    All praise to the Spirit, Whose whisper divine
+    Seals mercy and pardon and righteousness mine
+    All praise to the Spirit, Whose whisper divine
+    Seals mercy and pardon and righteousness mine
 - song: Simple Gospel
   artist: Will Reagan
   enabled: false
@@ -238,37 +375,6 @@
     Your heart won't stop, coming after me
     Your heart won't stop, coming after me
     Coming after me
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: true
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Almighty God to You all hearts are open
-    You take away our sickness and our sin
-    Oh Lamb of God we gather at Your table
-    In bread and wine, You have supplied our needs
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Grace Alone
   artist: Dustin Kensrue
   enabled: false
@@ -481,67 +587,6 @@
     Open my ears, I want to hear You speak
     Tell me your thoughts whats on Your mind
     I'll be your friend, I want to see through Your eyes
-- song: Future/Past, How He Loves Us
-  artist: John Mark McMillan
-  enabled: true
-  lyrics: |-
-    You hold the reigns on the sun and the moon,
-    Like horses driven by kings
-    You cover the mountains, the valleys below,
-    With the breadth of Your mighty wings
-
-    [Pre-Chorus]
-    All treasures of wisdom
-    And things to be known
-    Are hidden inside Your hand
-    And in this fortunate turn of events
-    You ask me to be Your friend
-    Ask me to be Your friend
-
-    [Chorus]
-    And You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    Yeah, You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    The constellations are swimming inside,
-    The breadth of Your desire
-    So where could I run, where could I hide,
-    From Your heart’s jealous fire?
-
-    [Pre-Chorus]
-    All treasures of wisdom
-    And things to be known
-    Are hidden inside Your hand
-    And in this fortunate turn of events
-    You ask me to be Your friend
-    Ask me to be Your friend
-
-    [Chorus]
-    And You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    You are the beginning and the end
-
-    [Chorus]
-    And You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    –––––––––––
-
-    And He loves us,
-    Oh, how He loves us,
-    Oh, how He loves us,
-    How He loves us all
 - song: The Kingdom is Yours
   artist: Common Hymnal
   enabled: false
@@ -631,51 +676,6 @@
     prone to leave the God I love
     Here's my heart, O take and seal it,
     seal it for Thy courts above
-- song: Great Are You Lord
-  artist: All Sons & Daughters
-  enabled: true
-  lyrics: |-
-    You give life, You are love
-    You bring light to the darkness
-    You give hope, You restore
-    Every heart that is broken
-    Great are You, Lord
-
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise to You only
-
-    You give life, You are love
-    You bring light to the darkness
-    You give hope, You restore
-    Every heart that is broken
-    Great are You, Lord
-
-    [x2]
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise to You only
-
-    And all the earth will shout Your praise
-    Our hearts will cry, these bones will sing
-    Great are You, Lord
-
-    [x2]
-    And all the earth will shout Your praise
-    Our hearts will cry, these bones will sing
-    Great are You, Lord
-
-    [x2]
-    It's Your breath in our lungs
-    So we pour out our praise
-    We pour out our praise
-    It's Your breath in our lungs
-    So we pour out our praise
-    To You only
 - song: May Prayer
   artist: ''
   enabled: false
