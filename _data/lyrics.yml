@@ -1,4 +1,13 @@
 ---
+- song: September Prayer
+  artist: ''
+  enabled: ''
+  lyrics: 'O God, you made us in your own image and redeemed us through Jesus your
+    son: Look with compassion on the whole human family; take away the arrogance and
+    hatred which infect our hearts; break down the walls that separate us; unite us
+    in bonds of love; and work through our struggle and confusion to accomplish your
+    purposes on earth; that, in your good time, all nations and races may serve you
+    in harmony around your heavenly throne; through Jesus Christ our Lord. Amen.'
 - song: July Prayer
   artist: ''
   enabled: false
@@ -15,7 +24,7 @@
     the Holy Spirit, one God, forever and ever. \nAmen."
 - song: August Prayer
   artist: ''
-  enabled: true
+  enabled: false
   lyrics: 'Oh God by whom the meek are guided in judgment, and light rises up in the
     darkness for the godly: Grant us, in all our doubts and uncertainties, the grace
     to ask what you would have us to do, that the spirit of wisdom may save us from
