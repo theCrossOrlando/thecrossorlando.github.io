@@ -23,7 +23,7 @@
     straight path we may not stumble; through Jesus Christ our lord. Amen.'
 - song: Have Mercy
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Have Mercy on me,
     Have Mercy on me,
@@ -34,7 +34,7 @@
     Oh Lord, have mercy (x2)
 - song: Simple Gospel
   artist: Will Reagan
-  enabled: true
+  enabled: false
   lyrics: |
     I want to know You, Lord
     Like I know a friend
@@ -93,7 +93,7 @@
     I want to know You, Lord
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, Love that will not let me go
     I rest my weary soul in Thee
@@ -153,7 +153,7 @@
     Holy, holy, is the King of Kings
 - song: More Than The Watchman (Psalm 130)
   artist: Rebecca St James
-  enabled: true
+  enabled: false
   lyrics: |-
     Out of the depths I cry to my Lord, he lifted me up, he lifted me up
     Out of the depths I cry to my Lord, he lifted me up, he lifted me
@@ -212,7 +212,7 @@
     Coming after me
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: false
+  enabled: true
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -455,7 +455,7 @@
     I'll be your friend, I want to see through Your eyes
 - song: Future/Past, How He Loves Us
   artist: John Mark McMillan
-  enabled: false
+  enabled: true
   lyrics: |-
     You hold the reigns on the sun and the moon,
     Like horses driven by kings
