@@ -120,6 +120,31 @@
     There is nothing I hold on to
 
     All Glory To God, Forever. Amen
+- song: You Are So Good To Me
+  artist: Third Day
+  enabled: true
+  lyrics: |-
+    You are so good to me
+    You heal my broken heart
+    You are my Father in heaven [2x]
+
+    You ride upon the clouds
+    You lead me to the truth
+    You are the Spirit inside me [2x]
+
+    You poured out all your blood
+    You died upon the cross
+    You are my Jesus who loves me [2x]
+
+    [Chorus:]
+    You are beautiful my sweet, sweet, song [3x]
+    I will sing again
+
+    [Bridge:]
+    You are my strong melody
+    You are my dancing rhythm
+    You are my perfect rhyme
+    And I want to sing forever
 - song: Almighty God
   artist: Sandra McCracken
   enabled: false
@@ -1658,31 +1683,6 @@
     It's who you are, it's who you are, it's who you are
     And I'm loved by you
     It's who I am, it's who I am, it's who I am
-- song: You Are So Good To Me
-  artist: Third Day
-  enabled: true
-  lyrics: |-
-    You are so good to me
-    You heal my broken heart
-    You are my Father in heaven [2x]
-
-    You ride upon the clouds
-    You lead me to the truth
-    You are the Spirit inside me [2x]
-
-    You poured out all your blood
-    You died upon the cross
-    You are my Jesus who loves me [2x]
-
-    [Chorus:]
-    You are beautiful my sweet, sweet, song [3x]
-    I will sing again
-
-    [Bridge:]
-    You are my strong melody
-    You are my dancing rhythm
-    You are my perfect rhyme
-    And I want to sing forever
 - song: 'All Who Are Thirsty '
   enabled: false
   lyrics: |
