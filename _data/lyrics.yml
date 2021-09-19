@@ -43,7 +43,7 @@
     Oh Lord, have mercy (x2)
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -74,7 +74,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Great Are You Lord
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     You give life, You are love
     You bring light to the darkness
@@ -119,7 +119,7 @@
     To You only
 - song: Future/Past, How He Loves Us
   artist: John Mark McMillan
-  enabled: true
+  enabled: false
   lyrics: |-
     You hold the reigns on the sun and the moon,
     Like horses driven by kings
@@ -180,7 +180,7 @@
     How He loves us all
 - song: Thy Mercy
   artist: Caedmon's Call
-  enabled: true
+  enabled: false
   lyrics: |
     Thy mercy my God is the theme of my song
     The joy of my heart, and the boast of my tongue
