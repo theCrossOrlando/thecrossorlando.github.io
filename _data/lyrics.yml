@@ -41,6 +41,85 @@
     Lord help my unbelief,
     Lord help my unbelief,
     Oh Lord, have mercy (x2)
+- song: Your Love is Strong
+  artist: Jon Foreman
+  enabled: true
+  lyrics: |-
+    Heavenly Father
+    You always amaze me
+    Let Your kingdom come in my world
+    And in my life
+
+    Give me the food I need to live through today
+    And forgive me as I forgive the people that wrong me
+
+    Lead me far from temptation
+    Deliver me from the evil one
+
+    I look out the window
+    The birds are composing
+    Not a note is out of tune
+    Or out of place
+
+    I walk to the meadow
+    And stare at the flowers
+    Better dressed than any girl
+    On her wedding day
+
+    So why should I worry?
+    Why do I freak out?
+    God knows what I need!
+    You know what I need!
+
+    Your love is strong
+
+    The Kingdom of the Heavens
+    Is now advancing
+    Invade my heart
+    Invade this broken town
+
+    The Kingdom of the Heavens
+    Is buried treasure
+    Would you sell yourself
+    To buy the one you've found?
+
+    Two things You told me
+    That You are strong
+    And You love me,
+    Yes You love me
+
+    Your love is strong
+
+    Our God in heaven
+    Hallowed be thy name above all names
+    Your kingdom come
+    Your will be done
+    On earth as it is in heaven
+    Give us, today, our daily bread
+    Forgive us weary sinners
+    Keep us far from our vices and
+    Deliver us from these prisons
+- song: Nothing I Hold On To
+  artist: United Pursuit Band
+  enabled: true
+  lyrics: |-
+    I lean not on my own understanding,
+    My life is in the hands of the maker of heaven
+
+    I Give it all to you God,
+    Trusting that you'll make something beautiful out of me
+
+    I will climb this mountain
+    With my hands wide open
+    I will climb this mountain
+    With my hands wide open
+
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+
+    All Glory To God, Forever. Amen
 - song: Almighty God
   artist: Sandra McCracken
   enabled: false
@@ -926,64 +1005,6 @@
     Once and for all
     Oh once and for all
     Once and for all
-- song: Your Love is Strong
-  artist: Jon Foreman
-  enabled: true
-  lyrics: |-
-    Heavenly Father
-    You always amaze me
-    Let Your kingdom come in my world
-    And in my life
-
-    Give me the food I need to live through today
-    And forgive me as I forgive the people that wrong me
-
-    Lead me far from temptation
-    Deliver me from the evil one
-
-    I look out the window
-    The birds are composing
-    Not a note is out of tune
-    Or out of place
-
-    I walk to the meadow
-    And stare at the flowers
-    Better dressed than any girl
-    On her wedding day
-
-    So why should I worry?
-    Why do I freak out?
-    God knows what I need!
-    You know what I need!
-
-    Your love is strong
-
-    The Kingdom of the Heavens
-    Is now advancing
-    Invade my heart
-    Invade this broken town
-
-    The Kingdom of the Heavens
-    Is buried treasure
-    Would you sell yourself
-    To buy the one you've found?
-
-    Two things You told me
-    That You are strong
-    And You love me,
-    Yes You love me
-
-    Your love is strong
-
-    Our God in heaven
-    Hallowed be thy name above all names
-    Your kingdom come
-    Your will be done
-    On earth as it is in heaven
-    Give us, today, our daily bread
-    Forgive us weary sinners
-    Keep us far from our vices and
-    Deliver us from these prisons
 - song: Holy, Holy, Holy
   artist: ''
   enabled: false
@@ -1639,7 +1660,7 @@
     It's who I am, it's who I am, it's who I am
 - song: You Are So Good To Me
   artist: Third Day
-  enabled: false
+  enabled: true
   lyrics: |-
     You are so good to me
     You heal my broken heart
@@ -1733,27 +1754,6 @@
     How great is our God
 
     [Chorus]
-- song: Nothing I Hold On To
-  artist: United Pursuit Band
-  enabled: false
-  lyrics: |-
-    I lean not on my own understanding,
-    My life is in the hands of the maker of heaven
-
-    I Give it all to you God,
-    Trusting that you'll make something beautiful out of me
-
-    I will climb this mountain
-    With my hands wide open
-    I will climb this mountain
-    With my hands wide open
-
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-
-    All Glory To God, Forever. Amen
 - song: Nunc Dimittis
   enabled: false
   lyrics: |-
