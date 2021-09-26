@@ -91,6 +91,61 @@
     Oh, how He loves us,
     Oh, how He loves us,
     How He loves us all
+- song: " Mighty Is the Power of the Cross"
+  artist: Chris Tomlin
+  enabled: true
+  lyrics: "What can take a dying man\nAnd raise him up to life again?\nWhat can heal
+    the wounded soul?\nWhat can make us white as snow?\nWhat can fill the emptiness?\nWhat
+    can mend our brokenness? Brokenness?\n\nMighty, awesome, wonderful\nIs the Holy
+    cross\nWhere the Lamb lay down His life\nTo lift us from the fall\nMighty is the
+    power of the cross\n\nWhat restores our faith in God?\nWhat reveals the Father's
+    love?\nWhat can lead the wayward home?\nWhat can melt a heart of stone?\nWhat
+    can free the guilty ones?\nWhat can save and overcome? Overcome?\n\nMighty, awesome,
+    wonderful\nIs the Holy cross\nWhere the Lamb lay down His life\nTo lift us from
+    the fall\nMighty is the power of the cross\n\nIt's a miracle to me\n(It's a miracle
+    to me)\nIt's still a mystery \n(And it's still a mystery)\nIt's a miracle to me\nThe
+    power of God\nFor those who believe\n\nMighty, awesome, wonderful\nIs the Holy
+    cross\nWhere the Lamb lay down His life\nTo lift us from the fall\nMighty is the
+    power of the cross\n"
+- song: In Christ Alone
+  artist: Natalie Grant
+  enabled: true
+  lyrics: |
+    In Christ alone my hope is found
+    He is my light, my strength, my song
+    This Cornerstone, this solid ground
+    Firm through the fiercest drought and storm
+    What heights of love, what depths of peace
+    When fears are stilled, when strivings cease
+    My Comforter, my All in All
+    Here in the love of Christ I stand
+
+    In Christ alone, who took on flesh
+    Fullness of God in helpless babe
+    This gift of love and righteousness
+    Scorned by the ones He came to save
+    'Til on that cross as Jesus died
+    The wrath of God was satisfied
+    For every sin on Him was laid
+    Here in the death of Christ I live, I live
+
+    There in the ground His body lay
+    Light of the world by darkness slain
+    Then bursting forth in glorious Day
+    Up from the grave He rose again
+    And as He stands in victory
+    Sin's curse has lost its grip on me
+    For I am His and He is mine
+    Bought with the precious blood of Christ
+
+    No guilt in life, no fear in death
+    This is the power of Christ in me
+    From life's first cry to final breath
+    Jesus commands my destiny
+    No power of hell, no scheme of man
+    Can ever pluck me from His hand
+    Till He returns or calls me home
+    Here in the power of Christ I'll stand
 - song: Have Mercy
   artist: Sandra McCracken
   enabled: false
@@ -573,45 +628,6 @@
 
     Oh, let all that lives ever bless His name
     Oh, let all that lives ever bless His name
-- song: In Christ Alone
-  artist: Natalie Grant
-  enabled: true
-  lyrics: |
-    In Christ alone my hope is found
-    He is my light, my strength, my song
-    This Cornerstone, this solid ground
-    Firm through the fiercest drought and storm
-    What heights of love, what depths of peace
-    When fears are stilled, when strivings cease
-    My Comforter, my All in All
-    Here in the love of Christ I stand
-
-    In Christ alone, who took on flesh
-    Fullness of God in helpless babe
-    This gift of love and righteousness
-    Scorned by the ones He came to save
-    'Til on that cross as Jesus died
-    The wrath of God was satisfied
-    For every sin on Him was laid
-    Here in the death of Christ I live, I live
-
-    There in the ground His body lay
-    Light of the world by darkness slain
-    Then bursting forth in glorious Day
-    Up from the grave He rose again
-    And as He stands in victory
-    Sin's curse has lost its grip on me
-    For I am His and He is mine
-    Bought with the precious blood of Christ
-
-    No guilt in life, no fear in death
-    This is the power of Christ in me
-    From life's first cry to final breath
-    Jesus commands my destiny
-    No power of hell, no scheme of man
-    Can ever pluck me from His hand
-    Till He returns or calls me home
-    Here in the power of Christ I'll stand
 - song: Stand In Your Love / Set A Fire
   artist: Josh Baldwin / Will Reagan
   enabled: false
@@ -1583,22 +1599,6 @@
     That I can't contain that I can't control
     I want more of You, God
     I want more of You, God
-- song: " Mighty Is the Power of the Cross"
-  artist: Chris Tomlin
-  enabled: true
-  lyrics: "What can take a dying man\nAnd raise him up to life again?\nWhat can heal
-    the wounded soul?\nWhat can make us white as snow?\nWhat can fill the emptiness?\nWhat
-    can mend our brokenness? Brokenness?\n\nMighty, awesome, wonderful\nIs the Holy
-    cross\nWhere the Lamb lay down His life\nTo lift us from the fall\nMighty is the
-    power of the cross\n\nWhat restores our faith in God?\nWhat reveals the Father's
-    love?\nWhat can lead the wayward home?\nWhat can melt a heart of stone?\nWhat
-    can free the guilty ones?\nWhat can save and overcome? Overcome?\n\nMighty, awesome,
-    wonderful\nIs the Holy cross\nWhere the Lamb lay down His life\nTo lift us from
-    the fall\nMighty is the power of the cross\n\nIt's a miracle to me\n(It's a miracle
-    to me)\nIt's still a mystery \n(And it's still a mystery)\nIt's a miracle to me\nThe
-    power of God\nFor those who believe\n\nMighty, awesome, wonderful\nIs the Holy
-    cross\nWhere the Lamb lay down His life\nTo lift us from the fall\nMighty is the
-    power of the cross\n"
 - song: He Is Exalted
   artist: Twila Paris
   enabled: false
