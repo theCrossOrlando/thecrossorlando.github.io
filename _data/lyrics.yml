@@ -91,22 +91,6 @@
     Oh, how He loves us,
     Oh, how He loves us,
     How He loves us all
-- song: " Mighty Is the Power of the Cross"
-  artist: Chris Tomlin
-  enabled: false
-  lyrics: "What can take a dying man\nAnd raise him up to life again?\nWhat can heal
-    the wounded soul?\nWhat can make us white as snow?\nWhat can fill the emptiness?\nWhat
-    can mend our brokenness? Brokenness?\n\nMighty, awesome, wonderful\nIs the Holy
-    cross\nWhere the Lamb lay down His life\nTo lift us from the fall\nMighty is the
-    power of the cross\n\nWhat restores our faith in God?\nWhat reveals the Father's
-    love?\nWhat can lead the wayward home?\nWhat can melt a heart of stone?\nWhat
-    can free the guilty ones?\nWhat can save and overcome? Overcome?\n\nMighty, awesome,
-    wonderful\nIs the Holy cross\nWhere the Lamb lay down His life\nTo lift us from
-    the fall\nMighty is the power of the cross\n\nIt's a miracle to me\n(It's a miracle
-    to me)\nIt's still a mystery \n(And it's still a mystery)\nIt's a miracle to me\nThe
-    power of God\nFor those who believe\n\nMighty, awesome, wonderful\nIs the Holy
-    cross\nWhere the Lamb lay down His life\nTo lift us from the fall\nMighty is the
-    power of the cross\n"
 - song: Almighty God
   artist: Sandra McCracken
   enabled: true
@@ -138,6 +122,22 @@
     To you all hearts are open, Almighty God…
 
     Hallelujah, hallelujah, hallelujah, hallelujah
+- song: " Mighty Is the Power of the Cross"
+  artist: Chris Tomlin
+  enabled: false
+  lyrics: "What can take a dying man\nAnd raise him up to life again?\nWhat can heal
+    the wounded soul?\nWhat can make us white as snow?\nWhat can fill the emptiness?\nWhat
+    can mend our brokenness? Brokenness?\n\nMighty, awesome, wonderful\nIs the Holy
+    cross\nWhere the Lamb lay down His life\nTo lift us from the fall\nMighty is the
+    power of the cross\n\nWhat restores our faith in God?\nWhat reveals the Father's
+    love?\nWhat can lead the wayward home?\nWhat can melt a heart of stone?\nWhat
+    can free the guilty ones?\nWhat can save and overcome? Overcome?\n\nMighty, awesome,
+    wonderful\nIs the Holy cross\nWhere the Lamb lay down His life\nTo lift us from
+    the fall\nMighty is the power of the cross\n\nIt's a miracle to me\n(It's a miracle
+    to me)\nIt's still a mystery \n(And it's still a mystery)\nIt's a miracle to me\nThe
+    power of God\nFor those who believe\n\nMighty, awesome, wonderful\nIs the Holy
+    cross\nWhere the Lamb lay down His life\nTo lift us from the fall\nMighty is the
+    power of the cross\n"
 - song: In Christ Alone
   artist: Natalie Grant
   enabled: false
@@ -1940,7 +1940,7 @@
     You're the richest of fair
 - song: Come Holy One
   artist: Young Oceans
-  enabled: false
+  enabled: true
   lyrics: |-
     Hasten now, O loving Lord to us
     We’re thirsty
