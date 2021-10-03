@@ -122,6 +122,107 @@
     To you all hearts are open, Almighty God…
 
     Hallelujah, hallelujah, hallelujah, hallelujah
+- song: Come Holy One
+  artist: Young Oceans
+  enabled: true
+  lyrics: |-
+    Hasten now, O loving Lord to us
+    We’re thirsty
+    Fill these souls, Spirit, every hour
+    We need Thee
+
+    Refrain
+
+    Come, come Holy One
+    Come meet us
+    All, all for Your glory
+    Lord Jesus
+
+    Lead us on, the perfect path O Lord And may we
+    Sin no more. This
+    spotless bride, the Church
+    Is Yours
+
+    I am yours, only yours
+    I am yours, only yours
+    We are yours, only yours
+    We are yours, only yours
+- song: Once and For All
+  artist: Lauren Daigle
+  enabled: false
+  lyrics: |-
+    God I give You all I can today
+    These scattered ashes that I hid away
+    I lay them all at Your feet
+
+    From the corners of my deepest shame
+    The empty places where I've worn Your name
+    Show me the love I say I believe
+
+    Oh Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    There is victory in my Saviors loss
+    And In the crimson flowing from the cross
+    Pour over me, pour over me yes
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    Oh Lord I lay it down
+    Oh Lord I lay it down
+    Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My Lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all
+
+    Once and for all
+    Oh once and for all
+    Once and for all
+- song: Holy, Holy, Holy
+  artist: ''
+  enabled: true
+  lyrics: |-
+    Holy, holy, holy!
+    Lord God Almighty
+    Early in the morning
+    Our song shall rise to Thee
+
+    Holy, holy, holy!
+    Merciful and mighty
+    God in three persons
+    Blessed Trinity!
+
+    Holy, holy, holy!
+    Though the darkness hide thee
+    Though the eye of sinful man
+    Thy glory may not see
+
+    Only Thou art holy
+    There is none beside Thee
+    Perfect in power, in love and purity
+
+    Holy, holy, holy!
+    Lord God Almighty
+    Oh thy works shall praise Thy name
+    In earth and sky and sea
+
+    Holy, holy, holy!
+    Merciful and mighty
+    God in three persons
+    Blessed Trinity
+    God in three persons
+    Blessed Trinity!
 - song: " Mighty Is the Power of the Cross"
   artist: Chris Tomlin
   enabled: false
@@ -1004,82 +1105,6 @@
     You will never come at all.
 
     Refrain
-- song: Once and For All
-  artist: Lauren Daigle
-  enabled: false
-  lyrics: |-
-    God I give You all I can today
-    These scattered ashes that I hid away
-    I lay them all at Your feet
-
-    From the corners of my deepest shame
-    The empty places where I've worn Your name
-    Show me the love I say I believe
-
-    Oh Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    There is victory in my Saviors loss
-    And In the crimson flowing from the cross
-    Pour over me, pour over me yes
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    Oh Lord I lay it down
-    Oh Lord I lay it down
-    Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My Lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all
-
-    Once and for all
-    Oh once and for all
-    Once and for all
-- song: Holy, Holy, Holy
-  artist: ''
-  enabled: true
-  lyrics: |-
-    Holy, holy, holy!
-    Lord God Almighty
-    Early in the morning
-    Our song shall rise to Thee
-
-    Holy, holy, holy!
-    Merciful and mighty
-    God in three persons
-    Blessed Trinity!
-
-    Holy, holy, holy!
-    Though the darkness hide thee
-    Though the eye of sinful man
-    Thy glory may not see
-
-    Only Thou art holy
-    There is none beside Thee
-    Perfect in power, in love and purity
-
-    Holy, holy, holy!
-    Lord God Almighty
-    Oh thy works shall praise Thy name
-    In earth and sky and sea
-
-    Holy, holy, holy!
-    Merciful and mighty
-    God in three persons
-    Blessed Trinity
-    God in three persons
-    Blessed Trinity!
 - song: Light of Your Love
   artist: Young Oceans
   enabled: false
@@ -1938,31 +1963,6 @@
     A garment of praise for my heaviness
     You are the greatest taste
     You're the richest of fair
-- song: Come Holy One
-  artist: Young Oceans
-  enabled: true
-  lyrics: |-
-    Hasten now, O loving Lord to us
-    We’re thirsty
-    Fill these souls, Spirit, every hour
-    We need Thee
-
-    Refrain
-
-    Come, come Holy One
-    Come meet us
-    All, all for Your glory
-    Lord Jesus
-
-    Lead us on, the perfect path O Lord And may we
-    Sin no more. This
-    spotless bride, the Church
-    Is Yours
-
-    I am yours, only yours
-    I am yours, only yours
-    We are yours, only yours
-    We are yours, only yours
 - song: Another In The Fire
   artist: Hillsong United
   enabled: false
