@@ -32,7 +32,7 @@
     straight path we may not stumble; through Jesus Christ our lord. Amen.'
 - song: Future/Past, How He Loves Us
   artist: John Mark McMillan
-  enabled: true
+  enabled: false
   lyrics: |-
     You hold the reigns on the sun and the moon,
     Like horses driven by kings
@@ -93,7 +93,7 @@
     How He loves us all
 - song: " Mighty Is the Power of the Cross"
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: "What can take a dying man\nAnd raise him up to life again?\nWhat can heal
     the wounded soul?\nWhat can make us white as snow?\nWhat can fill the emptiness?\nWhat
     can mend our brokenness? Brokenness?\n\nMighty, awesome, wonderful\nIs the Holy
@@ -107,9 +107,40 @@
     power of God\nFor those who believe\n\nMighty, awesome, wonderful\nIs the Holy
     cross\nWhere the Lamb lay down His life\nTo lift us from the fall\nMighty is the
     power of the cross\n"
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Almighty God to You all hearts are open
+    You take away our sickness and our sin
+    Oh Lamb of God we gather at Your table
+    In bread and wine, You have supplied our needs
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: In Christ Alone
   artist: Natalie Grant
-  enabled: true
+  enabled: false
   lyrics: |
     In Christ alone my hope is found
     He is my light, my strength, my song
@@ -261,37 +292,6 @@
     You are my dancing rhythm
     You are my perfect rhyme
     And I want to sing forever
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Almighty God to You all hearts are open
-    You take away our sickness and our sin
-    Oh Lamb of God we gather at Your table
-    In bread and wine, You have supplied our needs
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Great Are You Lord
   artist: All Sons & Daughters
   enabled: false
