@@ -1048,7 +1048,7 @@
     Once and for all
 - song: Holy, Holy, Holy
   artist: ''
-  enabled: false
+  enabled: true
   lyrics: |-
     Holy, holy, holy!
     Lord God Almighty
