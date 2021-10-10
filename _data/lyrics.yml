@@ -1358,7 +1358,7 @@
 - song: Come Let Us Return to The Lord
   artist: Matt Redman
   enabled: true
-  lyrics: |-
+  lyrics: |
     Come, come let us return to the Lord
     Come, come let us return to the Lord
     In brokenness of heart, we consecrate our lives singing
@@ -1374,11 +1374,6 @@
     Even now, even now
     With all of our hearts
     You may turn, You may leave a blessing behind
-
-    In Your mercy You will come
-    In Your mercy You will come
-    Surely as the rising sun
-    Surely as the rising sun
 - song: Here Is Love
   artist: Passion
   enabled: false
