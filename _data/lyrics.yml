@@ -646,7 +646,7 @@
     Coming after me
 - song: Grace Alone
   artist: Dustin Kensrue
-  enabled: false
+  enabled: true
   lyrics: |-
     I was an orphan lost at the Fall
     Running away when I'd hear Your call
