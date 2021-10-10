@@ -32,7 +32,7 @@
     straight path we may not stumble; through Jesus Christ our lord. Amen.'
 - song: Future/Past, How He Loves Us
   artist: John Mark McMillan
-  enabled: false
+  enabled: true
   lyrics: |-
     You hold the reigns on the sun and the moon,
     Like horses driven by kings
@@ -93,7 +93,7 @@
     How He loves us all
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -124,7 +124,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Come Holy One
   artist: Young Oceans
-  enabled: true
+  enabled: false
   lyrics: |-
     Hasten now, O loving Lord to us
     We’re thirsty
@@ -191,7 +191,7 @@
     Once and for all
 - song: Holy, Holy, Holy
   artist: ''
-  enabled: true
+  enabled: false
   lyrics: |-
     Holy, holy, holy!
     Lord God Almighty
@@ -646,7 +646,7 @@
     Coming after me
 - song: Grace Alone
   artist: Dustin Kensrue
-  enabled: false
+  enabled: true
   lyrics: |-
     I was an orphan lost at the Fall
     Running away when I'd hear Your call
