@@ -30,10 +30,10 @@
     to ask what you would have us to do, that the spirit of wisdom may save us from
     all false choices, and that in your light  and  we may see light, and in your
     straight path we may not stumble; through Jesus Christ our lord. Amen.'
-- song: Future/Past, How He Loves Us
+- song: Future / Past
   artist: John Mark McMillan
   enabled: true
-  lyrics: |-
+  lyrics: |
     You hold the reigns on the sun and the moon,
     Like horses driven by kings
     You cover the mountains, the valleys below,
@@ -84,13 +84,6 @@
     You are my first
     You are my last
     You are my future and my past
-
-    –––––––––––
-
-    And He loves us,
-    Oh, how He loves us,
-    Oh, how He loves us,
-    How He loves us all
 - song: Grace Alone
   artist: Dustin Kensrue
   enabled: true
