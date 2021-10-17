@@ -32,7 +32,7 @@
     straight path we may not stumble; through Jesus Christ our lord. Amen.'
 - song: Future / Past
   artist: John Mark McMillan
-  enabled: true
+  enabled: false
   lyrics: |
     You hold the reigns on the sun and the moon,
     Like horses driven by kings
@@ -90,7 +90,7 @@
     You are my future and my past
 - song: Grace Alone
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     I was an orphan lost at the Fall
     Running away when I'd hear Your call
@@ -1075,7 +1075,7 @@
     You're beautiful
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
-  enabled: true
+  enabled: false
   lyrics: |-
     Come, ye sinners, poor and needy,
     Weak and wounded, sick and sore;
