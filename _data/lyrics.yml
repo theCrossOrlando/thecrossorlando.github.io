@@ -64,13 +64,27 @@
 - song: Heart Won't Stop
   artist: John Mark McMillan & Sarah McMillan
   enabled: true
-  lyrics: |-
+  lyrics: |+
+    You're never gonna let,
+    You're never gonna let me down.
+    You're never gonna let,
+    You're never gonna let me down.
+    You're never gonna let,
+    You're never gonna let me down.
+
+    –
+
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Coming after me
+
     There is not a man or beast
     Nothing on the land or underneath
     Oh nothing that could ever come between
     The love You have for me
 
-    I could lay my head in sheol
+    I could lay my head in Sheol
     I could make my bed
     At the bottom of darkness deep
     Oh but there is not a place I could escape You
@@ -80,20 +94,16 @@
     Your heart won't stop, coming after me
     Coming after me
 
-    There is not an angel of the stars
+    There is not an angel of the stars,
     There is not a devil in the dark
-    Oh nothing that could change the way You are
-    The love You have for me
+    Oh nothing that could change the way You are,
+    Or the love You have for me
 
-    I could lay my head in sheol
+    I could lay my head in Sheol
     I could make my bed
     At the bottom of darkness deep
     Oh but there is not a place I could escape You
 
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after me
-    Coming after me
 - song: 10,000 Reasons
   artist: Matt Redman
   enabled: true
