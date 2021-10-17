@@ -750,7 +750,7 @@
     in your love\n"
 - song: 10,000 Reasons
   artist: Matt Redman
-  enabled: false
+  enabled: true
   lyrics: |-
     Bless the Lord O my soul
     O my soul
