@@ -32,7 +32,7 @@
     straight path we may not stumble; through Jesus Christ our lord. Amen.'
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -63,7 +63,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Heart Won't Stop
   artist: John Mark McMillan & Sarah McMillan
-  enabled: true
+  enabled: false
   lyrics: |+
     You're never gonna let,
     You're never gonna let me down.
@@ -106,7 +106,7 @@
 
 - song: 10,000 Reasons
   artist: Matt Redman
-  enabled: true
+  enabled: false
   lyrics: |-
     Bless the Lord O my soul
     O my soul
@@ -2678,7 +2678,7 @@
     Still be my Vision, O Ruler of all.
 - song: Scandal of Grace
   artist: Hillsong United
-  enabled: false
+  enabled: true
   lyrics: |-
     [Verse 1]
     Grace, what have You done?
