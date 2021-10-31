@@ -137,6 +137,150 @@
 
     In the house of God forever
     In the house of God forever
+- song: Have Mercy
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Have Mercy on me,
+    Have Mercy on me,
+    Oh Lord, have mercy (x2)
+
+    Lord help my unbelief,
+    Lord help my unbelief,
+    Oh Lord, have mercy (x2)
+- song: All Creatures of Our God and King
+  artist: Francis of Assisi
+  enabled: true
+  lyrics: |-
+    All creatures of our God and King
+    Lift up your voice and with us sing,
+
+    Alleluia! Alleluia!
+
+    Thou burning sun with golden beam,
+    Thou silver moon with softer gleam!
+
+    O praise Him! O praise Him!
+    Alleluia! Alleluia! Alleluia!
+
+    Thou rushing wind that art so strong
+    Ye clouds that sail in Heaven along,
+    O praise Him! Alleluia!
+
+    Thou rising moon, in praise rejoice,
+    Ye lights of evening, find a voice!
+
+    O praise Him! O praise Him!
+    Alleluia! Alleluia! Alleluia!
+
+    Let all things their Creator bless,
+    And worship Him in humbleness,
+    O praise Him! Alleluia!
+
+    Praise, praise the Father, praise the Son,
+    And praise the Spirit, Three in One!
+
+    O praise Him! O praise Him!
+    Alleluia! Alleluia!  Alleluia!
+- song: In Christ Alone
+  artist: Natalie Grant
+  enabled: true
+  lyrics: |
+    In Christ alone my hope is found
+    He is my light, my strength, my song
+    This Cornerstone, this solid ground
+    Firm through the fiercest drought and storm
+    What heights of love, what depths of peace
+    When fears are stilled, when strivings cease
+    My Comforter, my All in All
+    Here in the love of Christ I stand
+
+    In Christ alone, who took on flesh
+    Fullness of God in helpless babe
+    This gift of love and righteousness
+    Scorned by the ones He came to save
+    'Til on that cross as Jesus died
+    The wrath of God was satisfied
+    For every sin on Him was laid
+    Here in the death of Christ I live, I live
+
+    There in the ground His body lay
+    Light of the world by darkness slain
+    Then bursting forth in glorious Day
+    Up from the grave He rose again
+    And as He stands in victory
+    Sin's curse has lost its grip on me
+    For I am His and He is mine
+    Bought with the precious blood of Christ
+
+    No guilt in life, no fear in death
+    This is the power of Christ in me
+    From life's first cry to final breath
+    Jesus commands my destiny
+    No power of hell, no scheme of man
+    Can ever pluck me from His hand
+    Till He returns or calls me home
+    Here in the power of Christ I'll stand
+- song: Oh Love That Will Not Let Me Go
+  artist: Ascend the Hill
+  enabled: true
+  lyrics: |-
+    Oh, Love that will not let me go
+    I rest my weary soul in Thee
+    I give You back the life I owe
+    That in Thine ocean's depths its flow
+    May richer, fuller be
+
+    My life is not my own
+    It's Yours
+    My life is not my own
+    I know it's Yours
+
+    Oh, Light that follows all my way
+    I yield my flickering torch to Thee
+    My heart restores its borrowed ray
+    That in Thy sunshine's blaze its day
+    May brighter, fairer be
+
+    So light a fire in my heart
+    And I'll burn for You
+    So light a fire in my heart
+    And I'll burn for You
+
+    Oh, Joy, that seeks me through the pain
+    I cannot close my heart to Thee
+    I trace the rainbow through the rain
+    And feel the promise is not in vain
+    That morn shall tearless be
+
+    So anoint me with joy
+    And joyful I will be
+    So anoint me with joy
+    And joyful I will be
+
+    Oh, cross that's lifing up my head
+    I dare not ask to fly from thee
+    I lay in dust life's glory dead
+    And from the ground there blossoms red
+    Life that shall endless be
+
+    We will sing:
+    Holy, holy
+    Is the King of Kings
+    And we will sing:
+    Holy, holy, is the King of Kings
+    (repeat)
+
+    On that day we will sing:
+    Holy, holy
+    Is the King of Kings
+
+    We will join with the angels and we will sing:
+    Holy, holy
+    Is the King of Kings
+
+    And we will sing:
+    Holy, holy, is the King of Kings
 - song: Set A Fire
   artist: Will Reagan
   enabled: false
@@ -254,56 +398,6 @@
     Sing Your praise unending
     Ten thousand years
     And then forevermore
-- song: Have Mercy
-  artist: Sandra McCracken
-  enabled: true
-  lyrics: |-
-    Have Mercy on me,
-    Have Mercy on me,
-    Oh Lord, have mercy (x2)
-
-    Lord help my unbelief,
-    Lord help my unbelief,
-    Oh Lord, have mercy (x2)
-- song: In Christ Alone
-  artist: Natalie Grant
-  enabled: true
-  lyrics: |
-    In Christ alone my hope is found
-    He is my light, my strength, my song
-    This Cornerstone, this solid ground
-    Firm through the fiercest drought and storm
-    What heights of love, what depths of peace
-    When fears are stilled, when strivings cease
-    My Comforter, my All in All
-    Here in the love of Christ I stand
-
-    In Christ alone, who took on flesh
-    Fullness of God in helpless babe
-    This gift of love and righteousness
-    Scorned by the ones He came to save
-    'Til on that cross as Jesus died
-    The wrath of God was satisfied
-    For every sin on Him was laid
-    Here in the death of Christ I live, I live
-
-    There in the ground His body lay
-    Light of the world by darkness slain
-    Then bursting forth in glorious Day
-    Up from the grave He rose again
-    And as He stands in victory
-    Sin's curse has lost its grip on me
-    For I am His and He is mine
-    Bought with the precious blood of Christ
-
-    No guilt in life, no fear in death
-    This is the power of Christ in me
-    From life's first cry to final breath
-    Jesus commands my destiny
-    No power of hell, no scheme of man
-    Can ever pluck me from His hand
-    Till He returns or calls me home
-    Here in the power of Christ I'll stand
 - song: Future / Past
   artist: John Mark McMillan
   enabled: false
@@ -627,66 +721,6 @@
     You are my dancing rhythm
     You are my perfect rhyme
     And I want to sing forever
-- song: Oh Love That Will Not Let Me Go
-  artist: Ascend the Hill
-  enabled: true
-  lyrics: |-
-    Oh, Love that will not let me go
-    I rest my weary soul in Thee
-    I give You back the life I owe
-    That in Thine ocean's depths its flow
-    May richer, fuller be
-
-    My life is not my own
-    It's Yours
-    My life is not my own
-    I know it's Yours
-
-    Oh, Light that follows all my way
-    I yield my flickering torch to Thee
-    My heart restores its borrowed ray
-    That in Thy sunshine's blaze its day
-    May brighter, fairer be
-
-    So light a fire in my heart
-    And I'll burn for You
-    So light a fire in my heart
-    And I'll burn for You
-
-    Oh, Joy, that seeks me through the pain
-    I cannot close my heart to Thee
-    I trace the rainbow through the rain
-    And feel the promise is not in vain
-    That morn shall tearless be
-
-    So anoint me with joy
-    And joyful I will be
-    So anoint me with joy
-    And joyful I will be
-
-    Oh, cross that's lifing up my head
-    I dare not ask to fly from thee
-    I lay in dust life's glory dead
-    And from the ground there blossoms red
-    Life that shall endless be
-
-    We will sing:
-    Holy, holy
-    Is the King of Kings
-    And we will sing:
-    Holy, holy, is the King of Kings
-    (repeat)
-
-    On that day we will sing:
-    Holy, holy
-    Is the King of Kings
-
-    We will join with the angels and we will sing:
-    Holy, holy
-    Is the King of Kings
-
-    And we will sing:
-    Holy, holy, is the King of Kings
 - song: Great Are You Lord
   artist: All Sons & Daughters
   enabled: false
@@ -1442,40 +1476,6 @@
     down before Him\nFor He is Lord of all\nSing Hallelujah, Christ is risen\n\nBear
     your cross as you wait for the crown\nTell the world of the treasure you found\nJesus
     is Calling\nJesus is Calling"
-- song: All Creatures of Our God and King
-  artist: Francis of Assisi
-  enabled: true
-  lyrics: |-
-    All creatures of our God and King
-    Lift up your voice and with us sing,
-
-    Alleluia! Alleluia!
-
-    Thou burning sun with golden beam,
-    Thou silver moon with softer gleam!
-
-    O praise Him! O praise Him!
-    Alleluia! Alleluia! Alleluia!
-
-    Thou rushing wind that art so strong
-    Ye clouds that sail in Heaven along,
-    O praise Him! Alleluia!
-
-    Thou rising moon, in praise rejoice,
-    Ye lights of evening, find a voice!
-
-    O praise Him! O praise Him!
-    Alleluia! Alleluia! Alleluia!
-
-    Let all things their Creator bless,
-    And worship Him in humbleness,
-    O praise Him! Alleluia!
-
-    Praise, praise the Father, praise the Son,
-    And praise the Spirit, Three in One!
-
-    O praise Him! O praise Him!
-    Alleluia! Alleluia!  Alleluia!
 - song: Come Let Us Return to The Lord
   artist: Matt Redman
   enabled: false
