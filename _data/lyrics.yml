@@ -473,9 +473,20 @@
     power of God\nFor those who believe\n\nMighty, awesome, wonderful\nIs the Holy
     cross\nWhere the Lamb lay down His life\nTo lift us from the fall\nMighty is the
     power of the cross\n"
+- song: Have Mercy
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Have Mercy on me,
+    Have Mercy on me,
+    Oh Lord, have mercy (x2)
+
+    Lord help my unbelief,
+    Lord help my unbelief,
+    Oh Lord, have mercy (x2)
 - song: In Christ Alone
   artist: Natalie Grant
-  enabled: false
+  enabled: true
   lyrics: |
     In Christ alone my hope is found
     He is my light, my strength, my song
@@ -512,17 +523,6 @@
     Can ever pluck me from His hand
     Till He returns or calls me home
     Here in the power of Christ I'll stand
-- song: Have Mercy
-  artist: Sandra McCracken
-  enabled: true
-  lyrics: |-
-    Have Mercy on me,
-    Have Mercy on me,
-    Oh Lord, have mercy (x2)
-
-    Lord help my unbelief,
-    Lord help my unbelief,
-    Oh Lord, have mercy (x2)
 - song: Your Love is Strong
   artist: Jon Foreman
   enabled: false
