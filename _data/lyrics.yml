@@ -139,7 +139,7 @@
     In the house of God forever
 - song: Have Mercy
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Have Mercy on me,
     Have Mercy on me,
@@ -184,7 +184,7 @@
     Alleluia! Alleluia!  Alleluia!
 - song: In Christ Alone
   artist: Natalie Grant
-  enabled: true
+  enabled: false
   lyrics: |
     In Christ alone my hope is found
     He is my light, my strength, my song
@@ -223,7 +223,7 @@
     Here in the power of Christ I'll stand
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, Love that will not let me go
     I rest my weary soul in Thee
