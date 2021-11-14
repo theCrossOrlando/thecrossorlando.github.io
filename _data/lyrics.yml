@@ -1022,7 +1022,7 @@
     So my soul waits for the Lord more than watchmen wait
     More than watchman who wait for the morn
 - song: Psalm 145
-  enabled: false
+  enabled: true
   lyrics: |-
     I will bless You all of my days LORD
     I will praise you always, My God and King
