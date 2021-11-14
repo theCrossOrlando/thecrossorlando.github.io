@@ -69,7 +69,7 @@
     Here I stand
 - song: King of My Heart
   artist: Bethel Music, Steffany Gretzinger
-  enabled: true
+  enabled: false
   lyrics: |
     Let the King of my heart
     Be the mountain where I run
@@ -110,7 +110,7 @@
     You're never gonna let me down
 - song: Once and For All
   artist: Lauren Daigle
-  enabled: true
+  enabled: false
   lyrics: |-
     God I give You all I can today
     These scattered ashes that I hid away
