@@ -139,6 +139,43 @@
 
     Oh, let all that lives ever bless His name
     Oh, let all that lives ever bless His name
+- song: Amazing Grace
+  artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    Amazing grace how sweet the sound
+    That saved a wretch like me
+    I once was lost, but now I'm found
+    Was blind, but now I see
+
+    'Twas grace that taught my heart to fear
+    And grace my fears relieved
+    How precious did that grace appear
+    The hour I first believed
+
+    My chains are gone, I've been set free
+    My God, my Savior has ransomed me
+    And like a flood His mercy reigns
+    Unending love,
+    Amazing grace
+
+    The Lord has promised good to me
+    His word my hope secures
+    He will my shield and portion be
+    As long as life endures
+
+    My chains are gone, I've been set free
+    My God, my Savior has ransomed me
+    And like a flood His mercy reigns
+    Unending love,
+    Amazing grace
+    [x2]
+
+    The earth shall soon dissolve like snow
+    The sun forbear to shine
+    But God who called me here below
+    Will be forever mine, will be forever mine
+    You are forever mine
 - song: King of My Heart
   artist: Bethel Music, Steffany Gretzinger
   enabled: false
@@ -546,7 +583,7 @@
     in your love,\nHere in your love\n"
 - song: Heart Won't Stop
   artist: John Mark McMillan & Sarah McMillan
-  enabled: false
+  enabled: true
   lyrics: |+
     You're never gonna let,
     You're never gonna let me down.
@@ -1452,43 +1489,6 @@
     One with Himself I cannot die
     My soul is purchased by His blood,
     My life is hid with Christ on high
-- song: Amazing Grace
-  artist: Chris Tomlin
-  enabled: true
-  lyrics: |-
-    Amazing grace how sweet the sound
-    That saved a wretch like me
-    I once was lost, but now I'm found
-    Was blind, but now I see
-
-    'Twas grace that taught my heart to fear
-    And grace my fears relieved
-    How precious did that grace appear
-    The hour I first believed
-
-    My chains are gone, I've been set free
-    My God, my Savior has ransomed me
-    And like a flood His mercy reigns
-    Unending love,
-    Amazing grace
-
-    The Lord has promised good to me
-    His word my hope secures
-    He will my shield and portion be
-    As long as life endures
-
-    My chains are gone, I've been set free
-    My God, my Savior has ransomed me
-    And like a flood His mercy reigns
-    Unending love,
-    Amazing grace
-    [x2]
-
-    The earth shall soon dissolve like snow
-    The sun forbear to shine
-    But God who called me here below
-    Will be forever mine, will be forever mine
-    You are forever mine
 - song: Help Me Find My Own Flame
   artist: Will Reagan & United Pursuit
   enabled: false
