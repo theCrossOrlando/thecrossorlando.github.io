@@ -92,6 +92,40 @@
     I will run the race by grace and grace alone
     I will slay my sin by grace and grace alone
     I will reach the end by grace and grace alone
+- song: My Jesus I Love Thee
+  artist: William R. Featherstone
+  enabled: true
+  lyrics: "My Jesus, I love thee, I know thou art mine;\nfor thee all the follies
+    of sin I resign;\nmy gracious Redeemer, my Savior art thou;\nif ever I loved thee,
+    my Jesus, 'tis now.\n\nI love thee because thou hast first loved me\nand purchased
+    my pardon on Calvary's tree;\nI love thee for wearing the thorns on thy brow;\nif
+    ever I loved thee, my Jesus, 'tis now.\n\nI'll love thee in life, I will love
+    thee in death,\nand praise thee as long as thou lendest me breath,\nand say when
+    the deathdew lies cold on my brow:\nIf ever I loved thee, my Jesus, 'tis now.\n\nIn
+    mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
+    sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
+    now. "
+- song: Nothing I Hold On To
+  artist: United Pursuit Band
+  enabled: true
+  lyrics: |-
+    I lean not on my own understanding,
+    My life is in the hands of the maker of heaven
+
+    I Give it all to you God,
+    Trusting that you'll make something beautiful out of me
+
+    I will climb this mountain
+    With my hands wide open
+    I will climb this mountain
+    With my hands wide open
+
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+
+    All Glory To God, Forever. Amen
 - song: Holy Spirit
   artist: Jesus Culture
   enabled: false
@@ -895,40 +929,6 @@
     Forgive us weary sinners
     Keep us far from our vices and
     Deliver us from these prisons
-- song: My Jesus I Love Thee
-  artist: William R. Featherstone
-  enabled: true
-  lyrics: "My Jesus, I love thee, I know thou art mine;\nfor thee all the follies
-    of sin I resign;\nmy gracious Redeemer, my Savior art thou;\nif ever I loved thee,
-    my Jesus, 'tis now.\n\nI love thee because thou hast first loved me\nand purchased
-    my pardon on Calvary's tree;\nI love thee for wearing the thorns on thy brow;\nif
-    ever I loved thee, my Jesus, 'tis now.\n\nI'll love thee in life, I will love
-    thee in death,\nand praise thee as long as thou lendest me breath,\nand say when
-    the deathdew lies cold on my brow:\nIf ever I loved thee, my Jesus, 'tis now.\n\nIn
-    mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
-    sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
-    now. "
-- song: Nothing I Hold On To
-  artist: United Pursuit Band
-  enabled: true
-  lyrics: |-
-    I lean not on my own understanding,
-    My life is in the hands of the maker of heaven
-
-    I Give it all to you God,
-    Trusting that you'll make something beautiful out of me
-
-    I will climb this mountain
-    With my hands wide open
-    I will climb this mountain
-    With my hands wide open
-
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-
-    All Glory To God, Forever. Amen
 - song: You Are So Good To Me
   artist: Third Day
   enabled: false
