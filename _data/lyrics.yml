@@ -69,7 +69,7 @@
     Here I stand
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -99,7 +99,7 @@
 
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Psalm 145
-  enabled: true
+  enabled: false
   lyrics: |-
     I will bless You all of my days LORD
     I will praise you always, My God and King
@@ -141,7 +141,7 @@
     Oh, let all that lives ever bless His name
 - song: Amazing Grace
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |-
     Amazing grace how sweet the sound
     That saved a wretch like me
@@ -583,7 +583,7 @@
     in your love,\nHere in your love\n"
 - song: Heart Won't Stop
   artist: John Mark McMillan & Sarah McMillan
-  enabled: true
+  enabled: false
   lyrics: |+
     You're never gonna let,
     You're never gonna let me down.
