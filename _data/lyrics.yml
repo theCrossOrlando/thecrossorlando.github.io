@@ -41,6 +41,29 @@
     Lord help my unbelief,
     Lord help my unbelief,
     Oh Lord, have mercy (x2)
+- song: Come Thou Long Expected Jesus
+  artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    Come, Thou long expected Jesus
+    Born to set Thy people free;
+    From our fears and sins release us,
+    Let us find our rest in Thee.
+
+    Israel's strength and consolation,
+    Hope of all the earth Thou art;
+    Dear desire of every nation,
+    Joy of every longing heart.
+
+    Born Thy people to deliver,
+    Born a child and yet a King,
+    Born to reign in us forever,
+    Now Thy gracious kingdom bring.
+
+    By Thine own eternal Spirit
+    Rule in all our hearts alone;
+    By Thine all sufficient merit,
+    Raise us to Thy glorious throne.
 - song: Set A Fire
   artist: Will Reagan
   enabled: false
@@ -1989,29 +2012,6 @@
     And wonders of His love
     And wonders of His love
     And wonder wonders of His love
-- song: Come Thou Long Expected Jesus
-  artist: Chris Tomlin
-  enabled: false
-  lyrics: |-
-    Come, Thou long expected Jesus
-    Born to set Thy people free;
-    From our fears and sins release us,
-    Let us find our rest in Thee.
-
-    Israel's strength and consolation,
-    Hope of all the earth Thou art;
-    Dear desire of every nation,
-    Joy of every longing heart.
-
-    Born Thy people to deliver,
-    Born a child and yet a King,
-    Born to reign in us forever,
-    Now Thy gracious kingdom bring.
-
-    By Thine own eternal Spirit
-    Rule in all our hearts alone;
-    By Thine all sufficient merit,
-    Raise us to Thy glorious throne.
 - song: Silent Night
   artist: Joseph Mohr
   enabled: false
@@ -2692,6 +2692,47 @@
     For I believe in the name of Jesus
     For I believe in the name of Jesus
     For I believe in the name of Jesus
+- song: Come Thou Long Expected Jesus
+  artist: Chris Tomlin
+  enabled: true
+  lyrics: |-
+    Come, Thou long expected Jesus
+    Born to set Thy people free;
+    From our fears and sins release us,
+    Let us find our rest in Thee.
+
+    Israel's strength and consolation,
+    Hope of all the earth Thou art;
+    Dear desire of every nation,
+    Joy of every longing heart.
+
+    Born Thy people to deliver,
+    Born a child and yet a King,
+    Born to reign in us forever,
+    Now Thy gracious kingdom bring.
+
+    Come, Thou long expected Jesus
+    Born to set Thy people free;
+    From our fears and sins release us,
+    Let us find our rest in Thee.
+
+    By Thine own eternal Spirit
+    Rule in all our hearts alone;
+    By Thine all sufficient merit,
+    Raise us to Thy glorious throne.
+
+    Born Thy people to deliver,
+    Born a child and yet a King,
+    Born to reign in us forever,
+    Now Thy gracious kingdom bring.
+
+    Come, Thou long expected Jesus
+    Born to set Thy people free;
+    From our fears and sins release us,
+    Let us find our rest in Thee.
+
+    Let us find our rest in Thee.
+    Let us find our rest in Thee.
 - song: Your Love Changes Everything
   artist: United Pursuit
   enabled: false
@@ -3478,47 +3519,6 @@
     So that I may worship Thee
     So that I may worship Thee
     So that I may worship Thee
-- song: Come Thou Long Expected Jesus
-  artist: Chris Tomlin
-  enabled: true
-  lyrics: |-
-    Come, Thou long expected Jesus
-    Born to set Thy people free;
-    From our fears and sins release us,
-    Let us find our rest in Thee.
-
-    Israel's strength and consolation,
-    Hope of all the earth Thou art;
-    Dear desire of every nation,
-    Joy of every longing heart.
-
-    Born Thy people to deliver,
-    Born a child and yet a King,
-    Born to reign in us forever,
-    Now Thy gracious kingdom bring.
-
-    Come, Thou long expected Jesus
-    Born to set Thy people free;
-    From our fears and sins release us,
-    Let us find our rest in Thee.
-
-    By Thine own eternal Spirit
-    Rule in all our hearts alone;
-    By Thine all sufficient merit,
-    Raise us to Thy glorious throne.
-
-    Born Thy people to deliver,
-    Born a child and yet a King,
-    Born to reign in us forever,
-    Now Thy gracious kingdom bring.
-
-    Come, Thou long expected Jesus
-    Born to set Thy people free;
-    From our fears and sins release us,
-    Let us find our rest in Thee.
-
-    Let us find our rest in Thee.
-    Let us find our rest in Thee.
 - song: Your Love is Strong
   artist: Jon Foreman
   enabled: false
