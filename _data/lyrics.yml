@@ -119,6 +119,31 @@
     To you all hearts are open, Almighty God…
 
     Hallelujah, hallelujah, hallelujah, hallelujah
+- song: Come Holy One
+  artist: Young Oceans
+  enabled: true
+  lyrics: |-
+    Hasten now, O loving Lord to us
+    We’re thirsty
+    Fill these souls, Spirit, every hour
+    We need Thee
+
+    Refrain
+
+    Come, come Holy One
+    Come meet us
+    All, all for Your glory
+    Lord Jesus
+
+    Lead us on, the perfect path O Lord And may we
+    Sin no more. This
+    spotless bride, the Church
+    Is Yours
+
+    I am yours, only yours
+    I am yours, only yours
+    We are yours, only yours
+    We are yours, only yours
 - song: September Prayer
   artist: ''
   enabled: false
@@ -922,31 +947,6 @@
     You are my first
     You are my last
     You are my future and my past
-- song: Come Holy One
-  artist: Young Oceans
-  enabled: true
-  lyrics: |-
-    Hasten now, O loving Lord to us
-    We’re thirsty
-    Fill these souls, Spirit, every hour
-    We need Thee
-
-    Refrain
-
-    Come, come Holy One
-    Come meet us
-    All, all for Your glory
-    Lord Jesus
-
-    Lead us on, the perfect path O Lord And may we
-    Sin no more. This
-    spotless bride, the Church
-    Is Yours
-
-    I am yours, only yours
-    I am yours, only yours
-    We are yours, only yours
-    We are yours, only yours
 - song: Holy, Holy, Holy
   artist: ''
   enabled: false
