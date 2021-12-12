@@ -24,7 +24,7 @@
     Raise us to Thy glorious throne.
 - song: Joy To The World
   artist: 
-  enabled: true
+  enabled: false
   lyrics: |-
     Joy to The world! the Lord is come
     Let earth receive her King
@@ -53,7 +53,7 @@
     And wonder wonders of His love
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, Love that will not let me go
     I rest my weary soul in Thee
@@ -113,7 +113,7 @@
     Holy, holy, is the King of Kings
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -144,7 +144,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Come Holy One
   artist: Young Oceans
-  enabled: true
+  enabled: false
   lyrics: |-
     Hasten now, O loving Lord to us
     We’re thirsty
