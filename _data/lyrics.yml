@@ -60,6 +60,30 @@
     He knows our need, our weakness is no stranger,
     Behold your King! Before Him lowly bend!
     Behold your King, Before Him lowly bend!
+- song: Silent Night
+  artist: Joseph Mohr
+  enabled: true
+  lyrics: |-
+    Silent night, holy night
+    All is calm, All is bright
+    Round yon Virgin, Mother and Child
+    Holy Infant so Tender and mild,
+    Sleep in heavenly peace,
+    Sleep in heavenly peace.
+
+    Silent night, holy night
+    Shepherds quake at the sight,
+    Glories stream from heaven afar,
+    Heavenly hosts sing Alleluia
+    Christ the Saviour is born!
+    Christ the saviour is born.
+
+    Silent night, holy night
+    Son of God, love's pure light
+    Radiant beams from Thy holy face
+    with the dawn of redeeming grace,
+    Jesus Lord at thy birth,
+    Jesus Lord at thy birth.
 - song: Love Has Come!
   artist: ''
   enabled: false
@@ -2209,30 +2233,6 @@
     A light to bring revelation to the Gentiles,
 
     And the glory of Your people Israel.
-- song: Silent Night
-  artist: Joseph Mohr
-  enabled: true
-  lyrics: |-
-    Silent night, holy night
-    All is calm, All is bright
-    Round yon Virgin, Mother and Child
-    Holy Infant so Tender and mild,
-    Sleep in heavenly peace,
-    Sleep in heavenly peace.
-
-    Silent night, holy night
-    Shepherds quake at the sight,
-    Glories stream from heaven afar,
-    Heavenly hosts sing Alleluia
-    Christ the Saviour is born!
-    Christ the saviour is born.
-
-    Silent night, holy night
-    Son of God, love's pure light
-    Radiant beams from Thy holy face
-    with the dawn of redeeming grace,
-    Jesus Lord at thy birth,
-    Jesus Lord at thy birth.
 - song: Oh Come Let Us Adore Him
   artist: ''
   enabled: false
