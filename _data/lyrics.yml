@@ -2211,7 +2211,7 @@
     And the glory of Your people Israel.
 - song: Silent Night
   artist: Joseph Mohr
-  enabled: false
+  enabled: true
   lyrics: |-
     Silent night, holy night
     All is calm, All is bright
