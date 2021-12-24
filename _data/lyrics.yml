@@ -1,7 +1,7 @@
 ---
 - song: Away In A Manger
   artist: ''
-  enabled: ''
+  enabled: true
   lyrics: |-
     Away in a manger
     No crib for a bed
