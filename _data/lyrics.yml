@@ -2,42 +2,20 @@
 - song: It Came Upon the Midnight Clear
   artist: ''
   enabled: true
-  lyrics: |-
-    It came upon the midnight clear,
-    That glorious song of old,
-    From angels bending near the earth,
-    To touch their harps of gold;
-    “Peace on the earth, good will to men,
-    From Heav’n’s all-gracious King.”
-    The world in solemn stillness lay,
-    To hear the angels sing.
-
-    Still through the cloven skies they come
-    With peaceful wings unfurled,
-    And still their heav’nly music floats
-    O’er all the weary world;
-    Above its sad and lowly plains,
-    They bend on hov’ring wing,
-    And ever o’er its Babel sounds
-    The blessed angels sing.
-
-    And ye, beneath life’s crushing load,
-    Whose forms are bending low,
-    Who toil along the climbing way
-    With painful steps and slow,
-    Look now! for glad and golden hours
-    Come swiftly on the wing.
-    Oh, rest beside the weary road,
-    And hear the angels sing!
-
-    For lo! the days are hast’ning on,
-    By prophet seen of old,
-    When with the ever-circling years
-    Shall come the time foretold
-    When Christ shall come and all shall own
-    The Prince of Peace, their King,
-    And saints shall meet Him in the air,
-    And with the angels sing.
+  lyrics: "It came upon the midnight clear,\nThat glorious song of old,\nFrom angels
+    bending near the earth,\nTo touch their harps of gold;\n“Peace on the earth, good
+    will to men,\nFrom Heav’n’s all-gracious King.”\nThe world in solemn stillness
+    lay,\nTo hear the angels sing.\n \nStill through the cloven skies they come\nWith
+    peaceful wings unfurled,\nAnd still their heav’nly music floats\nO’er all the
+    weary world;\nAbove its sad and lowly plains,\nThey bend on hov’ring wing,\nAnd
+    ever o’er its Babel sounds\nThe blessed angels sing.\n\nAnd ye, beneath life’s
+    crushing load,\nWhose forms are bending low,\nWho toil along the climbing way\nWith
+    painful steps and slow,\nLook now! for glad and golden hours\nCome swiftly on
+    the wing.\nOh, rest beside the weary road,\nAnd hear the angels sing!\n\nFor lo!
+    the days are hast’ning on,\nBy prophet seen of old,\nWhen with the ever-circling
+    years\nShall come the time foretold\nWhen Christ shall come and all shall own\nThe
+    Prince of Peace, their King,\nAnd saints shall meet Him in the air,\nAnd with
+    the angels sing."
 - song: Away In A Manger
   artist: ''
   enabled: true
