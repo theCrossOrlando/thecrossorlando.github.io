@@ -1,4 +1,43 @@
 ---
+- song: It Came Upon the Midnight Clear
+  artist: ''
+  enabled: ''
+  lyrics: |-
+    It came upon the midnight clear,
+    That glorious song of old,
+    From angels bending near the earth,
+    To touch their harps of gold;
+    “Peace on the earth, good will to men,
+    From Heav’n’s all-gracious King.”
+    The world in solemn stillness lay,
+    To hear the angels sing.
+
+    Still through the cloven skies they come
+    With peaceful wings unfurled,
+    And still their heav’nly music floats
+    O’er all the weary world;
+    Above its sad and lowly plains,
+    They bend on hov’ring wing,
+    And ever o’er its Babel sounds
+    The blessed angels sing.
+
+    And ye, beneath life’s crushing load,
+    Whose forms are bending low,
+    Who toil along the climbing way
+    With painful steps and slow,
+    Look now! for glad and golden hours
+    Come swiftly on the wing.
+    Oh, rest beside the weary road,
+    And hear the angels sing!
+
+    For lo! the days are hast’ning on,
+    By prophet seen of old,
+    When with the ever-circling years
+    Shall come the time foretold
+    When Christ shall come and all shall own
+    The Prince of Peace, their King,
+    And saints shall meet Him in the air,
+    And with the angels sing.
 - song: Away In A Manger
   artist: ''
   enabled: true
