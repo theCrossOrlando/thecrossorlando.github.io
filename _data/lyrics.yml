@@ -18,7 +18,7 @@
     the angels sing."
 - song: Away In A Manger
   artist: ''
-  enabled: true
+  enabled: false
   lyrics: |-
     Away in a manger
     No crib for a bed
@@ -48,7 +48,7 @@
     To live with You there
 - song: O Holy Night
   artist: Roquemaure / Adams
-  enabled: true
+  enabled: false
   lyrics: |-
     O holy night! The stars are brightly shining,
     It is the night of our dear Saviour's birth.
