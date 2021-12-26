@@ -632,7 +632,7 @@
     Oh, let all that lives ever bless His name
 - song: Amazing Grace
   artist: Chris Tomlin
-  enabled: false
+  enabled: true
   lyrics: |-
     Amazing grace how sweet the sound
     That saved a wretch like me
