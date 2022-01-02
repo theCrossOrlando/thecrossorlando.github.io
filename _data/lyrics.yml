@@ -1,4 +1,11 @@
 ---
+- song: Set A Fire
+  artist: Will Reagan
+  enabled: true
+  lyrics: "Set a fire down in my soul\nThat I can't contain \nThat I cant control,\nI
+    want more of you God\nI want more of you God\n\nThere's no place I would rather
+    be\nNo place I would rather be\nThere's no place I would rather be\nThan here
+    in your love,\nHere in your love\n"
 - song: Called Me Higher
   artist: All Sons & Daughters
   enabled: true
@@ -730,13 +737,6 @@
     Nothing but the blood of Jesus,
     All my praise for this I bring—
     Nothing but the blood of Jesus.
-- song: Set A Fire
-  artist: Will Reagan
-  enabled: true
-  lyrics: "Set a fire down in my soul\nThat I can't contain \nThat I cant control,\nI
-    want more of you God\nI want more of you God\n\nThere's no place I would rather
-    be\nNo place I would rather be\nThere's no place I would rather be\nThan here
-    in your love,\nHere in your love\n"
 - song: Grace Alone
   artist: Dustin Kensrue
   enabled: false
