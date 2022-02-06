@@ -1,7 +1,7 @@
 ---
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -32,7 +32,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Be Thou My Vision
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |+
     Be Thou my Vision, O Lord of my heart;
     Naught be all else to me, save that Thou art;
@@ -61,7 +61,7 @@
 
 - song: You Are So Good To Me
   artist: Third Day
-  enabled: true
+  enabled: false
   lyrics: |-
     You are so good to me
     You heal my broken heart
@@ -86,7 +86,7 @@
     And I want to sing forever
 - song: Your Love is Strong
   artist: Jon Foreman
-  enabled: true
+  enabled: false
   lyrics: |-
     Heavenly Father
     You always amaze me
