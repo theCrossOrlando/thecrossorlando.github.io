@@ -2440,7 +2440,7 @@
     You're the richest of fair
 - song: Another In The Fire
   artist: Hillsong United
-  enabled: false
+  enabled: true
   lyrics: |+
     There's a grace when the heart is under fire
     Another way when the walls are closing in
