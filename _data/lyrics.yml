@@ -42,7 +42,7 @@
     You're never gonna let me down
 - song: Have Mercy
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Have Mercy on me,
     Have Mercy on me,
@@ -53,7 +53,7 @@
     Oh Lord, have mercy (x2)
 - song: Another In The Fire
   artist: Hillsong United
-  enabled: true
+  enabled: false
   lyrics: |+
     There's a grace when the heart is under fire
     Another way when the walls are closing in
@@ -116,7 +116,7 @@
 
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, Love that will not let me go
     I rest my weary soul in Thee
