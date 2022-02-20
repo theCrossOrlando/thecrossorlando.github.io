@@ -1,4 +1,45 @@
 ---
+- song: King of My Heart
+  artist: Bethel Music, Steffany Gretzinger
+  enabled: true
+  lyrics: |
+    Let the King of my heart
+    Be the mountain where I run
+    The fountain I drink from
+    Oh, He is my song
+    Let the King of my heart
+    Be the shadow where I hide
+    The ransom for my life
+    Oh, He is my song
+
+    'Cause You are good, good, oh oh
+    You are good, good, oh oh
+    'Cause You are good, good, oh oh
+    You are good, good, oh oh
+
+
+    Let the King of my heart
+    Be the wind inside my sails
+    The anchor in the waves
+    Oh oh, He is my song
+    Let the King of my heart
+    Be the fire inside my veins
+    The echo of my days
+    Oh oh, He is my song
+
+    'Cause You are good, good, oh oh
+    You are good, good, oh oh
+    'Cause You are good, good, oh oh
+    You are good, good, oh oh
+
+    You're never gonna let
+    You're never gonna let me down
+    You're never gonna let
+    You're never gonna let me down
+    You're never gonna let
+    You're never gonna let me down
+    You're never gonna let
+    You're never gonna let me down
 - song: Have Mercy
   artist: Sandra McCracken
   enabled: true
@@ -1245,47 +1286,6 @@
 
     Oh, let all that lives ever bless His name
     Oh, let all that lives ever bless His name
-- song: King of My Heart
-  artist: Bethel Music, Steffany Gretzinger
-  enabled: false
-  lyrics: |
-    Let the King of my heart
-    Be the mountain where I run
-    The fountain I drink from
-    Oh, He is my song
-    Let the King of my heart
-    Be the shadow where I hide
-    The ransom for my life
-    Oh, He is my song
-
-    'Cause You are good, good, oh oh
-    You are good, good, oh oh
-    'Cause You are good, good, oh oh
-    You are good, good, oh oh
-
-
-    Let the King of my heart
-    Be the wind inside my sails
-    The anchor in the waves
-    Oh oh, He is my song
-    Let the King of my heart
-    Be the fire inside my veins
-    The echo of my days
-    Oh oh, He is my song
-
-    'Cause You are good, good, oh oh
-    You are good, good, oh oh
-    'Cause You are good, good, oh oh
-    You are good, good, oh oh
-
-    You're never gonna let
-    You're never gonna let me down
-    You're never gonna let
-    You're never gonna let me down
-    You're never gonna let
-    You're never gonna let me down
-    You're never gonna let
-    You're never gonna let me down
 - song: Once and For All
   artist: Lauren Daigle
   enabled: false
