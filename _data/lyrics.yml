@@ -40,6 +40,154 @@
     You're never gonna let me down
     You're never gonna let
     You're never gonna let me down
+- song: Psalm 145
+  enabled: true
+  lyrics: |-
+    I will bless You all of my days LORD
+    I will praise you always, My God and King
+    I will bless and honor Your name LORD
+    Always and forever my soul will sing
+    Such a vast, unsearchable greatness
+    Great is Yahweh, worthy of all of praise
+    Let Your people sound through the ages
+    All Your awesome works till the end of days
+
+    We have seen Your splendor and glory
+    We have seen Your wonders and stand amazed
+    Every tongue will echo Your story
+    Everyone will sing of Your righteous ways
+
+    Oh, let all that lives ever bless His name
+
+    All that You have made, LORD, will praise You
+    All your saints will worship You in joyful strains
+    Praise the LORD who ransoms and rescues
+    Praise the God of Glory who ever reigns
+
+    He is Holy judging the wicked
+    Guarding those that love him and fear his name
+    All that call out, Yahweh is with them
+    He will hear their cries, He is strong to save
+
+    He upholds the one who is stumbling
+    Lifting up those burdened with heavy loads
+    Opening His hands to the hungry
+    Blessing all that look to their Lord in hope
+
+    He is tender toward His creation
+    He is faithful and gracious in all He does
+    Great is Yahweh, full of compassion
+    Slow to anger, filled with unfailing love
+
+    Oh, let all that lives ever bless His name
+    Oh, let all that lives ever bless His name
+- song: The House Of God, Forever
+  artist: Jon Foreman
+  enabled: true
+  lyrics: |-
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    With quiet streams
+
+    Even though I walk
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You are with me
+
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
+
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    By quiet streams
+
+    Even while I'm walking
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You're always with me
+
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
+
+    In the house of God forever
+    In the house of God forever
+- song: How Great Thou Art
+  artist: Hymn
+  enabled: true
+  lyrics: |-
+    Oh Lord my God
+    When I in awesome wonder
+    Consider all the worlds
+    Thy hands have made
+    I see the stars
+    I hear the rolling thunder
+    Thy power throughout
+    The universe displayed
+
+    Then sings my soul
+    My Savior, God, to Thee
+    How great thou art
+    How great thou art
+    Then sings my soul
+    My Savior, God, to Thee
+    How great Thou art
+    How great Thou art
+
+    And when I think of God,
+    His son not sparing,
+    Sent Him to die,
+    I scarce can take it in;
+    That on the cross, my burden
+    gladly bearing He bled and died
+    to take away my sin
+
+    Then sings my soul
+    My Savior, God, to Thee
+    How great thou art
+    How great thou art
+    Then sings my soul
+    My Savior, God, to Thee
+    How great Thou art
+    How great Thou art
+
+    When Christ shall come
+    With shout of acclamation
+    And take me home
+    What joy shall fill my heart
+    Then I shall bow
+    With humble adoration
+    And then proclaim My God
+    How great Thou art
+
+    Then sings my soul
+    My Savior, God, to Thee
+    How great Thou art
+    How great Thou art
+    Then sings my soul
+    My Savior, God, to Thee
+    How great Thou art
+    How great Thou art
+
+    How great Thou art
+    How great Thou art
 - song: Have Mercy
   artist: Sandra McCracken
   enabled: false
@@ -174,65 +322,6 @@
 
     And we will sing:
     Holy, holy, is the King of Kings
-- song: How Great Thou Art
-  artist: Hymn
-  enabled: true
-  lyrics: |-
-    Oh Lord my God
-    When I in awesome wonder
-    Consider all the worlds
-    Thy hands have made
-    I see the stars
-    I hear the rolling thunder
-    Thy power throughout
-    The universe displayed
-
-    Then sings my soul
-    My Savior, God, to Thee
-    How great thou art
-    How great thou art
-    Then sings my soul
-    My Savior, God, to Thee
-    How great Thou art
-    How great Thou art
-
-    And when I think of God,
-    His son not sparing,
-    Sent Him to die,
-    I scarce can take it in;
-    That on the cross, my burden
-    gladly bearing He bled and died
-    to take away my sin
-
-    Then sings my soul
-    My Savior, God, to Thee
-    How great thou art
-    How great thou art
-    Then sings my soul
-    My Savior, God, to Thee
-    How great Thou art
-    How great Thou art
-
-    When Christ shall come
-    With shout of acclamation
-    And take me home
-    What joy shall fill my heart
-    Then I shall bow
-    With humble adoration
-    And then proclaim My God
-    How great Thou art
-
-    Then sings my soul
-    My Savior, God, to Thee
-    How great Thou art
-    How great Thou art
-    Then sings my soul
-    My Savior, God, to Thee
-    How great Thou art
-    How great Thou art
-
-    How great Thou art
-    How great Thou art
 - song: Almighty God
   artist: Sandra McCracken
   enabled: false
@@ -1245,47 +1334,6 @@
     Let us become more aware of Your presence
     Let us experience the glory of Your goodness
     Here I stand
-- song: Psalm 145
-  enabled: false
-  lyrics: |-
-    I will bless You all of my days LORD
-    I will praise you always, My God and King
-    I will bless and honor Your name LORD
-    Always and forever my soul will sing
-    Such a vast, unsearchable greatness
-    Great is Yahweh, worthy of all of praise
-    Let Your people sound through the ages
-    All Your awesome works till the end of days
-
-    We have seen Your splendor and glory
-    We have seen Your wonders and stand amazed
-    Every tongue will echo Your story
-    Everyone will sing of Your righteous ways
-
-    Oh, let all that lives ever bless His name
-
-    All that You have made, LORD, will praise You
-    All your saints will worship You in joyful strains
-    Praise the LORD who ransoms and rescues
-    Praise the God of Glory who ever reigns
-
-    He is Holy judging the wicked
-    Guarding those that love him and fear his name
-    All that call out, Yahweh is with them
-    He will hear their cries, He is strong to save
-
-    He upholds the one who is stumbling
-    Lifting up those burdened with heavy loads
-    Opening His hands to the hungry
-    Blessing all that look to their Lord in hope
-
-    He is tender toward His creation
-    He is faithful and gracious in all He does
-    Great is Yahweh, full of compassion
-    Slow to anger, filled with unfailing love
-
-    Oh, let all that lives ever bless His name
-    Oh, let all that lives ever bless His name
 - song: Once and For All
   artist: Lauren Daigle
   enabled: false
@@ -1387,54 +1435,6 @@
     Give all I have just to know You
     Jesus, there's no one besides You
     Forever the hope in my heart
-- song: The House Of God, Forever
-  artist: Jon Foreman
-  enabled: false
-  lyrics: |-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest
-    In fields of green
-    With quiet streams
-
-    Even though I walk
-    Through the valley
-    Of death and dying
-    I will not fear
-    Cause you are with me
-    You are with me
-
-    Your shepherd's staff comforts me
-    You are my feast
-    In the presence of enemies
-    Surely goodness will follow me
-    Follow me
-    In the house of God forever
-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest
-    In fields of green
-    By quiet streams
-
-    Even while I'm walking
-    Through the valley
-    Of death and dying
-    I will not fear
-    Cause you are with me
-    You're always with me
-
-    Your shepherd's staff comforts me
-    You are my feast
-    In the presence of enemies
-    Surely goodness will follow me
-    Follow me
-    In the house of God forever
-
-    In the house of God forever
-    In the house of God forever
 - song: All Creatures of Our God and King
   artist: Francis of Assisi
   enabled: false
