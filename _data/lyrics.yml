@@ -1,7 +1,7 @@
 ---
 - song: King of My Heart
   artist: Bethel Music, Steffany Gretzinger
-  enabled: true
+  enabled: false
   lyrics: |
     Let the King of my heart
     Be the mountain where I run
@@ -41,7 +41,7 @@
     You're never gonna let
     You're never gonna let me down
 - song: Psalm 145
-  enabled: true
+  enabled: false
   lyrics: |-
     I will bless You all of my days LORD
     I will praise you always, My God and King
@@ -83,7 +83,7 @@
     Oh, let all that lives ever bless His name
 - song: The House Of God, Forever
   artist: Jon Foreman
-  enabled: true
+  enabled: false
   lyrics: |-
     God is my shepherd
     I won't be wanting
