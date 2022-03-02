@@ -1922,7 +1922,7 @@
 - song: Before the Throne
   artist: Dustin Kensrue
   enabled: false
-  lyrics: |-
+  lyrics: |
     Before the throne of God above
     I have a strong and perfect plea.
     A great high Priest whose Name is Love
@@ -1932,7 +1932,7 @@
     My name is written on His heart.
     I know that while in Heaven He stands
     No tongue can bid me thence depart
-    My life is hid with Christ on high
+    No tongue can bid me thence depart
 
     When Satan tempts me to despair
     And tells me of the guilt within
@@ -1942,6 +1942,7 @@
     My sinful soul is counted free
     For God the just is satisfied
     To look on Him and pardon me.
+    To look on Him and pardon me.
 
     Behold Him there the risen Lamb
     My perfect spotless righteousness
@@ -1950,6 +1951,8 @@
     One with Himself I cannot die
     My soul is purchased by His blood,
     My life is hid with Christ on high
+    With Christ my Savior and my God.
+    With Christ my Savior and my God.
 - song: Help Me Find My Own Flame
   artist: Will Reagan & United Pursuit
   enabled: false
