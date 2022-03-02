@@ -1,7 +1,7 @@
 ---
 - song: Brokeness Aside
   artist: Kat Albanese
-  enabled: Enable
+  enabled: 'true'
   lyrics: |-
     'Cause I am a sinner
     If it's not one thing it's another
