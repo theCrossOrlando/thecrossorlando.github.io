@@ -413,7 +413,7 @@
     Holy, holy, is the King of Kings
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: false
+  enabled: 'true'
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
