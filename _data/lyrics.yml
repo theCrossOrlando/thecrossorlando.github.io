@@ -40,18 +40,6 @@
 
     Oh, let all that lives ever bless His name
     Oh, let all that lives ever bless His name
-- song: Brokeness Aside
-  artist: Kat Albanese
-  enabled: false
-  lyrics: |-
-    'Cause I am a sinner
-    If it's not one thing it's another
-    Caught up in words
-    Tangled in lies
-    But You are a Savior
-    And You take brokenness aside
-    And make it beautiful
-    Beautiful
 - song: Called Me Higher
   artist: All Sons & Daughters
   enabled: 'true'
@@ -116,6 +104,18 @@
     Where You lead me
     Where You lead me Lord
     [x2]
+- song: Brokeness Aside
+  artist: Kat Albanese
+  enabled: false
+  lyrics: |-
+    'Cause I am a sinner
+    If it's not one thing it's another
+    Caught up in words
+    Tangled in lies
+    But You are a Savior
+    And You take brokenness aside
+    And make it beautiful
+    Beautiful
 - song: Sunday Meditation
   artist: ''
   enabled: false
