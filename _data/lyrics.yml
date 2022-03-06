@@ -104,34 +104,51 @@
     Where You lead me
     Where You lead me Lord
     [x2]
-- song: Brokeness Aside
-  artist: Kat Albanese
-  enabled: false
+- song: Once and For All
+  artist: Lauren Daigle
+  enabled: true
   lyrics: |-
-    'Cause I am a sinner
-    If it's not one thing it's another
-    Caught up in words
-    Tangled in lies
-    But You are a Savior
-    And You take brokenness aside
-    And make it beautiful
-    Beautiful
-- song: Sunday Meditation
-  artist: ''
-  enabled: false
-  lyrics: "Opening Prayer\n\nO God, you make us glad with the weekly remembrance of
-    the glorious resurrection of your Son our Lord: Give us this day such blessing
-    through our worship of you, that the week to come may be spent in your favor;
-    through Jesus Christ our Lord. Amen.\n…\n\nPsalm \n\n…\n\nThanksgiving Prayer\n\nThank
-    you most holy and gracious Lord that you so love me and you see beyond the weakness
-    and humanness of my actions. Thank you that you cleanse me with a love that marks
-    me yours forever. Thank you for the precious gift I receive through the blood
-    shed by your dear Son, Jesus Christ. Thank you for the comfort and strength I
-    receive through the power of the Holy Spirit. Thank you for love indescribable.
-    Thank you."
+    God I give You all I can today
+    These scattered ashes that I hid away
+    I lay them all at Your feet
+
+    From the corners of my deepest shame
+    The empty places where I've worn Your name
+    Show me the love I say I believe
+
+    Oh Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    There is victory in my Saviors loss
+    And In the crimson flowing from the cross
+    Pour over me, pour over me yes
+
+    Oh let this be where I die
+    My lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all, once and for all
+
+    Oh Lord I lay it down
+    Oh Lord I lay it down
+    Help me to lay it down
+    Oh Lord I lay it down
+
+    Oh let this be where I die
+    My Lord with thee crucified
+    Be lifted high as my Kingdom's fall
+    Once and for all
+
+    Once and for all
+    Oh once and for all
+    Once and for all
 - song: King of My Heart
   artist: Bethel Music, Steffany Gretzinger
-  enabled: false
+  enabled: true
   lyrics: |
     Let the King of my heart
     Be the mountain where I run
@@ -170,6 +187,31 @@
     You're never gonna let me down
     You're never gonna let
     You're never gonna let me down
+- song: Brokeness Aside
+  artist: Kat Albanese
+  enabled: false
+  lyrics: |-
+    'Cause I am a sinner
+    If it's not one thing it's another
+    Caught up in words
+    Tangled in lies
+    But You are a Savior
+    And You take brokenness aside
+    And make it beautiful
+    Beautiful
+- song: Sunday Meditation
+  artist: ''
+  enabled: false
+  lyrics: "Opening Prayer\n\nO God, you make us glad with the weekly remembrance of
+    the glorious resurrection of your Son our Lord: Give us this day such blessing
+    through our worship of you, that the week to come may be spent in your favor;
+    through Jesus Christ our Lord. Amen.\n…\n\nPsalm \n\n…\n\nThanksgiving Prayer\n\nThank
+    you most holy and gracious Lord that you so love me and you see beyond the weakness
+    and humanness of my actions. Thank you that you cleanse me with a love that marks
+    me yours forever. Thank you for the precious gift I receive through the blood
+    shed by your dear Son, Jesus Christ. Thank you for the comfort and strength I
+    receive through the power of the Holy Spirit. Thank you for love indescribable.
+    Thank you."
 - song: The House Of God, Forever
   artist: Jon Foreman
   enabled: false
@@ -1359,48 +1401,6 @@
     Let us become more aware of Your presence
     Let us experience the glory of Your goodness
     Here I stand
-- song: Once and For All
-  artist: Lauren Daigle
-  enabled: true
-  lyrics: |-
-    God I give You all I can today
-    These scattered ashes that I hid away
-    I lay them all at Your feet
-
-    From the corners of my deepest shame
-    The empty places where I've worn Your name
-    Show me the love I say I believe
-
-    Oh Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    There is victory in my Saviors loss
-    And In the crimson flowing from the cross
-    Pour over me, pour over me yes
-
-    Oh let this be where I die
-    My lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all, once and for all
-
-    Oh Lord I lay it down
-    Oh Lord I lay it down
-    Help me to lay it down
-    Oh Lord I lay it down
-
-    Oh let this be where I die
-    My Lord with thee crucified
-    Be lifted high as my Kingdom's fall
-    Once and for all
-
-    Once and for all
-    Oh once and for all
-    Once and for all
 - song: Scandal of Grace
   artist: Hillsong United
   enabled: false
