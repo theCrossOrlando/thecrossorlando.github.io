@@ -1716,7 +1716,7 @@
     I'll be your friend, I want to see through Your eyes
 - song: Come Thou Fount
   artist: Chris Tomlin
-  enabled: false
+  enabled: true
   lyrics: |-
     Come thou fount of every blessing
     Tune my heart to sing Thy grace
