@@ -1,6 +1,6 @@
 ---
 - song: Psalm 145
-  enabled: true
+  enabled: false
   lyrics: |-
     I will bless You all of my days LORD
     I will praise you always, My God and King
@@ -42,7 +42,7 @@
     Oh, let all that lives ever bless His name
 - song: Called Me Higher
   artist: All Sons & Daughters
-  enabled: 'true'
+  enabled: false
   lyrics: |-
     I could just sit
     I could just sit and wait for all Your goodness
@@ -106,7 +106,7 @@
     [x2]
 - song: Once and For All
   artist: Lauren Daigle
-  enabled: true
+  enabled: false
   lyrics: |-
     God I give You all I can today
     These scattered ashes that I hid away
@@ -148,7 +148,7 @@
     Once and for all
 - song: King of My Heart
   artist: Bethel Music, Steffany Gretzinger
-  enabled: true
+  enabled: false
   lyrics: |
     Let the King of my heart
     Be the mountain where I run
@@ -189,7 +189,7 @@
     You're never gonna let me down
 - song: Come Thou Fount
   artist: ''
-  enabled: true
+  enabled: false
   lyrics: |-
     Come thou fount of every blessing
     Tune my heart to sing Thy grace
@@ -1726,7 +1726,7 @@
     below\nPraise Him above ye heavenly host\nPraise Father Son and Holy Ghost\nAmen "
 - song: Not in a Hurry
   artist: Will Reagan
-  enabled: false
+  enabled: true
   lyrics: |
     Lord I don't want to rush on ahead
     In my own strength
