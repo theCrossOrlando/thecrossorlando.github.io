@@ -1,4 +1,145 @@
 ---
+- song: Not in a Hurry
+  artist: Will Reagan
+  enabled: true
+  lyrics: |
+    Lord I don't want to rush on ahead
+    In my own strength
+    When You're right here
+
+    I'm not in a hurry
+    When it comes to Your spirit
+    When it comes to Your presence
+    When it comes to Your voice
+    I'm learning to listen
+    Just to rest in Your nearness
+    I'm starting to notice
+    You are speaking
+
+    Lord I want to love like You
+    I want to feel what You feel
+    I want to see what You see
+
+    Open my eyes, I want to see You more clearly
+    Open my ears, I want to hear You speak
+    Tell me your thoughts whats on Your mind
+    I'll be your friend, I want to see through Your eyes
+- song: Closer
+  enabled: true
+  lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
+    the raging storm\nWould you hold me in your arms, arms\n\n'Cause I need you, how
+    I need you\n\nI need your love like I need water\nI need your love like I need
+    breath inside of my lungs\nBurn in my heart just like a fire, come and take me
+    over\nJesus draw me closer to your heart\nTo your heart\n\nAnd through the wind
+    and rain\nI can hear you call my name, name\nWhen the nights get rough, I will
+    still sing out your praise\n'Cause I need you, how I need you \n\nI need your
+    love like I need water\nAnd I need your love like I need breath inside of my lungs\nBurn
+    in my heart just like a fire, come and take me over\nJesus draw me closer to your
+    heart\nTo your heart, your heart\n\nAnd closer than my every breath\nCloser than
+    my every step\nCloser than the song I sing\nCloser than anything\n\nI need your
+    love like I need water\nI need your love like I need breath inside of my lungs\nBurn
+    in my heart just like a fire, come and take me over\nJesus draw me closer to your
+    heart\nTo your heart, your heart"
+  artist: Brandon Lake
+- song: Oh Love That Will Not Let Me Go
+  artist: Ascend the Hill
+  enabled: true
+  lyrics: |-
+    Oh, Love that will not let me go
+    I rest my weary soul in Thee
+    I give You back the life I owe
+    That in Thine ocean's depths its flow
+    May richer, fuller be
+
+    My life is not my own
+    It's Yours
+    My life is not my own
+    I know it's Yours
+
+    Oh, Light that follows all my way
+    I yield my flickering torch to Thee
+    My heart restores its borrowed ray
+    That in Thy sunshine's blaze its day
+    May brighter, fairer be
+
+    So light a fire in my heart
+    And I'll burn for You
+    So light a fire in my heart
+    And I'll burn for You
+
+    Oh, Joy, that seeks me through the pain
+    I cannot close my heart to Thee
+    I trace the rainbow through the rain
+    And feel the promise is not in vain
+    That morn shall tearless be
+
+    So anoint me with joy
+    And joyful I will be
+    So anoint me with joy
+    And joyful I will be
+
+    Oh, cross that's lifing up my head
+    I dare not ask to fly from thee
+    I lay in dust life's glory dead
+    And from the ground there blossoms red
+    Life that shall endless be
+
+    We will sing:
+    Holy, holy
+    Is the King of Kings
+    And we will sing:
+    Holy, holy, is the King of Kings
+    (repeat)
+
+    On that day we will sing:
+    Holy, holy
+    Is the King of Kings
+
+    We will join with the angels and we will sing:
+    Holy, holy
+    Is the King of Kings
+
+    And we will sing:
+    Holy, holy, is the King of Kings
+- song: In Christ Alone
+  artist: Natalie Grant
+  enabled: true
+  lyrics: |
+    In Christ alone my hope is found
+    He is my light, my strength, my song
+    This Cornerstone, this solid ground
+    Firm through the fiercest drought and storm
+    What heights of love, what depths of peace
+    When fears are stilled, when strivings cease
+    My Comforter, my All in All
+    Here in the love of Christ I stand
+
+    In Christ alone, who took on flesh
+    Fullness of God in helpless babe
+    This gift of love and righteousness
+    Scorned by the ones He came to save
+    'Til on that cross as Jesus died
+    The wrath of God was satisfied
+    For every sin on Him was laid
+    Here in the death of Christ I live, I live
+
+    There in the ground His body lay
+    Light of the world by darkness slain
+    Then bursting forth in glorious Day
+    Up from the grave He rose again
+    And as He stands in victory
+    Sin's curse has lost its grip on me
+    For I am His and He is mine
+    Bought with the precious blood of Christ
+
+    No guilt in life, no fear in death
+    This is the power of Christ in me
+    From life's first cry to final breath
+    Jesus commands my destiny
+    No power of hell, no scheme of man
+    Can ever pluck me from His hand
+    Till He returns or calls me home
+    Here in the power of Christ I'll stand
 - song: Psalm 145
   enabled: false
   lyrics: |-
@@ -428,66 +569,6 @@
     And I know I will never be alone
 
 
-- song: Oh Love That Will Not Let Me Go
-  artist: Ascend the Hill
-  enabled: false
-  lyrics: |-
-    Oh, Love that will not let me go
-    I rest my weary soul in Thee
-    I give You back the life I owe
-    That in Thine ocean's depths its flow
-    May richer, fuller be
-
-    My life is not my own
-    It's Yours
-    My life is not my own
-    I know it's Yours
-
-    Oh, Light that follows all my way
-    I yield my flickering torch to Thee
-    My heart restores its borrowed ray
-    That in Thy sunshine's blaze its day
-    May brighter, fairer be
-
-    So light a fire in my heart
-    And I'll burn for You
-    So light a fire in my heart
-    And I'll burn for You
-
-    Oh, Joy, that seeks me through the pain
-    I cannot close my heart to Thee
-    I trace the rainbow through the rain
-    And feel the promise is not in vain
-    That morn shall tearless be
-
-    So anoint me with joy
-    And joyful I will be
-    So anoint me with joy
-    And joyful I will be
-
-    Oh, cross that's lifing up my head
-    I dare not ask to fly from thee
-    I lay in dust life's glory dead
-    And from the ground there blossoms red
-    Life that shall endless be
-
-    We will sing:
-    Holy, holy
-    Is the King of Kings
-    And we will sing:
-    Holy, holy, is the King of Kings
-    (repeat)
-
-    On that day we will sing:
-    Holy, holy
-    Is the King of Kings
-
-    We will join with the angels and we will sing:
-    Holy, holy
-    Is the King of Kings
-
-    And we will sing:
-    Holy, holy, is the King of Kings
 - song: Almighty God
   artist: Sandra McCracken
   enabled: false
@@ -1529,45 +1610,6 @@
 
     O praise Him! O praise Him!
     Alleluia! Alleluia!  Alleluia!
-- song: In Christ Alone
-  artist: Natalie Grant
-  enabled: false
-  lyrics: |
-    In Christ alone my hope is found
-    He is my light, my strength, my song
-    This Cornerstone, this solid ground
-    Firm through the fiercest drought and storm
-    What heights of love, what depths of peace
-    When fears are stilled, when strivings cease
-    My Comforter, my All in All
-    Here in the love of Christ I stand
-
-    In Christ alone, who took on flesh
-    Fullness of God in helpless babe
-    This gift of love and righteousness
-    Scorned by the ones He came to save
-    'Til on that cross as Jesus died
-    The wrath of God was satisfied
-    For every sin on Him was laid
-    Here in the death of Christ I live, I live
-
-    There in the ground His body lay
-    Light of the world by darkness slain
-    Then bursting forth in glorious Day
-    Up from the grave He rose again
-    And as He stands in victory
-    Sin's curse has lost its grip on me
-    For I am His and He is mine
-    Bought with the precious blood of Christ
-
-    No guilt in life, no fear in death
-    This is the power of Christ in me
-    From life's first cry to final breath
-    Jesus commands my destiny
-    No power of hell, no scheme of man
-    Can ever pluck me from His hand
-    Till He returns or calls me home
-    Here in the power of Christ I'll stand
 - song: Heart Won't Stop
   artist: John Mark McMillan & Sarah McMillan
   enabled: false
@@ -1724,31 +1766,6 @@
   enabled: false
   lyrics: "Praise God from Whom all blessings flow\nPraise Him all creatures here
     below\nPraise Him above ye heavenly host\nPraise Father Son and Holy Ghost\nAmen "
-- song: Not in a Hurry
-  artist: Will Reagan
-  enabled: true
-  lyrics: |
-    Lord I don't want to rush on ahead
-    In my own strength
-    When You're right here
-
-    I'm not in a hurry
-    When it comes to Your spirit
-    When it comes to Your presence
-    When it comes to Your voice
-    I'm learning to listen
-    Just to rest in Your nearness
-    I'm starting to notice
-    You are speaking
-
-    Lord I want to love like You
-    I want to feel what You feel
-    I want to see what You see
-
-    Open my eyes, I want to see You more clearly
-    Open my ears, I want to hear You speak
-    Tell me your thoughts whats on Your mind
-    I'll be your friend, I want to see through Your eyes
 - song: May Prayer
   artist: ''
   enabled: false
@@ -1788,23 +1805,6 @@
     There is power in the Name
 
     Jesus
-- song: Closer
-  enabled: false
-  lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
-    the raging storm\nWould you hold me in your arms, arms\n\n'Cause I need you, how
-    I need you\n\nI need your love like I need water\nI need your love like I need
-    breath inside of my lungs\nBurn in my heart just like a fire, come and take me
-    over\nJesus draw me closer to your heart\nTo your heart\n\nAnd through the wind
-    and rain\nI can hear you call my name, name\nWhen the nights get rough, I will
-    still sing out your praise\n'Cause I need you, how I need you \n\nI need your
-    love like I need water\nAnd I need your love like I need breath inside of my lungs\nBurn
-    in my heart just like a fire, come and take me over\nJesus draw me closer to your
-    heart\nTo your heart, your heart\n\nAnd closer than my every breath\nCloser than
-    my every step\nCloser than the song I sing\nCloser than anything\n\nI need your
-    love like I need water\nI need your love like I need breath inside of my lungs\nBurn
-    in my heart just like a fire, come and take me over\nJesus draw me closer to your
-    heart\nTo your heart, your heart"
-  artist: Brandon Lake
 - song: You're Beautiful
   artist: Phil Wickham
   enabled: false
