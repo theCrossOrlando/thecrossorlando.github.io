@@ -1,4 +1,132 @@
 ---
+- song: Your Love Changes Everything
+  artist: United Pursuit
+  enabled: true
+  lyrics: |-
+    Lord, you spoke those words
+    You spoke so tenderly
+    Now I choose to believe
+    You love me, you love me, you love me
+
+    Lord, you spoke those words
+    You spoke so tenderly
+    Now I choose to believe
+    You love me, you love me, you love me
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    When my heart is frail
+    And when I’m incomplete
+    I will choose to receive
+    You love me, you love me, you love me
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+
+    You never fail
+    When I look at you
+    You never fail
+    And I trust in you
+    And you never let go
+    You never let go of me
+    You never let go
+
+    You never fail
+    When I look at you
+    You never fail
+    And I trust in you
+    Lord, you never let go
+    You never let go of me
+    You never let go
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+    [Repeat 3x]
+
+    Your love changes everything
+    Your love changes everything
+    Your love changes everything
+
+    Lord you spoke those words
+    You spoke so tenderly
+    And now I choose to believe
+    You love me, you love me, you love me
+- song: Come As You Are
+  artist: Crowder
+  enabled: true
+  lyrics: |-
+    Come out of sadness
+    From wherever you've been
+    Come broken hearted
+    Let rescue begin
+    Come find your mercy
+    Oh sinner come kneel
+    Earth has no sorrow
+    That heaven can't heal
+    Earth has no sorrow
+    That heaven can't heal
+
+    So lay down your burdens
+    Lay down your shame
+    All who are broken
+    Lift up your face
+    Oh wanderer come home
+    You're not too far
+    So lay down your hurt
+    Lay down your heart
+    Come as you are
+
+    There's hope for the hopeless
+    And all those who've strayed
+    Come sit at the table
+    Come taste the grace
+    There's rest for the weary
+    Rest that endures
+    Earth has no sorrow
+    That heaven can't cure
+    Earth has no sorrow
+    That heaven can't cure
+
+    So lay down your burdens
+    Lay down your shame
+    All who are broken
+    Lift up your face
+    Oh wanderer come home
+    You're not too far
+    Lay down your hurt lay down your heart
+    Come as you are
+
+    There's joy for the morning
+    Oh sinner be still
+    Earth has no sorrow
+    That heaven can't heal
+    Earth has no sorrow
+    That heaven can't heal
+
+    So lay down your burdens
+    Lay down your shame
+    All who are broken
+    Lift up your face
+    Oh wanderer come home
+    You're not too far
+    Lay down your hurt lay down your heart
+    Come as you are
 - song: Help Me Find My Own Flame
   artist: Will Reagan & United Pursuit
   enabled: true
@@ -900,10 +1028,10 @@
     mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
     sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
     now. "
-- song: Future / Past
+- song: 'Future / Past; How He Loves Us '
   artist: John Mark McMillan
-  enabled: false
-  lyrics: |
+  enabled: true
+  lyrics: |-
     You hold the reigns on the sun and the moon,
     Like horses driven by kings
     You cover the mountains, the valleys below,
@@ -958,6 +1086,13 @@
     You are my first
     You are my last
     You are my future and my past
+
+    ––
+
+    Oh, He loves us,
+    Oh, how He loves us
+    Oh, how He loves us
+    Oh, how He loves
 - song: Thy Mercy
   artist: Caedmon's Call
   enabled: false
@@ -3068,74 +3203,6 @@
 
     Let us find our rest in Thee.
     Let us find our rest in Thee.
-- song: Your Love Changes Everything
-  artist: United Pursuit
-  enabled: false
-  lyrics: |-
-    Lord, you spoke those words
-    You spoke so tenderly
-    Now I choose to believe
-    You love me, you love me, you love me
-
-    Lord, you spoke those words
-    You spoke so tenderly
-    Now I choose to believe
-    You love me, you love me, you love me
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-
-    When my heart is frail
-    And when I’m incomplete
-    I will choose to receive
-    You love me, you love me, you love me
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-
-    You never fail
-    When I look at you
-    You never fail
-    And I trust in you
-    And you never let go
-    You never let go of me
-    You never let go
-
-    You never fail
-    When I look at you
-    You never fail
-    And I trust in you
-    Lord, you never let go
-    You never let go of me
-    You never let go
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-    [Repeat 3x]
-
-    Your love changes everything
-    Your love changes everything
-    Your love changes everything
-
-    Lord you spoke those words
-    You spoke so tenderly
-    And now I choose to believe
-    You love me, you love me, you love me
 - song: Where Did My Hope Go
   artist: Kat Porter
   enabled: false
