@@ -1,7 +1,71 @@
 ---
+- song: Called Me Higher
+  artist: All Sons & Daughters
+  enabled: true
+  lyrics: |-
+    I could just sit
+    I could just sit and wait for all Your goodness
+    Hope to feel Your presence
+    And I could just stay
+    I could just stay right where I am and hope to feel You
+    Hope to feel something again
+
+    And I could hold on
+    I could hold on to who I am and never let You
+    Change me from the inside
+    And I could be safe
+    I could be safe here in Your arms and never leave home
+    Never let these walls down
+
+    But You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    You have called me higher
+    You have called me deeper
+    And I'll go where You lead me Lord
+    Where You lead me
+    Where You lead me Lord
+
+    And I could hold on
+    I could hold on to who I am and never let You
+    Change me from the inside
+    And I could be safe
+    I could be safe here in Your arms and never leave home
+    Never let these walls down
+
+    But You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    You have called me higher
+    You have called me deeper
+    And I'll go where You lead me Lord
+    Where You lead me
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+    So let Your mercy
+
+    And I will be Yours, oh
+    I will be Yours for all my life
+    So let Your mercy light the path before me
+
+    Cause You have called me higher
+    You have called me deeper
+    And I'll go where You will lead me Lord
+    [x4]
+
+    Where You lead me
+    Where You lead me Lord
+    [x2]
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -446,70 +510,6 @@
 
     Oh, let all that lives ever bless His name
     Oh, let all that lives ever bless His name
-- song: Called Me Higher
-  artist: All Sons & Daughters
-  enabled: false
-  lyrics: |-
-    I could just sit
-    I could just sit and wait for all Your goodness
-    Hope to feel Your presence
-    And I could just stay
-    I could just stay right where I am and hope to feel You
-    Hope to feel something again
-
-    And I could hold on
-    I could hold on to who I am and never let You
-    Change me from the inside
-    And I could be safe
-    I could be safe here in Your arms and never leave home
-    Never let these walls down
-
-    But You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    You have called me higher
-    You have called me deeper
-    And I'll go where You lead me Lord
-    Where You lead me
-    Where You lead me Lord
-
-    And I could hold on
-    I could hold on to who I am and never let You
-    Change me from the inside
-    And I could be safe
-    I could be safe here in Your arms and never leave home
-    Never let these walls down
-
-    But You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    You have called me higher
-    You have called me deeper
-    And I'll go where You lead me Lord
-    Where You lead me
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-    So let Your mercy
-
-    And I will be Yours, oh
-    I will be Yours for all my life
-    So let Your mercy light the path before me
-
-    Cause You have called me higher
-    You have called me deeper
-    And I'll go where You will lead me Lord
-    [x4]
-
-    Where You lead me
-    Where You lead me Lord
-    [x2]
 - song: Once and For All
   artist: Lauren Daigle
   enabled: false
@@ -773,7 +773,7 @@
     Oh Lord, have mercy (x2)
 - song: Another In The Fire
   artist: Hillsong United
-  enabled: false
+  enabled: true
   lyrics: |+
     There's a grace when the heart is under fire
     Another way when the walls are closing in
