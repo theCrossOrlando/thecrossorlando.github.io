@@ -74,7 +74,7 @@
     I will reach the end by grace and grace alone
 - song: Another In The Fire
   artist: Hillsong United
-  enabled: true
+  enabled: false
   lyrics: |+
     There's a grace when the heart is under fire
     Another way when the walls are closing in
@@ -137,7 +137,7 @@
 
 - song: The Kingdom is Yours
   artist: Common Hymnal
-  enabled: true
+  enabled: false
   lyrics: "Blessed are the ones who do not bury\nAll the broken pieces of their heart\nBlessed
     are the tears of all the weary\nPouring like a sky of falling stars\n\nBlessed
     are the wounded ones in mourning\nBrave enough to show the Lord their scars\nBlessed
@@ -159,7 +159,7 @@
     your eyes on Him "
 - song: Called Me Higher
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     I could just sit
     I could just sit and wait for all Your goodness
