@@ -71,7 +71,7 @@
     in your love,\nHere in your love\n"
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
-  enabled: true
+  enabled: false
   lyrics: |-
     Come, ye sinners, poor and needy,
     Weak and wounded, sick and sore;
