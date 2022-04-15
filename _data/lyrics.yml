@@ -1,7 +1,7 @@
 ---
 - song: You're Beautiful
   artist: Phil Wickham
-  enabled: true
+  enabled: false
   lyrics: |-
     I see Your face in every sunrise
     The colors of the morning are inside Your eyes
@@ -47,7 +47,7 @@
     You're beautiful
 - song: Never Going Back
   artist: United Pursuit
-  enabled: true
+  enabled: false
   lyrics: "Faithful One, no matter how far I run\nYou lead me home, You extend Your
     love\nPatiently, fathering the orphan in me\nYou say I am Yours\n\nI never am
     alone\nI never am alone\nYou found me \n(Repeat)\n\nAnd I've made up my mind\nI'm
@@ -64,7 +64,7 @@
     there's nothing You haven't done\nYou make my soul alive\nYou put Your love inside\n(Repeat)\n"
 - song: Set A Fire
   artist: Will Reagan
-  enabled: true
+  enabled: false
   lyrics: "Set a fire down in my soul\nThat I can't contain \nThat I cant control,\nI
     want more of you God\nI want more of you God\n\nThere's no place I would rather
     be\nNo place I would rather be\nThere's no place I would rather be\nThan here
@@ -1787,7 +1787,7 @@
     Here I stand
 - song: Scandal of Grace
   artist: Hillsong United
-  enabled: false
+  enabled: true
   lyrics: |-
     [Verse 1]
     Grace, what have You done?
