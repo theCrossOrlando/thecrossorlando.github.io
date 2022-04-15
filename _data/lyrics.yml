@@ -1,4 +1,63 @@
 ---
+- song: Scandal of Grace
+  artist: Hillsong United
+  enabled: true
+  lyrics: |-
+    [Verse 1]
+    Grace, what have You done?
+    Murdered for me on that cross
+    Accused in absence of wrong
+    My sin washed away in Your blood
+
+    [Pre-Chorus 1]
+    Too much to make sense of it all
+    I know that Your love breaks my fall
+    The scandal of grace, You died in my place
+    So my soul will live
+
+    [Chorus]
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+
+    [Verse 2]
+    Death, where is your sting?
+    Your power is as dead as my sin
+    The cross has taught me to live
+    And mercy, my heart now to sing
+
+    [Pre-Chorus 2]
+    The day and its trouble shall come
+    I know that Your strength is enough
+    The scandal of grace, You died in my place
+    So my soul will live
+
+    [Chorus]
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+
+    [Bridge]
+    And it's all, because of You, Jesus
+    It's all, because of You, Jesus
+    It's all, because of Your love
+    That my soul will live
+
+    [Chorus]
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
+    Oh to be like You
+    Give all I have just to know You
+    Jesus, there's no one besides You
+    Forever the hope in my heart
 - song: You're Beautiful
   artist: Phil Wickham
   enabled: false
@@ -1785,65 +1844,6 @@
     Let us become more aware of Your presence
     Let us experience the glory of Your goodness
     Here I stand
-- song: Scandal of Grace
-  artist: Hillsong United
-  enabled: true
-  lyrics: |-
-    [Verse 1]
-    Grace, what have You done?
-    Murdered for me on that cross
-    Accused in absence of wrong
-    My sin washed away in Your blood
-
-    [Pre-Chorus 1]
-    Too much to make sense of it all
-    I know that Your love breaks my fall
-    The scandal of grace, You died in my place
-    So my soul will live
-
-    [Chorus]
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-
-    [Verse 2]
-    Death, where is your sting?
-    Your power is as dead as my sin
-    The cross has taught me to live
-    And mercy, my heart now to sing
-
-    [Pre-Chorus 2]
-    The day and its trouble shall come
-    I know that Your strength is enough
-    The scandal of grace, You died in my place
-    So my soul will live
-
-    [Chorus]
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-
-    [Bridge]
-    And it's all, because of You, Jesus
-    It's all, because of You, Jesus
-    It's all, because of Your love
-    That my soul will live
-
-    [Chorus]
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
-    Oh to be like You
-    Give all I have just to know You
-    Jesus, there's no one besides You
-    Forever the hope in my heart
 - song: All Creatures of Our God and King
   artist: Francis of Assisi
   enabled: false
@@ -2519,7 +2519,7 @@
     Come Lord Jesus, come
 - song: How Deep The Father's Love For Us
   artist: 
-  enabled: false
+  enabled: true
   lyrics: "How deep the Father’s love for us,\nHow vast beyond all measure,\nThat
     He should give His only Son\nTo make a wretch His treasure.\nHow great the pain
     of searing loss -\nThe Father turns His face away,\nAs wounds which mar the Chosen
