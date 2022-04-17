@@ -1,7 +1,46 @@
 ---
+- song: In Christ Alone
+  artist: Natalie Grant
+  enabled: false
+  lyrics: |
+    In Christ alone my hope is found
+    He is my light, my strength, my song
+    This Cornerstone, this solid ground
+    Firm through the fiercest drought and storm
+    What heights of love, what depths of peace
+    When fears are stilled, when strivings cease
+    My Comforter, my All in All
+    Here in the love of Christ I stand
+
+    In Christ alone, who took on flesh
+    Fullness of God in helpless babe
+    This gift of love and righteousness
+    Scorned by the ones He came to save
+    'Til on that cross as Jesus died
+    The wrath of God was satisfied
+    For every sin on Him was laid
+    Here in the death of Christ I live, I live
+
+    There in the ground His body lay
+    Light of the world by darkness slain
+    Then bursting forth in glorious Day
+    Up from the grave He rose again
+    And as He stands in victory
+    Sin's curse has lost its grip on me
+    For I am His and He is mine
+    Bought with the precious blood of Christ
+
+    No guilt in life, no fear in death
+    This is the power of Christ in me
+    From life's first cry to final breath
+    Jesus commands my destiny
+    No power of hell, no scheme of man
+    Can ever pluck me from His hand
+    Till He returns or calls me home
+    Here in the power of Christ I'll stand
 - song: How Deep The Father's Love For Us
   artist: 
-  enabled: true
+  enabled: false
   lyrics: "How deep the Father’s love for us,\nHow vast beyond all measure,\nThat
     He should give His only Son\nTo make a wretch His treasure.\nHow great the pain
     of searing loss -\nThe Father turns His face away,\nAs wounds which mar the Chosen
@@ -14,7 +53,7 @@
     this I know with all my heart -\nHis wounds have paid my ransom. "
 - song: Scandal of Grace
   artist: Hillsong United
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
     Grace, what have You done?
@@ -73,7 +112,7 @@
     Forever the hope in my heart
 - song: Wonderous Cross
   artist: ''
-  enabled: true
+  enabled: false
   lyrics: |-
     When I survey the wondrous cross
     On which the Prince of glory died,
@@ -753,45 +792,6 @@
 
     And we will sing:
     Holy, holy, is the King of Kings
-- song: In Christ Alone
-  artist: Natalie Grant
-  enabled: false
-  lyrics: |
-    In Christ alone my hope is found
-    He is my light, my strength, my song
-    This Cornerstone, this solid ground
-    Firm through the fiercest drought and storm
-    What heights of love, what depths of peace
-    When fears are stilled, when strivings cease
-    My Comforter, my All in All
-    Here in the love of Christ I stand
-
-    In Christ alone, who took on flesh
-    Fullness of God in helpless babe
-    This gift of love and righteousness
-    Scorned by the ones He came to save
-    'Til on that cross as Jesus died
-    The wrath of God was satisfied
-    For every sin on Him was laid
-    Here in the death of Christ I live, I live
-
-    There in the ground His body lay
-    Light of the world by darkness slain
-    Then bursting forth in glorious Day
-    Up from the grave He rose again
-    And as He stands in victory
-    Sin's curse has lost its grip on me
-    For I am His and He is mine
-    Bought with the precious blood of Christ
-
-    No guilt in life, no fear in death
-    This is the power of Christ in me
-    From life's first cry to final breath
-    Jesus commands my destiny
-    No power of hell, no scheme of man
-    Can ever pluck me from His hand
-    Till He returns or calls me home
-    Here in the power of Christ I'll stand
 - song: Psalm 145
   enabled: false
   lyrics: |-
