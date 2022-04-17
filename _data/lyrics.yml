@@ -1,7 +1,7 @@
 ---
 - song: In Christ Alone
   artist: Natalie Grant
-  enabled: false
+  enabled: true
   lyrics: |
     In Christ alone my hope is found
     He is my light, my strength, my song
