@@ -1,4 +1,124 @@
 ---
+- song: Oh Love That Will Not Let Me Go
+  artist: Ascend the Hill
+  enabled: true
+  lyrics: |-
+    Oh, Love that will not let me go
+    I rest my weary soul in Thee
+    I give You back the life I owe
+    That in Thine ocean's depths its flow
+    May richer, fuller be
+
+    My life is not my own
+    It's Yours
+    My life is not my own
+    I know it's Yours
+
+    Oh, Light that follows all my way
+    I yield my flickering torch to Thee
+    My heart restores its borrowed ray
+    That in Thy sunshine's blaze its day
+    May brighter, fairer be
+
+    So light a fire in my heart
+    And I'll burn for You
+    So light a fire in my heart
+    And I'll burn for You
+
+    Oh, Joy, that seeks me through the pain
+    I cannot close my heart to Thee
+    I trace the rainbow through the rain
+    And feel the promise is not in vain
+    That morn shall tearless be
+
+    So anoint me with joy
+    And joyful I will be
+    So anoint me with joy
+    And joyful I will be
+
+    Oh, cross that's lifing up my head
+    I dare not ask to fly from thee
+    I lay in dust life's glory dead
+    And from the ground there blossoms red
+    Life that shall endless be
+
+    We will sing:
+    Holy, holy
+    Is the King of Kings
+    And we will sing:
+    Holy, holy, is the King of Kings
+    (repeat)
+
+    On that day we will sing:
+    Holy, holy
+    Is the King of Kings
+
+    We will join with the angels and we will sing:
+    Holy, holy
+    Is the King of Kings
+
+    And we will sing:
+    Holy, holy, is the King of Kings
+- song: Come As You Are
+  artist: Crowder
+  enabled: true
+  lyrics: |-
+    Come out of sadness
+    From wherever you've been
+    Come broken hearted
+    Let rescue begin
+    Come find your mercy
+    Oh sinner come kneel
+    Earth has no sorrow
+    That heaven can't heal
+    Earth has no sorrow
+    That heaven can't heal
+
+    So lay down your burdens
+    Lay down your shame
+    All who are broken
+    Lift up your face
+    Oh wanderer come home
+    You're not too far
+    So lay down your hurt
+    Lay down your heart
+    Come as you are
+
+    There's hope for the hopeless
+    And all those who've strayed
+    Come sit at the table
+    Come taste the grace
+    There's rest for the weary
+    Rest that endures
+    Earth has no sorrow
+    That heaven can't cure
+    Earth has no sorrow
+    That heaven can't cure
+
+    So lay down your burdens
+    Lay down your shame
+    All who are broken
+    Lift up your face
+    Oh wanderer come home
+    You're not too far
+    Lay down your hurt lay down your heart
+    Come as you are
+
+    There's joy for the morning
+    Oh sinner be still
+    Earth has no sorrow
+    That heaven can't heal
+    Earth has no sorrow
+    That heaven can't heal
+
+    So lay down your burdens
+    Lay down your shame
+    All who are broken
+    Lift up your face
+    Oh wanderer come home
+    You're not too far
+    Lay down your hurt lay down your heart
+    Come as you are
 - song: Death in His Grave
   artist: John Mark McMillan
   enabled: false
@@ -570,66 +690,6 @@
     To you all hearts are open, Almighty God…
 
     Hallelujah, hallelujah, hallelujah, hallelujah
-- song: Come As You Are
-  artist: Crowder
-  enabled: false
-  lyrics: |-
-    Come out of sadness
-    From wherever you've been
-    Come broken hearted
-    Let rescue begin
-    Come find your mercy
-    Oh sinner come kneel
-    Earth has no sorrow
-    That heaven can't heal
-    Earth has no sorrow
-    That heaven can't heal
-
-    So lay down your burdens
-    Lay down your shame
-    All who are broken
-    Lift up your face
-    Oh wanderer come home
-    You're not too far
-    So lay down your hurt
-    Lay down your heart
-    Come as you are
-
-    There's hope for the hopeless
-    And all those who've strayed
-    Come sit at the table
-    Come taste the grace
-    There's rest for the weary
-    Rest that endures
-    Earth has no sorrow
-    That heaven can't cure
-    Earth has no sorrow
-    That heaven can't cure
-
-    So lay down your burdens
-    Lay down your shame
-    All who are broken
-    Lift up your face
-    Oh wanderer come home
-    You're not too far
-    Lay down your hurt lay down your heart
-    Come as you are
-
-    There's joy for the morning
-    Oh sinner be still
-    Earth has no sorrow
-    That heaven can't heal
-    Earth has no sorrow
-    That heaven can't heal
-
-    So lay down your burdens
-    Lay down your shame
-    All who are broken
-    Lift up your face
-    Oh wanderer come home
-    You're not too far
-    Lay down your hurt lay down your heart
-    Come as you are
 - song: 'Future / Past; How He Loves Us '
   artist: John Mark McMillan
   enabled: false
@@ -778,66 +838,6 @@
     in my heart just like a fire, come and take me over\nJesus draw me closer to your
     heart\nTo your heart, your heart"
   artist: Brandon Lake
-- song: Oh Love That Will Not Let Me Go
-  artist: Ascend the Hill
-  enabled: false
-  lyrics: |-
-    Oh, Love that will not let me go
-    I rest my weary soul in Thee
-    I give You back the life I owe
-    That in Thine ocean's depths its flow
-    May richer, fuller be
-
-    My life is not my own
-    It's Yours
-    My life is not my own
-    I know it's Yours
-
-    Oh, Light that follows all my way
-    I yield my flickering torch to Thee
-    My heart restores its borrowed ray
-    That in Thy sunshine's blaze its day
-    May brighter, fairer be
-
-    So light a fire in my heart
-    And I'll burn for You
-    So light a fire in my heart
-    And I'll burn for You
-
-    Oh, Joy, that seeks me through the pain
-    I cannot close my heart to Thee
-    I trace the rainbow through the rain
-    And feel the promise is not in vain
-    That morn shall tearless be
-
-    So anoint me with joy
-    And joyful I will be
-    So anoint me with joy
-    And joyful I will be
-
-    Oh, cross that's lifing up my head
-    I dare not ask to fly from thee
-    I lay in dust life's glory dead
-    And from the ground there blossoms red
-    Life that shall endless be
-
-    We will sing:
-    Holy, holy
-    Is the King of Kings
-    And we will sing:
-    Holy, holy, is the King of Kings
-    (repeat)
-
-    On that day we will sing:
-    Holy, holy
-    Is the King of Kings
-
-    We will join with the angels and we will sing:
-    Holy, holy
-    Is the King of Kings
-
-    And we will sing:
-    Holy, holy, is the King of Kings
 - song: Psalm 145
   enabled: false
   lyrics: |-
