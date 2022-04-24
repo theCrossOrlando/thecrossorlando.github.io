@@ -1,7 +1,7 @@
 ---
 - song: Death in His Grave
   artist: John Mark McMillan
-  enabled: true
+  enabled: false
   lyrics: |-
     Though the earth cried out for blood
     Satisfied her hunger was
@@ -47,7 +47,7 @@
     One time, once and for all
 - song: In Christ Alone
   artist: Natalie Grant
-  enabled: true
+  enabled: false
   lyrics: |
     In Christ alone my hope is found
     He is my light, my strength, my song
@@ -86,7 +86,7 @@
     Here in the power of Christ I'll stand
 - song: Never Going Back
   artist: United Pursuit
-  enabled: true
+  enabled: false
   lyrics: "Faithful One, no matter how far I run\nYou lead me home, You extend Your
     love\nPatiently, fathering the orphan in me\nYou say I am Yours\n\nI never am
     alone\nI never am alone\nYou found me \n(Repeat)\n\nAnd I've made up my mind\nI'm
@@ -103,7 +103,7 @@
     there's nothing You haven't done\nYou make my soul alive\nYou put Your love inside\n(Repeat)\n"
 - song: Your Love Changes Everything
   artist: United Pursuit
-  enabled: true
+  enabled: false
   lyrics: |-
     Lord, you spoke those words
     You spoke so tenderly
