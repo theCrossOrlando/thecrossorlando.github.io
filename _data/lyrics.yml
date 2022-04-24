@@ -2757,7 +2757,7 @@
     You're the richest of fair
 - song: Oh Lord, You're Beautiful
   artist: Keith Green
-  enabled: false
+  enabled: true
   lyrics: |-
     Oh Lord, you're beautiful,
     Your face is all I seek,
