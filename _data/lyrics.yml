@@ -1,4 +1,32 @@
 ---
+- song: Thy Mercy
+  artist: Caedmon's Call
+  enabled: true
+  lyrics: |
+    Thy mercy my God is the theme of my song
+    The joy of my heart, and the boast of my tongue
+    Thy free grace alone, from the first to the last
+    Hath won my affection and bound my soul fast
+
+    Without Thy sweet mercy, I could not live here
+    Sin would reduce me to utter despair
+    But through Thy free goodness, my spirit's revived
+    And He that first made me still keeps me alive
+
+    Thy mercy is more than a match for my heart
+    Which wonders to feel its own hardness depart
+    Dissolved by Thy goodness, I fall to the ground
+    And weep for the praise of the mercy I've found
+
+    (Hallelujah, Hallelujah, Hallelujah)
+    Hallelujah (Hallelujah, Hallelujah, Hallelujah)
+
+    Great Father of mercies, Thy goodness I own
+    In the covenant love of Thy crucified Son
+    All praise to the Spirit, Whose whisper divine
+    Seals mercy and pardon and righteousness mine
+    All praise to the Spirit, Whose whisper divine
+    Seals mercy and pardon and righteousness mine
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
   enabled: true
@@ -1420,34 +1448,6 @@
     mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
     sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
     now. "
-- song: Thy Mercy
-  artist: Caedmon's Call
-  enabled: false
-  lyrics: |
-    Thy mercy my God is the theme of my song
-    The joy of my heart, and the boast of my tongue
-    Thy free grace alone, from the first to the last
-    Hath won my affection and bound my soul fast
-
-    Without Thy sweet mercy, I could not live here
-    Sin would reduce me to utter despair
-    But through Thy free goodness, my spirit's revived
-    And He that first made me still keeps me alive
-
-    Thy mercy is more than a match for my heart
-    Which wonders to feel its own hardness depart
-    Dissolved by Thy goodness, I fall to the ground
-    And weep for the praise of the mercy I've found
-
-    (Hallelujah, Hallelujah, Hallelujah)
-    Hallelujah (Hallelujah, Hallelujah, Hallelujah)
-
-    Great Father of mercies, Thy goodness I own
-    In the covenant love of Thy crucified Son
-    All praise to the Spirit, Whose whisper divine
-    Seals mercy and pardon and righteousness mine
-    All praise to the Spirit, Whose whisper divine
-    Seals mercy and pardon and righteousness mine
 - song: Amazing Grace
   artist: Chris Tomlin
   enabled: false
