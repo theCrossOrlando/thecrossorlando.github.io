@@ -1,117 +1,33 @@
 ---
-- song: 'Future / Past; How He Loves Us '
-  artist: John Mark McMillan
+- song: Be Thou My Vision
+  artist: Ascend the Hill
   enabled: true
-  lyrics: |-
-    You hold the reigns on the sun and the moon,
-    Like horses driven by kings
-    You cover the mountains, the valleys below,
-    With the breadth of Your mighty wings
+  lyrics: |+
+    Be Thou my Vision, O Lord of my heart;
+    Naught be all else to me, save that Thou art;
+    Thou my best Thought, by day or by night,
+    Waking or sleeping, Thy presence my light.
 
-    [Pre-Chorus]
-    All treasures of wisdom
-    And things to be known
-    Are hidden inside Your hand
-    And in this fortunate turn of events
-    You ask me to be Your friend
-    Ask me to be Your friend
+    Be Thou my Wisdom, and Thou my true Word;
+    I ever with Thee and Thou with me, Lord;
+    Thou my great Father, I Thy true son;
+    Thou in me dwelling, and I with Thee one.
 
-    [Chorus]
-    And You,
-    You are my first
-    You are my last
-    You are my future and my past
+    Riches I heed not, nor man’s empty praise,
+    Thou mine Inheritance, now and always:
+    Thou and Thou only, first in my heart,
+    High King of Heaven, my Treasure Thou art.
 
-    Yeah, You,
-    You are my first
-    You are my last
-    You are my future and my past
+    Oh, God, be my everything, be my delight
+    Be, Jesus, my glory My soul's satisfied
+    Oh, God, be my everything, be my delight
+    Be, Jesus, my glory My soul's satisfied
 
-    The constellations are swimming inside,
-    The breadth of Your desire
-    So where could I run, where could I hide,
-    From Your heart’s jealous fire?
+    High King of Heaven, my victory won,
+    May I reach Heaven’s joys, O bright Heaven’s Sun!
+    Heart of my own heart, whatever befall,
+    Still be my Vision, O Ruler of all.
 
-    [Pre-Chorus]
-    All treasures of wisdom
-    And things to be known
-    Are hidden inside Your hand
-    And in this fortunate turn of events
-    You ask me to be Your friend
-    Ask me to be Your friend
-
-    [Chorus]
-    And You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    Yeah, You,
-    You are my first
-    You are my last
-    You are my future and my past
-    You are the beginning and the end
-
-    [Chorus]
-    And You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    ––
-
-    Oh, He loves us,
-    Oh, how He loves us
-    Oh, how He loves us
-    Oh, how He loves
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: true
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Almighty God to You all hearts are open
-    You take away our sickness and our sin
-    Oh Lamb of God we gather at Your table
-    In bread and wine, You have supplied our needs
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-- song: Closer
-  enabled: true
-  lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
-    the raging storm\nWould you hold me in your arms, arms\n\n'Cause I need you, how
-    I need you\n\nI need your love like I need water\nI need your love like I need
-    breath inside of my lungs\nBurn in my heart just like a fire, come and take me
-    over\nJesus draw me closer to your heart\nTo your heart\n\nAnd through the wind
-    and rain\nI can hear you call my name, name\nWhen the nights get rough, I will
-    still sing out your praise\n'Cause I need you, how I need you \n\nI need your
-    love like I need water\nAnd I need your love like I need breath inside of my lungs\nBurn
-    in my heart just like a fire, come and take me over\nJesus draw me closer to your
-    heart\nTo your heart, your heart\n\nAnd closer than my every breath\nCloser than
-    my every step\nCloser than the song I sing\nCloser than anything\n\nI need your
-    love like I need water\nI need your love like I need breath inside of my lungs\nBurn
-    in my heart just like a fire, come and take me over\nJesus draw me closer to your
-    heart\nTo your heart, your heart"
-  artist: Brandon Lake
 - song: You Are So Good To Me
   artist: Third Day
   enabled: true
@@ -185,6 +101,119 @@
 
     In the house of God forever
     In the house of God forever
+- song: 'Future / Past; How He Loves Us '
+  artist: John Mark McMillan
+  enabled: false
+  lyrics: |-
+    You hold the reigns on the sun and the moon,
+    Like horses driven by kings
+    You cover the mountains, the valleys below,
+    With the breadth of Your mighty wings
+
+    [Pre-Chorus]
+    All treasures of wisdom
+    And things to be known
+    Are hidden inside Your hand
+    And in this fortunate turn of events
+    You ask me to be Your friend
+    Ask me to be Your friend
+
+    [Chorus]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    Yeah, You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    The constellations are swimming inside,
+    The breadth of Your desire
+    So where could I run, where could I hide,
+    From Your heart’s jealous fire?
+
+    [Pre-Chorus]
+    All treasures of wisdom
+    And things to be known
+    Are hidden inside Your hand
+    And in this fortunate turn of events
+    You ask me to be Your friend
+    Ask me to be Your friend
+
+    [Chorus]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    Yeah, You,
+    You are my first
+    You are my last
+    You are my future and my past
+    You are the beginning and the end
+
+    [Chorus]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    ––
+
+    Oh, He loves us,
+    Oh, how He loves us
+    Oh, how He loves us
+    Oh, how He loves
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: false
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Almighty God to You all hearts are open
+    You take away our sickness and our sin
+    Oh Lamb of God we gather at Your table
+    In bread and wine, You have supplied our needs
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+- song: Closer
+  enabled: false
+  lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
+    the raging storm\nWould you hold me in your arms, arms\n\n'Cause I need you, how
+    I need you\n\nI need your love like I need water\nI need your love like I need
+    breath inside of my lungs\nBurn in my heart just like a fire, come and take me
+    over\nJesus draw me closer to your heart\nTo your heart\n\nAnd through the wind
+    and rain\nI can hear you call my name, name\nWhen the nights get rough, I will
+    still sing out your praise\n'Cause I need you, how I need you \n\nI need your
+    love like I need water\nAnd I need your love like I need breath inside of my lungs\nBurn
+    in my heart just like a fire, come and take me over\nJesus draw me closer to your
+    heart\nTo your heart, your heart\n\nAnd closer than my every breath\nCloser than
+    my every step\nCloser than the song I sing\nCloser than anything\n\nI need your
+    love like I need water\nI need your love like I need breath inside of my lungs\nBurn
+    in my heart just like a fire, come and take me over\nJesus draw me closer to your
+    heart\nTo your heart, your heart"
+  artist: Brandon Lake
 - song: Called Me Higher
   artist: All Sons & Daughters
   enabled: false
@@ -1235,35 +1264,6 @@
     Lord help my unbelief,
     Lord help my unbelief,
     Oh Lord, have mercy (x2)
-- song: Be Thou My Vision
-  artist: Ascend the Hill
-  enabled: false
-  lyrics: |+
-    Be Thou my Vision, O Lord of my heart;
-    Naught be all else to me, save that Thou art;
-    Thou my best Thought, by day or by night,
-    Waking or sleeping, Thy presence my light.
-
-    Be Thou my Wisdom, and Thou my true Word;
-    I ever with Thee and Thou with me, Lord;
-    Thou my great Father, I Thy true son;
-    Thou in me dwelling, and I with Thee one.
-
-    Riches I heed not, nor man’s empty praise,
-    Thou mine Inheritance, now and always:
-    Thou and Thou only, first in my heart,
-    High King of Heaven, my Treasure Thou art.
-
-    Oh, God, be my everything, be my delight
-    Be, Jesus, my glory My soul's satisfied
-    Oh, God, be my everything, be my delight
-    Be, Jesus, my glory My soul's satisfied
-
-    High King of Heaven, my victory won,
-    May I reach Heaven’s joys, O bright Heaven’s Sun!
-    Heart of my own heart, whatever befall,
-    Still be my Vision, O Ruler of all.
-
 - song: Your Love is Strong
   artist: Jon Foreman
   enabled: false
