@@ -41,6 +41,98 @@
     Oh, let all that lives ever bless His name
     Oh, let all that lives ever bless His name
   artist: Dustin Kensrue
+- song: I Belong to You
+  artist: Derek Johnson
+  enabled: true
+  lyrics: |
+    You can be the One that steals my heart
+    With just a simple thought of who You are
+    Let Your light shine in the darkest parts
+    Let Your love fill the world
+
+    You can be the fire down in my soul
+    That I can't contain, that I can't control
+    Would You fill me up to overflow
+    Let Your love fill the world
+
+    And I belong to You
+    Forever, I belong to You
+
+    Let Your Words be like a burning flame
+    Come in close to touch my heart again
+    The whole earth trembles at the sound of Your name
+    Let Your love fill the world
+
+    And all I want is more of You
+    Your breath is life, Your word is truth
+    Your glory here is bursting through
+    Let Your love fill the world
+
+    And I belong to You
+    Forever, I belong to You
+
+    And You have set my heart on fire
+    My love and my desire
+    Only for You
+
+    And as Your glory fills this place
+    Your love we will embrace
+    Only for You, for You
+
+    And I belong to You
+    Forever, I belong to You
+
+    And You have set my heart on fire
+    My love and my desire
+    Only for You
+
+    And as Your glory fills this place
+    Your love we will embrace
+    Only for You, for You
+
+    And I belong to You
+    Forever, I belong to You
+- song: King of My Heart
+  artist: Bethel Music, Steffany Gretzinger
+  enabled: true
+  lyrics: |
+    Let the King of my heart
+    Be the mountain where I run
+    The fountain I drink from
+    Oh, He is my song
+    Let the King of my heart
+    Be the shadow where I hide
+    The ransom for my life
+    Oh, He is my song
+
+    'Cause You are good, good, oh oh
+    You are good, good, oh oh
+    'Cause You are good, good, oh oh
+    You are good, good, oh oh
+
+
+    Let the King of my heart
+    Be the wind inside my sails
+    The anchor in the waves
+    Oh oh, He is my song
+    Let the King of my heart
+    Be the fire inside my veins
+    The echo of my days
+    Oh oh, He is my song
+
+    'Cause You are good, good, oh oh
+    You are good, good, oh oh
+    'Cause You are good, good, oh oh
+    You are good, good, oh oh
+
+    You're never gonna let
+    You're never gonna let me down
+    You're never gonna let
+    You're never gonna let me down
+    You're never gonna let
+    You're never gonna let me down
+    You're never gonna let
+    You're never gonna let me down
 - song: Since Your Love
   artist: United Pursuit
   enabled: false
@@ -1117,47 +1209,6 @@
     Once and for all
     Oh once and for all
     Once and for all
-- song: King of My Heart
-  artist: Bethel Music, Steffany Gretzinger
-  enabled: false
-  lyrics: |
-    Let the King of my heart
-    Be the mountain where I run
-    The fountain I drink from
-    Oh, He is my song
-    Let the King of my heart
-    Be the shadow where I hide
-    The ransom for my life
-    Oh, He is my song
-
-    'Cause You are good, good, oh oh
-    You are good, good, oh oh
-    'Cause You are good, good, oh oh
-    You are good, good, oh oh
-
-
-    Let the King of my heart
-    Be the wind inside my sails
-    The anchor in the waves
-    Oh oh, He is my song
-    Let the King of my heart
-    Be the fire inside my veins
-    The echo of my days
-    Oh oh, He is my song
-
-    'Cause You are good, good, oh oh
-    You are good, good, oh oh
-    'Cause You are good, good, oh oh
-    You are good, good, oh oh
-
-    You're never gonna let
-    You're never gonna let me down
-    You're never gonna let
-    You're never gonna let me down
-    You're never gonna let
-    You're never gonna let me down
-    You're never gonna let
-    You're never gonna let me down
 - song: Come Thou Fount
   artist: ''
   enabled: false
@@ -2436,57 +2487,6 @@
     when He appears again with power and glory, we may be made like him in his eternal
     and glorious kingdom; where with you, O Father, and you, O Holy Spirit, he lives
     and reigns forever, one God, world without end. Amen. '
-- song: I Belong to You
-  artist: Derek Johnson
-  enabled: true
-  lyrics: |
-    You can be the One that steals my heart
-    With just a simple thought of who You are
-    Let Your light shine in the darkest parts
-    Let Your love fill the world
-
-    You can be the fire down in my soul
-    That I can't contain, that I can't control
-    Would You fill me up to overflow
-    Let Your love fill the world
-
-    And I belong to You
-    Forever, I belong to You
-
-    Let Your Words be like a burning flame
-    Come in close to touch my heart again
-    The whole earth trembles at the sound of Your name
-    Let Your love fill the world
-
-    And all I want is more of You
-    Your breath is life, Your word is truth
-    Your glory here is bursting through
-    Let Your love fill the world
-
-    And I belong to You
-    Forever, I belong to You
-
-    And You have set my heart on fire
-    My love and my desire
-    Only for You
-
-    And as Your glory fills this place
-    Your love we will embrace
-    Only for You, for You
-
-    And I belong to You
-    Forever, I belong to You
-
-    And You have set my heart on fire
-    My love and my desire
-    Only for You
-
-    And as Your glory fills this place
-    Your love we will embrace
-    Only for You, for You
-
-    And I belong to You
-    Forever, I belong to You
 - song: Set a Fire
   artist: Will Reagan & United Pursuit
   enabled: false
