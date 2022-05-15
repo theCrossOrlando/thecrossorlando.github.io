@@ -386,20 +386,6 @@
     Where You lead me
     Where You lead me Lord
     [x2]
-- song: I Belong To You
-  artist: William McDowe
-  enabled: false
-  lyrics: |-
-    I've been captured by a love I can't explain
-    And now you have me and I'm forever changed
-    I've abandoned everything I've ever known
-    Now I surrender my life is not my own
-    I belong to you, I belong to you [x4]
-    [Repeat x3]
-
-    My life is not my own to you I belong
-    I give myself I give myself to you
-    [x8]
 - song: Come As You Are
   artist: Crowder
   enabled: false
@@ -2452,7 +2438,7 @@
     and reigns forever, one God, world without end. Amen. '
 - song: I Belong to You
   artist: Derek Johnson
-  enabled: false
+  enabled: true
   lyrics: |
     You can be the One that steals my heart
     With just a simple thought of who You are
