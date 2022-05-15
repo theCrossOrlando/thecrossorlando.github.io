@@ -1,7 +1,48 @@
 ---
+- song: Psalm 145
+  enabled: true
+  lyrics: |-
+    I will bless You all of my days LORD
+    I will praise you always, My God and King
+    I will bless and honor Your name LORD
+    Always and forever my soul will sing
+    Such a vast, unsearchable greatness
+    Great is Yahweh, worthy of all of praise
+    Let Your people sound through the ages
+    All Your awesome works till the end of days
+
+    We have seen Your splendor and glory
+    We have seen Your wonders and stand amazed
+    Every tongue will echo Your story
+    Everyone will sing of Your righteous ways
+
+    Oh, let all that lives ever bless His name
+
+    All that You have made, LORD, will praise You
+    All your saints will worship You in joyful strains
+    Praise the LORD who ransoms and rescues
+    Praise the God of Glory who ever reigns
+
+    He is Holy judging the wicked
+    Guarding those that love him and fear his name
+    All that call out, Yahweh is with them
+    He will hear their cries, He is strong to save
+
+    He upholds the one who is stumbling
+    Lifting up those burdened with heavy loads
+    Opening His hands to the hungry
+    Blessing all that look to their Lord in hope
+
+    He is tender toward His creation
+    He is faithful and gracious in all He does
+    Great is Yahweh, full of compassion
+    Slow to anger, filled with unfailing love
+
+    Oh, let all that lives ever bless His name
+    Oh, let all that lives ever bless His name
 - song: Since Your Love
   artist: United Pursuit
-  enabled: true
+  enabled: false
   lyrics: "You are the light\nSong of my life\nYou always lead me\nYou are the voice
     inside\n\nYou are my love\nNo one before You\nAll that I am\nPoints to You\n\nAnd
     I was made by You\nI was made for You\nI am unfulfilled\nWithout full communion\n\nYou
@@ -17,7 +58,7 @@
     my breath, You're my life, \nYou're my everything\n"
 - song: Nothing I Hold On To
   artist: United Pursuit Band
-  enabled: true
+  enabled: false
   lyrics: |-
     I lean not on my own understanding,
     My life is in the hands of the maker of heaven
@@ -38,7 +79,7 @@
     All Glory To God, Forever. Amen
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
-  enabled: true
+  enabled: false
   lyrics: |-
     Come, ye sinners, poor and needy,
     Weak and wounded, sick and sore;
@@ -1047,47 +1088,6 @@
     Open my ears, I want to hear You speak
     Tell me your thoughts whats on Your mind
     I'll be your friend, I want to see through Your eyes
-- song: Psalm 145
-  enabled: false
-  lyrics: |-
-    I will bless You all of my days LORD
-    I will praise you always, My God and King
-    I will bless and honor Your name LORD
-    Always and forever my soul will sing
-    Such a vast, unsearchable greatness
-    Great is Yahweh, worthy of all of praise
-    Let Your people sound through the ages
-    All Your awesome works till the end of days
-
-    We have seen Your splendor and glory
-    We have seen Your wonders and stand amazed
-    Every tongue will echo Your story
-    Everyone will sing of Your righteous ways
-
-    Oh, let all that lives ever bless His name
-
-    All that You have made, LORD, will praise You
-    All your saints will worship You in joyful strains
-    Praise the LORD who ransoms and rescues
-    Praise the God of Glory who ever reigns
-
-    He is Holy judging the wicked
-    Guarding those that love him and fear his name
-    All that call out, Yahweh is with them
-    He will hear their cries, He is strong to save
-
-    He upholds the one who is stumbling
-    Lifting up those burdened with heavy loads
-    Opening His hands to the hungry
-    Blessing all that look to their Lord in hope
-
-    He is tender toward His creation
-    He is faithful and gracious in all He does
-    Great is Yahweh, full of compassion
-    Slow to anger, filled with unfailing love
-
-    Oh, let all that lives ever bless His name
-    Oh, let all that lives ever bless His name
 - song: Once and For All
   artist: Lauren Daigle
   enabled: false
