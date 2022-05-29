@@ -103,6 +103,19 @@
     But first help me to just, live it Lord.
     And when I'm doing well, help me to never seek a crown.
     For my reward is giving glory to you.
+- song: My Jesus I Love Thee
+  artist: William R. Featherstone
+  enabled: true
+  lyrics: "My Jesus, I love thee, I know thou art mine;\nfor thee all the follies
+    of sin I resign;\nmy gracious Redeemer, my Savior art thou;\nif ever I loved thee,
+    my Jesus, 'tis now.\n\nI love thee because thou hast first loved me\nand purchased
+    my pardon on Calvary's tree;\nI love thee for wearing the thorns on thy brow;\nif
+    ever I loved thee, my Jesus, 'tis now.\n\nI'll love thee in life, I will love
+    thee in death,\nand praise thee as long as thou lendest me breath,\nand say when
+    the deathdew lies cold on my brow:\nIf ever I loved thee, my Jesus, 'tis now.\n\nIn
+    mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
+    sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
+    now. "
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
   enabled: false
@@ -316,19 +329,6 @@
     Heart of my own heart, whatever befall,
     Still be my Vision, O Ruler of all.
 
-- song: My Jesus I Love Thee
-  artist: William R. Featherstone
-  enabled: true
-  lyrics: "My Jesus, I love thee, I know thou art mine;\nfor thee all the follies
-    of sin I resign;\nmy gracious Redeemer, my Savior art thou;\nif ever I loved thee,
-    my Jesus, 'tis now.\n\nI love thee because thou hast first loved me\nand purchased
-    my pardon on Calvary's tree;\nI love thee for wearing the thorns on thy brow;\nif
-    ever I loved thee, my Jesus, 'tis now.\n\nI'll love thee in life, I will love
-    thee in death,\nand praise thee as long as thou lendest me breath,\nand say when
-    the deathdew lies cold on my brow:\nIf ever I loved thee, my Jesus, 'tis now.\n\nIn
-    mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
-    sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
-    now. "
 - song: You Are So Good To Me
   artist: Third Day
   enabled: false
