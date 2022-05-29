@@ -75,6 +75,63 @@
     You're not too far
     Lay down your hurt lay down your heart
     Come as you are
+- song: Oh Lord, You're Beautiful
+  artist: Keith Green
+  enabled: true
+  lyrics: |-
+    Oh Lord, you're beautiful,
+    Your face is all I seek,
+    For when your eyes are on this child,
+    Your grace abounds to me.
+
+    Oh Lord, please light the fire,
+    That once burned bright and clear.
+    Replace the lamp of my first love,
+    That burns with Holy fear.
+
+    I want to take your word and shine it all around.
+    But first help me to just, live it Lord.
+    And when I'm doing well, help me to never seek a crown.
+    For my reward is giving glory to you.
+
+    Oh Lord, you're beautiful,
+    Your face is all I seek,
+    For when your eyes are on this child,
+    Your grace abounds to me.
+
+    I want to take your word and shine it all around.
+    But first help me to just, live it Lord.
+    And when I'm doing well, help me to never seek a crown.
+    For my reward is giving glory to you.
+- song: Come Ye Sinners, Poor And Needy
+  artist: Joseph Hart
+  enabled: false
+  lyrics: |-
+    Come, ye sinners, poor and needy,
+    Weak and wounded, sick and sore;
+    Jesus ready stands to save you,
+    Full of pity, love and power.
+
+    Refrain
+
+    I will arise and go to Jesus,
+    He will embrace me in His arms;
+    In the arms of my dear Savior,
+    O there are ten thousand charms.
+
+    Come, ye thirsty, come, and welcome,
+    God’s free bounty glorify;
+    True belief and true repentance,
+    Every grace that brings you nigh.
+
+    Refrain
+
+    Come, ye weary, heavy laden,
+    Lost and ruined by the fall;
+    If you tarry till you’re better,
+    You will never come at all.
+
+    Refrain
 - song: Psalm 145
   enabled: false
   lyrics: |-
@@ -259,35 +316,19 @@
     Heart of my own heart, whatever befall,
     Still be my Vision, O Ruler of all.
 
-- song: Come Ye Sinners, Poor And Needy
-  artist: Joseph Hart
-  enabled: false
-  lyrics: |-
-    Come, ye sinners, poor and needy,
-    Weak and wounded, sick and sore;
-    Jesus ready stands to save you,
-    Full of pity, love and power.
-
-    Refrain
-
-    I will arise and go to Jesus,
-    He will embrace me in His arms;
-    In the arms of my dear Savior,
-    O there are ten thousand charms.
-
-    Come, ye thirsty, come, and welcome,
-    God’s free bounty glorify;
-    True belief and true repentance,
-    Every grace that brings you nigh.
-
-    Refrain
-
-    Come, ye weary, heavy laden,
-    Lost and ruined by the fall;
-    If you tarry till you’re better,
-    You will never come at all.
-
-    Refrain
+- song: My Jesus I Love Thee
+  artist: William R. Featherstone
+  enabled: true
+  lyrics: "My Jesus, I love thee, I know thou art mine;\nfor thee all the follies
+    of sin I resign;\nmy gracious Redeemer, my Savior art thou;\nif ever I loved thee,
+    my Jesus, 'tis now.\n\nI love thee because thou hast first loved me\nand purchased
+    my pardon on Calvary's tree;\nI love thee for wearing the thorns on thy brow;\nif
+    ever I loved thee, my Jesus, 'tis now.\n\nI'll love thee in life, I will love
+    thee in death,\nand praise thee as long as thou lendest me breath,\nand say when
+    the deathdew lies cold on my brow:\nIf ever I loved thee, my Jesus, 'tis now.\n\nIn
+    mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
+    sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
+    now. "
 - song: You Are So Good To Me
   artist: Third Day
   enabled: false
@@ -626,34 +667,6 @@
 
     And we will sing:
     Holy, holy, is the King of Kings
-- song: Oh Lord, You're Beautiful
-  artist: Keith Green
-  enabled: false
-  lyrics: |-
-    Oh Lord, you're beautiful,
-    Your face is all I seek,
-    For when your eyes are on this child,
-    Your grace abounds to me.
-
-    Oh Lord, please light the fire,
-    That once burned bright and clear.
-    Replace the lamp of my first love,
-    That burns with Holy fear.
-
-    I want to take your word and shine it all around.
-    But first help me to just, live it Lord.
-    And when I'm doing well, help me to never seek a crown.
-    For my reward is giving glory to you.
-
-    Oh Lord, you're beautiful,
-    Your face is all I seek,
-    For when your eyes are on this child,
-    Your grace abounds to me.
-
-    I want to take your word and shine it all around.
-    But first help me to just, live it Lord.
-    And when I'm doing well, help me to never seek a crown.
-    For my reward is giving glory to you.
 - song: Death in His Grave
   artist: John Mark McMillan
   enabled: false
@@ -756,6 +769,52 @@
     singing out Your lovely name\nI'm giving You everything\nYou make my soul alive\nYou
     put Your love inside\n(Repeat)\n\nThere's nothing that I have need of\n'Cause
     there's nothing You haven't done\nYou make my soul alive\nYou put Your love inside\n(Repeat)\n"
+- song: You're Beautiful
+  artist: Phil Wickham
+  enabled: false
+  lyrics: |-
+    I see Your face in every sunrise
+    The colors of the morning are inside Your eyes
+    The world awakens in the light of the day
+    I look up to the sky and say
+    You're beautiful
+    (Oh, Oh, Oh, Oh)
+
+    I see Your power in the moonlit night
+    Where planets are in motion and galaxies are bright
+    We are amazed in the light of the stars
+    It's all proclaiming who You are
+    You're beautiful
+    (Oh, Oh, You're beautiful, Oh, Oh)
+
+    I see You there hanging on a tree
+    You bled and then you died and then you rose again for me
+    Now You are sitting on Your heavenly throne
+    Soon we will be coming home
+    You're beautiful
+    (Oh, Oh, You're beautiful, Oh, Oh)
+
+    (We're singing out)
+    When we arrive at eternity's shore
+    Where death is just a memory and tears are no more
+    We'll enter in as the wedding bells ring
+    Your bride will come together and we'll sing
+    You're beautiful
+    Oh, You're beautiful
+
+    I see Your face, You're beautiful
+    You're beautiful
+    You're beautiful
+
+    I see Your face, You're beautiful
+    You're beautiful
+    You're beautiful
+
+    I see Your face
+    I see Your face
+    I see Your face, You're beautiful
+    You're beautiful
+    You're beautiful
 - song: Your Love Changes Everything
   artist: United Pursuit
   enabled: false
@@ -919,52 +978,6 @@
     That were a present far too small;
     Love so amazing, so divine,
     Demands my soul, my life, my all.
-- song: You're Beautiful
-  artist: Phil Wickham
-  enabled: false
-  lyrics: |-
-    I see Your face in every sunrise
-    The colors of the morning are inside Your eyes
-    The world awakens in the light of the day
-    I look up to the sky and say
-    You're beautiful
-    (Oh, Oh, Oh, Oh)
-
-    I see Your power in the moonlit night
-    Where planets are in motion and galaxies are bright
-    We are amazed in the light of the stars
-    It's all proclaiming who You are
-    You're beautiful
-    (Oh, Oh, You're beautiful, Oh, Oh)
-
-    I see You there hanging on a tree
-    You bled and then you died and then you rose again for me
-    Now You are sitting on Your heavenly throne
-    Soon we will be coming home
-    You're beautiful
-    (Oh, Oh, You're beautiful, Oh, Oh)
-
-    (We're singing out)
-    When we arrive at eternity's shore
-    Where death is just a memory and tears are no more
-    We'll enter in as the wedding bells ring
-    Your bride will come together and we'll sing
-    You're beautiful
-    Oh, You're beautiful
-
-    I see Your face, You're beautiful
-    You're beautiful
-    You're beautiful
-
-    I see Your face, You're beautiful
-    You're beautiful
-    You're beautiful
-
-    I see Your face
-    I see Your face
-    I see Your face, You're beautiful
-    You're beautiful
-    You're beautiful
 - song: Set A Fire
   artist: Will Reagan
   enabled: false
@@ -1524,19 +1537,6 @@
     What a powerful Name it is, the Name of Jesus
     What a powerful Name it is, The Name of Jesus
     What a powerful Name it is, The Name of Jesus
-- song: My Jesus I Love Thee
-  artist: William R. Featherstone
-  enabled: false
-  lyrics: "My Jesus, I love thee, I know thou art mine;\nfor thee all the follies
-    of sin I resign;\nmy gracious Redeemer, my Savior art thou;\nif ever I loved thee,
-    my Jesus, 'tis now.\n\nI love thee because thou hast first loved me\nand purchased
-    my pardon on Calvary's tree;\nI love thee for wearing the thorns on thy brow;\nif
-    ever I loved thee, my Jesus, 'tis now.\n\nI'll love thee in life, I will love
-    thee in death,\nand praise thee as long as thou lendest me breath,\nand say when
-    the deathdew lies cold on my brow:\nIf ever I loved thee, my Jesus, 'tis now.\n\nIn
-    mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
-    sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
-    now. "
 - song: Amazing Grace
   artist: Chris Tomlin
   enabled: false
