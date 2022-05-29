@@ -1,20 +1,4 @@
 ---
-- song: Since Your Love
-  artist: United Pursuit
-  enabled: true
-  lyrics: "You are the light\nSong of my life\nYou always lead me\nYou are the voice
-    inside\n\nYou are my love\nNo one before You\nAll that I am\nPoints to You\n\nAnd
-    I was made by You\nI was made for You\nI am unfulfilled\nWithout full communion\n\nYou
-    are the light\nSong of my life\nYou always lead me\nYou are the voice inside\n\nYou
-    are my love\nNo one before You\nAll that I am\nLongs for You\n\nAnd I was made
-    by You\nI was made for You\nI am unfulfilled\nWithout full communion\n\nAnd I
-    was made by You\nAnd I was made for You (ooh)\nAnd I am unfulfilled\nWithout full
-    communion\n\nSince Your love got a hold of me\nSince Your love got a hold of me\nI'm
-    a new creation\nI'm forever changed\n\nSince Your love got a hold of me\nSince
-    Your love got a hold of me\nI'm a new creation\nI'm forever changed\n\nI was made
-    by You (I was made by You)\nI was made for You (I was made for You)\nI am unfulfilled
-    (I am unfulfilled)\nWithout full communion...\n\nIn You, is all I need\nYou're
-    my breath, You're my life, \nYou're my everything\n"
 - song: Come As You Are
   artist: Crowder
   enabled: true
@@ -75,6 +59,22 @@
     You're not too far
     Lay down your hurt lay down your heart
     Come as you are
+- song: Since Your Love
+  artist: United Pursuit
+  enabled: true
+  lyrics: "You are the light\nSong of my life\nYou always lead me\nYou are the voice
+    inside\n\nYou are my love\nNo one before You\nAll that I am\nPoints to You\n\nAnd
+    I was made by You\nI was made for You\nI am unfulfilled\nWithout full communion\n\nYou
+    are the light\nSong of my life\nYou always lead me\nYou are the voice inside\n\nYou
+    are my love\nNo one before You\nAll that I am\nLongs for You\n\nAnd I was made
+    by You\nI was made for You\nI am unfulfilled\nWithout full communion\n\nAnd I
+    was made by You\nAnd I was made for You (ooh)\nAnd I am unfulfilled\nWithout full
+    communion\n\nSince Your love got a hold of me\nSince Your love got a hold of me\nI'm
+    a new creation\nI'm forever changed\n\nSince Your love got a hold of me\nSince
+    Your love got a hold of me\nI'm a new creation\nI'm forever changed\n\nI was made
+    by You (I was made by You)\nI was made for You (I was made for You)\nI am unfulfilled
+    (I am unfulfilled)\nWithout full communion...\n\nIn You, is all I need\nYou're
+    my breath, You're my life, \nYou're my everything\n"
 - song: Oh Lord, You're Beautiful
   artist: Keith Green
   enabled: true
