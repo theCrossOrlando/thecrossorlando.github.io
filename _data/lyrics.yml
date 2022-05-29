@@ -1,6 +1,82 @@
 ---
-- song: Psalm 145
+- song: Since Your Love
+  artist: United Pursuit
   enabled: true
+  lyrics: "You are the light\nSong of my life\nYou always lead me\nYou are the voice
+    inside\n\nYou are my love\nNo one before You\nAll that I am\nPoints to You\n\nAnd
+    I was made by You\nI was made for You\nI am unfulfilled\nWithout full communion\n\nYou
+    are the light\nSong of my life\nYou always lead me\nYou are the voice inside\n\nYou
+    are my love\nNo one before You\nAll that I am\nLongs for You\n\nAnd I was made
+    by You\nI was made for You\nI am unfulfilled\nWithout full communion\n\nAnd I
+    was made by You\nAnd I was made for You (ooh)\nAnd I am unfulfilled\nWithout full
+    communion\n\nSince Your love got a hold of me\nSince Your love got a hold of me\nI'm
+    a new creation\nI'm forever changed\n\nSince Your love got a hold of me\nSince
+    Your love got a hold of me\nI'm a new creation\nI'm forever changed\n\nI was made
+    by You (I was made by You)\nI was made for You (I was made for You)\nI am unfulfilled
+    (I am unfulfilled)\nWithout full communion...\n\nIn You, is all I need\nYou're
+    my breath, You're my life, \nYou're my everything\n"
+- song: Come As You Are
+  artist: Crowder
+  enabled: true
+  lyrics: |-
+    Come out of sadness
+    From wherever you've been
+    Come broken hearted
+    Let rescue begin
+    Come find your mercy
+    Oh sinner come kneel
+    Earth has no sorrow
+    That heaven can't heal
+    Earth has no sorrow
+    That heaven can't heal
+
+    So lay down your burdens
+    Lay down your shame
+    All who are broken
+    Lift up your face
+    Oh wanderer come home
+    You're not too far
+    So lay down your hurt
+    Lay down your heart
+    Come as you are
+
+    There's hope for the hopeless
+    And all those who've strayed
+    Come sit at the table
+    Come taste the grace
+    There's rest for the weary
+    Rest that endures
+    Earth has no sorrow
+    That heaven can't cure
+    Earth has no sorrow
+    That heaven can't cure
+
+    So lay down your burdens
+    Lay down your shame
+    All who are broken
+    Lift up your face
+    Oh wanderer come home
+    You're not too far
+    Lay down your hurt lay down your heart
+    Come as you are
+
+    There's joy for the morning
+    Oh sinner be still
+    Earth has no sorrow
+    That heaven can't heal
+    Earth has no sorrow
+    That heaven can't heal
+
+    So lay down your burdens
+    Lay down your shame
+    All who are broken
+    Lift up your face
+    Oh wanderer come home
+    You're not too far
+    Lay down your hurt lay down your heart
+    Come as you are
+- song: Psalm 145
+  enabled: false
   lyrics: |-
     I will bless You all of my days LORD
     I will praise you always, My God and King
@@ -43,7 +119,7 @@
   artist: Dustin Kensrue
 - song: I Belong to You
   artist: Derek Johnson
-  enabled: true
+  enabled: false
   lyrics: |
     You can be the One that steals my heart
     With just a simple thought of who You are
@@ -94,7 +170,7 @@
     Forever, I belong to You
 - song: King of My Heart
   artist: Bethel Music, Steffany Gretzinger
-  enabled: true
+  enabled: false
   lyrics: |
     Let the King of my heart
     Be the mountain where I run
@@ -133,22 +209,6 @@
     You're never gonna let me down
     You're never gonna let
     You're never gonna let me down
-- song: Since Your Love
-  artist: United Pursuit
-  enabled: false
-  lyrics: "You are the light\nSong of my life\nYou always lead me\nYou are the voice
-    inside\n\nYou are my love\nNo one before You\nAll that I am\nPoints to You\n\nAnd
-    I was made by You\nI was made for You\nI am unfulfilled\nWithout full communion\n\nYou
-    are the light\nSong of my life\nYou always lead me\nYou are the voice inside\n\nYou
-    are my love\nNo one before You\nAll that I am\nLongs for You\n\nAnd I was made
-    by You\nI was made for You\nI am unfulfilled\nWithout full communion\n\nAnd I
-    was made by You\nAnd I was made for You (ooh)\nAnd I am unfulfilled\nWithout full
-    communion\n\nSince Your love got a hold of me\nSince Your love got a hold of me\nI'm
-    a new creation\nI'm forever changed\n\nSince Your love got a hold of me\nSince
-    Your love got a hold of me\nI'm a new creation\nI'm forever changed\n\nI was made
-    by You (I was made by You)\nI was made for You (I was made for You)\nI am unfulfilled
-    (I am unfulfilled)\nWithout full communion...\n\nIn You, is all I need\nYou're
-    my breath, You're my life, \nYou're my everything\n"
 - song: Nothing I Hold On To
   artist: United Pursuit Band
   enabled: false
@@ -170,35 +230,6 @@
     There is nothing I hold on to
 
     All Glory To God, Forever. Amen
-- song: Come Ye Sinners, Poor And Needy
-  artist: Joseph Hart
-  enabled: false
-  lyrics: |-
-    Come, ye sinners, poor and needy,
-    Weak and wounded, sick and sore;
-    Jesus ready stands to save you,
-    Full of pity, love and power.
-
-    Refrain
-
-    I will arise and go to Jesus,
-    He will embrace me in His arms;
-    In the arms of my dear Savior,
-    O there are ten thousand charms.
-
-    Come, ye thirsty, come, and welcome,
-    God’s free bounty glorify;
-    True belief and true repentance,
-    Every grace that brings you nigh.
-
-    Refrain
-
-    Come, ye weary, heavy laden,
-    Lost and ruined by the fall;
-    If you tarry till you’re better,
-    You will never come at all.
-
-    Refrain
 - song: Be Thou My Vision
   artist: Ascend the Hill
   enabled: false
@@ -228,6 +259,35 @@
     Heart of my own heart, whatever befall,
     Still be my Vision, O Ruler of all.
 
+- song: Come Ye Sinners, Poor And Needy
+  artist: Joseph Hart
+  enabled: false
+  lyrics: |-
+    Come, ye sinners, poor and needy,
+    Weak and wounded, sick and sore;
+    Jesus ready stands to save you,
+    Full of pity, love and power.
+
+    Refrain
+
+    I will arise and go to Jesus,
+    He will embrace me in His arms;
+    In the arms of my dear Savior,
+    O there are ten thousand charms.
+
+    Come, ye thirsty, come, and welcome,
+    God’s free bounty glorify;
+    True belief and true repentance,
+    Every grace that brings you nigh.
+
+    Refrain
+
+    Come, ye weary, heavy laden,
+    Lost and ruined by the fall;
+    If you tarry till you’re better,
+    You will never come at all.
+
+    Refrain
 - song: You Are So Good To Me
   artist: Third Day
   enabled: false
@@ -478,66 +538,6 @@
     Where You lead me
     Where You lead me Lord
     [x2]
-- song: Come As You Are
-  artist: Crowder
-  enabled: false
-  lyrics: |-
-    Come out of sadness
-    From wherever you've been
-    Come broken hearted
-    Let rescue begin
-    Come find your mercy
-    Oh sinner come kneel
-    Earth has no sorrow
-    That heaven can't heal
-    Earth has no sorrow
-    That heaven can't heal
-
-    So lay down your burdens
-    Lay down your shame
-    All who are broken
-    Lift up your face
-    Oh wanderer come home
-    You're not too far
-    So lay down your hurt
-    Lay down your heart
-    Come as you are
-
-    There's hope for the hopeless
-    And all those who've strayed
-    Come sit at the table
-    Come taste the grace
-    There's rest for the weary
-    Rest that endures
-    Earth has no sorrow
-    That heaven can't cure
-    Earth has no sorrow
-    That heaven can't cure
-
-    So lay down your burdens
-    Lay down your shame
-    All who are broken
-    Lift up your face
-    Oh wanderer come home
-    You're not too far
-    Lay down your hurt lay down your heart
-    Come as you are
-
-    There's joy for the morning
-    Oh sinner be still
-    Earth has no sorrow
-    That heaven can't heal
-    Earth has no sorrow
-    That heaven can't heal
-
-    So lay down your burdens
-    Lay down your shame
-    All who are broken
-    Lift up your face
-    Oh wanderer come home
-    You're not too far
-    Lay down your hurt lay down your heart
-    Come as you are
 - song: Thy Mercy
   artist: Caedmon's Call
   enabled: false
