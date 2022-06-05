@@ -1,45 +1,46 @@
 ---
-- song: Help Me Find My Own Flame
-  artist: Will Reagan & United Pursuit
+- song: Holy Spirit
+  artist: Jesus Culture
   enabled: true
   lyrics: |-
-    I don't wanna ride on somebody else's passion.
-    I don't wanna find that I am just dry bones.
-    I wanna burn with unquenchable fire.
-    Deep down inside see it coming alive
+    [Verse 1]
 
-    Help me find my own flame.
-    Help me find my own fire.
-    I want the real thing,
-    I want your burning desire
+    There’s nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
 
-    I don't wanna ride on somebody else's passion.
-    I don't wanna find that I am just dry bones.
-    I wanna burn with unquenchable fire.
-    Deep down inside see it coming alive
-    Help me find my own flame.
-    Help me find my own fire.
-    I want the real thing,
-    I want your burning desire
+    [Chorus]
 
-    Do what only you can do, in my heart tonight
-    There's no better time
-    Help me find my own flame.
-    Help me find my own fire.
-    I want the real thing,
-    I want your burning desire
-    I don't wanna ride on somebody else's passion.
-    I don't wanna find that I am just dry bones.
-    I wanna burn with unquenchable fire.
-    Deep down inside see it coming alive
-    I wanna burn with unquenchable fire.
-    Deep down inside see it coming alive
-    Help me find my own flame.
-    Help me find my own fire.
-    I want the real thing,
-    I want your burning desire
-    Do what only you can do, in my heart tonight
-    There's no better time
+    Holy Spirit, You are welcome here
+    Come flood this place
+    And fill the atmosphere
+    Your glory, God
+    Is what our hearts long for
+    To be overcome
+    By Your presence, Lord
+    Your presence, Lord
+
+    [Verse 2]
+
+    I’ve tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    [Bridge]
+
+    [4x]
+    Let us become more aware of Your presence
+    Let us experience the glory of Your goodness
+    Here I stand
+- song: Doxology
+  artist: 
+  enabled: true
+  lyrics: "Praise God from Whom all blessings flow\nPraise Him all creatures here
+    below\nPraise Him above ye heavenly host\nPraise Father Son and Holy Ghost\nAmen "
 - song: Almighty God
   artist: Sandra McCracken
   enabled: true
@@ -73,7 +74,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
-  enabled: false
+  enabled: true
   lyrics: |-
     Oh, Love that will not let me go
     I rest my weary soul in Thee
@@ -131,9 +132,49 @@
 
     And we will sing:
     Holy, holy, is the King of Kings
+- song: Praise to the Lord, the Almighty
+  artist: Hymn
+  enabled: true
+  lyrics: |-
+    Praise to the Lord, the Almighty
+    The King of creation
+    O my soul, praise Him
+    For He is thy health and salvation
+    All ye who hear,
+    Now to His temple draw near
+    Praise Him in glad adoration
+
+    Praise to the Lord
+    Who o'er all things so wondrously reigneth
+    Shelters thee under His wings
+    Yea, so gently sustaineth
+    Hast thou not seen
+    How thy desires e'er have been
+    Granted in what He ordaineth
+
+    Hallelu-jah, hallelu-jah,
+    Hallelu-jah, hallelu-jah
+
+    Praise to the Lord
+    Who doth prosper thy work and defend thee
+    Surely His goodness and mercy here daily attend thee
+    Ponder anew
+    What the Almighty can do
+    If with His love He befriend thee
+
+    Praise to the Lord,
+    O let all that is in me adore Him
+    All that hath life and breath
+    Come now with praises before Him
+    Let the ‘amen’
+    Sound from His people again
+    Gladly for'ere we adore Him
+
+    Hallelu-jah, hallelu-jah,
+    Hallelu-jah, hallelu-jah
 - song: 10,000 Reasons
   artist: Matt Redman
-  enabled: true
+  enabled: false
   lyrics: |-
     Bless the Lord O my soul
     O my soul
@@ -2021,43 +2062,6 @@
     Nothing but the blood of Jesus,
     All my praise for this I bring—
     Nothing but the blood of Jesus.
-- song: Holy Spirit
-  artist: Jesus Culture
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-
-    There’s nothing worth more
-    That could ever come close
-    No thing can compare
-    You're our living hope
-    Your presence, Lord
-
-    [Chorus]
-
-    Holy Spirit, You are welcome here
-    Come flood this place
-    And fill the atmosphere
-    Your glory, God
-    Is what our hearts long for
-    To be overcome
-    By Your presence, Lord
-    Your presence, Lord
-
-    [Verse 2]
-
-    I’ve tasted and seen
-    Of the sweetest of loves
-    Where my heart becomes free
-    And my shame is undone
-    Your presence, Lord
-
-    [Bridge]
-
-    [4x]
-    Let us become more aware of Your presence
-    Let us experience the glory of Your goodness
-    Here I stand
 - song: All Creatures of Our God and King
   artist: Francis of Assisi
   enabled: false
@@ -2207,11 +2211,6 @@
     of you God\nI want more of you God\n\nThere's no place I would rather be\nNo place
     I would rather be\nThere's no place I would rather be\nThan here in your love,\nHere
     in your love\n"
-- song: Doxology
-  artist: 
-  enabled: false
-  lyrics: "Praise God from Whom all blessings flow\nPraise Him all creatures here
-    below\nPraise Him above ye heavenly host\nPraise Father Son and Holy Ghost\nAmen "
 - song: May Prayer
   artist: ''
   enabled: false
@@ -3371,43 +3370,6 @@
     I long to love You
     With all I am
     I belong to You
-- song: Praise to the Lord, the Almighty
-  artist: Joachim Neander
-  enabled: false
-  lyrics: |-
-    Praise to the Lord, the Almighty
-    The King of creation
-    O my soul, praise Him
-    For He is thy health and salvation
-    All ye who hear, now to His temple draw near
-    Praise Him in glad adoration
-    Praise him
-
-    Praise to the Lord
-    Who o'er all things so wondrously reigneth
-    Shelters thee under His wings
-    Yea, so gently sustaineth.
-
-    Hast thou not seen how thy desires e'er have been
-    Granted in what He ordaineth
-
-    Hallelujah Hallelujah Hallelujah Hallelujah
-
-    Praise to the Lord
-    Who doth prosper thy work and defend thee
-    And surely His goodness and mercy here daily attend thee
-    And ponder anew what the Almighty can do
-    If with His love He befriend thee
-
-    Praise to the Lord, O let all that is in me adore Him
-    And all that hath life and breath
-    Come now with praises before Him
-    And let the 'amen' sound from His people again
-    And gladly for aye we adore Him
-    Let the amen
-    And let the amen sound from his people again
-    And gladly for aye we adore him
-    Hallelujah
 - song: House of God, Forever
   artist: Jon Foreman
   enabled: false
@@ -3492,46 +3454,6 @@
     You are high and lifted up, that all the world will praise Your great name
     Your great name, yeah
     Your great name, yeah
-- song: Praise to the Lord, the Almighty
-  artist: Hymn
-  enabled: false
-  lyrics: |-
-    Praise to the Lord, the Almighty
-    The King of creation
-    O my soul, praise Him
-    For He is thy health and salvation
-    All ye who hear,
-    Now to His temple draw near
-    Praise Him in glad adoration
-
-    Praise to the Lord
-    Who o'er all things so wondrously reigneth
-    Shelters thee under His wings
-    Yea, so gently sustaineth
-    Hast thou not seen
-    How thy desires e'er have been
-    Granted in what He ordaineth
-
-    Hallelu-jah, hallelu-jah,
-    Hallelu-jah, hallelu-jah
-
-    Praise to the Lord
-    Who doth prosper thy work and defend thee
-    Surely His goodness and mercy here daily attend thee
-    Ponder anew
-    What the Almighty can do
-    If with His love He befriend thee
-
-    Praise to the Lord,
-    O let all that is in me adore Him
-    All that hath life and breath
-    Come now with praises before Him
-    Let the ‘amen’
-    Sound from His people again
-    Gladly for'ere we adore Him
-
-    Hallelu-jah, hallelu-jah,
-    Hallelu-jah, hallelu-jah
 - song: Here's My Heart Lord
   artist: 
   enabled: false
