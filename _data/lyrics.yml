@@ -1,7 +1,175 @@
 ---
+- song: Help Me Find My Own Flame
+  artist: Will Reagan & United Pursuit
+  enabled: true
+  lyrics: |-
+    I don't wanna ride on somebody else's passion.
+    I don't wanna find that I am just dry bones.
+    I wanna burn with unquenchable fire.
+    Deep down inside see it coming alive
+
+    Help me find my own flame.
+    Help me find my own fire.
+    I want the real thing,
+    I want your burning desire
+
+    I don't wanna ride on somebody else's passion.
+    I don't wanna find that I am just dry bones.
+    I wanna burn with unquenchable fire.
+    Deep down inside see it coming alive
+    Help me find my own flame.
+    Help me find my own fire.
+    I want the real thing,
+    I want your burning desire
+
+    Do what only you can do, in my heart tonight
+    There's no better time
+    Help me find my own flame.
+    Help me find my own fire.
+    I want the real thing,
+    I want your burning desire
+    I don't wanna ride on somebody else's passion.
+    I don't wanna find that I am just dry bones.
+    I wanna burn with unquenchable fire.
+    Deep down inside see it coming alive
+    I wanna burn with unquenchable fire.
+    Deep down inside see it coming alive
+    Help me find my own flame.
+    Help me find my own fire.
+    I want the real thing,
+    I want your burning desire
+    Do what only you can do, in my heart tonight
+    There's no better time
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Almighty God to You all hearts are open
+    You take away our sickness and our sin
+    Oh Lamb of God we gather at Your table
+    In bread and wine, You have supplied our needs
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+- song: Oh Love That Will Not Let Me Go
+  artist: Ascend the Hill
+  enabled: false
+  lyrics: |-
+    Oh, Love that will not let me go
+    I rest my weary soul in Thee
+    I give You back the life I owe
+    That in Thine ocean's depths its flow
+    May richer, fuller be
+
+    My life is not my own
+    It's Yours
+    My life is not my own
+    I know it's Yours
+
+    Oh, Light that follows all my way
+    I yield my flickering torch to Thee
+    My heart restores its borrowed ray
+    That in Thy sunshine's blaze its day
+    May brighter, fairer be
+
+    So light a fire in my heart
+    And I'll burn for You
+    So light a fire in my heart
+    And I'll burn for You
+
+    Oh, Joy, that seeks me through the pain
+    I cannot close my heart to Thee
+    I trace the rainbow through the rain
+    And feel the promise is not in vain
+    That morn shall tearless be
+
+    So anoint me with joy
+    And joyful I will be
+    So anoint me with joy
+    And joyful I will be
+
+    Oh, cross that's lifing up my head
+    I dare not ask to fly from thee
+    I lay in dust life's glory dead
+    And from the ground there blossoms red
+    Life that shall endless be
+
+    We will sing:
+    Holy, holy
+    Is the King of Kings
+    And we will sing:
+    Holy, holy, is the King of Kings
+    (repeat)
+
+    On that day we will sing:
+    Holy, holy
+    Is the King of Kings
+
+    We will join with the angels and we will sing:
+    Holy, holy
+    Is the King of Kings
+
+    And we will sing:
+    Holy, holy, is the King of Kings
+- song: 10,000 Reasons
+  artist: Matt Redman
+  enabled: true
+  lyrics: |-
+    Bless the Lord O my soul
+    O my soul
+    Worship His Holy name
+    Sing like never before
+    O my soul
+    I’ll worship Your Holy name
+
+    The sun comes up
+    It’s a new day dawning
+    It’s time to sing Your song again
+    Whatever may pass
+    And whatever lies before me
+    Let me be singing
+    When the evening comes
+
+    You’re rich in love
+    And You’re slow to anger
+    Your name is great
+    And Your heart is kind
+    For all Your goodness
+    I will keep on singing
+    Ten thousand reasons
+    For my heart to find
+
+    And on that day
+    When my strength is failing
+    The end draws near
+    And my time has come
+    Still my soul will
+    Sing Your praise unending
+    Ten thousand years
+    And then forevermore
 - song: Come As You Are
   artist: Crowder
-  enabled: true
+  enabled: false
   lyrics: |-
     Come out of sadness
     From wherever you've been
@@ -61,7 +229,7 @@
     Come as you are
 - song: Since Your Love
   artist: United Pursuit
-  enabled: true
+  enabled: false
   lyrics: "You are the light\nSong of my life\nYou always lead me\nYou are the voice
     inside\n\nYou are my love\nNo one before You\nAll that I am\nPoints to You\n\nAnd
     I was made by You\nI was made for You\nI am unfulfilled\nWithout full communion\n\nYou
@@ -77,7 +245,7 @@
     my breath, You're my life, \nYou're my everything\n"
 - song: Oh Lord, You're Beautiful
   artist: Keith Green
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh Lord, you're beautiful,
     Your face is all I seek,
@@ -105,7 +273,7 @@
     For my reward is giving glory to you.
 - song: My Jesus I Love Thee
   artist: William R. Featherstone
-  enabled: true
+  enabled: false
   lyrics: "My Jesus, I love thee, I know thou art mine;\nfor thee all the follies
     of sin I resign;\nmy gracious Redeemer, my Savior art thou;\nif ever I loved thee,
     my Jesus, 'tis now.\n\nI love thee because thou hast first loved me\nand purchased
@@ -467,37 +635,6 @@
     Oh, how He loves us
     Oh, how He loves us
     Oh, how He loves
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Almighty God to You all hearts are open
-    You take away our sickness and our sin
-    Oh Lamb of God we gather at Your table
-    In bread and wine, You have supplied our needs
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Closer
   enabled: false
   lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
@@ -607,66 +744,6 @@
     Seals mercy and pardon and righteousness mine
     All praise to the Spirit, Whose whisper divine
     Seals mercy and pardon and righteousness mine
-- song: Oh Love That Will Not Let Me Go
-  artist: Ascend the Hill
-  enabled: false
-  lyrics: |-
-    Oh, Love that will not let me go
-    I rest my weary soul in Thee
-    I give You back the life I owe
-    That in Thine ocean's depths its flow
-    May richer, fuller be
-
-    My life is not my own
-    It's Yours
-    My life is not my own
-    I know it's Yours
-
-    Oh, Light that follows all my way
-    I yield my flickering torch to Thee
-    My heart restores its borrowed ray
-    That in Thy sunshine's blaze its day
-    May brighter, fairer be
-
-    So light a fire in my heart
-    And I'll burn for You
-    So light a fire in my heart
-    And I'll burn for You
-
-    Oh, Joy, that seeks me through the pain
-    I cannot close my heart to Thee
-    I trace the rainbow through the rain
-    And feel the promise is not in vain
-    That morn shall tearless be
-
-    So anoint me with joy
-    And joyful I will be
-    So anoint me with joy
-    And joyful I will be
-
-    Oh, cross that's lifing up my head
-    I dare not ask to fly from thee
-    I lay in dust life's glory dead
-    And from the ground there blossoms red
-    Life that shall endless be
-
-    We will sing:
-    Holy, holy
-    Is the King of Kings
-    And we will sing:
-    Holy, holy, is the King of Kings
-    (repeat)
-
-    On that day we will sing:
-    Holy, holy
-    Is the King of Kings
-
-    We will join with the angels and we will sing:
-    Holy, holy
-    Is the King of Kings
-
-    And we will sing:
-    Holy, holy, is the King of Kings
 - song: Death in His Grave
   artist: John Mark McMillan
   enabled: false
@@ -1114,47 +1191,6 @@
     end\nHope is in the Lord, keep your eyes on Him\nThe Kingdom is yours, the Kingdom
     is yours\nHold on a little more, this is not the end\nHope is in the Lord, keep
     your eyes on Him "
-- song: Help Me Find My Own Flame
-  artist: Will Reagan & United Pursuit
-  enabled: false
-  lyrics: |-
-    I don't wanna ride on somebody else's passion.
-    I don't wanna find that I am just dry bones.
-    I wanna burn with unquenchable fire.
-    Deep down inside see it coming alive
-
-    Help me find my own flame.
-    Help me find my own fire.
-    I want the real thing,
-    I want your burning desire
-
-    I don't wanna ride on somebody else's passion.
-    I don't wanna find that I am just dry bones.
-    I wanna burn with unquenchable fire.
-    Deep down inside see it coming alive
-    Help me find my own flame.
-    Help me find my own fire.
-    I want the real thing,
-    I want your burning desire
-
-    Do what only you can do, in my heart tonight
-    There's no better time
-    Help me find my own flame.
-    Help me find my own fire.
-    I want the real thing,
-    I want your burning desire
-    I don't wanna ride on somebody else's passion.
-    I don't wanna find that I am just dry bones.
-    I wanna burn with unquenchable fire.
-    Deep down inside see it coming alive
-    I wanna burn with unquenchable fire.
-    Deep down inside see it coming alive
-    Help me find my own flame.
-    Help me find my own fire.
-    I want the real thing,
-    I want your burning desire
-    Do what only you can do, in my heart tonight
-    There's no better time
 - song: Not in a Hurry
   artist: Will Reagan
   enabled: false
@@ -2099,42 +2135,6 @@
     At the bottom of darkness deep
     Oh but there is not a place I could escape You
 
-- song: 10,000 Reasons
-  artist: Matt Redman
-  enabled: false
-  lyrics: |-
-    Bless the Lord O my soul
-    O my soul
-    Worship His Holy name
-    Sing like never before
-    O my soul
-    I’ll worship Your Holy name
-
-    The sun comes up
-    It’s a new day dawning
-    It’s time to sing Your song again
-    Whatever may pass
-    And whatever lies before me
-    Let me be singing
-    When the evening comes
-
-    You’re rich in love
-    And You’re slow to anger
-    Your name is great
-    And Your heart is kind
-    For all Your goodness
-    I will keep on singing
-    Ten thousand reasons
-    For my heart to find
-
-    And on that day
-    When my strength is failing
-    The end draws near
-    And my time has come
-    Still my soul will
-    Sing Your praise unending
-    Ten thousand years
-    And then forevermore
 - song: Holy, Holy, Holy
   artist: ''
   enabled: false
@@ -3375,37 +3375,39 @@
   artist: Joachim Neander
   enabled: false
   lyrics: |-
-    Praise to the Lord, the Almighty,
-    the King of creation!
-    O my soul, praise him,
-    for he is your health and salvation!
-    Let all who hear
-    Now to his temple draw near,
-    Joining in glad adoration!
+    Praise to the Lord, the Almighty
+    The King of creation
+    O my soul, praise Him
+    For He is thy health and salvation
+    All ye who hear, now to His temple draw near
+    Praise Him in glad adoration
+    Praise him
 
-    Praise to the Lord, who over all
-    Things is wondrously reigning
-    And, as on wings of an eagle,
-    uplifting, sustaining.
-    Have you not seen
-    All that is needful has been
-    Sent by his gracious ordaining?
+    Praise to the Lord
+    Who o'er all things so wondrously reigneth
+    Shelters thee under His wings
+    Yea, so gently sustaineth.
 
-    Praise to the Lord, who will
-    Prosper your work and defend you;
-    Surely his goodness and mercy
-    Shall daily attend you.
-    Ponder anew
-    What the almighty can do
-    As with his love he befriends you.
+    Hast thou not seen how thy desires e'er have been
+    Granted in what He ordaineth
 
-    Praise to the Lord! Oh, let all
-    That is in me adore him!
-    All that has life and breath,
-    Come now with praises before him!
+    Hallelujah Hallelujah Hallelujah Hallelujah
+
+    Praise to the Lord
+    Who doth prosper thy work and defend thee
+    And surely His goodness and mercy here daily attend thee
+    And ponder anew what the Almighty can do
+    If with His love He befriend thee
+
+    Praise to the Lord, O let all that is in me adore Him
+    And all that hath life and breath
+    Come now with praises before Him
+    And let the 'amen' sound from His people again
+    And gladly for aye we adore Him
     Let the amen
-    Sound from his people again.
-    Gladly forever adore him!
+    And let the amen sound from his people again
+    And gladly for aye we adore him
+    Hallelujah
 - song: House of God, Forever
   artist: Jon Foreman
   enabled: false
