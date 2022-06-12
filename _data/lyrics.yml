@@ -1,7 +1,94 @@
 ---
+- song: Psalm 145
+  enabled: true
+  lyrics: |-
+    I will bless You all of my days LORD
+    I will praise you always, My God and King
+    I will bless and honor Your name LORD
+    Always and forever my soul will sing
+    Such a vast, unsearchable greatness
+    Great is Yahweh, worthy of all of praise
+    Let Your people sound through the ages
+    All Your awesome works till the end of days
+
+    We have seen Your splendor and glory
+    We have seen Your wonders and stand amazed
+    Every tongue will echo Your story
+    Everyone will sing of Your righteous ways
+
+    Oh, let all that lives ever bless His name
+
+    All that You have made, LORD, will praise You
+    All your saints will worship You in joyful strains
+    Praise the LORD who ransoms and rescues
+    Praise the God of Glory who ever reigns
+
+    He is Holy judging the wicked
+    Guarding those that love him and fear his name
+    All that call out, Yahweh is with them
+    He will hear their cries, He is strong to save
+
+    He upholds the one who is stumbling
+    Lifting up those burdened with heavy loads
+    Opening His hands to the hungry
+    Blessing all that look to their Lord in hope
+
+    He is tender toward His creation
+    He is faithful and gracious in all He does
+    Great is Yahweh, full of compassion
+    Slow to anger, filled with unfailing love
+
+    Oh, let all that lives ever bless His name
+    Oh, let all that lives ever bless His name
+  artist: Dustin Kensrue
+- song: Come Ye Sinners, Poor And Needy
+  artist: Joseph Hart
+  enabled: true
+  lyrics: |-
+    Come, ye sinners, poor and needy,
+    Weak and wounded, sick and sore;
+    Jesus ready stands to save you,
+    Full of pity, love and power.
+
+    Refrain
+
+    I will arise and go to Jesus,
+    He will embrace me in His arms;
+    In the arms of my dear Savior,
+    O there are ten thousand charms.
+
+    Come, ye thirsty, come, and welcome,
+    God’s free bounty glorify;
+    True belief and true repentance,
+    Every grace that brings you nigh.
+
+    Refrain
+
+    Come, ye weary, heavy laden,
+    Lost and ruined by the fall;
+    If you tarry till you’re better,
+    You will never come at all.
+
+    Refrain
+- song: Since Your Love
+  artist: United Pursuit
+  enabled: true
+  lyrics: "You are the light\nSong of my life\nYou always lead me\nYou are the voice
+    inside\n\nYou are my love\nNo one before You\nAll that I am\nPoints to You\n\nAnd
+    I was made by You\nI was made for You\nI am unfulfilled\nWithout full communion\n\nYou
+    are the light\nSong of my life\nYou always lead me\nYou are the voice inside\n\nYou
+    are my love\nNo one before You\nAll that I am\nLongs for You\n\nAnd I was made
+    by You\nI was made for You\nI am unfulfilled\nWithout full communion\n\nAnd I
+    was made by You\nAnd I was made for You (ooh)\nAnd I am unfulfilled\nWithout full
+    communion\n\nSince Your love got a hold of me\nSince Your love got a hold of me\nI'm
+    a new creation\nI'm forever changed\n\nSince Your love got a hold of me\nSince
+    Your love got a hold of me\nI'm a new creation\nI'm forever changed\n\nI was made
+    by You (I was made by You)\nI was made for You (I was made for You)\nI am unfulfilled
+    (I am unfulfilled)\nWithout full communion...\n\nIn You, is all I need\nYou're
+    my breath, You're my life, \nYou're my everything\n"
 - song: Holy Spirit
   artist: Jesus Culture
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
 
@@ -38,12 +125,12 @@
     Here I stand
 - song: Doxology
   artist: 
-  enabled: true
+  enabled: false
   lyrics: "Praise God from Whom all blessings flow\nPraise Him all creatures here
     below\nPraise Him above ye heavenly host\nPraise Father Son and Holy Ghost\nAmen "
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -74,7 +161,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, Love that will not let me go
     I rest my weary soul in Thee
@@ -268,22 +355,6 @@
     You're not too far
     Lay down your hurt lay down your heart
     Come as you are
-- song: Since Your Love
-  artist: United Pursuit
-  enabled: false
-  lyrics: "You are the light\nSong of my life\nYou always lead me\nYou are the voice
-    inside\n\nYou are my love\nNo one before You\nAll that I am\nPoints to You\n\nAnd
-    I was made by You\nI was made for You\nI am unfulfilled\nWithout full communion\n\nYou
-    are the light\nSong of my life\nYou always lead me\nYou are the voice inside\n\nYou
-    are my love\nNo one before You\nAll that I am\nLongs for You\n\nAnd I was made
-    by You\nI was made for You\nI am unfulfilled\nWithout full communion\n\nAnd I
-    was made by You\nAnd I was made for You (ooh)\nAnd I am unfulfilled\nWithout full
-    communion\n\nSince Your love got a hold of me\nSince Your love got a hold of me\nI'm
-    a new creation\nI'm forever changed\n\nSince Your love got a hold of me\nSince
-    Your love got a hold of me\nI'm a new creation\nI'm forever changed\n\nI was made
-    by You (I was made by You)\nI was made for You (I was made for You)\nI am unfulfilled
-    (I am unfulfilled)\nWithout full communion...\n\nIn You, is all I need\nYou're
-    my breath, You're my life, \nYou're my everything\n"
 - song: Oh Lord, You're Beautiful
   artist: Keith Green
   enabled: false
@@ -325,77 +396,6 @@
     mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
     sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
     now. "
-- song: Come Ye Sinners, Poor And Needy
-  artist: Joseph Hart
-  enabled: false
-  lyrics: |-
-    Come, ye sinners, poor and needy,
-    Weak and wounded, sick and sore;
-    Jesus ready stands to save you,
-    Full of pity, love and power.
-
-    Refrain
-
-    I will arise and go to Jesus,
-    He will embrace me in His arms;
-    In the arms of my dear Savior,
-    O there are ten thousand charms.
-
-    Come, ye thirsty, come, and welcome,
-    God’s free bounty glorify;
-    True belief and true repentance,
-    Every grace that brings you nigh.
-
-    Refrain
-
-    Come, ye weary, heavy laden,
-    Lost and ruined by the fall;
-    If you tarry till you’re better,
-    You will never come at all.
-
-    Refrain
-- song: Psalm 145
-  enabled: false
-  lyrics: |-
-    I will bless You all of my days LORD
-    I will praise you always, My God and King
-    I will bless and honor Your name LORD
-    Always and forever my soul will sing
-    Such a vast, unsearchable greatness
-    Great is Yahweh, worthy of all of praise
-    Let Your people sound through the ages
-    All Your awesome works till the end of days
-
-    We have seen Your splendor and glory
-    We have seen Your wonders and stand amazed
-    Every tongue will echo Your story
-    Everyone will sing of Your righteous ways
-
-    Oh, let all that lives ever bless His name
-
-    All that You have made, LORD, will praise You
-    All your saints will worship You in joyful strains
-    Praise the LORD who ransoms and rescues
-    Praise the God of Glory who ever reigns
-
-    He is Holy judging the wicked
-    Guarding those that love him and fear his name
-    All that call out, Yahweh is with them
-    He will hear their cries, He is strong to save
-
-    He upholds the one who is stumbling
-    Lifting up those burdened with heavy loads
-    Opening His hands to the hungry
-    Blessing all that look to their Lord in hope
-
-    He is tender toward His creation
-    He is faithful and gracious in all He does
-    Great is Yahweh, full of compassion
-    Slow to anger, filled with unfailing love
-
-    Oh, let all that lives ever bless His name
-    Oh, let all that lives ever bless His name
-  artist: Dustin Kensrue
 - song: I Belong to You
   artist: Derek Johnson
   enabled: false
