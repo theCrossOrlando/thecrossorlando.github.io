@@ -1,6 +1,116 @@
 ---
-- song: Psalm 145
+- song: Heart Won't Stop
+  artist: John Mark McMillan & Sarah McMillan
   enabled: true
+  lyrics: |+
+    You're never gonna let,
+    You're never gonna let me down.
+    You're never gonna let,
+    You're never gonna let me down.
+    You're never gonna let,
+    You're never gonna let me down.
+
+    –
+
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Coming after me
+
+    There is not a man or beast
+    Nothing on the land or underneath
+    Oh nothing that could ever come between
+    The love You have for me
+
+    I could lay my head in Sheol
+    I could make my bed
+    At the bottom of darkness deep
+    Oh but there is not a place I could escape You
+
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Your heart won't stop, coming after me
+    Coming after me
+
+    There is not an angel of the stars,
+    There is not a devil in the dark
+    Oh nothing that could change the way You are,
+    Or the love You have for me
+
+    I could lay my head in Sheol
+    I could make my bed
+    At the bottom of darkness deep
+    Oh but there is not a place I could escape You
+
+- song: Since Your Love
+  artist: United Pursuit
+  enabled: true
+  lyrics: "You are the light\nSong of my life\nYou always lead me\nYou are the voice
+    inside\n\nYou are my love\nNo one before You\nAll that I am\nPoints to You\n\nAnd
+    I was made by You\nI was made for You\nI am unfulfilled\nWithout full communion\n\nYou
+    are the light\nSong of my life\nYou always lead me\nYou are the voice inside\n\nYou
+    are my love\nNo one before You\nAll that I am\nLongs for You\n\nAnd I was made
+    by You\nI was made for You\nI am unfulfilled\nWithout full communion\n\nAnd I
+    was made by You\nAnd I was made for You (ooh)\nAnd I am unfulfilled\nWithout full
+    communion\n\nSince Your love got a hold of me\nSince Your love got a hold of me\nI'm
+    a new creation\nI'm forever changed\n\nSince Your love got a hold of me\nSince
+    Your love got a hold of me\nI'm a new creation\nI'm forever changed\n\nI was made
+    by You (I was made by You)\nI was made for You (I was made for You)\nI am unfulfilled
+    (I am unfulfilled)\nWithout full communion...\n\nIn You, is all I need\nYou're
+    my breath, You're my life, \nYou're my everything\n"
+- song: I Belong to You
+  artist: Derek Johnson
+  enabled: true
+  lyrics: |
+    You can be the One that steals my heart
+    With just a simple thought of who You are
+    Let Your light shine in the darkest parts
+    Let Your love fill the world
+
+    You can be the fire down in my soul
+    That I can't contain, that I can't control
+    Would You fill me up to overflow
+    Let Your love fill the world
+
+    And I belong to You
+    Forever, I belong to You
+
+    Let Your Words be like a burning flame
+    Come in close to touch my heart again
+    The whole earth trembles at the sound of Your name
+    Let Your love fill the world
+
+    And all I want is more of You
+    Your breath is life, Your word is truth
+    Your glory here is bursting through
+    Let Your love fill the world
+
+    And I belong to You
+    Forever, I belong to You
+
+    And You have set my heart on fire
+    My love and my desire
+    Only for You
+
+    And as Your glory fills this place
+    Your love we will embrace
+    Only for You, for You
+
+    And I belong to You
+    Forever, I belong to You
+
+    And You have set my heart on fire
+    My love and my desire
+    Only for You
+
+    And as Your glory fills this place
+    Your love we will embrace
+    Only for You, for You
+
+    And I belong to You
+    Forever, I belong to You
+- song: Psalm 145
+  enabled: false
   lyrics: |-
     I will bless You all of my days LORD
     I will praise you always, My God and King
@@ -42,7 +152,7 @@
     Oh, let all that lives ever bless His name
   artist: Dustin Kensrue
 - song: Closer / Never Gonna Let You Go
-  enabled: true
+  enabled: false
   lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
     the raging storm\nWould you hold me in your arms, arms\n\n'Cause I need you, how
     I need you\n\nI need your love like I need water\nI need your love like I need
@@ -65,7 +175,7 @@
   artist: Brandon Lake / Switchfoot
 - song: Come Ye Sinners, Poor And Needy
   artist: Joseph Hart
-  enabled: true
+  enabled: false
   lyrics: |-
     Come, ye sinners, poor and needy,
     Weak and wounded, sick and sore;
@@ -92,22 +202,6 @@
     You will never come at all.
 
     Refrain
-- song: Since Your Love
-  artist: United Pursuit
-  enabled: true
-  lyrics: "You are the light\nSong of my life\nYou always lead me\nYou are the voice
-    inside\n\nYou are my love\nNo one before You\nAll that I am\nPoints to You\n\nAnd
-    I was made by You\nI was made for You\nI am unfulfilled\nWithout full communion\n\nYou
-    are the light\nSong of my life\nYou always lead me\nYou are the voice inside\n\nYou
-    are my love\nNo one before You\nAll that I am\nLongs for You\n\nAnd I was made
-    by You\nI was made for You\nI am unfulfilled\nWithout full communion\n\nAnd I
-    was made by You\nAnd I was made for You (ooh)\nAnd I am unfulfilled\nWithout full
-    communion\n\nSince Your love got a hold of me\nSince Your love got a hold of me\nI'm
-    a new creation\nI'm forever changed\n\nSince Your love got a hold of me\nSince
-    Your love got a hold of me\nI'm a new creation\nI'm forever changed\n\nI was made
-    by You (I was made by You)\nI was made for You (I was made for You)\nI am unfulfilled
-    (I am unfulfilled)\nWithout full communion...\n\nIn You, is all I need\nYou're
-    my breath, You're my life, \nYou're my everything\n"
 - song: Holy Spirit
   artist: Jesus Culture
   enabled: false
@@ -418,57 +512,6 @@
     mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
     sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
     now. "
-- song: I Belong to You
-  artist: Derek Johnson
-  enabled: false
-  lyrics: |
-    You can be the One that steals my heart
-    With just a simple thought of who You are
-    Let Your light shine in the darkest parts
-    Let Your love fill the world
-
-    You can be the fire down in my soul
-    That I can't contain, that I can't control
-    Would You fill me up to overflow
-    Let Your love fill the world
-
-    And I belong to You
-    Forever, I belong to You
-
-    Let Your Words be like a burning flame
-    Come in close to touch my heart again
-    The whole earth trembles at the sound of Your name
-    Let Your love fill the world
-
-    And all I want is more of You
-    Your breath is life, Your word is truth
-    Your glory here is bursting through
-    Let Your love fill the world
-
-    And I belong to You
-    Forever, I belong to You
-
-    And You have set my heart on fire
-    My love and my desire
-    Only for You
-
-    And as Your glory fills this place
-    Your love we will embrace
-    Only for You, for You
-
-    And I belong to You
-    Forever, I belong to You
-
-    And You have set my heart on fire
-    My love and my desire
-    Only for You
-
-    And as Your glory fills this place
-    Your love we will embrace
-    Only for You, for You
-
-    And I belong to You
-    Forever, I belong to You
 - song: King of My Heart
   artist: Bethel Music, Steffany Gretzinger
   enabled: false
@@ -2101,49 +2144,6 @@
 
     O praise Him! O praise Him!
     Alleluia! Alleluia!  Alleluia!
-- song: Heart Won't Stop
-  artist: John Mark McMillan & Sarah McMillan
-  enabled: false
-  lyrics: |+
-    You're never gonna let,
-    You're never gonna let me down.
-    You're never gonna let,
-    You're never gonna let me down.
-    You're never gonna let,
-    You're never gonna let me down.
-
-    –
-
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after me
-    Coming after me
-
-    There is not a man or beast
-    Nothing on the land or underneath
-    Oh nothing that could ever come between
-    The love You have for me
-
-    I could lay my head in Sheol
-    I could make my bed
-    At the bottom of darkness deep
-    Oh but there is not a place I could escape You
-
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after me
-    Your heart won't stop, coming after me
-    Coming after me
-
-    There is not an angel of the stars,
-    There is not a devil in the dark
-    Oh nothing that could change the way You are,
-    Or the love You have for me
-
-    I could lay my head in Sheol
-    I could make my bed
-    At the bottom of darkness deep
-    Oh but there is not a place I could escape You
-
 - song: Holy, Holy, Holy
   artist: ''
   enabled: false
