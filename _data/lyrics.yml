@@ -1,7 +1,108 @@
 ---
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Almighty God to You all hearts are open
+    You take away our sickness and our sin
+    Oh Lamb of God we gather at Your table
+    In bread and wine, You have supplied our needs
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+- song: Psalm 145
+  enabled: true
+  lyrics: |-
+    I will bless You all of my days LORD
+    I will praise you always, My God and King
+    I will bless and honor Your name LORD
+    Always and forever my soul will sing
+    Such a vast, unsearchable greatness
+    Great is Yahweh, worthy of all of praise
+    Let Your people sound through the ages
+    All Your awesome works till the end of days
+
+    We have seen Your splendor and glory
+    We have seen Your wonders and stand amazed
+    Every tongue will echo Your story
+    Everyone will sing of Your righteous ways
+
+    Oh, let all that lives ever bless His name
+
+    All that You have made, LORD, will praise You
+    All your saints will worship You in joyful strains
+    Praise the LORD who ransoms and rescues
+    Praise the God of Glory who ever reigns
+
+    He is Holy judging the wicked
+    Guarding those that love him and fear his name
+    All that call out, Yahweh is with them
+    He will hear their cries, He is strong to save
+
+    He upholds the one who is stumbling
+    Lifting up those burdened with heavy loads
+    Opening His hands to the hungry
+    Blessing all that look to their Lord in hope
+
+    He is tender toward His creation
+    He is faithful and gracious in all He does
+    Great is Yahweh, full of compassion
+    Slow to anger, filled with unfailing love
+
+    Oh, let all that lives ever bless His name
+    Oh, let all that lives ever bless His name
+  artist: Dustin Kensrue
+- song: Oh Lord, You're Beautiful
+  artist: Keith Green
+  enabled: true
+  lyrics: |-
+    Oh Lord, you're beautiful,
+    Your face is all I seek,
+    For when your eyes are on this child,
+    Your grace abounds to me.
+
+    Oh Lord, please light the fire,
+    That once burned bright and clear.
+    Replace the lamp of my first love,
+    That burns with Holy fear.
+
+    I want to take your word and shine it all around.
+    But first help me to just, live it Lord.
+    And when I'm doing well, help me to never seek a crown.
+    For my reward is giving glory to you.
+
+    Oh Lord, you're beautiful,
+    Your face is all I seek,
+    For when your eyes are on this child,
+    Your grace abounds to me.
+
+    I want to take your word and shine it all around.
+    But first help me to just, live it Lord.
+    And when I'm doing well, help me to never seek a crown.
+    For my reward is giving glory to you.
 - song: Heart Won't Stop
   artist: John Mark McMillan & Sarah McMillan
-  enabled: true
+  enabled: false
   lyrics: |+
     There is not a man or beast
     Nothing on the land or underneath
@@ -35,7 +136,7 @@
 
 - song: Since Your Love
   artist: United Pursuit
-  enabled: true
+  enabled: false
   lyrics: "You are the light\nSong of my life\nYou always lead me\nYou are the voice
     inside\n\nYou are my love\nNo one before You\nAll that I am\nPoints to You\n\nAnd
     I was made by You\nI was made for You\nI am unfulfilled\nWithout full communion\n\nYou
@@ -51,7 +152,7 @@
     my breath, You're my life, \nYou're my everything\n"
 - song: I Belong to You
   artist: Derek Johnson
-  enabled: true
+  enabled: false
   lyrics: |
     You can be the One that steals my heart
     With just a simple thought of who You are
@@ -100,48 +201,6 @@
 
     And I belong to You
     Forever, I belong to You
-- song: Psalm 145
-  enabled: false
-  lyrics: |-
-    I will bless You all of my days LORD
-    I will praise you always, My God and King
-    I will bless and honor Your name LORD
-    Always and forever my soul will sing
-    Such a vast, unsearchable greatness
-    Great is Yahweh, worthy of all of praise
-    Let Your people sound through the ages
-    All Your awesome works till the end of days
-
-    We have seen Your splendor and glory
-    We have seen Your wonders and stand amazed
-    Every tongue will echo Your story
-    Everyone will sing of Your righteous ways
-
-    Oh, let all that lives ever bless His name
-
-    All that You have made, LORD, will praise You
-    All your saints will worship You in joyful strains
-    Praise the LORD who ransoms and rescues
-    Praise the God of Glory who ever reigns
-
-    He is Holy judging the wicked
-    Guarding those that love him and fear his name
-    All that call out, Yahweh is with them
-    He will hear their cries, He is strong to save
-
-    He upholds the one who is stumbling
-    Lifting up those burdened with heavy loads
-    Opening His hands to the hungry
-    Blessing all that look to their Lord in hope
-
-    He is tender toward His creation
-    He is faithful and gracious in all He does
-    Great is Yahweh, full of compassion
-    Slow to anger, filled with unfailing love
-
-    Oh, let all that lives ever bless His name
-    Oh, let all that lives ever bless His name
-  artist: Dustin Kensrue
 - song: Closer / Never Gonna Let You Go
   enabled: false
   lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
@@ -235,37 +294,6 @@
   enabled: false
   lyrics: "Praise God from Whom all blessings flow\nPraise Him all creatures here
     below\nPraise Him above ye heavenly host\nPraise Father Son and Holy Ghost\nAmen "
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Almighty God to You all hearts are open
-    You take away our sickness and our sin
-    Oh Lamb of God we gather at Your table
-    In bread and wine, You have supplied our needs
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
   enabled: false
@@ -462,34 +490,6 @@
     You're not too far
     Lay down your hurt lay down your heart
     Come as you are
-- song: Oh Lord, You're Beautiful
-  artist: Keith Green
-  enabled: false
-  lyrics: |-
-    Oh Lord, you're beautiful,
-    Your face is all I seek,
-    For when your eyes are on this child,
-    Your grace abounds to me.
-
-    Oh Lord, please light the fire,
-    That once burned bright and clear.
-    Replace the lamp of my first love,
-    That burns with Holy fear.
-
-    I want to take your word and shine it all around.
-    But first help me to just, live it Lord.
-    And when I'm doing well, help me to never seek a crown.
-    For my reward is giving glory to you.
-
-    Oh Lord, you're beautiful,
-    Your face is all I seek,
-    For when your eyes are on this child,
-    Your grace abounds to me.
-
-    I want to take your word and shine it all around.
-    But first help me to just, live it Lord.
-    And when I'm doing well, help me to never seek a crown.
-    For my reward is giving glory to you.
 - song: My Jesus I Love Thee
   artist: William R. Featherstone
   enabled: false
