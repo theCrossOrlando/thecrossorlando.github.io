@@ -398,7 +398,7 @@
     Holy, holy, is the King of Kings
 - song: Praise to the Lord, the Almighty
   artist: Hymn
-  enabled: true
+  enabled: false
   lyrics: |-
     Praise to the Lord, the Almighty
     The King of creation
