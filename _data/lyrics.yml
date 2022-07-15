@@ -1,4 +1,23 @@
 ---
+- song: Psalm 16
+  enabled: true
+  lyrics: |
+    You are my Lord
+    I have no good beside you, God
+    I have no need apart from you, Jesus
+    My everlasting Hope
+
+    I will set you ever before me, Lord
+    Reminding my soul that you are the prize
+    Beholding your glory leads me to worship
+    So open my eyes now to see just who you are
+
+    You are my rest
+    I have no peace beside you, God
+    I find my shelter in you, Jesus
+    My ever-present help
+
+    You are here now
 - song: Goodness of God
   artist: Bethel Music
   enabled: ''
