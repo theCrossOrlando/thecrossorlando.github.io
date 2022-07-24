@@ -1,6 +1,79 @@
 ---
-- song: Psalm 16
+- song: May The Words of My Mouth
+  artist: Shane and Shane
   enabled: true
+  lyrics: |-
+    May the words of my mouth
+    And the meditation from my heart
+    Be pleasing to you
+    Pleasing to you (2x)
+    My God
+
+    You're my rock and my redeemer
+    You're the reason that i sing
+    I desire to give a blessing
+    In Your eyes
+
+    Every hour and every moment
+    Lord i want to be your servant
+    I desire to be a blessing
+    In Your eyes
+    In Your eyes
+
+    Oh, in your eyes
+    In your eyes
+- song: Good, Good Father
+  artist: Chris Tomlin
+  enabled: true
+  lyrics: |
+    Oh, I've heard a thousand stories of what they think you're like
+    But I've heard the tender whispers of love in the dead of night
+    And you tell me that you're pleased
+    And that I'm never alone
+
+    You're a Good, Good Father
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    It's who I am, it's who I am, it's who I am
+
+    Oh, and I've seen many searching for answers far and wide
+    But I know we're all searching
+    For answers only you provide
+    'Cause you know just what we need
+    Before we say a word
+
+    You're a Good, Good Father
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    It's who I am, it's who I am, it's who I am
+
+    'cause you are perfect in all of your ways
+    You are perfect in all of your ways
+    You are perfect in all of your ways to us
+
+    You are perfect in all of your ways
+    You are perfect in all of your ways
+    You are perfect in all of your ways to us
+
+    Oh, it's love so undeniable
+    I, I can hardly speak
+    Peace so unexplainable
+    I, I can hardly think
+
+    As you call me deeper still [3x]
+    Into love, love, love
+
+    You're a Good, Good Father
+    It's who you are, it's who you are, it's who you are
+    And I'm loved by you
+    It's who I am, it's who I am, it's who I am
+- song: Doxology
+  artist: 
+  enabled: true
+  lyrics: "Praise God from Whom all blessings flow\nPraise Him all creatures here
+    below\nPraise Him above ye heavenly host\nPraise Father Son and Holy Ghost\nAmen "
+- song: Psalm 16
+  enabled: false
   lyrics: |
     You are my Lord
     I have no good beside you, God
@@ -61,7 +134,7 @@
     Oh, I will sing of the goodness of God (yeah)
 - song: You Are So Good To Me
   artist: Third Day
-  enabled: true
+  enabled: false
   lyrics: |-
     You are so good to me
     You heal my broken heart
@@ -86,7 +159,7 @@
     And I want to sing forever
 - song: Come Ye Sinners, Poor And Needy; Higher Power
   artist: Joseph Hart; Coldplay
-  enabled: true
+  enabled: false
   lyrics: "Come, ye sinners, poor and needy,\nWeak and wounded, sick and sore;\nJesus
     ready stands to save you,\nFull of pity, love and power.\n\nRefrain\n\nI will
     arise and go to Jesus,\nHe will embrace me in His arms;\nIn the arms of my dear
@@ -401,11 +474,6 @@
     Let us become more aware of Your presence
     Let us experience the glory of Your goodness
     Here I stand
-- song: Doxology
-  artist: 
-  enabled: false
-  lyrics: "Praise God from Whom all blessings flow\nPraise Him all creatures here
-    below\nPraise Him above ye heavenly host\nPraise Father Son and Holy Ghost\nAmen "
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
   enabled: false
@@ -2628,74 +2696,6 @@
     Heaven and earth
     Rejoice in His holy Name
     He is exalted the King is exalted on high
-- song: May The Words of My Mouth
-  artist: Shane and Shane
-  enabled: false
-  lyrics: |-
-    May the words of my mouth
-    And the meditation from my heart
-    Be pleasing to you
-    Pleasing to you (2x)
-    My God
-
-    You're my rock and my redeemer
-    You're the reason that i sing
-    I desire to give a blessing
-    In Your eyes
-
-    Every hour and every moment
-    Lord i want to be your servant
-    I desire to be a blessing
-    In Your eyes
-    In Your eyes
-
-    Oh, in your eyes
-    In your eyes
-- song: Good, Good Father
-  artist: Chris Tomlin
-  enabled: false
-  lyrics: |
-    Oh, I've heard a thousand stories of what they think you're like
-    But I've heard the tender whispers of love in the dead of night
-    And you tell me that you're pleased
-    And that I'm never alone
-
-    You're a Good, Good Father
-    It's who you are, it's who you are, it's who you are
-    And I'm loved by you
-    It's who I am, it's who I am, it's who I am
-
-    Oh, and I've seen many searching for answers far and wide
-    But I know we're all searching
-    For answers only you provide
-    'Cause you know just what we need
-    Before we say a word
-
-    You're a Good, Good Father
-    It's who you are, it's who you are, it's who you are
-    And I'm loved by you
-    It's who I am, it's who I am, it's who I am
-
-    'cause you are perfect in all of your ways
-    You are perfect in all of your ways
-    You are perfect in all of your ways to us
-
-    You are perfect in all of your ways
-    You are perfect in all of your ways
-    You are perfect in all of your ways to us
-
-    Oh, it's love so undeniable
-    I, I can hardly speak
-    Peace so unexplainable
-    I, I can hardly think
-
-    As you call me deeper still [3x]
-    Into love, love, love
-
-    You're a Good, Good Father
-    It's who you are, it's who you are, it's who you are
-    And I'm loved by you
-    It's who I am, it's who I am, it's who I am
 - song: 'All Who Are Thirsty '
   enabled: false
   lyrics: |
