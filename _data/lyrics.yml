@@ -1,7 +1,147 @@
 ---
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Almighty God to You all hearts are open
+    You take away our sickness and our sin
+    Oh Lamb of God we gather at Your table
+    In bread and wine, You have supplied our needs
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+- song: Your Love Changes Everything
+  artist: United Pursuit
+  enabled: true
+  lyrics: |-
+    Lord, you spoke those words
+    You spoke so tenderly
+    Now I choose to believe
+    You love me, you love me, you love me
+
+    Lord, you spoke those words
+    You spoke so tenderly
+    Now I choose to believe
+    You love me, you love me, you love me
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    When my heart is frail
+    And when I’m incomplete
+    I will choose to receive
+    You love me, you love me, you love me
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+
+    You never fail
+    When I look at you
+    You never fail
+    And I trust in you
+    And you never let go
+    You never let go of me
+    You never let go
+
+    You never fail
+    When I look at you
+    You never fail
+    And I trust in you
+    Lord, you never let go
+    You never let go of me
+    You never let go
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+    [Repeat 3x]
+
+    Your love changes everything
+    Your love changes everything
+    Your love changes everything
+
+    Lord you spoke those words
+    You spoke so tenderly
+    And now I choose to believe
+    You love me, you love me, you love me
+- song: Goodness of God
+  artist: Bethel Music
+  enabled: true
+  lyrics: |
+    I love You, Lord
+    For Your mercy never fails me
+    All my days, I've been held in Your hands
+    From the moment that I wake up
+    Until I lay my head
+    Oh, I will sing of the goodness of God
+
+    And all my life You have been faithful
+    And all my life You have been so, so good
+    With every breath that I am able
+    Oh, I will sing of the goodness of God
+
+    I love Your voice
+    You have led me through the fire
+    In the darkest night
+    You are close like no other
+    I've known You as a Father
+    I've known You as a Friend
+    And I have lived in the goodness of God (yeah)
+
+    And all my life You have been faithful (oh)
+    And all my life You have been so, so good
+    With every breath that I am able
+    Oh, I will sing of the goodness of God (yeah)
+
+    'Cause Your goodness is running after
+    It's running after me
+    Your goodness is running after
+    It's running after me
+    With my life laid down
+    I'm surrendered now
+    I give You everything
+
+    And all my life You have been faithful (oh)
+    And all my life You have been so, so good
+    With every breath that I am able
+    Oh, I will sing of the goodness of God (yeah)
 - song: May The Words of My Mouth
   artist: Shane and Shane
-  enabled: true
+  enabled: false
   lyrics: |-
     May the words of my mouth
     And the meditation from my heart
@@ -24,7 +164,7 @@
     In your eyes
 - song: Good, Good Father
   artist: Chris Tomlin
-  enabled: true
+  enabled: false
   lyrics: |
     Oh, I've heard a thousand stories of what they think you're like
     But I've heard the tender whispers of love in the dead of night
@@ -69,7 +209,7 @@
     It's who I am, it's who I am, it's who I am
 - song: Doxology
   artist: 
-  enabled: true
+  enabled: false
   lyrics: "Praise God from Whom all blessings flow\nPraise Him all creatures here
     below\nPraise Him above ye heavenly host\nPraise Father Son and Holy Ghost\nAmen "
 - song: Psalm 16
@@ -91,47 +231,6 @@
     My ever-present help
 
     You are here now
-- song: Goodness of God
-  artist: Bethel Music
-  enabled: ''
-  lyrics: |
-    I love You, Lord
-    For Your mercy never fails me
-    All my days, I've been held in Your hands
-    From the moment that I wake up
-    Until I lay my head
-    Oh, I will sing of the goodness of God
-
-    And all my life You have been faithful
-    And all my life You have been so, so good
-    With every breath that I am able
-    Oh, I will sing of the goodness of God
-
-    I love Your voice
-    You have led me through the fire
-    In the darkest night
-    You are close like no other
-    I've known You as a Father
-    I've known You as a Friend
-    And I have lived in the goodness of God (yeah)
-
-    And all my life You have been faithful (oh)
-    And all my life You have been so, so good
-    With every breath that I am able
-    Oh, I will sing of the goodness of God (yeah)
-
-    'Cause Your goodness is running after
-    It's running after me
-    Your goodness is running after
-    It's running after me
-    With my life laid down
-    I'm surrendered now
-    I give You everything
-
-    And all my life You have been faithful (oh)
-    And all my life You have been so, so good
-    With every breath that I am able
-    Oh, I will sing of the goodness of God (yeah)
 - song: You Are So Good To Me
   artist: Third Day
   enabled: false
@@ -171,37 +270,6 @@
     for so long, \nI'd been down on my knees\nTill your loves song, \nIt saved me
     over and over;\nFor so long, \nI'd been down on my knees\nTill your love song,
     \nIt floats me on, \nOn"
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Almighty God to You all hearts are open
-    You take away our sickness and our sin
-    Oh Lamb of God we gather at Your table
-    In bread and wine, You have supplied our needs
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Oh Lord, You're Beautiful
   artist: Keith Green
   enabled: false
@@ -1127,74 +1195,6 @@
     I see Your face, You're beautiful
     You're beautiful
     You're beautiful
-- song: Your Love Changes Everything
-  artist: United Pursuit
-  enabled: false
-  lyrics: |-
-    Lord, you spoke those words
-    You spoke so tenderly
-    Now I choose to believe
-    You love me, you love me, you love me
-
-    Lord, you spoke those words
-    You spoke so tenderly
-    Now I choose to believe
-    You love me, you love me, you love me
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-
-    When my heart is frail
-    And when I’m incomplete
-    I will choose to receive
-    You love me, you love me, you love me
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-
-    You never fail
-    When I look at you
-    You never fail
-    And I trust in you
-    And you never let go
-    You never let go of me
-    You never let go
-
-    You never fail
-    When I look at you
-    You never fail
-    And I trust in you
-    Lord, you never let go
-    You never let go of me
-    You never let go
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-    [Repeat 3x]
-
-    Your love changes everything
-    Your love changes everything
-    Your love changes everything
-
-    Lord you spoke those words
-    You spoke so tenderly
-    And now I choose to believe
-    You love me, you love me, you love me
 - song: How Deep The Father's Love For Us
   artist: 
   enabled: false
