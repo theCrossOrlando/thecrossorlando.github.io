@@ -1,7 +1,134 @@
 ---
+- song: Be Thou My Vision
+  artist: Ascend the Hill
+  enabled: true
+  lyrics: |+
+    Be Thou my Vision, O Lord of my heart;
+    Naught be all else to me, save that Thou art;
+    Thou my best Thought, by day or by night,
+    Waking or sleeping, Thy presence my light.
+
+    Be Thou my Wisdom, and Thou my true Word;
+    I ever with Thee and Thou with me, Lord;
+    Thou my great Father, I Thy true son;
+    Thou in me dwelling, and I with Thee one.
+
+    Riches I heed not, nor man’s empty praise,
+    Thou mine Inheritance, now and always:
+    Thou and Thou only, first in my heart,
+    High King of Heaven, my Treasure Thou art.
+
+    Oh, God, be my everything, be my delight
+    Be, Jesus, my glory My soul's satisfied
+    Oh, God, be my everything, be my delight
+    Be, Jesus, my glory My soul's satisfied
+
+    High King of Heaven, my victory won,
+    May I reach Heaven’s joys, O bright Heaven’s Sun!
+    Heart of my own heart, whatever befall,
+    Still be my Vision, O Ruler of all.
+
+- song: Never Going Back
+  artist: United Pursuit
+  enabled: true
+  lyrics: "Faithful One, no matter how far I run\nYou lead me home, You extend Your
+    love\nPatiently, fathering the orphan in me\nYou say I am Yours\n\nI never am
+    alone\nI never am alone\nYou found me \n(Repeat)\n\nAnd I've made up my mind\nI'm
+    never going back\nI'm never going back\n(Repeat)\n\nRighteousness, found only
+    in Your face\nYou see my heart You extend Your grace\nEyes open falling in love
+    again\nYou say I'm Yours\n\nIt was always You\nIt was always You\nYou found me\n(Repeat)\n\nOh
+    you called me your own\nI'm never going back\nI'm never going back\n(Repeat)\n\nI've
+    made up my mind\nI'm never going back\nI'm never going back\n(Repeat)\n\nI'm singing
+    out Your lovely name\nI'm giving You everything\nYou make my soul alive\nYou put
+    Your love inside\n(Repeat)\n\nThere's nothing that I have need of\n'Cause there's
+    nothing You haven't done\nYou make my soul alive\nYou put Your love inside\n(Repeat)\n\nI'm
+    singing out Your lovely name\nI'm giving You everything\nYou make my soul alive\nYou
+    put Your love inside\n(Repeat)\n\nThere's nothing that I have need of\n'Cause
+    there's nothing You haven't done\nYou make my soul alive\nYou put Your love inside\n(Repeat)\n"
+- song: What a Beautiful Name
+  artist: Hillsong Worship
+  enabled: true
+  lyrics: |2-
+
+    You were the Word at the beginning
+    One With God the Lord Most High
+    Your hidden glory in creation
+    Now revealed in You Our Christ
+
+
+    What a beautiful Name it is, what a beautiful Name it is
+    The Name of Jesus Christ my King
+    What a beautiful Name it is, nothing compares to this
+    What a beautiful Name it is, the Name of Jesus
+
+    You didn't want heaven without us
+    So Jesus You brought heaven down
+    My sin was great, Your love was greater
+    What could separate us now
+
+    What a wonderful Name it is, what a wonderful Name it is
+    The Name of Jesus Christ my King
+    What a wonderful Name it is, nothing compares to this
+    What a wonderful Name it is, the Name of Jesus
+    What a wonderful Name it is, the Name of Jesus
+
+    Death could not hold You, the veil tore before You
+    You silenced the boast of sin and grave
+    The heavens are roaring, the praise of Your glory
+    For You are raised to life again
+
+    You have no rival, You have no equal
+    Now and forever God you reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name above all names
+
+    What a powerful Name it is, What a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, Nothing can stand against
+    What a powerful Name it is, The Name of Jesus
+
+    What a powerful Name it is, what a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, nothing can stand against
+    What a powerful Name it is, the Name of Jesus
+
+    You have no rival, You have no equal
+    Now and forever God you reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name above all names
+
+    What a powerful Name it is, What a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, Nothing can stand against
+    What a powerful Name it is, The Name of Jesus
+
+    You have no rival, You have no equal
+    Now and forever God you reign
+    Yours is the Kingdom, Yours is the glory
+    Yours is the Name above all names
+
+    What a powerful Name it is, what a powerful Name it is
+    The Name of Jesus Christ my King
+    What a powerful Name it is, nothing can stand against
+    What a powerful Name it is, the Name of Jesus
+    What a powerful Name it is, The Name of Jesus
+    What a powerful Name it is, The Name of Jesus
+- song: How Deep The Father's Love For Us
+  artist: 
+  enabled: true
+  lyrics: "How deep the Father’s love for us,\nHow vast beyond all measure,\nThat
+    He should give His only Son\nTo make a wretch His treasure.\nHow great the pain
+    of searing loss -\nThe Father turns His face away,\nAs wounds which mar the Chosen
+    One\nBring many sons to glory.\n\nBehold the man upon a cross,\nMy sin upon His
+    shoulders;\nAshamed, I hear my mocking voice\nCall out among the scoffers.\nIt
+    was my sin that held Him there\nUntil it was accomplished;\nHis dying breath has
+    brought me life -\nI know that it is finished.\n\nI will not boast in anything,\nNo
+    gifts, no power, no wisdom;\nBut I will boast in Jesus Christ,\nHis death and
+    resurrection.\nWhy should I gain from His reward?\nI cannot give an answer;\nBut
+    this I know with all my heart -\nHis wounds have paid my ransom. "
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -32,7 +159,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Your Love Changes Everything
   artist: United Pursuit
-  enabled: true
+  enabled: false
   lyrics: |-
     Lord, you spoke those words
     You spoke so tenderly
@@ -100,7 +227,7 @@
     You love me, you love me, you love me
 - song: Goodness of God
   artist: Bethel Music
-  enabled: true
+  enabled: false
   lyrics: |
     I love You, Lord
     For Your mercy never fails me
@@ -141,7 +268,7 @@
     Oh, I will sing of the goodness of God (yeah)
 - song: 'Future / Past; How He Loves Us '
   artist: John Mark McMillan
-  enabled: true
+  enabled: false
   lyrics: |-
     You hold the reigns on the sun and the moon,
     Like horses driven by kings
@@ -878,35 +1005,6 @@
     There is nothing I hold on to
 
     All Glory To God, Forever. Amen
-- song: Be Thou My Vision
-  artist: Ascend the Hill
-  enabled: false
-  lyrics: |+
-    Be Thou my Vision, O Lord of my heart;
-    Naught be all else to me, save that Thou art;
-    Thou my best Thought, by day or by night,
-    Waking or sleeping, Thy presence my light.
-
-    Be Thou my Wisdom, and Thou my true Word;
-    I ever with Thee and Thou with me, Lord;
-    Thou my great Father, I Thy true son;
-    Thou in me dwelling, and I with Thee one.
-
-    Riches I heed not, nor man’s empty praise,
-    Thou mine Inheritance, now and always:
-    Thou and Thou only, first in my heart,
-    High King of Heaven, my Treasure Thou art.
-
-    Oh, God, be my everything, be my delight
-    Be, Jesus, my glory My soul's satisfied
-    Oh, God, be my everything, be my delight
-    Be, Jesus, my glory My soul's satisfied
-
-    High King of Heaven, my victory won,
-    May I reach Heaven’s joys, O bright Heaven’s Sun!
-    Heart of my own heart, whatever befall,
-    Still be my Vision, O Ruler of all.
-
 - song: The House Of God, Forever
   artist: Jon Foreman
   enabled: false
@@ -1132,23 +1230,6 @@
     Can ever pluck me from His hand
     Till He returns or calls me home
     Here in the power of Christ I'll stand
-- song: Never Going Back
-  artist: United Pursuit
-  enabled: false
-  lyrics: "Faithful One, no matter how far I run\nYou lead me home, You extend Your
-    love\nPatiently, fathering the orphan in me\nYou say I am Yours\n\nI never am
-    alone\nI never am alone\nYou found me \n(Repeat)\n\nAnd I've made up my mind\nI'm
-    never going back\nI'm never going back\n(Repeat)\n\nRighteousness, found only
-    in Your face\nYou see my heart You extend Your grace\nEyes open falling in love
-    again\nYou say I'm Yours\n\nIt was always You\nIt was always You\nYou found me\n(Repeat)\n\nOh
-    you called me your own\nI'm never going back\nI'm never going back\n(Repeat)\n\nI've
-    made up my mind\nI'm never going back\nI'm never going back\n(Repeat)\n\nI'm singing
-    out Your lovely name\nI'm giving You everything\nYou make my soul alive\nYou put
-    Your love inside\n(Repeat)\n\nThere's nothing that I have need of\n'Cause there's
-    nothing You haven't done\nYou make my soul alive\nYou put Your love inside\n(Repeat)\n\nI'm
-    singing out Your lovely name\nI'm giving You everything\nYou make my soul alive\nYou
-    put Your love inside\n(Repeat)\n\nThere's nothing that I have need of\n'Cause
-    there's nothing You haven't done\nYou make my soul alive\nYou put Your love inside\n(Repeat)\n"
 - song: You're Beautiful
   artist: Phil Wickham
   enabled: false
@@ -1195,19 +1276,6 @@
     I see Your face, You're beautiful
     You're beautiful
     You're beautiful
-- song: How Deep The Father's Love For Us
-  artist: 
-  enabled: false
-  lyrics: "How deep the Father’s love for us,\nHow vast beyond all measure,\nThat
-    He should give His only Son\nTo make a wretch His treasure.\nHow great the pain
-    of searing loss -\nThe Father turns His face away,\nAs wounds which mar the Chosen
-    One\nBring many sons to glory.\n\nBehold the man upon a cross,\nMy sin upon His
-    shoulders;\nAshamed, I hear my mocking voice\nCall out among the scoffers.\nIt
-    was my sin that held Him there\nUntil it was accomplished;\nHis dying breath has
-    brought me life -\nI know that it is finished.\n\nI will not boast in anything,\nNo
-    gifts, no power, no wisdom;\nBut I will boast in Jesus Christ,\nHis death and
-    resurrection.\nWhy should I gain from His reward?\nI cannot give an answer;\nBut
-    this I know with all my heart -\nHis wounds have paid my ransom. "
 - song: Scandal of Grace
   artist: Hillsong United
   enabled: false
@@ -1426,6 +1494,65 @@
     end\nHope is in the Lord, keep your eyes on Him\nThe Kingdom is yours, the Kingdom
     is yours\nHold on a little more, this is not the end\nHope is in the Lord, keep
     your eyes on Him "
+- song: Simple Gospel
+  artist: Will Reagan
+  enabled: false
+  lyrics: |
+    I want to know You, Lord
+    Like I know a friend
+    I want to know You, Lord
+    I want to know You, Lord
+    Like I know a friend
+    I want to know You, Lord
+
+    So I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+
+    I used to think that I could box You in
+    But I'm laying down
+    I want to know You, Lord
+    I use to think that I could box You in
+    But I'm laying down
+    I want to know You, Lord
+
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I want to know You, Lord
+
+    Lord, I've been told to be ashamed
+    Lord, I've been told I don't measure up
+    Lord, I've been told I'm not good enough
+    But You're here with me
+
+    And I reach out and You find me in the dust
+    You say no amount of untruths can separate us
+
+    I will rejoice in the simple gospel
+    I will rejoice in You, Lord
+    I will rejoice in the simple gospel
+    I will rejoice in You, Lord
+    I will rejoice in the simple gospel
+    I will rejoice in You, Lord
+
+    I will rejoice, I will rejoice in the simple gospel
+    I will rejoice in You, Lord
+    I will rejoice in the simple gospel
+    And I will rejoice in You, Lord
+
+    So I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
 - song: Not in a Hurry
   artist: Will Reagan
   enabled: false
@@ -1681,133 +1808,6 @@
     Forgive us weary sinners
     Keep us far from our vices and
     Deliver us from these prisons
-- song: Simple Gospel
-  artist: Will Reagan
-  enabled: false
-  lyrics: |
-    I want to know You, Lord
-    Like I know a friend
-    I want to know You, Lord
-    I want to know You, Lord
-    Like I know a friend
-    I want to know You, Lord
-
-    So I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-
-    I used to think that I could box You in
-    But I'm laying down
-    I want to know You, Lord
-    I use to think that I could box You in
-    But I'm laying down
-    I want to know You, Lord
-
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I want to know You, Lord
-
-    Lord, I've been told to be ashamed
-    Lord, I've been told I don't measure up
-    Lord, I've been told I'm not good enough
-    But You're here with me
-
-    And I reach out and You find me in the dust
-    You say no amount of untruths can separate us
-
-    I will rejoice in the simple gospel
-    I will rejoice in You, Lord
-    I will rejoice in the simple gospel
-    I will rejoice in You, Lord
-    I will rejoice in the simple gospel
-    I will rejoice in You, Lord
-
-    I will rejoice, I will rejoice in the simple gospel
-    I will rejoice in You, Lord
-    I will rejoice in the simple gospel
-    And I will rejoice in You, Lord
-
-    So I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-- song: What a Beautiful Name
-  artist: Hillsong Worship
-  enabled: false
-  lyrics: |2-
-
-    You were the Word at the beginning
-    One With God the Lord Most High
-    Your hidden glory in creation
-    Now revealed in You Our Christ
-
-
-    What a beautiful Name it is, what a beautiful Name it is
-    The Name of Jesus Christ my King
-    What a beautiful Name it is, nothing compares to this
-    What a beautiful Name it is, the Name of Jesus
-
-    You didn't want heaven without us
-    So Jesus You brought heaven down
-    My sin was great, Your love was greater
-    What could separate us now
-
-    What a wonderful Name it is, what a wonderful Name it is
-    The Name of Jesus Christ my King
-    What a wonderful Name it is, nothing compares to this
-    What a wonderful Name it is, the Name of Jesus
-    What a wonderful Name it is, the Name of Jesus
-
-    Death could not hold You, the veil tore before You
-    You silenced the boast of sin and grave
-    The heavens are roaring, the praise of Your glory
-    For You are raised to life again
-
-    You have no rival, You have no equal
-    Now and forever God you reign
-    Yours is the Kingdom, Yours is the glory
-    Yours is the Name above all names
-
-    What a powerful Name it is, What a powerful Name it is
-    The Name of Jesus Christ my King
-    What a powerful Name it is, Nothing can stand against
-    What a powerful Name it is, The Name of Jesus
-
-    What a powerful Name it is, what a powerful Name it is
-    The Name of Jesus Christ my King
-    What a powerful Name it is, nothing can stand against
-    What a powerful Name it is, the Name of Jesus
-
-    You have no rival, You have no equal
-    Now and forever God you reign
-    Yours is the Kingdom, Yours is the glory
-    Yours is the Name above all names
-
-    What a powerful Name it is, What a powerful Name it is
-    The Name of Jesus Christ my King
-    What a powerful Name it is, Nothing can stand against
-    What a powerful Name it is, The Name of Jesus
-
-    You have no rival, You have no equal
-    Now and forever God you reign
-    Yours is the Kingdom, Yours is the glory
-    Yours is the Name above all names
-
-    What a powerful Name it is, what a powerful Name it is
-    The Name of Jesus Christ my King
-    What a powerful Name it is, nothing can stand against
-    What a powerful Name it is, the Name of Jesus
-    What a powerful Name it is, The Name of Jesus
-    What a powerful Name it is, The Name of Jesus
 - song: Amazing Grace
   artist: Chris Tomlin
   enabled: false
