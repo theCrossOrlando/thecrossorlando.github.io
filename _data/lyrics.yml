@@ -1,46 +1,33 @@
 ---
-- song: Psalm 145
+- song: I Won't Let You Go (abbreviated)
+  artist: Switchfoot
   enabled: true
   lyrics: |-
-    I will bless You all of my days LORD
-    I will praise you always, My God and King
-    I will bless and honor Your name LORD
-    Always and forever my soul will sing
-    Such a vast, unsearchable greatness
-    Great is Yahweh, worthy of all of praise
-    Let Your people sound through the ages
-    All Your awesome works till the end of days
+    … If you could let the pain of the past go
+    Of your soul,
+    None of this is in your control.
 
-    We have seen Your splendor and glory
-    We have seen Your wonders and stand amazed
-    Every tongue will echo Your story
-    Everyone will sing of Your righteous ways
+    … If you could only let your guard down,
+    If you could learn to trust me somehow,
+    Well I swear, that I won't let you go.
+    If you could only let go your doubts,
+    If you could just believe in me now,
+    I swear, that I won't let you go.
 
-    Oh, let all that lives ever bless His name
+    … I won't let you go...
+    I'll always be by your side, yeah
 
-    All that You have made, LORD, will praise You
-    All your saints will worship You in joyful strains
-    Praise the LORD who ransoms and rescues
-    Praise the God of Glory who ever reigns
+    … I won't let you go
+    No, I won't let you go
 
-    He is Holy judging the wicked
-    Guarding those that love him and fear his name
-    All that call out, Yahweh is with them
-    He will hear their cries, He is strong to save
+    … There ain't no darkness strong enough that could tear you out from my heart,
+    There ain't no strength that's strong enough that could tear this love apart.
+    Yeah, there ain't no darkness strong enough that could tear you out from my heart,
+    Yeah, there ain't no strength that's strong enough that could tear this love apart.
 
-    He upholds the one who is stumbling
-    Lifting up those burdened with heavy loads
-    Opening His hands to the hungry
-    Blessing all that look to their Lord in hope
-
-    He is tender toward His creation
-    He is faithful and gracious in all He does
-    Great is Yahweh, full of compassion
-    Slow to anger, filled with unfailing love
-
-    Oh, let all that lives ever bless His name
-    Oh, let all that lives ever bless His name
-  artist: Dustin Kensrue
+    Never gonna let you go
+    Never gonna let you go
+    No, I won't let you go
 - song: Oh Lord, You're Beautiful
   artist: Keith Green
   enabled: true
@@ -69,52 +56,6 @@
     But first help me to just, live it Lord.
     And when I'm doing well, help me to never seek a crown.
     For my reward is giving glory to you.
-- song: You're Beautiful
-  artist: Phil Wickham
-  enabled: true
-  lyrics: |-
-    I see Your face in every sunrise
-    The colors of the morning are inside Your eyes
-    The world awakens in the light of the day
-    I look up to the sky and say
-    You're beautiful
-    (Oh, Oh, Oh, Oh)
-
-    I see Your power in the moonlit night
-    Where planets are in motion and galaxies are bright
-    We are amazed in the light of the stars
-    It's all proclaiming who You are
-    You're beautiful
-    (Oh, Oh, You're beautiful, Oh, Oh)
-
-    I see You there hanging on a tree
-    You bled and then you died and then you rose again for me
-    Now You are sitting on Your heavenly throne
-    Soon we will be coming home
-    You're beautiful
-    (Oh, Oh, You're beautiful, Oh, Oh)
-
-    (We're singing out)
-    When we arrive at eternity's shore
-    Where death is just a memory and tears are no more
-    We'll enter in as the wedding bells ring
-    Your bride will come together and we'll sing
-    You're beautiful
-    Oh, You're beautiful
-
-    I see Your face, You're beautiful
-    You're beautiful
-    You're beautiful
-
-    I see Your face, You're beautiful
-    You're beautiful
-    You're beautiful
-
-    I see Your face
-    I see Your face
-    I see Your face, You're beautiful
-    You're beautiful
-    You're beautiful
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
   enabled: true
@@ -175,6 +116,48 @@
 
     And we will sing:
     Holy, holy, is the King of Kings
+- song: Psalm 145
+  enabled: true
+  lyrics: |-
+    I will bless You all of my days LORD
+    I will praise you always, My God and King
+    I will bless and honor Your name LORD
+    Always and forever my soul will sing
+    Such a vast, unsearchable greatness
+    Great is Yahweh, worthy of all of praise
+    Let Your people sound through the ages
+    All Your awesome works till the end of days
+
+    We have seen Your splendor and glory
+    We have seen Your wonders and stand amazed
+    Every tongue will echo Your story
+    Everyone will sing of Your righteous ways
+
+    Oh, let all that lives ever bless His name
+
+    All that You have made, LORD, will praise You
+    All your saints will worship You in joyful strains
+    Praise the LORD who ransoms and rescues
+    Praise the God of Glory who ever reigns
+
+    He is Holy judging the wicked
+    Guarding those that love him and fear his name
+    All that call out, Yahweh is with them
+    He will hear their cries, He is strong to save
+
+    He upholds the one who is stumbling
+    Lifting up those burdened with heavy loads
+    Opening His hands to the hungry
+    Blessing all that look to their Lord in hope
+
+    He is tender toward His creation
+    He is faithful and gracious in all He does
+    Great is Yahweh, full of compassion
+    Slow to anger, filled with unfailing love
+
+    Oh, let all that lives ever bless His name
+    Oh, let all that lives ever bless His name
+  artist: Dustin Kensrue
 - song: Be Thou My Vision
   artist: Ascend the Hill
   enabled: false
@@ -204,6 +187,52 @@
     Heart of my own heart, whatever befall,
     Still be my Vision, O Ruler of all.
 
+- song: You're Beautiful
+  artist: Phil Wickham
+  enabled: false
+  lyrics: |-
+    I see Your face in every sunrise
+    The colors of the morning are inside Your eyes
+    The world awakens in the light of the day
+    I look up to the sky and say
+    You're beautiful
+    (Oh, Oh, Oh, Oh)
+
+    I see Your power in the moonlit night
+    Where planets are in motion and galaxies are bright
+    We are amazed in the light of the stars
+    It's all proclaiming who You are
+    You're beautiful
+    (Oh, Oh, You're beautiful, Oh, Oh)
+
+    I see You there hanging on a tree
+    You bled and then you died and then you rose again for me
+    Now You are sitting on Your heavenly throne
+    Soon we will be coming home
+    You're beautiful
+    (Oh, Oh, You're beautiful, Oh, Oh)
+
+    (We're singing out)
+    When we arrive at eternity's shore
+    Where death is just a memory and tears are no more
+    We'll enter in as the wedding bells ring
+    Your bride will come together and we'll sing
+    You're beautiful
+    Oh, You're beautiful
+
+    I see Your face, You're beautiful
+    You're beautiful
+    You're beautiful
+
+    I see Your face, You're beautiful
+    You're beautiful
+    You're beautiful
+
+    I see Your face
+    I see Your face
+    I see Your face, You're beautiful
+    You're beautiful
+    You're beautiful
 - song: Never Going Back
   artist: United Pursuit
   enabled: false
