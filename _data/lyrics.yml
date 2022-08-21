@@ -1,7 +1,7 @@
 ---
 - song: Oh Lord, You're Beautiful
   artist: Keith Green
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh Lord, you're beautiful,
     Your face is all I seek,
@@ -29,7 +29,7 @@
     For my reward is giving glory to you.
 - song: I Won't Let You Go (abbreviated)
   artist: Switchfoot
-  enabled: true
+  enabled: false
   lyrics: |-
     … If you could let the pain of the past go
     Of your soul,
@@ -58,7 +58,7 @@
     No, I won't let you go
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, Love that will not let me go
     I rest my weary soul in Thee
@@ -117,7 +117,7 @@
     And we will sing:
     Holy, holy, is the King of Kings
 - song: Psalm 145
-  enabled: true
+  enabled: false
   lyrics: |-
     I will bless You all of my days LORD
     I will praise you always, My God and King
@@ -1130,7 +1130,7 @@
     In the house of God forever
 - song: Called Me Higher
   artist: All Sons & Daughters
-  enabled: false
+  enabled: true
   lyrics: |-
     I could just sit
     I could just sit and wait for all Your goodness
