@@ -42,7 +42,7 @@
     You're never gonna let me down
 - song: Nothing I Hold On To
   artist: United Pursuit Band
-  enabled: false
+  enabled: true
   lyrics: |-
     I lean not on my own understanding,
     My life is in the hands of the maker of heaven
@@ -94,7 +94,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: The House Of God, Forever
   artist: Jon Foreman
-  enabled: false
+  enabled: true
   lyrics: |-
     God is my shepherd
     I won't be wanting
@@ -1065,7 +1065,7 @@
     Hallelu-jah, hallelu-jah
 - song: Called Me Higher
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     I could just sit
     I could just sit and wait for all Your goodness
