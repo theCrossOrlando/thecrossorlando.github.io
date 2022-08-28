@@ -40,6 +40,106 @@
     You're never gonna let me down
     You're never gonna let
     You're never gonna let me down
+- song: Nothing I Hold On To
+  artist: United Pursuit Band
+  enabled: false
+  lyrics: |-
+    I lean not on my own understanding,
+    My life is in the hands of the maker of heaven
+
+    I Give it all to you God,
+    Trusting that you'll make something beautiful out of me
+
+    I will climb this mountain
+    With my hands wide open
+    I will climb this mountain
+    With my hands wide open
+
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+
+    All Glory To God, Forever. Amen
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Almighty God to You all hearts are open
+    You take away our sickness and our sin
+    Oh Lamb of God we gather at Your table
+    In bread and wine, You have supplied our needs
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+- song: The House Of God, Forever
+  artist: Jon Foreman
+  enabled: false
+  lyrics: |-
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    With quiet streams
+
+    Even though I walk
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You are with me
+
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
+
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    By quiet streams
+
+    Even while I'm walking
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You're always with me
+
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
+
+    In the house of God forever
+    In the house of God forever
 - song: Goodness of God
   artist: Bethel Music
   enabled: false
@@ -473,37 +573,6 @@
     gifts, no power, no wisdom;\nBut I will boast in Jesus Christ,\nHis death and
     resurrection.\nWhy should I gain from His reward?\nI cannot give an answer;\nBut
     this I know with all my heart -\nHis wounds have paid my ransom. "
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Almighty God to You all hearts are open
-    You take away our sickness and our sin
-    Oh Lamb of God we gather at Your table
-    In bread and wine, You have supplied our needs
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Your Love Changes Everything
   artist: United Pursuit
   enabled: false
@@ -1167,75 +1236,6 @@
     mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
     sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
     now. "
-- song: Nothing I Hold On To
-  artist: United Pursuit Band
-  enabled: false
-  lyrics: |-
-    I lean not on my own understanding,
-    My life is in the hands of the maker of heaven
-
-    I Give it all to you God,
-    Trusting that you'll make something beautiful out of me
-
-    I will climb this mountain
-    With my hands wide open
-    I will climb this mountain
-    With my hands wide open
-
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-
-    All Glory To God, Forever. Amen
-- song: The House Of God, Forever
-  artist: Jon Foreman
-  enabled: false
-  lyrics: |-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest
-    In fields of green
-    With quiet streams
-
-    Even though I walk
-    Through the valley
-    Of death and dying
-    I will not fear
-    Cause you are with me
-    You are with me
-
-    Your shepherd's staff comforts me
-    You are my feast
-    In the presence of enemies
-    Surely goodness will follow me
-    Follow me
-    In the house of God forever
-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest
-    In fields of green
-    By quiet streams
-
-    Even while I'm walking
-    Through the valley
-    Of death and dying
-    I will not fear
-    Cause you are with me
-    You're always with me
-
-    Your shepherd's staff comforts me
-    You are my feast
-    In the presence of enemies
-    Surely goodness will follow me
-    Follow me
-    In the house of God forever
-
-    In the house of God forever
-    In the house of God forever
 - song: Thy Mercy
   artist: Caedmon's Call
   enabled: false
