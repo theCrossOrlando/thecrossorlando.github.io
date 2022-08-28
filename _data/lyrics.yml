@@ -1,7 +1,48 @@
 ---
+- song: King of My Heart
+  artist: Bethel Music, Steffany Gretzinger
+  enabled: true
+  lyrics: |
+    Let the King of my heart
+    Be the mountain where I run
+    The fountain I drink from
+    Oh, He is my song
+    Let the King of my heart
+    Be the shadow where I hide
+    The ransom for my life
+    Oh, He is my song
+
+    'Cause You are good, good, oh oh
+    You are good, good, oh oh
+    'Cause You are good, good, oh oh
+    You are good, good, oh oh
+
+
+    Let the King of my heart
+    Be the wind inside my sails
+    The anchor in the waves
+    Oh oh, He is my song
+    Let the King of my heart
+    Be the fire inside my veins
+    The echo of my days
+    Oh oh, He is my song
+
+    'Cause You are good, good, oh oh
+    You are good, good, oh oh
+    'Cause You are good, good, oh oh
+    You are good, good, oh oh
+
+    You're never gonna let
+    You're never gonna let me down
+    You're never gonna let
+    You're never gonna let me down
+    You're never gonna let
+    You're never gonna let me down
+    You're never gonna let
+    You're never gonna let me down
 - song: Goodness of God
   artist: Bethel Music
-  enabled: true
+  enabled: false
   lyrics: |
     I love You, Lord
     For Your mercy never fails me
@@ -42,7 +83,7 @@
     Oh, I will sing of the goodness of God (yeah)
 - song: Since Your Love
   artist: United Pursuit
-  enabled: true
+  enabled: false
   lyrics: "You are the light\nSong of my life\nYou always lead me\nYou are the voice
     inside\n\nYou are my love\nNo one before You\nAll that I am\nPoints to You\n\nAnd
     I was made by You\nI was made for You\nI am unfulfilled\nWithout full communion\n\nYou
@@ -58,7 +99,7 @@
     my breath, You're my life, \nYou're my everything\n"
 - song: Grace Alone
   artist: Dustin Kensrue
-  enabled: true
+  enabled: false
   lyrics: |-
     I was an orphan lost at the Fall
     Running away when I'd hear Your call
@@ -1126,47 +1167,6 @@
     mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
     sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
     now. "
-- song: King of My Heart
-  artist: Bethel Music, Steffany Gretzinger
-  enabled: false
-  lyrics: |
-    Let the King of my heart
-    Be the mountain where I run
-    The fountain I drink from
-    Oh, He is my song
-    Let the King of my heart
-    Be the shadow where I hide
-    The ransom for my life
-    Oh, He is my song
-
-    'Cause You are good, good, oh oh
-    You are good, good, oh oh
-    'Cause You are good, good, oh oh
-    You are good, good, oh oh
-
-
-    Let the King of my heart
-    Be the wind inside my sails
-    The anchor in the waves
-    Oh oh, He is my song
-    Let the King of my heart
-    Be the fire inside my veins
-    The echo of my days
-    Oh oh, He is my song
-
-    'Cause You are good, good, oh oh
-    You are good, good, oh oh
-    'Cause You are good, good, oh oh
-    You are good, good, oh oh
-
-    You're never gonna let
-    You're never gonna let me down
-    You're never gonna let
-    You're never gonna let me down
-    You're never gonna let
-    You're never gonna let me down
-    You're never gonna let
-    You're never gonna let me down
 - song: Nothing I Hold On To
   artist: United Pursuit Band
   enabled: false
