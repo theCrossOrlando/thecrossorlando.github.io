@@ -1,4 +1,51 @@
 ---
+- song: How He Loves Us
+  artist: 'John Mark McMillan; David Crowder Band '
+  enabled: true
+  lyrics: |-
+    He is jealous for me
+    Loves like a hurricane, I am a tree
+    Bending beneath the weight of His wind and mercy
+
+    When all of a sudden,
+    I am unaware of these afflictions eclipsed by glory
+    And I realize just how beautiful You are
+    And how great Your affections are for me
+
+    And oh, how He loves us, oh
+    Oh, how He loves us
+    How He loves us, oh
+
+    He is jealous for me
+    Loves like a hurricane, I am a tree
+    Bending beneath the weight of His wind and mercy
+
+    When all of a sudden,
+    I am unaware of these afflictions eclipsed by glory
+    And I realize just how beautiful You are
+    And how great Your affections are for me
+
+    And oh, how He loves us, oh
+    Oh, how He loves us
+    How He loves us, oh
+
+    And we are His portion and He is our prize
+    Drawn to redemption by the grace in His eyes
+    If his grace is an ocean, we're all sinking
+    And Heaven meets earth like an unforeseen kiss
+    And my heart turns violently inside of my chest
+    I don't have time to maintain these regrets
+    When I think about the way
+
+    He loves us
+    Oh, how He loves us
+    Oh, how He loves us
+    Oh, how He loves
+
+    Yeah, He loves us
+    Oh, how He loves us
+    Oh, how He loves us
+    Oh, how He loves
 - song: Have Mercy
   artist: Sandra McCracken
   enabled: true
@@ -10,6 +57,47 @@
     Lord help my unbelief,
     Lord help my unbelief,
     Oh Lord, have mercy (x2)
+- song: Goodness of God
+  artist: Bethel Music
+  enabled: true
+  lyrics: |
+    I love You, Lord
+    For Your mercy never fails me
+    All my days, I've been held in Your hands
+    From the moment that I wake up
+    Until I lay my head
+    Oh, I will sing of the goodness of God
+
+    And all my life You have been faithful
+    And all my life You have been so, so good
+    With every breath that I am able
+    Oh, I will sing of the goodness of God
+
+    I love Your voice
+    You have led me through the fire
+    In the darkest night
+    You are close like no other
+    I've known You as a Father
+    I've known You as a Friend
+    And I have lived in the goodness of God (yeah)
+
+    And all my life You have been faithful (oh)
+    And all my life You have been so, so good
+    With every breath that I am able
+    Oh, I will sing of the goodness of God (yeah)
+
+    'Cause Your goodness is running after
+    It's running after me
+    Your goodness is running after
+    It's running after me
+    With my life laid down
+    I'm surrendered now
+    I give You everything
+
+    And all my life You have been faithful (oh)
+    And all my life You have been so, so good
+    With every breath that I am able
+    Oh, I will sing of the goodness of God (yeah)
 - song: Once and For All
   artist: Lauren Daigle
   enabled: true
@@ -52,50 +140,9 @@
     Once and for all
     Oh once and for all
     Once and for all
-- song: Goodness of God
-  artist: Bethel Music
-  enabled: true
-  lyrics: |
-    I love You, Lord
-    For Your mercy never fails me
-    All my days, I've been held in Your hands
-    From the moment that I wake up
-    Until I lay my head
-    Oh, I will sing of the goodness of God
-
-    And all my life You have been faithful
-    And all my life You have been so, so good
-    With every breath that I am able
-    Oh, I will sing of the goodness of God
-
-    I love Your voice
-    You have led me through the fire
-    In the darkest night
-    You are close like no other
-    I've known You as a Father
-    I've known You as a Friend
-    And I have lived in the goodness of God (yeah)
-
-    And all my life You have been faithful (oh)
-    And all my life You have been so, so good
-    With every breath that I am able
-    Oh, I will sing of the goodness of God (yeah)
-
-    'Cause Your goodness is running after
-    It's running after me
-    Your goodness is running after
-    It's running after me
-    With my life laid down
-    I'm surrendered now
-    I give You everything
-
-    And all my life You have been faithful (oh)
-    And all my life You have been so, so good
-    With every breath that I am able
-    Oh, I will sing of the goodness of God (yeah)
 - song: Your Love Changes Everything
   artist: United Pursuit
-  enabled: true
+  enabled: false
   lyrics: |-
     Lord, you spoke those words
     You spoke so tenderly
