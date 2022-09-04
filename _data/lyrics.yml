@@ -1,7 +1,18 @@
 ---
+- song: Have Mercy
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Have Mercy on me,
+    Have Mercy on me,
+    Oh Lord, have mercy (x2)
+
+    Lord help my unbelief,
+    Lord help my unbelief,
+    Oh Lord, have mercy (x2)
 - song: King of My Heart
   artist: Bethel Music, Steffany Gretzinger
-  enabled: true
+  enabled: false
   lyrics: |
     Let the King of my heart
     Be the mountain where I run
@@ -42,7 +53,7 @@
     You're never gonna let me down
 - song: Nothing I Hold On To
   artist: United Pursuit Band
-  enabled: true
+  enabled: false
   lyrics: |-
     I lean not on my own understanding,
     My life is in the hands of the maker of heaven
@@ -63,7 +74,7 @@
     All Glory To God, Forever. Amen
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -94,7 +105,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: The House Of God, Forever
   artist: Jon Foreman
-  enabled: true
+  enabled: false
   lyrics: |-
     God is my shepherd
     I won't be wanting
@@ -140,6 +151,34 @@
 
     In the house of God forever
     In the house of God forever
+- song: Thy Mercy
+  artist: Caedmon's Call
+  enabled: false
+  lyrics: |
+    Thy mercy my God is the theme of my song
+    The joy of my heart, and the boast of my tongue
+    Thy free grace alone, from the first to the last
+    Hath won my affection and bound my soul fast
+
+    Without Thy sweet mercy, I could not live here
+    Sin would reduce me to utter despair
+    But through Thy free goodness, my spirit's revived
+    And He that first made me still keeps me alive
+
+    Thy mercy is more than a match for my heart
+    Which wonders to feel its own hardness depart
+    Dissolved by Thy goodness, I fall to the ground
+    And weep for the praise of the mercy I've found
+
+    (Hallelujah, Hallelujah, Hallelujah)
+    Hallelujah (Hallelujah, Hallelujah, Hallelujah)
+
+    Great Father of mercies, Thy goodness I own
+    In the covenant love of Thy crucified Son
+    All praise to the Spirit, Whose whisper divine
+    Seals mercy and pardon and righteousness mine
+    All praise to the Spirit, Whose whisper divine
+    Seals mercy and pardon and righteousness mine
 - song: Goodness of God
   artist: Bethel Music
   enabled: false
@@ -1236,34 +1275,6 @@
     mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll
     sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis
     now. "
-- song: Thy Mercy
-  artist: Caedmon's Call
-  enabled: false
-  lyrics: |
-    Thy mercy my God is the theme of my song
-    The joy of my heart, and the boast of my tongue
-    Thy free grace alone, from the first to the last
-    Hath won my affection and bound my soul fast
-
-    Without Thy sweet mercy, I could not live here
-    Sin would reduce me to utter despair
-    But through Thy free goodness, my spirit's revived
-    And He that first made me still keeps me alive
-
-    Thy mercy is more than a match for my heart
-    Which wonders to feel its own hardness depart
-    Dissolved by Thy goodness, I fall to the ground
-    And weep for the praise of the mercy I've found
-
-    (Hallelujah, Hallelujah, Hallelujah)
-    Hallelujah (Hallelujah, Hallelujah, Hallelujah)
-
-    Great Father of mercies, Thy goodness I own
-    In the covenant love of Thy crucified Son
-    All praise to the Spirit, Whose whisper divine
-    Seals mercy and pardon and righteousness mine
-    All praise to the Spirit, Whose whisper divine
-    Seals mercy and pardon and righteousness mine
 - song: Death in His Grave
   artist: John Mark McMillan
   enabled: false
@@ -1768,17 +1779,6 @@
 
     How great Thou art
     How great Thou art
-- song: Have Mercy
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Have Mercy on me,
-    Have Mercy on me,
-    Oh Lord, have mercy (x2)
-
-    Lord help my unbelief,
-    Lord help my unbelief,
-    Oh Lord, have mercy (x2)
 - song: Your Love is Strong
   artist: Jon Foreman
   enabled: false
