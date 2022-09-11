@@ -1,4 +1,131 @@
 ---
+- song: Your Love Changes Everything
+  artist: United Pursuit
+  enabled: true
+  lyrics: |-
+    Lord, you spoke those words
+    You spoke so tenderly
+    Now I choose to believe
+    You love me, you love me, you love me
+
+    Lord, you spoke those words
+    You spoke so tenderly
+    Now I choose to believe
+    You love me, you love me, you love me
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    When my heart is frail
+    And when I’m incomplete
+    I will choose to receive
+    You love me, you love me, you love me
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+
+    You never fail
+    When I look at you
+    You never fail
+    And I trust in you
+    And you never let go
+    You never let go of me
+    You never let go
+
+    You never fail
+    When I look at you
+    You never fail
+    And I trust in you
+    Lord, you never let go
+    You never let go of me
+    You never let go
+
+    You’re taking me by the hand again
+    Giving me strength to dance again
+    Cuz your love changes everything
+    Your love changes everything
+    [Repeat 3x]
+
+    Your love changes everything
+    Your love changes everything
+    Your love changes everything
+
+    Lord you spoke those words
+    You spoke so tenderly
+    And now I choose to believe
+    You love me, you love me, you love me
+- song: Simple Gospel
+  artist: Will Reagan
+  enabled: true
+  lyrics: |
+    I want to know You, Lord
+    Like I know a friend
+    I want to know You, Lord
+    I want to know You, Lord
+    Like I know a friend
+    I want to know You, Lord
+
+    So I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+
+    I used to think that I could box You in
+    But I'm laying down
+    I want to know You, Lord
+    I use to think that I could box You in
+    But I'm laying down
+    I want to know You, Lord
+
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I want to know You, Lord
+
+    Lord, I've been told to be ashamed
+    Lord, I've been told I don't measure up
+    Lord, I've been told I'm not good enough
+    But You're here with me
+
+    And I reach out and You find me in the dust
+    You say no amount of untruths can separate us
+
+    I will rejoice in the simple gospel
+    I will rejoice in You, Lord
+    I will rejoice in the simple gospel
+    I will rejoice in You, Lord
+    I will rejoice in the simple gospel
+    I will rejoice in You, Lord
+
+    I will rejoice, I will rejoice in the simple gospel
+    I will rejoice in You, Lord
+    I will rejoice in the simple gospel
+    And I will rejoice in You, Lord
+
+    So I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
+    I'm laying down all my religion
+    I'm laying down
+    I want to know You, Lord
 - song: Have Mercy
   artist: Sandra McCracken
   enabled: false
@@ -141,74 +268,6 @@
     Oh, how He loves us
     Oh, how He loves us
     Oh, how He loves
-- song: Your Love Changes Everything
-  artist: United Pursuit
-  enabled: true
-  lyrics: |-
-    Lord, you spoke those words
-    You spoke so tenderly
-    Now I choose to believe
-    You love me, you love me, you love me
-
-    Lord, you spoke those words
-    You spoke so tenderly
-    Now I choose to believe
-    You love me, you love me, you love me
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-
-    When my heart is frail
-    And when I’m incomplete
-    I will choose to receive
-    You love me, you love me, you love me
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-
-    You never fail
-    When I look at you
-    You never fail
-    And I trust in you
-    And you never let go
-    You never let go of me
-    You never let go
-
-    You never fail
-    When I look at you
-    You never fail
-    And I trust in you
-    Lord, you never let go
-    You never let go of me
-    You never let go
-
-    You’re taking me by the hand again
-    Giving me strength to dance again
-    Cuz your love changes everything
-    Your love changes everything
-    [Repeat 3x]
-
-    Your love changes everything
-    Your love changes everything
-    Your love changes everything
-
-    Lord you spoke those words
-    You spoke so tenderly
-    And now I choose to believe
-    You love me, you love me, you love me
 - song: Psalm 145
   enabled: false
   lyrics: |-
@@ -1411,6 +1470,53 @@
     And seated us above the fall
     In desperate places he paid our wages
     One time, once and for all
+- song: Simple Gospel
+  artist: United Pursuit
+  enabled: false
+  lyrics: |-
+    [Verse 1]
+    I want to know you, Lord, like I know a friend
+    I want to know you Lord
+    I want to know you, Lord, like I know a friend
+    I want to know you Lord
+
+    [Chorus]
+    I’m laying down all my religion
+    I’m laying down, I wanna know you Lord
+    I’m laying down all my religion
+    I’m laying down, I wanna know you Lord
+
+    [Verse 2]
+    I used to think that could I box you in
+    But I’m laying down, I wanna know you Lord
+    I used to think that could I box you in
+    But I’m laying down, I wanna know you Lord
+
+    [Chorus]
+
+    [Verse 3]
+    Lord, I’ve been told to be ashamed
+    Lord, I’ve been told I don’t measure up
+    Lord, I’ve been told I’m not good enough
+    But you’re here with me
+
+    [Chorus 2]
+    I reach out and you find me in the dust
+    They say no amount of untruth can separate us
+    I reach out and you find me in the dust
+    They say no amount of untruths can separate us
+    x2
+
+    [Bridge]
+    I will rejoice in the simple gospel
+    I will rejoice in you, Lord
+    x3
+
+    [Chorus 2]
+
+    [Bridge]
+    I will rejoice in the simple gospel
+    I will rejoice in you, Lord
 - song: In Christ Alone
   artist: Natalie Grant
   enabled: false
@@ -1624,65 +1730,6 @@
     end\nHope is in the Lord, keep your eyes on Him\nThe Kingdom is yours, the Kingdom
     is yours\nHold on a little more, this is not the end\nHope is in the Lord, keep
     your eyes on Him "
-- song: Simple Gospel
-  artist: Will Reagan
-  enabled: false
-  lyrics: |
-    I want to know You, Lord
-    Like I know a friend
-    I want to know You, Lord
-    I want to know You, Lord
-    Like I know a friend
-    I want to know You, Lord
-
-    So I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-
-    I used to think that I could box You in
-    But I'm laying down
-    I want to know You, Lord
-    I use to think that I could box You in
-    But I'm laying down
-    I want to know You, Lord
-
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I want to know You, Lord
-
-    Lord, I've been told to be ashamed
-    Lord, I've been told I don't measure up
-    Lord, I've been told I'm not good enough
-    But You're here with me
-
-    And I reach out and You find me in the dust
-    You say no amount of untruths can separate us
-
-    I will rejoice in the simple gospel
-    I will rejoice in You, Lord
-    I will rejoice in the simple gospel
-    I will rejoice in You, Lord
-    I will rejoice in the simple gospel
-    I will rejoice in You, Lord
-
-    I will rejoice, I will rejoice in the simple gospel
-    I will rejoice in You, Lord
-    I will rejoice in the simple gospel
-    And I will rejoice in You, Lord
-
-    So I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
-    I'm laying down all my religion
-    I'm laying down
-    I want to know You, Lord
 - song: Not in a Hurry
   artist: Will Reagan
   enabled: false
@@ -2884,53 +2931,6 @@
     O come, let us adore Him,
     O come, let us adore Him,
     Christ, the Lord.
-- song: Simple Gospel
-  artist: United Pursuit
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-    I want to know you, Lord, like I know a friend
-    I want to know you Lord
-    I want to know you, Lord, like I know a friend
-    I want to know you Lord
-
-    [Chorus]
-    I’m laying down all my religion
-    I’m laying down, I wanna know you Lord
-    I’m laying down all my religion
-    I’m laying down, I wanna know you Lord
-
-    [Verse 2]
-    I used to think that could I box you in
-    But I’m laying down, I wanna know you Lord
-    I used to think that could I box you in
-    But I’m laying down, I wanna know you Lord
-
-    [Chorus]
-
-    [Verse 3]
-    Lord, I’ve been told to be ashamed
-    Lord, I’ve been told I don’t measure up
-    Lord, I’ve been told I’m not good enough
-    But you’re here with me
-
-    [Chorus 2]
-    I reach out and you find me in the dust
-    They say no amount of untruth can separate us
-    I reach out and you find me in the dust
-    They say no amount of untruths can separate us
-    x2
-
-    [Bridge]
-    I will rejoice in the simple gospel
-    I will rejoice in you, Lord
-    x3
-
-    [Chorus 2]
-
-    [Bridge]
-    I will rejoice in the simple gospel
-    I will rejoice in you, Lord
 - song: Beauty for Ashes
   artist: Shane and Shane
   enabled: false
