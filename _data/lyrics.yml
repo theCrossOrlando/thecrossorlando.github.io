@@ -1,7 +1,7 @@
 ---
 - song: Have Mercy
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Have Mercy on me,
     Have Mercy on me,
@@ -12,7 +12,7 @@
     Oh Lord, have mercy (x2)
 - song: Goodness of God
   artist: Bethel Music
-  enabled: true
+  enabled: false
   lyrics: |
     I love You, Lord
     For Your mercy never fails me
@@ -53,7 +53,7 @@
     Oh, I will sing of the goodness of God (yeah)
 - song: Once and For All
   artist: Lauren Daigle
-  enabled: true
+  enabled: false
   lyrics: |-
     God I give You all I can today
     These scattered ashes that I hid away
@@ -95,7 +95,7 @@
     Once and for all
 - song: How He Loves Us
   artist: 'John Mark McMillan; David Crowder Band '
-  enabled: true
+  enabled: false
   lyrics: |-
     He is jealous for me
     Loves like a hurricane, I am a tree
@@ -143,7 +143,7 @@
     Oh, how He loves
 - song: Your Love Changes Everything
   artist: United Pursuit
-  enabled: false
+  enabled: true
   lyrics: |-
     Lord, you spoke those words
     You spoke so tenderly
