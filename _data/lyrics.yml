@@ -36,6 +36,56 @@
     Let us become more aware of Your presence
     Let us experience the glory of Your goodness
     Here I stand
+- song: Come Ye Sinners
+  artist: Joseph Hart
+  enabled: true
+  lyrics: |
+    Come, ye sinners, poor and needy,
+    Weak and wounded, sick and sore;
+    Jesus ready stands to save you,
+    Full of pity, love and power.
+
+    Refrain
+
+    I will arise and go to Jesus,
+    He will embrace me in His arms;
+    In the arms of my dear Savior,
+    O there are ten thousand charms.
+
+    Come, ye thirsty, come, and welcome,
+    God’s free bounty glorify;
+    True belief and true repentance,
+    Every grace that brings you nigh.
+
+    Refrain
+
+    Come, ye weary, heavy laden,
+    Lost and ruined by the fall;
+    If you tarry till you’re better,
+    You will never come at all.
+
+    Refrain
+- song: Nothing I Hold On To
+  artist: United Pursuit Band
+  enabled: true
+  lyrics: |-
+    I lean not on my own understanding,
+    My life is in the hands of the maker of heaven
+
+    I Give it all to you God,
+    Trusting that you'll make something beautiful out of me
+
+    I will climb this mountain
+    With my hands wide open
+    I will climb this mountain
+    With my hands wide open
+
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+    There is nothing I hold on to
+
+    All Glory To God, Forever. Amen
 - song: Goodness of God
   artist: Bethel Music
   enabled: true
@@ -140,35 +190,6 @@
     From the day I was born to the end of these seas
     I need you to carry me
   artist: Need to Breathe, Jon Foreman
-- song: Come Ye Sinners
-  artist: Joseph Hart
-  enabled: true
-  lyrics: |
-    Come, ye sinners, poor and needy,
-    Weak and wounded, sick and sore;
-    Jesus ready stands to save you,
-    Full of pity, love and power.
-
-    Refrain
-
-    I will arise and go to Jesus,
-    He will embrace me in His arms;
-    In the arms of my dear Savior,
-    O there are ten thousand charms.
-
-    Come, ye thirsty, come, and welcome,
-    God’s free bounty glorify;
-    True belief and true repentance,
-    Every grace that brings you nigh.
-
-    Refrain
-
-    Come, ye weary, heavy laden,
-    Lost and ruined by the fall;
-    If you tarry till you’re better,
-    You will never come at all.
-
-    Refrain
 - song: 'Future / Past; How He Loves Us '
   artist: John Mark McMillan
   enabled: false
@@ -437,7 +458,7 @@
     [x2]
 - song: Doxology
   artist: 
-  enabled: true
+  enabled: false
   lyrics: "Praise God from Whom all blessings flow\nPraise Him all creatures here
     below\nPraise Him above ye heavenly host\nPraise Father Son and Holy Ghost\nAmen "
 - song: Your Love Changes Everything
@@ -589,27 +610,6 @@
     end\nHope is in the Lord, keep your eyes on Him\nThe Kingdom is yours, the Kingdom
     is yours\nHold on a little more, this is not the end\nHope is in the Lord, keep
     your eyes on Him "
-- song: Nothing I Hold On To
-  artist: United Pursuit Band
-  enabled: true
-  lyrics: |-
-    I lean not on my own understanding,
-    My life is in the hands of the maker of heaven
-
-    I Give it all to you God,
-    Trusting that you'll make something beautiful out of me
-
-    I will climb this mountain
-    With my hands wide open
-    I will climb this mountain
-    With my hands wide open
-
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-    There is nothing I hold on to
-
-    All Glory To God, Forever. Amen
 - song: Have Mercy
   artist: Sandra McCracken
   enabled: false
@@ -3550,7 +3550,7 @@
     Rise up my soul (repeat)
 - song: White as Snow
   artist: Jon Foreman
-  enabled: true
+  enabled: false
   lyrics: |-
     Have mercy on me, oh God
     According to Your unfailing love
