@@ -1,6 +1,72 @@
 ---
-- song: Psalm 145
+- song: Holy Spirit
+  artist: Jesus Culture
   enabled: true
+  lyrics: |-
+    [Verse 1]
+
+    There’s nothing worth more
+    That could ever come close
+    No thing can compare
+    You're our living hope
+    Your presence, Lord
+
+    [Chorus]
+
+    Holy Spirit, You are welcome here
+    Come flood this place
+    And fill the atmosphere
+    Your glory, God
+    Is what our hearts long for
+    To be overcome
+    By Your presence, Lord
+    Your presence, Lord
+
+    [Verse 2]
+
+    I’ve tasted and seen
+    Of the sweetest of loves
+    Where my heart becomes free
+    And my shame is undone
+    Your presence, Lord
+
+    [Bridge]
+
+    [4x]
+    Let us become more aware of Your presence
+    Let us experience the glory of Your goodness
+    Here I stand
+- song: Come Ye Sinners
+  artist: Joseph Hart
+  enabled: true
+  lyrics: |
+    Come, ye sinners, poor and needy,
+    Weak and wounded, sick and sore;
+    Jesus ready stands to save you,
+    Full of pity, love and power.
+
+    Refrain
+
+    I will arise and go to Jesus,
+    He will embrace me in His arms;
+    In the arms of my dear Savior,
+    O there are ten thousand charms.
+
+    Come, ye thirsty, come, and welcome,
+    God’s free bounty glorify;
+    True belief and true repentance,
+    Every grace that brings you nigh.
+
+    Refrain
+
+    Come, ye weary, heavy laden,
+    Lost and ruined by the fall;
+    If you tarry till you’re better,
+    You will never come at all.
+
+    Refrain
+- song: Psalm 145
+  enabled: false
   lyrics: |-
     I will bless You all of my days LORD
     I will praise you always, My God and King
@@ -43,7 +109,7 @@
   artist: Dustin Kensrue
 - song: Come Thou Fount
   artist: ''
-  enabled: true
+  enabled: false
   lyrics: |-
     Come thou fount of every blessing
     Tune my heart to sing Thy grace
@@ -78,7 +144,7 @@
     seal it for Thy courts above
 - song: Oh Love That Will Not Let Me Go
   artist: Ascend the Hill
-  enabled: true
+  enabled: false
   lyrics: |-
     Oh, Love that will not let me go
     I rest my weary soul in Thee
@@ -138,7 +204,7 @@
     Holy, holy, is the King of Kings
 - song: Called Me Higher
   artist: All Sons & Daughters
-  enabled: true
+  enabled: false
   lyrics: |-
     I could just sit
     I could just sit and wait for all Your goodness
@@ -1132,20 +1198,6 @@
     You are my dancing rhythm
     You are my perfect rhyme
     And I want to sing forever
-- song: Come Ye Sinners, Poor And Needy; Higher Power
-  artist: Joseph Hart; Coldplay
-  enabled: false
-  lyrics: "Come, ye sinners, poor and needy,\nWeak and wounded, sick and sore;\nJesus
-    ready stands to save you,\nFull of pity, love and power.\n\nRefrain\n\nI will
-    arise and go to Jesus,\nHe will embrace me in His arms;\nIn the arms of my dear
-    Savior,\nO there are ten thousand charms.\n\nCome, ye thirsty, come, and welcome,\nGod’s
-    free bounty glorify;\nTrue belief and true repentance,\nEvery grace that brings
-    you nigh.\n\nRefrain\n\nCome, ye weary, heavy laden,\nLost and ruined by the fall;\nIf
-    you tarry till you’re better,\nYou will never come at all.\n\nRefrain\n\n––\n\nAnd
-    You've got a high power;\nYou've got me singing every second,\nDancing every hour\n\nAnd
-    for so long, \nI'd been down on my knees\nTill your loves song, \nIt saved me
-    over and over;\nFor so long, \nI'd been down on my knees\nTill your love song,
-    \nIt floats me on, \nOn"
 - song: Never Going Back (Abbreviated)
   artist: United Pursuit
   enabled: false
@@ -1295,43 +1347,6 @@
     that's strong enough \nthat could tear this love apart\n\nNever gonna let you
     go\nNever gonna let you go"
   artist: Brandon Lake / Switchfoot
-- song: Holy Spirit
-  artist: Jesus Culture
-  enabled: false
-  lyrics: |-
-    [Verse 1]
-
-    There’s nothing worth more
-    That could ever come close
-    No thing can compare
-    You're our living hope
-    Your presence, Lord
-
-    [Chorus]
-
-    Holy Spirit, You are welcome here
-    Come flood this place
-    And fill the atmosphere
-    Your glory, God
-    Is what our hearts long for
-    To be overcome
-    By Your presence, Lord
-    Your presence, Lord
-
-    [Verse 2]
-
-    I’ve tasted and seen
-    Of the sweetest of loves
-    Where my heart becomes free
-    And my shame is undone
-    Your presence, Lord
-
-    [Bridge]
-
-    [4x]
-    Let us become more aware of Your presence
-    Let us experience the glory of Your goodness
-    Here I stand
 - song: Praise to the Lord, the Almighty
   artist: Hymn
   enabled: false
