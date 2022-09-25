@@ -36,6 +36,110 @@
     Let us become more aware of Your presence
     Let us experience the glory of Your goodness
     Here I stand
+- song: Goodness of God
+  artist: Bethel Music
+  enabled: true
+  lyrics: |
+    I love You, Lord
+    For Your mercy never fails me
+    All my days, I've been held in Your hands
+    From the moment that I wake up
+    Until I lay my head
+    Oh, I will sing of the goodness of God
+
+    And all my life You have been faithful
+    And all my life You have been so, so good
+    With every breath that I am able
+    Oh, I will sing of the goodness of God
+
+    I love Your voice
+    You have led me through the fire
+    In the darkest night
+    You are close like no other
+    I've known You as a Father
+    I've known You as a Friend
+    And I have lived in the goodness of God (yeah)
+
+    And all my life You have been faithful (oh)
+    And all my life You have been so, so good
+    With every breath that I am able
+    Oh, I will sing of the goodness of God (yeah)
+
+    'Cause Your goodness is running after
+    It's running after me
+    Your goodness is running after
+    It's running after me
+    With my life laid down
+    I'm surrendered now
+    I give You everything
+
+    And all my life You have been faithful (oh)
+    And all my life You have been so, so good
+    With every breath that I am able
+    Oh, I will sing of the goodness of God (yeah)
+- song: Carry Me
+  enabled: true
+  lyrics: |-
+    I chased you into the light
+    Yeah, I stayed there to see myself pure
+    All the ashes and scars they fail
+    They pale in comparison to yours
+
+    There were footprints the size of the universe
+    There were fortunes that no one could earn
+    So I chased you farther still
+    And I hope that I never return
+
+    From the river's mouth
+    To the mountain peak
+    Through the great divide and the valley deep
+    I need you to carry me
+
+    Carry me
+    Carry me, I'm on my way
+    But I'm in too deep
+    I need you to carry me
+
+    You were calling me, into the deep
+    Into waters that no map could find
+    You were calling me
+    Out beyond my fears
+    Where my darkness finds rest in your light
+
+    I found a fortress where I could surrender
+    Where my shame didn't hide what I lacked
+    And so I chased you out farther still
+    'Cause I know that I ain't never coming back
+
+    From the river's mouth
+    To the mountain peak
+    From the great divide and the oceans deep
+    I need you to carry me
+
+    Carry me
+    Carry me, I'm on my way
+    But I'm in too deep
+    I need you to carry me
+
+    I found a place where the past was forgiven
+    Where my mistakes met a grace I couldn't earn
+    And so I piled up my excuses and defenses in the night
+    Then I lit a match, stepped back and watched them burn
+
+    From the river's mouth
+    To the mountain peak
+    Through the great divide where the waters meet
+    I need you to carry me
+
+    Carry me
+    Carry me, I'm on my way
+    But I'm in too deep
+    I need you to carry me
+    I need you to carry me
+
+    From the day I was born to the end of these seas
+    I need you to carry me
+  artist: Need to Breathe, Jon Foreman
 - song: Come Ye Sinners
   artist: Joseph Hart
   enabled: true
@@ -65,6 +169,71 @@
     You will never come at all.
 
     Refrain
+- song: 'Future / Past; How He Loves Us '
+  artist: John Mark McMillan
+  enabled: false
+  lyrics: |-
+    You hold the reigns on the sun and the moon,
+    Like horses driven by kings
+    You cover the mountains, the valleys below,
+    With the breadth of Your mighty wings
+
+    [Pre-Chorus]
+    All treasures of wisdom
+    And things to be known
+    Are hidden inside Your hand
+    And in this fortunate turn of events
+    You ask me to be Your friend
+    Ask me to be Your friend
+
+    [Chorus]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    Yeah, You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    The constellations are swimming inside,
+    The breadth of Your desire
+    So where could I run, where could I hide,
+    From Your heart’s jealous fire?
+
+    [Pre-Chorus]
+    All treasures of wisdom
+    And things to be known
+    Are hidden inside Your hand
+    And in this fortunate turn of events
+    You ask me to be Your friend
+    Ask me to be Your friend
+
+    [Chorus]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    Yeah, You,
+    You are my first
+    You are my last
+    You are my future and my past
+    You are the beginning and the end
+
+    [Chorus]
+    And You,
+    You are my first
+    You are my last
+    You are my future and my past
+
+    ––
+
+    Oh, He loves us,
+    Oh, how He loves us
+    Oh, how He loves us
+    Oh, how He loves
 - song: Psalm 145
   enabled: false
   lyrics: |-
@@ -431,47 +600,6 @@
     Lord help my unbelief,
     Lord help my unbelief,
     Oh Lord, have mercy (x2)
-- song: Goodness of God
-  artist: Bethel Music
-  enabled: false
-  lyrics: |
-    I love You, Lord
-    For Your mercy never fails me
-    All my days, I've been held in Your hands
-    From the moment that I wake up
-    Until I lay my head
-    Oh, I will sing of the goodness of God
-
-    And all my life You have been faithful
-    And all my life You have been so, so good
-    With every breath that I am able
-    Oh, I will sing of the goodness of God
-
-    I love Your voice
-    You have led me through the fire
-    In the darkest night
-    You are close like no other
-    I've known You as a Father
-    I've known You as a Friend
-    And I have lived in the goodness of God (yeah)
-
-    And all my life You have been faithful (oh)
-    And all my life You have been so, so good
-    With every breath that I am able
-    Oh, I will sing of the goodness of God (yeah)
-
-    'Cause Your goodness is running after
-    It's running after me
-    Your goodness is running after
-    It's running after me
-    With my life laid down
-    I'm surrendered now
-    I give You everything
-
-    And all my life You have been faithful (oh)
-    And all my life You have been so, so good
-    With every breath that I am able
-    Oh, I will sing of the goodness of God (yeah)
 - song: Once and For All
   artist: Lauren Daigle
   enabled: false
@@ -1021,71 +1149,6 @@
     gifts, no power, no wisdom;\nBut I will boast in Jesus Christ,\nHis death and
     resurrection.\nWhy should I gain from His reward?\nI cannot give an answer;\nBut
     this I know with all my heart -\nHis wounds have paid my ransom. "
-- song: 'Future / Past; How He Loves Us '
-  artist: John Mark McMillan
-  enabled: false
-  lyrics: |-
-    You hold the reigns on the sun and the moon,
-    Like horses driven by kings
-    You cover the mountains, the valleys below,
-    With the breadth of Your mighty wings
-
-    [Pre-Chorus]
-    All treasures of wisdom
-    And things to be known
-    Are hidden inside Your hand
-    And in this fortunate turn of events
-    You ask me to be Your friend
-    Ask me to be Your friend
-
-    [Chorus]
-    And You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    Yeah, You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    The constellations are swimming inside,
-    The breadth of Your desire
-    So where could I run, where could I hide,
-    From Your heart’s jealous fire?
-
-    [Pre-Chorus]
-    All treasures of wisdom
-    And things to be known
-    Are hidden inside Your hand
-    And in this fortunate turn of events
-    You ask me to be Your friend
-    Ask me to be Your friend
-
-    [Chorus]
-    And You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    Yeah, You,
-    You are my first
-    You are my last
-    You are my future and my past
-    You are the beginning and the end
-
-    [Chorus]
-    And You,
-    You are my first
-    You are my last
-    You are my future and my past
-
-    ––
-
-    Oh, He loves us,
-    Oh, how He loves us
-    Oh, how He loves us
-    Oh, how He loves
 - song: May The Words of My Mouth
   artist: Shane and Shane
   enabled: false
