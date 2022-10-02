@@ -1,7 +1,38 @@
 ---
+- song: Almighty God
+  artist: Sandra McCracken
+  enabled: true
+  lyrics: |-
+    Almighty God to you all hearts are open
+    Search and know our thoughts and anxious fears
+    Wash us in the fountain of your mercy
+    Come with your light, we cannot hide from you
+
+    Almighty God to you all hearts are open
+    With gratitude we raise our song to you
+    Come and fill the praises of your people
+    In grace and truth, you make us new again
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    Almighty God to you all hearts are open
+    We long for more than what this world provides
+    No shallow spring will ever satisfy us
+    Your river deep floods over everything
+
+    Almighty God to You all hearts are open
+    You take away our sickness and our sin
+    Oh Lamb of God we gather at Your table
+    In bread and wine, You have supplied our needs
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
+
+    To you all hearts are open, Almighty God…
+
+    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: Holy Spirit
   artist: Jesus Culture
-  enabled: true
+  enabled: false
   lyrics: |-
     [Verse 1]
 
@@ -38,7 +69,7 @@
     Here I stand
 - song: Come Ye Sinners
   artist: Joseph Hart
-  enabled: true
+  enabled: false
   lyrics: |
     Come, ye sinners, poor and needy,
     Weak and wounded, sick and sore;
@@ -67,7 +98,7 @@
     Refrain
 - song: Nothing I Hold On To
   artist: United Pursuit Band
-  enabled: true
+  enabled: false
   lyrics: |-
     I lean not on my own understanding,
     My life is in the hands of the maker of heaven
@@ -88,7 +119,7 @@
     All Glory To God, Forever. Amen
 - song: Goodness of God
   artist: Bethel Music
-  enabled: true
+  enabled: false
   lyrics: |
     I love You, Lord
     For Your mercy never fails me
@@ -752,37 +783,6 @@
     You're never gonna let me down
     You're never gonna let
     You're never gonna let me down
-- song: Almighty God
-  artist: Sandra McCracken
-  enabled: false
-  lyrics: |-
-    Almighty God to you all hearts are open
-    Search and know our thoughts and anxious fears
-    Wash us in the fountain of your mercy
-    Come with your light, we cannot hide from you
-
-    Almighty God to you all hearts are open
-    With gratitude we raise our song to you
-    Come and fill the praises of your people
-    In grace and truth, you make us new again
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    Almighty God to you all hearts are open
-    We long for more than what this world provides
-    No shallow spring will ever satisfy us
-    Your river deep floods over everything
-
-    Almighty God to You all hearts are open
-    You take away our sickness and our sin
-    Oh Lamb of God we gather at Your table
-    In bread and wine, You have supplied our needs
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
-
-    To you all hearts are open, Almighty God…
-
-    Hallelujah, hallelujah, hallelujah, hallelujah
 - song: The House Of God, Forever
   artist: Jon Foreman
   enabled: false
