@@ -30,6 +30,145 @@
     To you all hearts are open, Almighty God…
 
     Hallelujah, hallelujah, hallelujah, hallelujah
+- song: 'Closer '
+  enabled: true
+  lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
+    the raging storm\nWould you hold me in your arms, arms\n\n'Cause I need you, how
+    I need you\n\nI need your love like I need water\nI need your love like I need
+    breath inside of my lungs\nBurn in my heart just like a fire, come and take me
+    over\nJesus draw me closer to your heart\nTo your heart\n\nAnd through the wind
+    and rain\nI can hear you call my name, name\nWhen the nights get rough, I will
+    still sing out your praise\n'Cause I need you, how I need you \n\nI need your
+    love like I need water\nAnd I need your love like I need breath inside of my lungs\nBurn
+    in my heart just like a fire, come and take me over\nJesus draw me closer to your
+    heart\nTo your heart, your heart\n\nAnd closer than my every breath\nCloser than
+    my every step\nCloser than the song I sing\nCloser than anything\n\nI need your
+    love like I need water\nI need your love like I need breath inside of my lungs\nBurn
+    in my heart just like a fire, come and take me over\nJesus draw me closer to your
+    heart\nTo your heart, your heart\n\n"
+  artist: 'Brandon Lake '
+- song: Another In The Fire
+  artist: Hillsong United
+  enabled: true
+  lyrics: |+
+    There's a grace when the heart is under fire
+    Another way when the walls are closing in
+    And when I look at the space between
+    Where I used to be and this reckoning
+    I know I will never be alone
+
+    There was another in the fire
+    Standing next to me
+    There was another in the waters
+    Holding back the seas
+    And should I ever need reminding
+    Of how I've been set free
+    There is a cross that bears the burden
+    Where another died for me
+
+    There is another in the fire
+
+    All my debt left for dead beneath the waters
+    I'm no longer a slave to my sin anymore
+    And should I fall in the space between
+    What remains of me and this reckoning
+    Either way I won't bow to the things of this world
+    And I know I will never be alone
+
+    There is another in the fire
+    Standing next to me
+    There is another in the waters
+    Holding back the seas
+    And should I ever need reminding
+    What power set me free
+    There is a grave that holds no body
+    And now that power lives in me
+
+    There'll be another in the fire
+    Standing next to me
+    There'll be another in the waters
+    Holding back the seas
+    And should I ever need reminding
+    How good You've been to me
+    I'll count the joy come every battle
+    'Cause I know that's where You'll be
+
+    And I can see the light in the darkness
+    As the darkness bows to Him
+    I can hear the roar in the heavens
+    As the space between wears thin
+    I can feel the ground shake beneath us
+    As the prison walls cave in
+    Nothing stands between us
+    Nothing stands between us
+
+    There is no other name but the name that is Jesus
+    He who was and still is, and will be through it all
+    So come what may in the space between
+    All the things unseen and this reckoning
+    And I know I will never be alone
+    And I know I will never be alone
+
+
+- song: How Great Thou Art
+  artist: Hymn
+  enabled: true
+  lyrics: |-
+    Oh Lord my God
+    When I in awesome wonder
+    Consider all the worlds
+    Thy hands have made
+    I see the stars
+    I hear the rolling thunder
+    Thy power throughout
+    The universe displayed
+
+    Then sings my soul
+    My Savior, God, to Thee
+    How great thou art
+    How great thou art
+    Then sings my soul
+    My Savior, God, to Thee
+    How great Thou art
+    How great Thou art
+
+    And when I think of God,
+    His son not sparing,
+    Sent Him to die,
+    I scarce can take it in;
+    That on the cross, my burden
+    gladly bearing He bled and died
+    to take away my sin
+
+    Then sings my soul
+    My Savior, God, to Thee
+    How great thou art
+    How great thou art
+    Then sings my soul
+    My Savior, God, to Thee
+    How great Thou art
+    How great Thou art
+
+    When Christ shall come
+    With shout of acclamation
+    And take me home
+    What joy shall fill my heart
+    Then I shall bow
+    With humble adoration
+    And then proclaim My God
+    How great Thou art
+
+    Then sings my soul
+    My Savior, God, to Thee
+    How great Thou art
+    How great Thou art
+    Then sings my soul
+    My Savior, God, to Thee
+    How great Thou art
+    How great Thou art
+
+    How great Thou art
+    How great Thou art
 - song: Holy Spirit
   artist: Jesus Culture
   enabled: false
@@ -1388,23 +1527,6 @@
 
     And I belong to You
     Forever, I belong to You
-- song: 'Closer '
-  enabled: false
-  lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
-    the raging storm\nWould you hold me in your arms, arms\n\n'Cause I need you, how
-    I need you\n\nI need your love like I need water\nI need your love like I need
-    breath inside of my lungs\nBurn in my heart just like a fire, come and take me
-    over\nJesus draw me closer to your heart\nTo your heart\n\nAnd through the wind
-    and rain\nI can hear you call my name, name\nWhen the nights get rough, I will
-    still sing out your praise\n'Cause I need you, how I need you \n\nI need your
-    love like I need water\nAnd I need your love like I need breath inside of my lungs\nBurn
-    in my heart just like a fire, come and take me over\nJesus draw me closer to your
-    heart\nTo your heart, your heart\n\nAnd closer than my every breath\nCloser than
-    my every step\nCloser than the song I sing\nCloser than anything\n\nI need your
-    love like I need water\nI need your love like I need breath inside of my lungs\nBurn
-    in my heart just like a fire, come and take me over\nJesus draw me closer to your
-    heart\nTo your heart, your heart\n\n"
-  artist: 'Brandon Lake '
 - song: Praise to the Lord, the Almighty
   artist: Hymn
   enabled: false
@@ -1775,69 +1897,6 @@
     want more of you God\nI want more of you God\n\nThere's no place I would rather
     be\nNo place I would rather be\nThere's no place I would rather be\nThan here
     in your love,\nHere in your love\n"
-- song: Another In The Fire
-  artist: Hillsong United
-  enabled: false
-  lyrics: |+
-    There's a grace when the heart is under fire
-    Another way when the walls are closing in
-    And when I look at the space between
-    Where I used to be and this reckoning
-    I know I will never be alone
-
-    There was another in the fire
-    Standing next to me
-    There was another in the waters
-    Holding back the seas
-    And should I ever need reminding
-    Of how I've been set free
-    There is a cross that bears the burden
-    Where another died for me
-
-    There is another in the fire
-
-    All my debt left for dead beneath the waters
-    I'm no longer a slave to my sin anymore
-    And should I fall in the space between
-    What remains of me and this reckoning
-    Either way I won't bow to the things of this world
-    And I know I will never be alone
-
-    There is another in the fire
-    Standing next to me
-    There is another in the waters
-    Holding back the seas
-    And should I ever need reminding
-    What power set me free
-    There is a grave that holds no body
-    And now that power lives in me
-
-    There'll be another in the fire
-    Standing next to me
-    There'll be another in the waters
-    Holding back the seas
-    And should I ever need reminding
-    How good You've been to me
-    I'll count the joy come every battle
-    'Cause I know that's where You'll be
-
-    And I can see the light in the darkness
-    As the darkness bows to Him
-    I can hear the roar in the heavens
-    As the space between wears thin
-    I can feel the ground shake beneath us
-    As the prison walls cave in
-    Nothing stands between us
-    Nothing stands between us
-
-    There is no other name but the name that is Jesus
-    He who was and still is, and will be through it all
-    So come what may in the space between
-    All the things unseen and this reckoning
-    And I know I will never be alone
-    And I know I will never be alone
-
-
 - song: Not in a Hurry
   artist: Will Reagan
   enabled: false
@@ -1888,65 +1947,6 @@
     shed by your dear Son, Jesus Christ. Thank you for the comfort and strength I
     receive through the power of the Holy Spirit. Thank you for love indescribable.
     Thank you."
-- song: How Great Thou Art
-  artist: Hymn
-  enabled: false
-  lyrics: |-
-    Oh Lord my God
-    When I in awesome wonder
-    Consider all the worlds
-    Thy hands have made
-    I see the stars
-    I hear the rolling thunder
-    Thy power throughout
-    The universe displayed
-
-    Then sings my soul
-    My Savior, God, to Thee
-    How great thou art
-    How great thou art
-    Then sings my soul
-    My Savior, God, to Thee
-    How great Thou art
-    How great Thou art
-
-    And when I think of God,
-    His son not sparing,
-    Sent Him to die,
-    I scarce can take it in;
-    That on the cross, my burden
-    gladly bearing He bled and died
-    to take away my sin
-
-    Then sings my soul
-    My Savior, God, to Thee
-    How great thou art
-    How great thou art
-    Then sings my soul
-    My Savior, God, to Thee
-    How great Thou art
-    How great Thou art
-
-    When Christ shall come
-    With shout of acclamation
-    And take me home
-    What joy shall fill my heart
-    Then I shall bow
-    With humble adoration
-    And then proclaim My God
-    How great Thou art
-
-    Then sings my soul
-    My Savior, God, to Thee
-    How great Thou art
-    How great Thou art
-    Then sings my soul
-    My Savior, God, to Thee
-    How great Thou art
-    How great Thou art
-
-    How great Thou art
-    How great Thou art
 - song: Your Love is Strong
   artist: Jon Foreman
   enabled: false
