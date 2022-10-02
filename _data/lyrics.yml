@@ -1388,7 +1388,7 @@
 
     And I belong to You
     Forever, I belong to You
-- song: Closer / Never Gonna Let You Go
+- song: 'Closer '
   enabled: false
   lyrics: "Like the rushing wind\nWould you breathe within my heart, heart\nThrough
     the raging storm\nWould you hold me in your arms, arms\n\n'Cause I need you, how
@@ -1403,13 +1403,8 @@
     my every step\nCloser than the song I sing\nCloser than anything\n\nI need your
     love like I need water\nI need your love like I need breath inside of my lungs\nBurn
     in my heart just like a fire, come and take me over\nJesus draw me closer to your
-    heart\nTo your heart, your heart\n\n––––\n\n… There ain't no darkness strong enough
-    \nthat could tear you out from my heart\nThere ain't no strength that's strong
-    enough \nthat could tear this love apart\n\nYeah, there ain't no darkness strong
-    enough \nthat could tear you out from my heart\nYeah, there ain't no strength
-    that's strong enough \nthat could tear this love apart\n\nNever gonna let you
-    go\nNever gonna let you go"
-  artist: Brandon Lake / Switchfoot
+    heart\nTo your heart, your heart\n\n"
+  artist: 'Brandon Lake '
 - song: Praise to the Lord, the Almighty
   artist: Hymn
   enabled: false
