@@ -1,0 +1,30 @@
+name: Build
+on:
+  push:
+    branches: master
+jobs:
+  build:
+    name: Jekyll build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Cache gems
+        id: bundler-cache
+        uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: ${{ runner.os }}-gems-
+      - name: Install Node
+        uses: actions/setup-node@v3
+        with: 
+          node-version: 16
+          cache: 'npm'
+      - name: Run gulp
+        run: |
+          npm install
+          gulp build
+      - uses: helaili/jekyll-action@2.2.0
+        with:
+          target_branch: 'github-pages'
+          token: ${{ secrets.GITHUB_TOKEN }}
