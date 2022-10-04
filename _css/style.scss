@@ -1,7 +1,4 @@
----
----
-
-@charset "utf-8";
+@import "bootstrap";
 
 // Our variables
 $base-font-family: 'Roboto', serif;
@@ -29,8 +26,17 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+:root {
+  --bs-border-color-translucent: #d5ae43;
+}
+
 body {
   background-color: $background-color;
+}
+
+a {
+  color: #2199e8;
+  text-decoration: none;
 }
 
 p {
@@ -47,10 +53,13 @@ p {
   border-top: 1px solid $brand-color;
   border-bottom: 1px solid $brand-color;
   margin-bottom: 25px;
+
   a {
     color: #000;
     font-size: 14px;
+    margin: 0 17px;
     text-transform: uppercase;
+
     span {
       color: $brand-color;
       font-family: $secondary-font-family;
@@ -62,10 +71,20 @@ p {
 }
 
 #secondary-menu {
+  list-style-type: none;
   margin-top: 40px;
+  padding: 0;
+
   a {
     color: #000;
     padding: 5px 0;
+    text-decoration: none;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  #sidebar {
+    margin-top: 56px;
   }
 }
 

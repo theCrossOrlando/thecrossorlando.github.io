@@ -5,10 +5,10 @@ layout: default
 ---
 
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSd0i8VVYc1l0VIXPzy75kVunN_aq76AVaOa1m0UZEriOUszNw/viewform?gxids=7628" target="_blank">Annual Church Form</a></p>
-<div class="row small-up-1 medium-up-2">
+<div class="row">
   {% for lyric in site.data.lyrics %}
   {% if lyric.enabled %}
-  <div class="column">
+  <div class="col col-lg-6">
     <article class="card">
       <h2>{{ lyric.song }}</h2>
       {% if lyric.artist and lyric.artist != '' %}<span class="author">by {{ lyric.artist }}</span>{% endif %}
