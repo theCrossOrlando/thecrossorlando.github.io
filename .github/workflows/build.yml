@@ -2,6 +2,10 @@ name: Build
 on:
   push:
     branches: master
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 jobs:
   build:
     name: Jekyll build
@@ -24,10 +28,15 @@ jobs:
         run: |
           npm install
           gulp build
-      - uses: helaili/jekyll-action@2.2.0
+      - name: Setup Pages
+        uses: actions/configure-pages@v2
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
         with:
-          target_branch: 'github-pages'
-          token: ${{ secrets.GITHUB_TOKEN }}
+          source: ./
+          destination: ./_site
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
   # Deployment job
   deploy:
     environment:
