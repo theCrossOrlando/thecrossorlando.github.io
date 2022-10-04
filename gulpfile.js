@@ -22,20 +22,20 @@ export const css = () => gulp.src('./_css/style.scss')
       //outputStyle: 'compressed'
     })
     .on('error', sass.logError))
-    .pipe(postcss([purgecss({
-        content: [
-          './_site/index.html',
-          './_site/care.html',
-          './_site/gatherings.html',
-          './_site/lyrics/index.html',
-          './_site/messages/**/*.html',
-          './_site/people.html',
-          './_site/values.html',
-          './_site/work.html',
-        ],
-      }),
-      removeComments({ removeAll: true }),
-      cssnano]))
+//    .pipe(postcss([purgecss({
+//        content: [
+//          './_site/index.html',
+//          './_site/care.html',
+//          './_site/gatherings.html',
+//          './_site/lyrics/index.html',
+//          './_site/messages/**/*.html',
+//          './_site/people.html',
+//          './_site/values.html',
+//          './_site/work.html',
+//        ],
+//      }),
+//      removeComments({ removeAll: true }),
+//      cssnano]))
     .pipe(gulp.dest('./css'));
 
 export const cssWatch = () => gulp.watch('./_css/**/*.scss', css);
