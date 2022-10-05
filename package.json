@@ -9,11 +9,11 @@
   "license": "ISC",
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^5.0.0",
-    "postcss": "^8.4.17",
     "bootstrap": "^5.2.1",
     "child_process": "^1.0.2",
     "cssnano": "^5.1.13",
     "fancy-log": "^2.0.0",
+    "font-awesome": "^4.7.0",
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-htmlmin": "^5.0.1",
@@ -21,6 +21,7 @@
     "gulp-sass": "^5.1.0",
     "gulp-uglify": "^3.0.2",
     "masonry-layout": "^4.2.2",
+    "postcss": "^8.4.17",
     "postcss-discard-comments": "^5.1.2",
     "sass": "^1.54.4"
   }

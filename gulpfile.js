@@ -18,6 +18,7 @@ export const css = () => gulp.src('./_css/style.scss')
       includePaths: [
         './_css',
         './node_modules/bootstrap/scss',
+        './node_modules/font-awesome/scss',
       ],
     })
     .on('error', sass.logError))
