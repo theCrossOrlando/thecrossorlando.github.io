@@ -8,12 +8,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.0",
     "@fullhuman/postcss-purgecss": "^5.0.0",
     "bootstrap": "^5.2.1",
     "child_process": "^1.0.2",
     "cssnano": "^5.1.13",
     "fancy-log": "^2.0.0",
-    "font-awesome": "^4.7.0",
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-htmlmin": "^5.0.1",
