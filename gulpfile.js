@@ -35,7 +35,7 @@ export const css = () => gulp.src('./_css/style.scss')
       }),
       removeComments({ removeAll: true }),
       cssnano]))
-    .pipe(gulp.dest('./css'));
+    .pipe(gulp.dest('./_site/css'));
 
 export const cssWatch = () => gulp.watch('./_css/**/*.scss', css);
 
@@ -47,7 +47,7 @@ export const js = () => gulp.src([
   ])
     .pipe(concat('script.js'))
     .pipe(uglify())
-    .pipe(gulp.dest('js'));
+    .pipe(gulp.dest('./_site/js'));
 
 export const jsWatch = () => gulp.watch('./_js/**/*.js', ['js']);
 
@@ -90,6 +90,6 @@ export const jekyllServe = () => {
 //export const dev = gulp.series(css, js, jekyllServe, cssWatch, jsWatch);
 export const dev = gulp.parallel(css, cssWatch, jekyllServe);
 
-export const build = gulp.series(jekyll, css, js, jekyll);
+export const build = gulp.series(jekyll, css, js);
 
 export default dev;
