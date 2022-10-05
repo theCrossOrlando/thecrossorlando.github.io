@@ -19,7 +19,6 @@ export const css = () => gulp.src('./_css/style.scss')
         './_css',
         './node_modules/bootstrap/scss',
       ],
-      //outputStyle: 'compressed'
     })
     .on('error', sass.logError))
     .pipe(postcss([purgecss({
@@ -91,6 +90,6 @@ export const jekyllServe = () => {
 //export const dev = gulp.series(css, js, jekyllServe, cssWatch, jsWatch);
 export const dev = gulp.parallel(css, cssWatch, jekyllServe);
 
-export const build = gulp.series(css, js, jekyll);
+export const build = gulp.series(jekyll, css, js, jekyll);
 
 export default dev;
