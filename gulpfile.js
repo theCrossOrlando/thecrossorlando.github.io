@@ -5,7 +5,7 @@ import htmlmin from 'gulp-htmlmin';
 import dartSass from 'sass';
 import gulpSass from 'gulp-sass';
 const sass = gulpSass(dartSass);
-import uglify from 'gulp-uglify';
+import terser from 'gulp-terser';
 import postcss from 'gulp-postcss';
 import purgecss from '@fullhuman/postcss-purgecss';
 import cssnano from 'cssnano';
@@ -47,7 +47,12 @@ export const js = () => gulp.src([
     './_js/script.js'
   ])
     .pipe(concat('script.js'))
-    .pipe(uglify())
+    .pipe(terser({
+      toplevel: true,
+      format: {
+        comments: false
+      }
+    }))
     .pipe(gulp.dest('./_site/js'));
 
 export const jsWatch = () => gulp.watch('./_js/**/*.js', ['js']);
