@@ -1,7 +1,7 @@
 {% assign sorted_posts = site.data.posts | sort: "date" %}
-<div class="row small-up-1">
+<div class="row">
   {% for post in sorted_posts reversed %}
-  <div class="column">
+  <div class="col">
     <article class="card">
       <time datetime="{{ post.pubDate }}">{{ post.pubDate | date: "%b %-d, %Y" }}</time>
       <h3>{{ post.meta.title }}</h3>
