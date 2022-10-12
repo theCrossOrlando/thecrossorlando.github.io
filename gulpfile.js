@@ -27,11 +27,12 @@ export const cssDev = () => gulp.src('./_css/style.scss')
 export const cssWatch = () => gulp.watch('./_css/**/*.scss', cssDev);
 
 export const jsDev = () => gulp.src([
-    './node_modules/bootstrap/dist/js/bootstrap.min.js',
-    './node_modules/masonry-layout/dist/masonry.pkgd.min.js',
-    './_js/script.js'
-  ])
-  .pipe(gulp.dest('js'));
+      './node_modules/bootstrap/dist/js/bootstrap.min.js',
+      './node_modules/masonry-layout/dist/masonry.pkgd.min.js',
+      './_js/script.js'
+    ])
+    .pipe(concat('script.js'))
+    .pipe(gulp.dest('js'));
 
 export const jsWatch = () => gulp.watch('./_js/**/*.js', jsDev);
 
@@ -80,17 +81,18 @@ export const cssProd = () => gulp.src('./_css/style.scss')
     .pipe(gulp.dest('./_site/css'));
 
 export const jsProd = () => gulp.src([
-    './node_modules/bootstrap/dist/js/bootstrap.min.js',
-    './node_modules/masonry-layout/dist/masonry.pkgd.min.js',
-    './_js/script.js'
-  ])
+      './node_modules/bootstrap/dist/js/bootstrap.min.js',
+      './node_modules/masonry-layout/dist/masonry.pkgd.min.js',
+      './_js/script.js'
+    ])
     .pipe(terser({
       toplevel: true,
       format: {
         comments: false
       }
     }))
-    .pipe(gulp.dest('_site/js'));
+    .pipe(concat('script.js'))
+    .pipe(gulp.dest('./_site/js'));
 
 export const jekyll = (gulpCallback) => {
   const jekyll = spawn('bundle', ['exec', 'jekyll', 'build']);
