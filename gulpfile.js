@@ -51,7 +51,7 @@ export const jekyllServe = () => {
   jekyll.stderr.on('data', jekyllLogger);
 }
 
-export const dev = gulp.series(cssDev, gulp.parallel(jekyllServe, cssWatch));
+export const dev = gulp.series(cssDev, jsDev, gulp.parallel(jekyllServe, cssWatch, jsWatch));
 
 // Prod
 export const cssProd = () => gulp.src('./_css/style.scss')
