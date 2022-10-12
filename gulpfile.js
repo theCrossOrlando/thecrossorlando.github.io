@@ -18,6 +18,7 @@ export const cssDev = () => gulp.src('./_css/style.scss')
       includePaths: [
         './_css',
         './node_modules/bootstrap/scss',
+        './node_modules/@fontsource',
         './node_modules/@fortawesome/fontawesome-free/scss'
       ],
     })
@@ -59,6 +60,7 @@ export const cssProd = () => gulp.src('./_css/style.scss')
       includePaths: [
         './_css',
         './node_modules/bootstrap/scss',
+        './node_modules/@fontsource',
         './node_modules/@fortawesome/fontawesome-free/scss'
       ],
     })
