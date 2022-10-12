@@ -8,11 +8,13 @@ layout: default
 {% for message in site.messages reversed %}
   <div class="col col-lg-6">
     <article class="card">
-      <h2><a href="{{ message.url }}">{{ message.title }}</a></h2>
-      <p>{{ message.summary }}</p>
-      <audio controls="controls">
-        <source src="{{ message.file }}" type="audio/mpeg"></source>
-      </audio>
+      <div class="card-body">
+        <h2 class="card-title"><a href="{{ message.url }}">{{ message.title }}</a></h2>
+        <p>{{ message.summary }}</p>
+        <audio controls="controls">
+          <source src="{{ message.file }}" type="audio/mpeg"></source>
+        </audio>
+      </div>
     </article>
   </div>
 {% endfor %}
