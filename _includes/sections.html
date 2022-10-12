@@ -12,7 +12,7 @@
           {% if section.email %} <a href="mailto:{{ section.email }}" target="_blank"><i class="fa-regular fa-envelope" aria-hidden="true"></i></a>{% endif %}
         </h2>
         {% if section.info %}<blockquote>{{ section.info }}</blockquote>{% endif %}
-        <p>{{ section.body | markdownify }}</p>
+        {{ section.body | markdownify }}
       </div>
     </article>
   </div>
