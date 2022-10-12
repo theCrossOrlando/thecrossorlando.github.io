@@ -10,6 +10,7 @@ import postcss from 'gulp-postcss';
 import purgecss from '@fullhuman/postcss-purgecss';
 import cssnano from 'cssnano';
 import removeComments from 'postcss-discard-comments';
+import sourcemaps from 'gulp-sourcemaps';
 import { default as log } from 'fancy-log';
 
 // Dev
@@ -32,7 +33,9 @@ export const jsDev = () => gulp.src([
       './node_modules/masonry-layout/dist/masonry.pkgd.min.js',
       './_js/script.js'
     ])
+    .pipe(sourcemaps.init())
     .pipe(concat('script.js'))
+    .pipe(sourcemaps.write('.'))
     .pipe(gulp.dest('js'));
 
 export const jsWatch = () => gulp.watch('./_js/**/*.js', jsDev);
@@ -87,6 +90,7 @@ export const jsProd = () => gulp.src([
       './node_modules/masonry-layout/dist/masonry.pkgd.min.js',
       './_js/script.js'
     ])
+    .pipe(sourcemaps.init())
     .pipe(terser({
       toplevel: true,
       format: {
@@ -94,6 +98,7 @@ export const jsProd = () => gulp.src([
       }
     }))
     .pipe(concat('script.js'))
+    .pipe(sourcemaps.write('.'))
     .pipe(gulp.dest('./_site/js'));
 
 export const jekyll = (gulpCallback) => {
