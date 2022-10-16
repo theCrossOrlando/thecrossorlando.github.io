@@ -1,7 +1,7 @@
 ---
 - song: Almighty God
   artist: Sandra McCracken
-  enabled: true
+  enabled: false
   lyrics: |-
     Almighty God to you all hearts are open
     Search and know our thoughts and anxious fears
@@ -32,7 +32,7 @@
     Hallelujah, hallelujah, hallelujah, hallelujah
 - song: 'Future / Past; How He Loves Us '
   artist: John Mark McMillan
-  enabled: true
+  enabled: false
   lyrics: |-
     You hold the reigns on the sun and the moon,
     Like horses driven by kings
@@ -97,7 +97,7 @@
     Oh, how He loves
 - song: I Belong to You
   artist: Derek Johnson
-  enabled: true
+  enabled: false
   lyrics: |
     You can be the One that steals my heart
     With just a simple thought of who You are
@@ -148,7 +148,7 @@
     Forever, I belong to You
 - song: Since Your Love
   artist: United Pursuit
-  enabled: true
+  enabled: false
   lyrics: "You are the light\nSong of my life\nYou always lead me\nYou are the voice
     inside\n\nYou are my love\nNo one before You\nAll that I am\nPoints to You\n\nAnd
     I was made by You\nI was made for You\nI am unfulfilled\nWithout full communion\n\nYou
