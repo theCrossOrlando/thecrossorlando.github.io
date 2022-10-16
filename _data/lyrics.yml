@@ -20,6 +20,95 @@
     There is nothing I hold on to
 
     All Glory To God, Forever. Amen
+- song: The House Of God, Forever
+  artist: Jon Foreman
+  enabled: true
+  lyrics: |-
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    With quiet streams
+
+    Even though I walk
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You are with me
+
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
+
+    God is my shepherd
+    I won't be wanting
+    I won't be wanting
+    He makes me rest
+    In fields of green
+    By quiet streams
+
+    Even while I'm walking
+    Through the valley
+    Of death and dying
+    I will not fear
+    Cause you are with me
+    You're always with me
+
+    Your shepherd's staff comforts me
+    You are my feast
+    In the presence of enemies
+    Surely goodness will follow me
+    Follow me
+    In the house of God forever
+
+    In the house of God forever
+    In the house of God forever
+- song: Goodness of God
+  artist: Bethel Music
+  enabled: true
+  lyrics: |
+    I love You, Lord
+    For Your mercy never fails me
+    All my days, I've been held in Your hands
+    From the moment that I wake up
+    Until I lay my head
+    Oh, I will sing of the goodness of God
+
+    And all my life You have been faithful
+    And all my life You have been so, so good
+    With every breath that I am able
+    Oh, I will sing of the goodness of God
+
+    I love Your voice
+    You have led me through the fire
+    In the darkest night
+    You are close like no other
+    I've known You as a Father
+    I've known You as a Friend
+    And I have lived in the goodness of God (yeah)
+
+    And all my life You have been faithful (oh)
+    And all my life You have been so, so good
+    With every breath that I am able
+    Oh, I will sing of the goodness of God (yeah)
+
+    'Cause Your goodness is running after
+    It's running after me
+    Your goodness is running after
+    It's running after me
+    With my life laid down
+    I'm surrendered now
+    I give You everything
+
+    And all my life You have been faithful (oh)
+    And all my life You have been so, so good
+    With every breath that I am able
+    Oh, I will sing of the goodness of God (yeah)
 - song: Almighty God
   artist: Sandra McCracken
   enabled: false
@@ -495,47 +584,6 @@
     You will never come at all.
 
     Refrain
-- song: Goodness of God
-  artist: Bethel Music
-  enabled: false
-  lyrics: |
-    I love You, Lord
-    For Your mercy never fails me
-    All my days, I've been held in Your hands
-    From the moment that I wake up
-    Until I lay my head
-    Oh, I will sing of the goodness of God
-
-    And all my life You have been faithful
-    And all my life You have been so, so good
-    With every breath that I am able
-    Oh, I will sing of the goodness of God
-
-    I love Your voice
-    You have led me through the fire
-    In the darkest night
-    You are close like no other
-    I've known You as a Father
-    I've known You as a Friend
-    And I have lived in the goodness of God (yeah)
-
-    And all my life You have been faithful (oh)
-    And all my life You have been so, so good
-    With every breath that I am able
-    Oh, I will sing of the goodness of God (yeah)
-
-    'Cause Your goodness is running after
-    It's running after me
-    Your goodness is running after
-    It's running after me
-    With my life laid down
-    I'm surrendered now
-    I give You everything
-
-    And all my life You have been faithful (oh)
-    And all my life You have been so, so good
-    With every breath that I am able
-    Oh, I will sing of the goodness of God (yeah)
 - song: Psalm 145
   enabled: false
   lyrics: |-
@@ -578,54 +626,6 @@
     Oh, let all that lives ever bless His name
     Oh, let all that lives ever bless His name
   artist: Dustin Kensrue
-- song: The House Of God, Forever
-  artist: Jon Foreman
-  enabled: false
-  lyrics: |-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest
-    In fields of green
-    With quiet streams
-
-    Even though I walk
-    Through the valley
-    Of death and dying
-    I will not fear
-    Cause you are with me
-    You are with me
-
-    Your shepherd's staff comforts me
-    You are my feast
-    In the presence of enemies
-    Surely goodness will follow me
-    Follow me
-    In the house of God forever
-
-    God is my shepherd
-    I won't be wanting
-    I won't be wanting
-    He makes me rest
-    In fields of green
-    By quiet streams
-
-    Even while I'm walking
-    Through the valley
-    Of death and dying
-    I will not fear
-    Cause you are with me
-    You're always with me
-
-    Your shepherd's staff comforts me
-    You are my feast
-    In the presence of enemies
-    Surely goodness will follow me
-    Follow me
-    In the house of God forever
-
-    In the house of God forever
-    In the house of God forever
 - song: Come Thou Fount
   artist: ''
   enabled: false
