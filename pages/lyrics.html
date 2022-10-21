@@ -4,17 +4,18 @@ permalink: "/lyrics/"
 layout: default
 ---
 
+<script type="module" src="/js/lyrics.js"></script>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSd0i8VVYc1l0VIXPzy75kVunN_aq76AVaOa1m0UZEriOUszNw/viewform?gxids=7628" target="_blank">Annual Church Form</a></p>
-<div class="row">
-  {% for lyric in site.data.lyrics %}
-  {% if lyric.enabled %}
-  <div class="col col-lg-6">
+{% raw %}
+<div v-scope class="row">
+  <div class="col col-lg-6" v-for="lyric in lyrics" :key="lyric.id">
     <article class="card">
-      <h2>{{ lyric.song }}</h2>
-      {% if lyric.artist and lyric.artist != '' %}<span class="author">by {{ lyric.artist }}</span>{% endif %}
-      <p>{{ lyric.lyrics | newlinbr | markdownify }}</p>
+      <div class="card-body">
+        <h2>{{ lyric.song }}</h2>
+        <span class="author">by {{ lyric.artist }}</span>
+        <p style="white-space: pre-wrap">{{ lyric.lyrics }}</p>
+      </div>
     </article>
   </div>
-  {% endif %}
-  {% endfor %}
 </div>
+{% endraw %}

@@ -3,5 +3,6 @@
 .jekyll-metadata
 _site
 css/style.css
-js
+js/script.js
+js/script.js.map
 node_modules
