@@ -1,4 +1,11 @@
 ---
+- song: Set A Fire
+  artist: Will Reagan
+  enabled: true
+  lyrics: "Set a fire down in my soul\nThat I can't contain \nThat I cant control,\nI
+    want more of you God\nI want more of you God\n\nThere's no place I would rather
+    be\nNo place I would rather be\nThere's no place I would rather be\nThan here
+    in your love,\nHere in your love\n"
 - song: Nothing I Hold On To
   artist: United Pursuit Band
   enabled: true
@@ -1890,13 +1897,6 @@
     That were a present far too small;
     Love so amazing, so divine,
     Demands my soul, my life, my all.
-- song: Set A Fire
-  artist: Will Reagan
-  enabled: false
-  lyrics: "Set a fire down in my soul\nThat I can't contain \nThat I cant control,\nI
-    want more of you God\nI want more of you God\n\nThere's no place I would rather
-    be\nNo place I would rather be\nThere's no place I would rather be\nThan here
-    in your love,\nHere in your love\n"
 - song: Not in a Hurry
   artist: Will Reagan
   enabled: false
