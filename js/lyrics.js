@@ -14,6 +14,11 @@ const activeLyrics = query(colRefLyrics, where("enabled", "==", true));
 const querySnapshot = await getDocs(activeLyrics);
 let lyrics = [];
 querySnapshot.forEach((doc) => lyrics.push({ ...doc.data(), id: doc.id }));
+lyrics.sort((a, b) => {
+  if (a.order < b.order) return -1
+  if (a.order > b.order) return 1
+  return 0
+})
 
 createApp({
   lyrics: lyrics
