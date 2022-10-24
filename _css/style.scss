@@ -35,6 +35,10 @@ $on-laptop:        800px;
   --bs-border-color-translucent: #d5ae43;
 }
 
+[v-cloak] {
+  display: none;
+}
+
 body {
   background-color: $background-color;
 }
