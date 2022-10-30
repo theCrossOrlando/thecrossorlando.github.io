@@ -1,14 +1,155 @@
 ---
-- song: Set A Fire
+- song: Come As You Are
+  artist: Crowder
+  enabled: false
+  lyrics: |-
+    Come out of sadness
+    From wherever you've been
+    Come broken hearted
+    Let rescue begin
+    Come find your mercy
+    Oh sinner come kneel
+    Earth has no sorrow
+    That heaven can't heal
+    Earth has no sorrow
+    That heaven can't heal
+
+    So lay down your burdens
+    Lay down your shame
+    All who are broken
+    Lift up your face
+    Oh wanderer come home
+    You're not too far
+    So lay down your hurt
+    Lay down your heart
+    Come as you are
+
+    There's hope for the hopeless
+    And all those who've strayed
+    Come sit at the table
+    Come taste the grace
+    There's rest for the weary
+    Rest that endures
+    Earth has no sorrow
+    That heaven can't cure
+    Earth has no sorrow
+    That heaven can't cure
+
+    So lay down your burdens
+    Lay down your shame
+    All who are broken
+    Lift up your face
+    Oh wanderer come home
+    You're not too far
+    Lay down your hurt lay down your heart
+    Come as you are
+
+    There's joy for the morning
+    Oh sinner be still
+    Earth has no sorrow
+    That heaven can't heal
+    Earth has no sorrow
+    That heaven can't heal
+
+    So lay down your burdens
+    Lay down your shame
+    All who are broken
+    Lift up your face
+    Oh wanderer come home
+    You're not too far
+    Lay down your hurt lay down your heart
+    Come as you are
+- song: Oh Lord, You're Beautiful
+  artist: Keith Green
+  enabled: false
+  lyrics: |-
+    Oh Lord, you're beautiful,
+    Your face is all I seek,
+    For when your eyes are on this child,
+    Your grace abounds to me.
+
+    Oh Lord, please light the fire,
+    That once burned bright and clear.
+    Replace the lamp of my first love,
+    That burns with Holy fear.
+
+    I want to take your word and shine it all around.
+    But first help me to just, live it Lord.
+    And when I'm doing well, help me to never seek a crown.
+    For my reward is giving glory to you.
+
+    Oh Lord, you're beautiful,
+    Your face is all I seek,
+    For when your eyes are on this child,
+    Your grace abounds to me.
+
+    I want to take your word and shine it all around.
+    But first help me to just, live it Lord.
+    And when I'm doing well, help me to never seek a crown.
+    For my reward is giving glory to you.
+- song: Goodness of God
+  artist: Bethel Music
+  enabled: true
+  lyrics: |
+    I love You, Lord
+    For Your mercy never fails me
+    All my days, I've been held in Your hands
+    From the moment that I wake up
+    Until I lay my head
+    Oh, I will sing of the goodness of God
+
+    And all my life You have been faithful
+    And all my life You have been so, so good
+    With every breath that I am able
+    Oh, I will sing of the goodness of God
+
+    I love Your voice
+    You have led me through the fire
+    In the darkest night
+    You are close like no other
+    I've known You as a Father
+    I've known You as a Friend
+    And I have lived in the goodness of God (yeah)
+
+    And all my life You have been faithful (oh)
+    And all my life You have been so, so good
+    With every breath that I am able
+    Oh, I will sing of the goodness of God (yeah)
+
+    'Cause Your goodness is running after
+    It's running after me
+    Your goodness is running after
+    It's running after me
+    With my life laid down
+    I'm surrendered now
+    I give You everything
+
+    And all my life You have been faithful (oh)
+    And all my life You have been so, so good
+    With every breath that I am able
+    Oh, I will sing of the goodness of God (yeah)
+- song: Head to the Heart
   artist: Will Reagan
   enabled: true
+  lyrics: "I open up to You\nThis love that makes me new\nOh, may my heart receive\nThis
+    love that carries me\n\nFrom the head to the heart\nYou take me on a journey\nOf
+    letting go\nAnd getting lost in You \n\nI will receive your light\nYou give me
+    faith like a child\nIn you, my heart runs wild\n\n'Cause there's no shame\nIn
+    looking like a fool\nWhen I give You what I can't keep\nTo take a hold of You\n\nThere's
+    no shame\nIn looking like a fool\nWhen I give You what I can't keep\nTo take a
+    hold of You\n\nMore than words, more than good ideas\nI found Your love in the
+    open fields\n\nFrom the head to the heart\nYou take me on a journey\nOf letting
+    go\nAnd getting lost in You\n\n"
+- song: Set A Fire
+  artist: Will Reagan
+  enabled: false
   lyrics: "Set a fire down in my soul\nThat I can't contain \nThat I cant control,\nI
     want more of you God\nI want more of you God\n\nThere's no place I would rather
     be\nNo place I would rather be\nThere's no place I would rather be\nThan here
     in your love,\nHere in your love\n"
 - song: Nothing I Hold On To
   artist: United Pursuit Band
-  enabled: true
+  enabled: false
   lyrics: |-
     I lean not on my own understanding,
     My life is in the hands of the maker of heaven
@@ -29,7 +170,7 @@
     All Glory To God, Forever. Amen
 - song: The House Of God, Forever
   artist: Jon Foreman
-  enabled: true
+  enabled: false
   lyrics: |-
     God is my shepherd
     I won't be wanting
@@ -75,47 +216,6 @@
 
     In the house of God forever
     In the house of God forever
-- song: Goodness of God
-  artist: Bethel Music
-  enabled: true
-  lyrics: |
-    I love You, Lord
-    For Your mercy never fails me
-    All my days, I've been held in Your hands
-    From the moment that I wake up
-    Until I lay my head
-    Oh, I will sing of the goodness of God
-
-    And all my life You have been faithful
-    And all my life You have been so, so good
-    With every breath that I am able
-    Oh, I will sing of the goodness of God
-
-    I love Your voice
-    You have led me through the fire
-    In the darkest night
-    You are close like no other
-    I've known You as a Father
-    I've known You as a Friend
-    And I have lived in the goodness of God (yeah)
-
-    And all my life You have been faithful (oh)
-    And all my life You have been so, so good
-    With every breath that I am able
-    Oh, I will sing of the goodness of God (yeah)
-
-    'Cause Your goodness is running after
-    It's running after me
-    Your goodness is running after
-    It's running after me
-    With my life laid down
-    I'm surrendered now
-    I give You everything
-
-    And all my life You have been faithful (oh)
-    And all my life You have been so, so good
-    With every breath that I am able
-    Oh, I will sing of the goodness of God (yeah)
 - song: Almighty God
   artist: Sandra McCracken
   enabled: false
@@ -1162,34 +1262,6 @@
     Seals mercy and pardon and righteousness mine
     All praise to the Spirit, Whose whisper divine
     Seals mercy and pardon and righteousness mine
-- song: Oh Lord, You're Beautiful
-  artist: Keith Green
-  enabled: false
-  lyrics: |-
-    Oh Lord, you're beautiful,
-    Your face is all I seek,
-    For when your eyes are on this child,
-    Your grace abounds to me.
-
-    Oh Lord, please light the fire,
-    That once burned bright and clear.
-    Replace the lamp of my first love,
-    That burns with Holy fear.
-
-    I want to take your word and shine it all around.
-    But first help me to just, live it Lord.
-    And when I'm doing well, help me to never seek a crown.
-    For my reward is giving glory to you.
-
-    Oh Lord, you're beautiful,
-    Your face is all I seek,
-    For when your eyes are on this child,
-    Your grace abounds to me.
-
-    I want to take your word and shine it all around.
-    But first help me to just, live it Lord.
-    And when I'm doing well, help me to never seek a crown.
-    For my reward is giving glory to you.
 - song: I Won't Let You Go (abbreviated)
   artist: Switchfoot
   enabled: false
@@ -1610,66 +1682,6 @@
     Sing Your praise unending
     Ten thousand years
     And then forevermore
-- song: Come As You Are
-  artist: Crowder
-  enabled: false
-  lyrics: |-
-    Come out of sadness
-    From wherever you've been
-    Come broken hearted
-    Let rescue begin
-    Come find your mercy
-    Oh sinner come kneel
-    Earth has no sorrow
-    That heaven can't heal
-    Earth has no sorrow
-    That heaven can't heal
-
-    So lay down your burdens
-    Lay down your shame
-    All who are broken
-    Lift up your face
-    Oh wanderer come home
-    You're not too far
-    So lay down your hurt
-    Lay down your heart
-    Come as you are
-
-    There's hope for the hopeless
-    And all those who've strayed
-    Come sit at the table
-    Come taste the grace
-    There's rest for the weary
-    Rest that endures
-    Earth has no sorrow
-    That heaven can't cure
-    Earth has no sorrow
-    That heaven can't cure
-
-    So lay down your burdens
-    Lay down your shame
-    All who are broken
-    Lift up your face
-    Oh wanderer come home
-    You're not too far
-    Lay down your hurt lay down your heart
-    Come as you are
-
-    There's joy for the morning
-    Oh sinner be still
-    Earth has no sorrow
-    That heaven can't heal
-    Earth has no sorrow
-    That heaven can't heal
-
-    So lay down your burdens
-    Lay down your shame
-    All who are broken
-    Lift up your face
-    Oh wanderer come home
-    You're not too far
-    Lay down your hurt lay down your heart
-    Come as you are
 - song: My Jesus I Love Thee
   artist: William R. Featherstone
   enabled: false
