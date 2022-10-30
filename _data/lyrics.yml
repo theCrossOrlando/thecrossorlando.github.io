@@ -1,7 +1,7 @@
 ---
 - song: Come As You Are
   artist: Crowder
-  enabled: false
+  enabled: true
   lyrics: |-
     Come out of sadness
     From wherever you've been
@@ -61,7 +61,7 @@
     Come as you are
 - song: Oh Lord, You're Beautiful
   artist: Keith Green
-  enabled: false
+  enabled: true
   lyrics: |-
     Oh Lord, you're beautiful,
     Your face is all I seek,
