@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: " "
 sections:
-- type: document
-  path: _data/lyrics.yml
-  label: Lyrics
 - type: directory
   path: _messages
   label: Messages
