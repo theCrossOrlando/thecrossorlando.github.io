@@ -70,14 +70,7 @@ export const cssProd = () => gulp.src('./_css/style.scss')
     .on('error', sass.logError))
     .pipe(postcss([purgecss({
         content: [
-          '_site/index.html',
-          '_site/care.html',
-          '_site/gatherings.html',
-          '_site/lyrics/index.html',
-          '_site/messages/**/*.html',
-          '_site/people.html',
-          '_site/values.html',
-          '_site/work.html',
+          '_site/**/*.html',
         ]
       }),
       removeComments({ removeAll: true }),
