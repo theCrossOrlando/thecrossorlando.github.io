@@ -35,3 +35,8 @@ keywords: christian, gospel, church
 markdown: kramdown
 podcast_author: Ben Hoyer
 podcast_email: ben@thehoyers.com
+plugins:
+  - jekyll-paginate-v2
+pagination:
+  enabled: true
+  sort_reverse: true
