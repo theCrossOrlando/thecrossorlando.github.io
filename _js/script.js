@@ -7,7 +7,7 @@ Promise.all(
       })
     )
 ).then(() => {
-  var msnry = new Masonry('#content .row', {
+  var msnry = new Masonry('#content .row:not(.no-masonry)', {
     itemSelector: '.col',
   });
 });
