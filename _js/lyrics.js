@@ -32,6 +32,6 @@ createApp({
   lyrics: lyrics,
   scripture: scripture[0].verse,
 }).mount()
-var msnry = new Masonry('#content .row', {
+  var msnry = new Masonry('#content .row:not(.no-masonry)', {
     itemSelector: '.col',
   });

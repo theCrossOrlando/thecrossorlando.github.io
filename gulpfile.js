@@ -38,6 +38,16 @@ export const jsDev = () => gulp.src([
     .pipe(sourcemaps.write('.'))
     .pipe(gulp.dest('js'));
 
+export const lyricsJsDev = () => gulp.src([
+      './node_modules/bootstrap/dist/js/bootstrap.min.js',
+      './node_modules/masonry-layout/dist/masonry.pkgd.min.js',
+      './_js/lyrics.js'
+    ])
+    .pipe(sourcemaps.init())
+    .pipe(concat('lyrics.js'))
+    .pipe(sourcemaps.write('.'))
+    .pipe(gulp.dest('js'));
+
 export const jsWatch = () => gulp.watch('./_js/**/*.js', jsDev);
 
 export const jekyllServe = () => {
@@ -55,7 +65,7 @@ export const jekyllServe = () => {
   jekyll.stderr.on('data', jekyllLogger);
 }
 
-export const dev = gulp.series(cssDev, jsDev, gulp.parallel(jekyllServe, cssWatch, jsWatch));
+export const dev = gulp.series(cssDev, jsDev, lyricsJsDev, gulp.parallel(jekyllServe, cssWatch, jsWatch));
 
 // Prod
 export const cssProd = () => gulp.src('./_css/style.scss')
@@ -94,6 +104,16 @@ export const jsProd = () => gulp.src([
     .pipe(sourcemaps.write('.'))
     .pipe(gulp.dest('./_site/js'));
 
+export const lyricsJsProd = () => gulp.src([
+      './node_modules/bootstrap/dist/js/bootstrap.min.js',
+      './node_modules/masonry-layout/dist/masonry.pkgd.min.js',
+      './_js/lyrics.js'
+    ])
+    .pipe(sourcemaps.init())
+    .pipe(concat('lyrics.js'))
+    .pipe(sourcemaps.write('.'))
+    .pipe(gulp.dest('./_site/js'));
+
 export const jekyll = (gulpCallback) => {
   const jekyll = spawn('bundle', ['exec', 'jekyll', 'build']);
 
@@ -111,6 +131,6 @@ export const jekyll = (gulpCallback) => {
   jekyll.on('exit', gulpCallback);
 }
 
-export const build = gulp.series(jekyll, cssProd, jsProd);
+export const build = gulp.series(jekyll, cssProd, jsProd, lyricsJsProd);
 
 export default dev;
