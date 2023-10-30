@@ -8,7 +8,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@fontsource/arvo": "^5.0.14",
+    "@fontsource/arvo": "^5.0.17",
     "@fontsource/cardo": "^5.0.7",
     "@fontsource/roboto": "^5.0.7",
     "@fortawesome/fontawesome-free": "^6.4.2",
@@ -26,6 +26,6 @@
     "gulp-terser": "^2.1.0",
     "masonry-layout": "^4.2.2",
     "postcss": "^8.4.31",
-    "sass": "^1.68.0"
+    "sass": "^1.69.5"
   }
 }
