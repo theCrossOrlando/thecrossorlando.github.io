@@ -2,7 +2,7 @@ import gulp from 'gulp';
 import { spawn } from 'child_process';
 import concat from 'gulp-concat';
 import htmlmin from 'gulp-htmlmin';
-import dartSass from 'sass';
+import * as dartSass from 'sass';
 import gulpSass from 'gulp-sass';
 const sass = gulpSass(dartSass);
 import terser from 'gulp-terser';
