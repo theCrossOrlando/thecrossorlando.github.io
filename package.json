@@ -17,7 +17,7 @@
     "child_process": "^1.0.2",
     "cssnano": "^6.0.1",
     "fancy-log": "^2.0.0",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-htmlmin": "^5.0.1",
     "gulp-postcss": "^10.0.0",
