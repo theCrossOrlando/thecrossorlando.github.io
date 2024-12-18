@@ -51,7 +51,7 @@ export const lyricsJsDev = () => gulp.src([
 export const jsWatch = () => gulp.watch('./_js/**/*.js', jsDev);
 
 export const jekyllServe = () => {
-  const jekyll = spawn('bundle', ['exec', 'jekyll', 'serve']);
+  const jekyll = spawn('bundle', ['exec', 'jekyll', 'serve', '--future']);
 
   const jekyllLogger = function(buffer) {
     buffer.toString()
@@ -115,7 +115,7 @@ export const lyricsJsProd = () => gulp.src([
     .pipe(gulp.dest('./_site/js'));
 
 export const jekyll = (gulpCallback) => {
-  const jekyll = spawn('bundle', ['exec', 'jekyll', 'build']);
+  const jekyll = spawn('bundle', ['exec', 'jekyll', 'build', '--future']);
 
   const jekyllLogger = function(buffer) {
     buffer.toString()
