@@ -3,12 +3,12 @@ title: Messages
 permalink: "/messages/"
 layout: default
 pagination:
-  enabled: true
-  collection: messages
+  data: collections.messages
+  size: 10
 ---
 
 <div class="row">
-{% for message in paginator.posts %}
+{% for message in pagination.items %}
   <div class="col col-lg-6">
     <article class="card">
       <div class="card-body">

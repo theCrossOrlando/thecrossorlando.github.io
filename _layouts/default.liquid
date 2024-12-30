@@ -5,23 +5,23 @@ layout: compress
 <!doctype html>
 <html lang="en" dir="ltr">
 
-{% include head.html %}
+{% include "head" %}
 
 <body class="{% if page.classes %}{{ page.classes }}{% endif %}">
-  {% include header.html %}
-  {% include navigation.html %}
+  {% include "header" %}
+  {% include "navigation" %}
   <div class="container">
     <div id="content" class="row align-items-start">
       <div class="col col-12 col-md-9">
         <h1>{{ page.title }}</h1>
         {{ content }}
-        {% include sections.html %}
+        {% include "sections" %}
       </div>
       <div id="sidebar" class="col col-12 col-md-3">
-        {% include sidebar.html %}
+        {% include "sidebar" %}
       </div>
     </div>
   </div>
-  {% include footer.html %}
+  {% include "footer" %}
 </body>
 </html>
