@@ -8,6 +8,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-fetch": "^5.0.1",
     "@fontsource/arvo": "^5.0.17",
     "@fontsource/cardo": "^5.0.7",
     "@fontsource/roboto": "^5.0.7",
@@ -26,6 +28,8 @@
     "gulp-terser": "^2.1.0",
     "masonry-layout": "^4.2.2",
     "postcss": "^8.4.31",
-    "sass": "^1.69.5"
+    "sass": "^1.69.5",
+    "xmldom": "^0.6.0",
+    "xpath": "^0.0.34"
   }
 }

@@ -1,4 +1,4 @@
-{% assign sorted_posts = site.data.posts | sort: "pubDate" %}
+{% assign sorted_posts = blogPosts | sort: "timestamp" %}
 <div class="row">
   {% for post in sorted_posts reversed %}
   <div class="col">

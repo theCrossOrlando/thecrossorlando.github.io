@@ -50,22 +50,20 @@ export const lyricsJsDev = () => gulp.src([
 
 export const jsWatch = () => gulp.watch('./_js/**/*.js', jsDev);
 
-export const jekyllServe = () => {
-  const jekyll = spawn('bundle', ['exec', 'jekyll', 'serve', '--future']);
+export const htmlServe = () => {
+  const eleventy = spawn('npx', ['@11ty/eleventy', '--serve']);
 
-  const jekyllLogger = function(buffer) {
+  const htmlLogger = function(buffer) {
     buffer.toString()
       .split(/\n/)
       .forEach(function(message) {
-        log('Jekyll: ' + message);
+        log('11ty: ' + message);
       });
   };
 
-  jekyll.stdout.on('data', jekyllLogger);
-  jekyll.stderr.on('data', jekyllLogger);
-}
-
-export const dev = gulp.series(cssDev, jsDev, lyricsJsDev, gulp.parallel(jekyllServe, cssWatch, jsWatch));
+  eleventy.stdout.on('data', htmlLogger);
+  eleventy.stderr.on('data', htmlLogger);
+};
 
 // Prod
 export const cssProd = () => gulp.src('./_css/style.scss')
@@ -114,23 +112,24 @@ export const lyricsJsProd = () => gulp.src([
     .pipe(sourcemaps.write('.'))
     .pipe(gulp.dest('./_site/js'));
 
-export const jekyll = (gulpCallback) => {
-  const jekyll = spawn('bundle', ['exec', 'jekyll', 'build', '--future']);
+export const htmlBuild = (gulpCallback) => {
+  const eleventy = spawn('npx', ['@11ty/eleventy']);
 
-  const jekyllLogger = function(buffer) {
+  const htmlLogger = function(buffer) {
     buffer.toString()
       .split(/\n/)
       .forEach(function(message) {
-        log('Jekyll: ' + message);
+        log('11ty: ' + message);
       });
   };
 
-  jekyll.stdout.on('data', jekyllLogger);
-  jekyll.stderr.on('data', jekyllLogger);
+  eleventy.stdout.on('data', htmlLogger);
+  eleventy.stderr.on('data', htmlLogger);
 
-  jekyll.on('exit', gulpCallback);
-}
+  eleventy.on('exit', gulpCallback);
+};
 
-export const build = gulp.series(jekyll, cssProd, jsProd, lyricsJsProd);
+export const dev = gulp.series(cssDev, jsDev, lyricsJsDev, gulp.parallel(htmlServe, cssWatch, jsWatch));
+export const build = gulp.series(htmlBuild, cssProd, jsProd, lyricsJsProd);
 
 export default dev;
