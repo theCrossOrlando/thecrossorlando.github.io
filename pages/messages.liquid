@@ -1,40 +1,40 @@
 ---
 title: Messages
-permalink: "/messages/"
+permalink: "/messages/{% if pagination.pageNumber > 0 %}page{{ pagination.pageNumber | plus: 1 }}/{% endif %}"
 layout: default
 pagination:
   data: collections.messages
   size: 10
+  reverse: true
+  alias: messages
 ---
 
 <div class="row">
-{% for message in pagination.items %}
+{% for message in messages %}
   <div class="col col-lg-6">
     <article class="card">
       <div class="card-body">
-        <h2 class="card-title"><a href="{{ message.url }}">{{ message.title }}</a></h2>
-        <p>{{ message.summary }}</p>
+        <h2 class="card-title"><a href="{{ message.url }}">{{ message.data.title }}</a></h2>
+        <p>{{ message.data.summary }}</p>
         <audio controls="controls">
-          <source src="{{ message.file }}" type="audio/mpeg">
+          <source src="{{ message.data.file }}" type="audio/mpeg">
         </audio>
       </div>
     </article>
   </div>
 {% endfor %}
 </div>
-{% if paginator.total_pages > 1 %}
 <nav>
   <ul class="pagination">
-    {% if paginator.next_page %}
+    {% if pagination.href.next %}
     <li class="page-item">
-      <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+      <a class="page-link" href="{{ pagination.href.next | prepend: site.baseurl }}">Older</a>
     </li>
     {% endif %}
-    {% if paginator.previous_page %}
+    {% if pagination.href.previous %}
     <li class="page-item">
-      <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl }}" tabindex="-1">Newer</a>
+      <a class="page-link" href="{{ pagination.href.previous | prepend: site.baseurl }}" tabindex="-1">Newer</a>
     </li>
     {% endif %}
   </ul>
 </nav>
-{% endif %}
