@@ -1,4 +1,5 @@
 {
   "permalink": "/messages/{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/",
-  "tags": "messages"
+  "tags": "messages",
+  "layout": "message"
 }
