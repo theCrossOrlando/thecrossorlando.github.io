@@ -39,7 +39,7 @@ permalink: "messages.xml"
         <pubDate>{{ message.date | date_to_rfc822 }}</pubDate>
         <description>{{ message.data.excerpt | xml_escape }}</description>
         <guid isPermaLink="true">{{ message.url  | htmlBaseUrl: "https://www.thecrossorlando.org/" }}</guid>
-        <enclosure url="https:{{ message.data.file }}" length="{{ message.data.length }}" type="audio/mp3"/>
+        <enclosure url="{{ message.data.file }}" length="{{ message.data.length }}" type="audio/mp3"/>
         <itunes:author>Ben Hoyer</itunes:author>
         <itunes:subtitle>{{ site_title }}: {{ message.data.title | xml_escape }}</itunes:subtitle>
         <itunes:summary>{{ message.data.summary | xml_escape }}</itunes:summary>
