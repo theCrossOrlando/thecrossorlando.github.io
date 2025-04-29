@@ -1,5 +1,5 @@
 .cache
 _site
-css/style.css
-js/*
+css/
+js/
 node_modules
