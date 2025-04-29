@@ -129,7 +129,15 @@ export const htmlBuild = (gulpCallback) => {
   eleventy.on('exit', gulpCallback);
 };
 
-export const dev = gulp.series(cssDev, jsDev, lyricsJsDev, gulp.parallel(htmlServe, cssWatch, jsWatch));
-export const build = gulp.series(htmlBuild, cssProd, jsProd, lyricsJsProd);
+export const fonts = () => gulp.src([
+    'node_modules/@fortawesome/fontawesome-free/webfonts/*',
+    'node_modules/@fontsource/arvo/files/*-latin-400-normal.*',
+    'node_modules/@fontsource/cardo/files/*-latin*-400-normal.*',
+    'node_modules/@fontsource/roboto/files/*-latin*-400-normal.*',
+  ], { encoding: false })
+  .pipe(gulp.dest('./_site/webfonts'));
+
+export const dev = gulp.series(fonts, cssDev, jsDev, lyricsJsDev, gulp.parallel(htmlServe, cssWatch, jsWatch));
+export const build = gulp.series(fonts, htmlBuild, cssProd, jsProd, lyricsJsProd);
 
 export default dev;
