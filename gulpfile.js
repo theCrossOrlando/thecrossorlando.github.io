@@ -16,7 +16,7 @@ import { default as log } from 'fancy-log';
 // Dev
 export const cssDev = () => gulp.src('./_css/style.scss')
     .pipe(sass({
-      includePaths: [
+      loadPaths: [
         './_css',
         './node_modules/bootstrap/scss',
         './node_modules/@fontsource',
@@ -68,7 +68,7 @@ export const htmlServe = () => {
 // Prod
 export const cssProd = () => gulp.src('./_css/style.scss')
     .pipe(sass({
-      includePaths: [
+      loadPaths: [
         './_css',
         './node_modules/bootstrap/scss',
         './node_modules/@fontsource',
