@@ -7,7 +7,7 @@ import gulpSass from 'gulp-sass';
 const sass = gulpSass(dartSass);
 import terser from 'gulp-terser';
 import postcss from 'gulp-postcss';
-import purgecss from '@fullhuman/postcss-purgecss';
+import { purgeCSSPlugin } from '@fullhuman/postcss-purgecss';
 import cssnano from 'cssnano';
 import removeComments from 'postcss-discard-comments';
 import sourcemaps from 'gulp-sourcemaps';
@@ -76,7 +76,7 @@ export const cssProd = () => gulp.src('./_css/style.scss')
       ],
     })
     .on('error', sass.logError))
-    .pipe(postcss([purgecss({
+    .pipe(postcss([purgeCSSPlugin({
         content: [
           '_site/**/*.html',
         ]
