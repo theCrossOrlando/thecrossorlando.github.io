@@ -17,6 +17,11 @@ Finish publishing the most recent sermon message. Assumes `messages/YYYY-MM-DD.m
    - `git add messages/YYYY-MM-DD.md`
    - `git commit -m "Message: YYYY-MM-DD"`
 6. Push: `git push`
-7. Report commit SHA.
+7. Post to Slack via incoming webhook stored in env var `SLACK_SERMON_WEBHOOK_URL`. If the var is unset, skip and warn — do NOT prompt or hardcode a URL.
+   - Web URL: `https://www.thecrossorlando.org/messages/YYYY/MM/DD/`
+   - Read the title out of the message file's frontmatter.
+   - `curl -sS -X POST -H 'Content-Type: application/json' --data "{\"text\":\"New message posted: *<title>* — <web URL>\"}" "$SLACK_SERMON_WEBHOOK_URL"`
+   - Confirm response is `ok`.
+8. Report commit SHA and Slack status.
 
 $ARGUMENTS

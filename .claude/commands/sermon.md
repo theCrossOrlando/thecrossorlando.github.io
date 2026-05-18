@@ -34,7 +34,17 @@ Publish the weekly sermon message. The user provides the title (and optionally t
    - `git add messages/YYYY-MM-DD.md`
    - `git commit -m "Message: YYYY-MM-DD"`
 7. Push: `git push`
-8. Report the final commit SHA and confirm the upload completed.
+8. Post to Slack via incoming webhook. The webhook URL is in env var `SLACK_SERMON_WEBHOOK_URL`. If the var is unset, skip this step and warn me — do NOT prompt or hardcode a URL.
+   - Web URL for the post: `https://www.thecrossorlando.org/messages/YYYY/MM/DD/` (note: year/month/day path segments, not the filename)
+   - Payload: `{"text": "New message posted: *<title>* — <web URL>"}`
+   - Command:
+     ```
+     curl -sS -X POST -H 'Content-Type: application/json' \
+       --data "{\"text\":\"New message posted: *<title>* — <web URL>\"}" \
+       "$SLACK_SERMON_WEBHOOK_URL"
+     ```
+   - Confirm the response is `ok`.
+9. Report the final commit SHA, confirm upload completed, and confirm Slack post sent (or skipped).
 
 **Reference samples** (look at these to confirm format if anything is unclear):
 - `messages/2026-05-17.md`
