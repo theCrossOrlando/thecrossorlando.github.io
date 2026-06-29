@@ -52,6 +52,13 @@ p {
   margin-bottom: 30px;
 }
 
+// Images now carry intrinsic width/height attributes (for layout stability);
+// keep them scaling proportionally instead of stretching to the attribute size.
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 #header {
   svg {
     margin: 60px 0 20px;
