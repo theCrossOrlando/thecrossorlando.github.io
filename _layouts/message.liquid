@@ -17,7 +17,6 @@ layout: default
 </audio>
 
 <p class="message-actions">
-  <a href="{{ file }}" download>Download audio</a> &middot;
   Listen &amp; subscribe:
   {% if podcast.apple != "" %}<a href="{{ podcast.apple }}">Apple Podcasts</a> &middot; {% endif %}
   {% if podcast.spotify != "" %}<a href="{{ podcast.spotify }}">Spotify</a> &middot; {% endif %}
@@ -45,3 +44,5 @@ layout: default
   "partOfSeries": { "@type": "PodcastSeries", "name": {{ site_title | jsonify }}, "url": "{{ site_url }}/feed.xml" }
 }
 </script>
+
+<script src="/js/messages.js"></script>

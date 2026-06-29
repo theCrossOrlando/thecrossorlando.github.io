@@ -31,6 +31,14 @@ $on-laptop:        800px;
 
 :root {
   --bs-border-color-translucent: #d5ae43;
+
+  // Plyr audio player theme (sermon pages)
+  --plyr-color-main: #{$brand-color};
+  --plyr-audio-controls-background: #fff;
+  --plyr-audio-control-color: #333;
+  --plyr-audio-control-color-hover: #fff;
+  --plyr-range-fill-background: #{$brand-color};
+  --plyr-border-radius: 6px;
 }
 
 [v-cloak] {

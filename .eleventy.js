@@ -23,6 +23,9 @@ export default function (eleventyConfig) {
     'node_modules/@fontsource/arvo/files/*-400-normal.woff*': 'css/files',
     'node_modules/@fontsource/cardo/files/*-400-normal.woff*': 'css/files',
     'node_modules/@fontsource/roboto/files/*-400-normal.woff*': 'css/files',
+    // Plyr audio player (self-hosted; loaded only on sermon pages).
+    'node_modules/plyr/dist/plyr.css': 'css/plyr.css',
+    'node_modules/plyr/dist/plyr.svg': 'assets/plyr.svg',
   });
 
   eleventyConfig.addGlobalData('site_title', 'the Cross Orlando');
