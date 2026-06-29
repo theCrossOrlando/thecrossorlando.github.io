@@ -4,13 +4,77 @@ on:
     - cron: "0 0 * * *"
   push:
     branches: master
+  workflow_dispatch:
 permissions:
   contents: read
   pages: write
   id-token: write
 jobs:
+  # Decide whether anything actually needs rebuilding. Pushes and manual runs
+  # always build; scheduled runs only build when the RSS feed's posts changed
+  # since the last successful deploy (so the nightly cron stops redeploying
+  # identical output).
+  check:
+    name: check feed
+    runs-on: ubuntu-latest
+    outputs:
+      should_build: ${{ steps.decide.outputs.should_build }}
+      hash: ${{ steps.fp.outputs.hash }}
+      feed_ok: ${{ steps.fp.outputs.feed_ok }}
+    steps:
+      - name: Fingerprint the RSS feed
+        id: fp
+        run: |
+          set +e
+          body=$(curl -fsSL --retry 3 --max-time 30 "https://tcandk.wordpress.com/feed/")
+          rc=$?
+          set -e
+          if [ $rc -ne 0 ] || [ -z "$body" ]; then
+            echo "Feed fetch failed (rc=$rc); building to be safe."
+            echo "feed_ok=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          # Hash only the item GUIDs — <lastBuildDate>/<pubDate> churn on every
+          # fetch and would otherwise look like a change.
+          guids=$(printf '%s' "$body" | grep -oE '<guid[^>]*>[^<]*</guid>' || true)
+          if [ -z "$guids" ]; then
+            echo "No <guid> entries parsed; building to be safe."
+            echo "feed_ok=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          hash=$(printf '%s' "$guids" | sha256sum | cut -d' ' -f1)
+          echo "Feed fingerprint: $hash"
+          echo "feed_ok=true" >> "$GITHUB_OUTPUT"
+          echo "hash=$hash" >> "$GITHUB_OUTPUT"
+      - name: Restore last deployed fingerprint
+        id: cache
+        if: steps.fp.outputs.feed_ok == 'true'
+        uses: actions/cache/restore@v6
+        with:
+          path: .feed-fingerprint
+          key: rss-feed-${{ steps.fp.outputs.hash }}
+          lookup-only: true
+      - name: Decide
+        id: decide
+        run: |
+          if [ "${{ steps.fp.outputs.feed_ok }}" != "true" ]; then
+            echo "should_build=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "${{ github.event_name }} event: building."
+            echo "should_build=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          if [ "${{ steps.cache.outputs.cache-hit }}" = "true" ]; then
+            echo "Feed unchanged since last deploy: skipping build."
+            echo "should_build=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "Feed changed: building."
+            echo "should_build=true" >> "$GITHUB_OUTPUT"
+          fi
   build:
     name: 11ty build
+    needs: check
+    if: needs.check.outputs.should_build == 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
@@ -38,3 +102,16 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+  # Record the feed fingerprint only after a successful deploy, so a failed
+  # build never makes a later scheduled run skip a real new post.
+  record:
+    needs: [check, deploy]
+    if: needs.check.outputs.feed_ok == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Save deployed fingerprint
+        run: mkdir -p .feed-fingerprint && echo "${{ needs.check.outputs.hash }}" > .feed-fingerprint/hash
+      - uses: actions/cache/save@v6
+        with:
+          path: .feed-fingerprint
+          key: rss-feed-${{ needs.check.outputs.hash }}
