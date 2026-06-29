@@ -5,6 +5,10 @@ import { minify } from "html-minifier-terser";
 const SITE_URL = "https://www.thecrossorlando.org";
 
 export default function (eleventyConfig) {
+  // Don't treat tooling/config Markdown as site content — otherwise Eleventy
+  // builds and deploys .claude/commands/*.md as public pages.
+  eleventyConfig.ignores.add('.claude/**');
+
   eleventyConfig.addPassthroughCopy({
     'assets': 'assets',
     'css': 'css',
