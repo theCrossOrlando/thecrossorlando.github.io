@@ -36,7 +36,9 @@ eleventyExcludeFromCollections: true
       <url>{{ site_url }}/assets/logo.png</url>
       <link>{{ site_url }}/</link>
     </image>
-    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Religion"/>
+    </itunes:category>
     {%- for message in collections.messages reversed %}
       {%- assign podcast_author = message.data.podcast_author | default: "Ben Hoyer" -%}
       {%- assign summary = message.data.summary | default: message.data.title -%}
