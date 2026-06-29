@@ -20,6 +20,8 @@ $spacing-unit:     30px;
 $text-color:       #111;
 $background-color: #f9f7f2;
 $brand-color:      #d5ae43;
+$gold-text:        #7a5e12; // accessible gold for text/links (bright brand gold fails WCAG)
+$link-color:       #1565c0; // accessible link blue
 
 $grey-color:       #828282;
 
@@ -50,7 +52,7 @@ body {
 }
 
 a {
-  color: #2199e8;
+  color: $link-color;
   text-decoration: none;
 }
 
@@ -74,7 +76,7 @@ details.transcript {
   summary {
     cursor: pointer;
     font-weight: bold;
-    color: $brand-color;
+    color: $gold-text;
   }
 
   .seek {
@@ -84,14 +86,14 @@ details.transcript {
     border: 0;
     padding: 0;
     font: inherit;
-    color: #2199e8;
+    color: $link-color;
 
     &:hover {
       text-decoration: underline;
     }
 
     &:focus-visible {
-      outline: 2px solid $brand-color;
+      outline: 2px solid $gold-text;
       outline-offset: 2px;
     }
   }
@@ -109,7 +111,7 @@ details.transcript {
     color: #111;
 
     &:hover {
-      color: $brand-color;
+      color: $gold-text;
     }
   }
 }
@@ -132,7 +134,7 @@ details.transcript {
     text-transform: uppercase;
 
     span {
-      color: $brand-color;
+      color: $gold-text;
       font-family: $secondary-font-family;
       font-size: 20px;
       display: block;
@@ -172,8 +174,9 @@ details.transcript {
     padding-left: 148px;
     width: 100%;
   }
-  h4 {
+  h3 {
     font-family: $secondary-font-family;
+    font-size: 1.4rem;
   }
 }
 
@@ -183,7 +186,7 @@ a:hover {
 }
 
 .read-more {
-  color: $brand-color;
+  color: $gold-text;
   font-family: $secondary-font-family;
   font-size: 12px;
   font-weight: bold;
@@ -191,20 +194,23 @@ a:hover {
 
   .btn {
     background-color: var(--bs-border-color-translucent);
-    color: #fff;
+    color: #111;
     font-size: 12px;
 
     &:hover {
       background-color: #000;
+      color: #fff;
     }
   }
 }
 
 .button {
   background-color: $brand-color;
+  color: #111;
   margin-bottom: -20px;
   &:hover {
     background-color: #000;
+    color: #fff;
   }
 }
 
@@ -245,5 +251,37 @@ a:hover {
 }
 
 .fa-regular {
-  color: #d5ae43;
+  color: $gold-text;
+}
+
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 1000;
+  padding: 10px 16px;
+  background: #fff;
+  color: #111;
+  border: 2px solid $gold-text;
+
+  &:focus {
+    left: 10px;
+    top: 10px;
+  }
+}
+
+// Visible keyboard focus indicator across interactive elements.
+a:focus-visible,
+button:focus-visible,
+.btn:focus-visible,
+summary:focus-visible,
+[tabindex]:focus-visible {
+  outline: 3px solid $gold-text;
+  outline-offset: 2px;
+}
+
+// The skip-link target is a non-interactive container; don't ring it.
+main:focus,
+main:focus-visible {
+  outline: none;
 }

@@ -4,18 +4,19 @@
 {% include "head" %}
 
 <body class="{% if page.classes %}{{ page.classes }}{% endif %}">
+  <a class="skip-link" href="#main">Skip to content</a>
   {% include "header" %}
   {% include "navigation" %}
   <div class="container">
     <div id="content" class="row align-items-start">
-      <div class="col col-12 col-md-9">
+      <main id="main" tabindex="-1" class="col col-12 col-md-9">
         {% if title %}<h1>{{ title }}</h1>{% endif %}
         {{ content }}
         {% include "sections" %}
-      </div>
-      <div id="sidebar" class="col col-12 col-md-3">
+      </main>
+      <aside id="sidebar" class="col col-12 col-md-3">
         {% include "sidebar" %}
-      </div>
+      </aside>
     </div>
   </div>
   {% include "footer" %}
