@@ -128,7 +128,18 @@ details.transcript {
   border-bottom: 1px solid $brand-color;
   margin-bottom: 25px;
 
-  a {
+  // Mobile brand (logo + name): allow it to shrink so it never crowds the
+  // toggler off-screen. The 17px nav-link margin below must not bleed onto it.
+  .navbar-brand {
+    margin: 0;
+    min-width: 0;
+
+    img {
+      flex-shrink: 0;
+    }
+  }
+
+  .nav-link {
     color: #000;
     font-size: 14px;
     margin: 0 17px;
