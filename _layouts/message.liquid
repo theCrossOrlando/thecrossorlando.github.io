@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-
-<audio controls="controls">
-  <source src="{{ file }}" type="audio/mpeg"></source>
-</audo>
+{%- assign ext = file | split: "." | last | downcase -%}
+{%- assign mime = "audio/mpeg" -%}
+{%- if ext == "m4a" %}{%- assign mime = "audio/x-m4a" -%}{%- endif -%}
+{% if summary %}<p class="lead">{{ summary }}</p>{% endif %}
+<audio controls preload="none" class="w-100">
+  <source src="{{ file }}" type="{{ mime }}">
+  Your browser doesn’t support the audio element. <a href="{{ file }}">Download the audio</a>.
+</audio>
