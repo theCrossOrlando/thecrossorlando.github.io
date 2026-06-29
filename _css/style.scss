@@ -78,11 +78,20 @@ details.transcript {
   }
 }
 
-.card .card-title a {
-  color: #111;
+.card .message-title {
+  font-family: $ternary-font-family;
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 1.25;
+  margin: 0;
+  padding: 0;
 
-  &:hover {
-    color: $brand-color;
+  a {
+    color: #111;
+
+    &:hover {
+      color: $brand-color;
+    }
   }
 }
 

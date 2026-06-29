@@ -15,11 +15,10 @@ pagination:
   <div class="col col-lg-6">
     <article class="card">
       <div class="card-header">
-        <h3>{{ speaker }}</h3>
-        <time datetime="{{ message.date | date: '%Y-%m-%d' }}">{{ message.date | date: "%b %-d, %Y" }}</time>
+        <h2 class="message-title"><a href="{{ message.url }}">{{ message.data.title }}</a></h2>
       </div>
       <div class="card-body">
-        <h2 class="card-title"><a href="{{ message.url }}">{{ message.data.title }}</a></h2>
+        <p class="message-meta text-muted"><time datetime="{{ message.date | date: '%Y-%m-%d' }}">{{ message.date | date: "%b %-d, %Y" }}</time> &middot; {{ speaker }}</p>
         {% if message.data.summary %}<p>{{ message.data.summary }}</p>{% endif %}
         <span class="read-more"><a href="{{ message.url }}" class="btn">Listen &amp; read</a></span>
       </div>
