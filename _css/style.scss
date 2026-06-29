@@ -76,6 +76,11 @@ details.transcript {
     font-weight: bold;
     color: $brand-color;
   }
+
+  .seek {
+    cursor: pointer;
+    white-space: nowrap;
+  }
 }
 
 .card .message-title {
