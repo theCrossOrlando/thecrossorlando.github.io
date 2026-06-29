@@ -5,7 +5,7 @@
     <article class="card">
       <div class="card-header">
         <time datetime="{{ post.pubDate }}">{{ post.pubDate | date: "%b %-d, %Y" }}</time>
-        <h3>{{ post.blog }}</h3>
+        <p class="blog-name">{{ post.blog }}</p>
       </div>
       <div class="card-body">
         <h2>{{ post.title }}</h2>
