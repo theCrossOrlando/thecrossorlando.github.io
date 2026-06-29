@@ -14,6 +14,8 @@ export default function (eleventyConfig) {
     'assets': 'assets',
     'css': 'css',
     'js': 'js',
+    'favicon.ico': 'favicon.ico',
+    'CNAME': 'CNAME',
     // FontAwesome is the only font the compiled CSS loads from /webfonts/
     // (it uses `../webfonts/`).
     'node_modules/@fortawesome/fontawesome-free/webfonts': 'webfonts',
