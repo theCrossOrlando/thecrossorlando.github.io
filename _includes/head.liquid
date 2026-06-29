@@ -1,20 +1,38 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title>{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% endif %}{% if site_title %} | {{ site_title }}{% endif %}</title>
+  {%- capture page_title %}{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% endif %}{% endcapture -%}
+  {%- assign meta_description = description | default: site_description -%}
+  {%- assign canonical = site_url | append: page.url -%}
+  <title>{{ page_title }}{% if site_title %} | {{ site_title }}{% endif %}</title>
+  <meta name="description" content="{{ meta_description }}">
+  <link rel="canonical" href="{{ canonical }}">
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
   <link rel="alternate" type="application/rss+xml" title="the Cross Orlando - Blog" href="/feed.xml">
   <meta name="revisit-after" content="1 day">
-  <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport'>
+  <meta content='width=device-width, initial-scale=1' name='viewport'>
   <meta name="google-site-verification" content="CzFxMWlEpWhngK0ldnHuaj8OmpIPG6ZBsyobcInlucU">
+
+  <!-- Open Graph / Twitter -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site_title }}">
+  <meta property="og:title" content="{{ page_title | default: site_title }}">
+  <meta property="og:description" content="{{ meta_description }}">
+  <meta property="og:url" content="{{ canonical }}">
+  <meta property="og:image" content="{{ site_url }}/assets/logo.png">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ page_title | default: site_title }}">
+  <meta name="twitter:description" content="{{ meta_description }}">
+  <meta name="twitter:image" content="{{ site_url }}/assets/logo.png">
+
   <link rel="stylesheet" href="/css/style.css">
-  {% if page.permalink == "/lyrics/" %}<meta name="robots" content="noindex">{% endif %}
+  {% if page.url == "/lyrics/" %}<meta name="robots" content="noindex">{% endif %}
   <script type="application/ld+json">
   {
-    "@context": "http://schema.org/",
+    "@context": "https://schema.org/",
     "@type": "Church",
     "name": "the Cross Orlando",
-    "url": "http://www.thecrossorlando.org/",
-    "image": "http://www.thecrossorlando.org/assets/logo.svg",
+    "url": "{{ site_url }}/",
+    "image": "{{ site_url }}/assets/logo.png",
     "description": "Connection, Invitations, Information and Community",
     "geo": {
       "@type": "GeoCoordinates",
