@@ -11,14 +11,17 @@ pagination:
 
 <div class="row">
 {% for message in messages %}
+  {%- assign speaker = message.data.podcast_author | default: "Ben Hoyer" -%}
   <div class="col col-lg-6">
     <article class="card">
+      <div class="card-header">
+        <h3>{{ speaker }}</h3>
+        <time datetime="{{ message.date | date: '%Y-%m-%d' }}">{{ message.date | date: "%b %-d, %Y" }}</time>
+      </div>
       <div class="card-body">
         <h2 class="card-title"><a href="{{ message.url }}">{{ message.data.title }}</a></h2>
-        <p>{{ message.data.summary }}</p>
-        <audio controls="controls">
-          <source src="{{ message.data.file }}" type="audio/mpeg">
-        </audio>
+        {% if message.data.summary %}<p>{{ message.data.summary }}</p>{% endif %}
+        <span class="read-more"><a href="{{ message.url }}" class="btn">Listen &amp; read</a></span>
       </div>
     </article>
   </div>
@@ -27,14 +30,10 @@ pagination:
 <nav>
   <ul class="pagination">
     {% if pagination.href.next %}
-    <li class="page-item">
-      <a class="page-link" href="{{ pagination.href.next | prepend: site.baseurl }}">Older</a>
-    </li>
+    <li class="page-item"><a class="page-link" href="{{ pagination.href.next }}">Older</a></li>
     {% endif %}
     {% if pagination.href.previous %}
-    <li class="page-item">
-      <a class="page-link" href="{{ pagination.href.previous | prepend: site.baseurl }}" tabindex="-1">Newer</a>
-    </li>
+    <li class="page-item"><a class="page-link" href="{{ pagination.href.previous }}" tabindex="-1">Newer</a></li>
     {% endif %}
   </ul>
 </nav>

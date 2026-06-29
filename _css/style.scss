@@ -78,6 +78,14 @@ details.transcript {
   }
 }
 
+.card .card-title a {
+  color: #111;
+
+  &:hover {
+    color: $brand-color;
+  }
+}
+
 #header {
   svg {
     margin: 60px 0 20px;
