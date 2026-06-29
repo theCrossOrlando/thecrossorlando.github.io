@@ -21,3 +21,14 @@ if (document.readyState === 'loading') {
 } else {
   initMasonry();
 }
+
+// Click a transcript timestamp to seek the sermon audio player.
+document.addEventListener('click', function (e) {
+  var link = e.target.closest('.seek');
+  if (!link) return;
+  e.preventDefault();
+  var audio = document.querySelector('audio');
+  if (!audio) return;
+  audio.currentTime = parseFloat(link.dataset.t) || 0;
+  audio.play().catch(function () {});
+});
