@@ -9,6 +9,8 @@ layout: default
 
 <p class="message-meta text-muted">{{ page.date | date: "%B %-d, %Y" }} &middot; {{ speaker }} &middot; {{ duration }}</p>
 
+{% if scripture %}<p class="scripture">{% assign refs = scripture | split: ";" %}{% for ref in refs %}{%- assign r = ref | strip -%}<a href="https://www.biblegateway.com/passage/?search={{ r | url_encode }}&amp;version=ESV" target="_blank" rel="noopener">{{ r }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>{% endif %}
+
 {% if summary %}<p class="lead">{{ summary }}</p>{% endif %}
 
 <audio controls preload="none" class="w-100">

@@ -19,6 +19,7 @@ pagination:
       </div>
       <div class="card-body">
         <p class="message-meta text-muted"><time datetime="{{ message.date | date: '%Y-%m-%d' }}">{{ message.date | date: "%b %-d, %Y" }}</time> &middot; {{ speaker }}</p>
+        {% if message.data.scripture %}<p class="scripture">{% assign refs = message.data.scripture | split: ";" %}{% for ref in refs %}{%- assign r = ref | strip -%}<a href="https://www.biblegateway.com/passage/?search={{ r | url_encode }}&amp;version=ESV" target="_blank" rel="noopener">{{ r }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>{% endif %}
         {% if message.data.summary %}<p>{{ message.data.summary }}</p>{% endif %}
         <span class="read-more"><a href="{{ message.url }}" class="btn">Listen &amp; read</a></span>
       </div>
