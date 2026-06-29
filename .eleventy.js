@@ -33,6 +33,8 @@ export default function (eleventyConfig) {
   // passthrough, which only worked by accident of liquidjs's date rendering).
   eleventyConfig.addFilter('dateToRfc822', dateToRfc822);
   eleventyConfig.addFilter('getNewestCollectionItemDate', getNewestCollectionItemDate);
+  // Safe JSON string/value encoding for embedding data in JSON-LD.
+  eleventyConfig.addFilter('jsonify', (value) => JSON.stringify(value));
   eleventyConfig.addGlobalData(
     'site_description',
     'the Cross Orlando is a congregation of people living under the reign of God — gathering weekly, working across our city, and caring for one another.'
