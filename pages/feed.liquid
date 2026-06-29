@@ -1,72 +1,65 @@
 ---
 permalink: /feed.xml
+eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss
   version="2.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/">
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
   <channel>
     <title>{{ site_title }}</title>
-    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>{{ site.url }}</link>
-    <description>{{ site.description | xml_escape }}</description>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <atom:link href="{{ site_url }}/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>{{ site_url }}/</link>
+    <description>{{ site_description | escape }}</description>
+    <lastBuildDate>{{ collections.messages | getNewestCollectionItemDate | dateToRfc822 }}</lastBuildDate>
     <language>en-US</language>
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
-    <itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>{{ site_description | escape }}</itunes:summary>
     <itunes:author>Ben Hoyer</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://crosssermons.cflcn.org/logo.png"/>
+    <itunes:image href="{{ site_url }}/assets/logo.png"/>
     <itunes:owner>
       <itunes:name>Ben Hoyer</itunes:name>
       <itunes:email>ben@thehoyers.com</itunes:email>
     </itunes:owner>
     <managingEditor>ben@thehoyers.com (Ben Hoyer)</managingEditor>
-    <itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
+    <itunes:subtitle>{{ site_description | escape }}</itunes:subtitle>
     <image>
       <title>{{ site_title }}</title>
-      <url>https://crosssermons.cflcn.org/logo.png</url>
-      <link>{{ site.url }}</link>
+      <url>{{ site_url }}/assets/logo.png</url>
+      <link>{{ site_url }}/</link>
     </image>
     <itunes:category text="Religion &amp; Spirituality"/>
     {%- for message in collections.messages reversed %}
-      {%- assign podcast_author = "Ben Hoyer" -%}
-      {%- if message.data.podcast_author -%}
-      {%- assign podcast_author = message.data.podcast_author | xml_escape -%}
-      {%- endif -%}
+      {%- assign podcast_author = message.data.podcast_author | default: "Ben Hoyer" -%}
+      {%- assign summary = message.data.summary | default: message.data.title -%}
+      {%- assign ext = message.data.file | split: "." | last | downcase -%}
+      {%- assign mime = "audio/mpeg" -%}
+      {%- if ext == "m4a" -%}{%- assign mime = "audio/x-m4a" -%}{%- endif -%}
       <item>
-        <title>{{ message.data.title | xml_escape }}</title>
-        <link>{{ message.url | htmlBaseUrl: "https://www.thecrossorlando.org/" }}</link>
-        <pubDate>{{ message.date | date_to_rfc822 }}</pubDate>
-        <dc:creator>
-          <![CDATA[{{ podcast_author }}]]>
-        </dc:creator>
-        <guid isPermaLink="true">{{ message.url | htmlBaseUrl: "https://www.thecrossorlando.org/" }}</guid>
-        <description>
-          <![CDATA[{{ message.data.excerpt | strip_html | truncatewords: 50 }}]]>
-        </description>
-
-        <enclosure url="{{ message.data.file }}" length="{{ message.data.length }}" type="audio/mpeg"/>
-        <itunes:subtitle>
-          <![CDATA[{{ message.data.excerpt | strip_html | truncatewords: 50 }}]]>
-        </itunes:subtitle>
-        <itunes:summary>
-          <![CDATA[{{ message.data.summary }}]]>
-        </itunes:summary>
-        <itunes:author>{{ podcast_author }}</itunes:author>
-        <itunes:image href="https://crosssermons.cflcn.org/logo.png"/>
+        <title>{{ message.data.title | escape }}</title>
+        <link>{{ message.url | htmlBaseUrl: site_url }}</link>
+        <pubDate>{{ message.date | dateToRfc822 }}</pubDate>
+        <dc:creator><![CDATA[{{ podcast_author }}]]></dc:creator>
+        <guid isPermaLink="true">{{ message.url | htmlBaseUrl: site_url }}</guid>
+        <description><![CDATA[{{ summary }}]]></description>
+        <enclosure url="{{ message.data.file }}" length="{{ message.data.length }}" type="{{ mime }}"/>
+        <itunes:title>{{ message.data.title | escape }}</itunes:title>
+        <itunes:subtitle><![CDATA[{{ summary }}]]></itunes:subtitle>
+        <itunes:summary><![CDATA[{{ summary }}]]></itunes:summary>
+        <itunes:author>{{ podcast_author | escape }}</itunes:author>
+        <itunes:image href="{{ site_url }}/assets/logo.png"/>
         <itunes:explicit>no</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
         <itunes:duration>{{ message.data.duration }}</itunes:duration>
       </item>
-    {% endfor %}
+    {%- endfor %}
   </channel>
 </rss>

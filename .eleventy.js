@@ -1,5 +1,6 @@
 import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import { dateToRfc822, getNewestCollectionItemDate } from "@11ty/eleventy-plugin-rss";
 import { minify } from "html-minifier-terser";
 
 const SITE_URL = "https://www.thecrossorlando.org";
@@ -26,6 +27,12 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addGlobalData('site_title', 'the Cross Orlando');
   eleventyConfig.addGlobalData('site_url', SITE_URL);
+
+  // Real RFC-822 date + newest-item helpers from the official RSS plugin, used
+  // by the podcast feed template (instead of relying on undefined-filter
+  // passthrough, which only worked by accident of liquidjs's date rendering).
+  eleventyConfig.addFilter('dateToRfc822', dateToRfc822);
+  eleventyConfig.addFilter('getNewestCollectionItemDate', getNewestCollectionItemDate);
   eleventyConfig.addGlobalData(
     'site_description',
     'the Cross Orlando is a congregation of people living under the reign of God — gathering weekly, working across our city, and caring for one another.'
