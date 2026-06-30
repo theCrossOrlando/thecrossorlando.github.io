@@ -1,47 +1,102 @@
-import { createApp } from 'https://unpkg.com/petite-vue?module'
 import { initializeApp } from 'https://www.gstatic.com/firebasejs/9.12.1/firebase-app.js';
 import { getFirestore, collection, query, where, getDocs } from 'https://www.gstatic.com/firebasejs/9.12.1/firebase-firestore.js';
 
-var config = {
+const config = {
   apiKey: 'AIzaSyAb3tuVXmuobrVZr_n1JuKYoapmocCx078',
   authDomain: 'thecross-music.firebaseapp.com',
-  projectId: "thecross-music",
+  projectId: 'thecross-music',
 };
-const app = initializeApp(config);
-const db = getFirestore(app);
 
-const colRefScripture = collection(db, 'scripture')
-const scriptureDoc = query(colRefScripture)
-const scriptureSnapshot = await getDocs(scriptureDoc);
-let scripture = [];
-scriptureSnapshot.forEach((doc) => scripture.push({ ...doc.data(), id: doc.id }));
+const db = getFirestore(initializeApp(config));
 
-const colRefLyrics = collection(db, 'lyrics');
-const activeLyrics = query(colRefLyrics, where("enabled", "==", true));
-const lyricsSnapshot = await getDocs(activeLyrics);
+async function fetchAll(ref) {
+  const snapshot = await getDocs(ref);
+  return snapshot.docs.map((doc) => ({ ...doc.data(), id: doc.id }));
+}
 
-let lyrics = [];
-lyricsSnapshot.forEach((doc) => lyrics.push({ ...doc.data(), id: doc.id }));
-lyrics.sort((a, b) => {
-  if (a.order < b.order) return -1
-  if (a.order > b.order) return 1
-  return 0
-})
+function renderScripture(verse) {
+  const row = document.getElementById('scripture-row');
+  if (!row || !verse) return;
 
-createApp({
-  lyrics: lyrics,
-  scripture: scripture[0].verse,
-}).mount()
+  const col = document.createElement('div');
+  col.className = 'col';
 
-// Lay out Masonry only after petite-vue has rendered the cards (next frame),
-// then re-lay-out once web fonts finish loading. Without the font re-layout the
-// cards are measured at their fallback-font heights and stay misaligned until a
-// resize/rotation forces Masonry to recalculate.
-requestAnimationFrame(() => {
-  const grid = document.querySelector('#content .row:not(.no-masonry)');
-  if (!grid) return;
+  const heading = document.createElement('h3');
+  heading.textContent = `This week's scripture: ${verse}`;
+
+  col.append(heading);
+  row.append(col);
+}
+
+function renderLyrics(lyrics) {
+  const grid = document.getElementById('lyrics-grid');
+  if (!grid) return null;
+
+  const fragment = document.createDocumentFragment();
+
+  for (const lyric of lyrics) {
+    const col = document.createElement('div');
+    col.className = 'col col-lg-6';
+
+    const card = document.createElement('article');
+    card.className = 'card';
+
+    const body = document.createElement('div');
+    body.className = 'card-body';
+
+    const title = document.createElement('h2');
+    title.textContent = lyric.song;
+
+    const author = document.createElement('span');
+    author.className = 'author';
+    author.textContent = `by ${lyric.artist}`;
+
+    const text = document.createElement('p');
+    text.style.whiteSpace = 'pre-wrap';
+    text.textContent = lyric.lyrics;
+
+    body.append(title, author, text);
+    card.append(body);
+    col.append(card);
+    fragment.append(col);
+  }
+
+  grid.append(fragment);
+  return grid;
+}
+
+// Masonry measures card heights up front, but the cards use web fonts that load
+// after first paint and change those heights — so re-lay-out once the fonts
+// settle, otherwise the grid stays misaligned until a resize/rotation.
+function layoutMasonry(grid) {
+  if (!grid || typeof Masonry === 'undefined') return;
+
   const msnry = new Masonry(grid, { itemSelector: '.col' });
   if (document.fonts && document.fonts.ready) {
     document.fonts.ready.then(() => msnry.layout());
   }
-});
+}
+
+function showError() {
+  const grid = document.getElementById('lyrics-grid');
+  if (!grid) return;
+
+  const message = document.createElement('p');
+  message.textContent = 'Sorry — the song list couldn’t be loaded. Please refresh to try again.';
+  grid.append(message);
+}
+
+try {
+  const [scripture, lyrics] = await Promise.all([
+    fetchAll(query(collection(db, 'scripture'))),
+    fetchAll(query(collection(db, 'lyrics'), where('enabled', '==', true))),
+  ]);
+
+  lyrics.sort((a, b) => (a.order > b.order ? 1 : a.order < b.order ? -1 : 0));
+
+  renderScripture(scripture[0]?.verse);
+  layoutMasonry(renderLyrics(lyrics));
+} catch (error) {
+  console.error('Failed to load lyrics', error);
+  showError();
+}

@@ -5,22 +5,9 @@ layout: default
 ---
 
 <script type="module" src="/js/lyrics.js"></script>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfFP3YRmkmmEg_vwKT3YSsGuykLbJbxAUxu8XeCwN2LCxiZ5Q/viewform?usp=sharing" target="_blank">Church Check In 2025</a></p>
-{% raw %}
-<div v-scope v-cloak class="row no-masonry">
-  <div class="col" v-if="scripture">
-    <h3>This week's scripture: {{ scripture }}</h3>
-  </div>
-</div>
-<div v-scope v-cloak class="row">
-  <div class="col col-lg-6" v-for="lyric in lyrics" :key="lyric.id">
-    <article class="card">
-      <div class="card-body">
-        <h2>{{ lyric.song }}</h2>
-        <span class="author">by {{ lyric.artist }}</span>
-        <p style="white-space: pre-wrap">{{ lyric.lyrics }}</p>
-      </div>
-    </article>
-  </div>
-</div>
-{% endraw %}
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfFP3YRmkmmEg_vwKT3YSsGuykLbJbxAUxu8XeCwN2LCxiZ5Q/viewform?usp=sharing" target="_blank" rel="noopener">Church Check In 2025</a></p>
+
+<!-- Populated by /js/lyrics.js. Both rows carry no-masonry so the global
+     Masonry in script.js skips this page and lyrics.js owns its own layout. -->
+<div id="scripture-row" class="row no-masonry"></div>
+<div id="lyrics-grid" class="row no-masonry"></div>
