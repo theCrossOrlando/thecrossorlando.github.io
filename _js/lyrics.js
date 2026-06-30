@@ -1,18 +1,63 @@
 import Masonry from 'masonry-layout';
-import { initializeApp } from 'https://www.gstatic.com/firebasejs/9.12.1/firebase-app.js';
-import { getFirestore, collection, query, where, getDocs } from 'https://www.gstatic.com/firebasejs/9.12.1/firebase-firestore.js';
 
-const config = {
-  apiKey: 'AIzaSyAb3tuVXmuobrVZr_n1JuKYoapmocCx078',
-  authDomain: 'thecross-music.firebaseapp.com',
-  projectId: 'thecross-music',
-};
+// Read straight from the Firestore REST API instead of loading the Firebase SDK
+// — these are public, read-only queries, so a plain fetch avoids pulling ~tens
+// of KB of SDK from gstatic (and the extra cross-origin connection) before any
+// lyric can render. Security rules are enforced server-side either way.
+const API_KEY = 'AIzaSyAb3tuVXmuobrVZr_n1JuKYoapmocCx078';
+const BASE = 'https://firestore.googleapis.com/v1/projects/thecross-music/databases/(default)/documents';
 
-const db = getFirestore(initializeApp(config));
+// Firestore REST wraps every field in a typed value object, e.g.
+// { stringValue: "..." } / { integerValue: "1" } / { booleanValue: true }.
+// Note integers arrive as strings, so coerce them.
+function unwrap(value) {
+  if ('stringValue' in value) return value.stringValue;
+  if ('integerValue' in value) return Number(value.integerValue);
+  if ('doubleValue' in value) return value.doubleValue;
+  if ('booleanValue' in value) return value.booleanValue;
+  if ('nullValue' in value) return null;
+  return undefined;
+}
 
-async function fetchAll(ref) {
-  const snapshot = await getDocs(ref);
-  return snapshot.docs.map((doc) => ({ ...doc.data(), id: doc.id }));
+// Flatten a Firestore document ({ name, fields }) into a plain object.
+function toObject(doc) {
+  const out = { id: doc.name.split('/').pop() };
+  for (const [key, value] of Object.entries(doc.fields ?? {})) {
+    out[key] = unwrap(value);
+  }
+  return out;
+}
+
+async function fetchScripture() {
+  const res = await fetch(`${BASE}/scripture?key=${API_KEY}`);
+  if (!res.ok) throw new Error(`scripture request failed: ${res.status}`);
+  const data = await res.json();
+  return (data.documents ?? []).map(toObject);
+}
+
+async function fetchLyrics() {
+  // runQuery (not a plain list) so the enabled==true filter runs server-side.
+  // Sorting stays client-side, so a single-field filter needs no composite index.
+  const res = await fetch(`${BASE}:runQuery?key=${API_KEY}`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      structuredQuery: {
+        from: [{ collectionId: 'lyrics' }],
+        where: {
+          fieldFilter: {
+            field: { fieldPath: 'enabled' },
+            op: 'EQUAL',
+            value: { booleanValue: true },
+          },
+        },
+      },
+    }),
+  });
+  if (!res.ok) throw new Error(`lyrics request failed: ${res.status}`);
+  const rows = await res.json();
+  // runQuery streams rows; entries without a `document` (e.g. read-time markers) are skipped.
+  return rows.filter((row) => row.document).map((row) => toObject(row.document));
 }
 
 function renderScripture(verse) {
@@ -96,12 +141,9 @@ function showError() {
 }
 
 try {
-  const [scripture, lyrics] = await Promise.all([
-    fetchAll(query(collection(db, 'scripture'))),
-    fetchAll(query(collection(db, 'lyrics'), where('enabled', '==', true))),
-  ]);
+  const [scripture, lyrics] = await Promise.all([fetchScripture(), fetchLyrics()]);
 
-  lyrics.sort((a, b) => (a.order > b.order ? 1 : a.order < b.order ? -1 : 0));
+  lyrics.sort((a, b) => a.order - b.order);
 
   renderScripture(scripture[0]?.verse);
   layoutMasonry(renderLyrics(lyrics));
