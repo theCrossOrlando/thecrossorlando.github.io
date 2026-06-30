@@ -9,6 +9,9 @@ export default function (eleventyConfig) {
   // Don't treat tooling/config Markdown as site content — otherwise Eleventy
   // builds and deploys .claude/commands/*.md as public pages.
   eleventyConfig.ignores.add('.claude/**');
+  // Workflow scratch files (plan.md, handoff docs) are not site content.
+  eleventyConfig.ignores.add('plan.md');
+  eleventyConfig.ignores.add('HANDOFF-*.md');
 
   eleventyConfig.addPassthroughCopy({
     'assets': 'assets',

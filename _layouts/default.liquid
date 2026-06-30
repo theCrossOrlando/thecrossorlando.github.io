@@ -9,7 +9,7 @@
   {% include "navigation" %}
   <div class="container">
     <div id="content" class="row align-items-start">
-      <main id="main" tabindex="-1" class="col col-12 col-md-9">
+      <main id="main" tabindex="-1" class="col col-12 col-md-9"{% if layout == "message" %} data-pagefind-body{% endif %}>
         {% if title %}<h1>{{ title }}</h1>{% endif %}
         {{ content }}
         {% include "sections" %}

@@ -9,31 +9,146 @@ pagination:
   alias: messages
 ---
 
-<div class="row">
-{% for message in messages %}
-  {%- assign speaker = message.data.podcast_author | default: "Ben Hoyer" -%}
-  <div class="col col-lg-6">
-    <article class="card">
-      <div class="card-header">
-        <h2 class="message-title"><a href="{{ message.url }}">{{ message.data.title }}</a></h2>
-      </div>
-      <div class="card-body">
-        <p class="message-meta text-muted"><time datetime="{{ message.date | date: '%Y-%m-%d' }}">{{ message.date | date: "%b %-d, %Y" }}</time> &middot; {{ speaker }}</p>
-        {% if message.data.scripture %}<p class="scripture">{% assign refs = message.data.scripture | split: ";" %}{% for ref in refs %}{%- assign r = ref | strip -%}<a href="https://www.biblegateway.com/passage/?search={{ r | url_encode }}&amp;version=ESV" target="_blank" rel="noopener">{{ r }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>{% endif %}
-        {% if message.data.summary %}<p>{{ message.data.summary }}</p>{% endif %}
-        <span class="read-more"><a href="{{ message.url }}" class="btn">Listen &amp; read</a></span>
-      </div>
-    </article>
+<style>
+  .message-search { margin-bottom: 1.5rem; }
+  .message-search input {
+    width: 100%;
+    padding: 0.6rem 0.85rem;
+    font: inherit;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background: #fff;
+  }
+  .message-search input:focus {
+    outline: none;
+    border-color: #1565c0;
+    box-shadow: 0 0 0 2px rgba(21, 101, 192, 0.2);
+  }
+  #search-status { margin-bottom: 1rem; }
+  .search-excerpt mark {
+    background: #fbeec2;
+    padding: 0 0.1em;
+  }
+  #search-more:not([hidden]) { display: block; margin: 0.5rem auto 1.5rem; }
+</style>
+
+<form class="message-search" role="search" autocomplete="off" onsubmit="return false">
+  <label for="message-q" class="visually-hidden">Search sermons</label>
+  <input type="search" id="message-q" placeholder="Search sermons &amp; transcripts&hellip;" aria-controls="search-results">
+</form>
+
+<section id="search-results" hidden aria-live="polite">
+  <p id="search-status" class="text-muted"></p>
+  <div id="results-grid" class="row no-masonry"></div>
+  <button type="button" id="search-more" class="btn" hidden>Show more results</button>
+</section>
+
+<div id="browse">
+  <div class="row">
+  {% for message in messages %}
+    {%- assign speaker = message.data.podcast_author | default: "Ben Hoyer" -%}
+    <div class="col col-lg-6">
+      <article class="card">
+        <div class="card-header">
+          <h2 class="message-title"><a href="{{ message.url }}">{{ message.data.title }}</a></h2>
+        </div>
+        <div class="card-body">
+          <p class="message-meta text-muted"><time datetime="{{ message.date | date: '%Y-%m-%d' }}">{{ message.date | date: "%b %-d, %Y" }}</time> &middot; {{ speaker }}</p>
+          {% if message.data.scripture %}<p class="scripture">{% assign refs = message.data.scripture | split: ";" %}{% for ref in refs %}{%- assign r = ref | strip -%}<a href="https://www.biblegateway.com/passage/?search={{ r | url_encode }}&amp;version=ESV" target="_blank" rel="noopener">{{ r }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>{% endif %}
+          {% if message.data.summary %}<p>{{ message.data.summary }}</p>{% endif %}
+          <span class="read-more"><a href="{{ message.url }}" class="btn">Listen &amp; read</a></span>
+        </div>
+      </article>
+    </div>
+  {% endfor %}
   </div>
-{% endfor %}
+  <nav>
+    <ul class="pagination">
+      {% if pagination.href.next %}
+      <li class="page-item"><a class="page-link" href="{{ pagination.href.next }}">Older</a></li>
+      {% endif %}
+      {% if pagination.href.previous %}
+      <li class="page-item"><a class="page-link" href="{{ pagination.href.previous }}" tabindex="-1">Newer</a></li>
+      {% endif %}
+    </ul>
+  </nav>
 </div>
-<nav>
-  <ul class="pagination">
-    {% if pagination.href.next %}
-    <li class="page-item"><a class="page-link" href="{{ pagination.href.next }}">Older</a></li>
-    {% endif %}
-    {% if pagination.href.previous %}
-    <li class="page-item"><a class="page-link" href="{{ pagination.href.previous }}" tabindex="-1">Newer</a></li>
-    {% endif %}
-  </ul>
-</nav>
+
+<script type="module">
+  const input  = document.getElementById('message-q');
+  const browse = document.getElementById('browse');
+  const panel  = document.getElementById('search-results');
+  const grid   = document.getElementById('results-grid');
+  const status = document.getElementById('search-status');
+  const more   = document.getElementById('search-more');
+  const BATCH  = 12;
+
+  let pagefind, current = null, shown = 0;
+
+  async function getPagefind() {
+    if (pagefind === undefined) {
+      try {
+        pagefind = await import('/pagefind/pagefind.js');
+        await pagefind.options({ excerptLength: 30 });
+      } catch (e) {
+        pagefind = null; // index missing (e.g. dev server) — degrade to browse only
+      }
+    }
+    return pagefind;
+  }
+
+  const escapeHtml = (s) => { const d = document.createElement('div'); d.textContent = s ?? ''; return d.innerHTML; };
+
+  function scriptureHtml(s) {
+    if (!s) return '';
+    const links = s.split(';').map((r) => r.trim()).filter(Boolean).map((r) =>
+      `<a href="https://www.biblegateway.com/passage/?search=${encodeURIComponent(r)}&amp;version=ESV" target="_blank" rel="noopener">${escapeHtml(r)}</a>`
+    );
+    return links.length ? `<p class="scripture">${links.join(', ')}</p>` : '';
+  }
+
+  function cardHtml(d) {
+    const m = d.meta || {};
+    const url = d.url;
+    const title = escapeHtml(m.title || 'Untitled');
+    const date = m.date ? `<time datetime="${escapeHtml(m.iso || '')}">${escapeHtml(m.date)}</time>` : '';
+    const speaker = m.speaker ? `${date ? ' &middot; ' : ''}${escapeHtml(m.speaker)}` : '';
+    return `<div class="col col-lg-6"><article class="card">
+      <div class="card-header"><h2 class="message-title"><a href="${url}">${title}</a></h2></div>
+      <div class="card-body">
+        <p class="message-meta text-muted">${date}${speaker}</p>
+        ${scriptureHtml(m.scripture)}
+        <p class="search-excerpt">${d.excerpt}</p>
+        <span class="read-more"><a href="${url}" class="btn">Listen &amp; read</a></span>
+      </div></article></div>`;
+  }
+
+  async function renderBatch() {
+    const slice = current.results.slice(shown, shown + BATCH);
+    const data = await Promise.all(slice.map((r) => r.data()));
+    grid.insertAdjacentHTML('beforeend', data.map(cardHtml).join(''));
+    shown += slice.length;
+    more.hidden = shown >= current.results.length;
+  }
+
+  let timer;
+  input.addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(run, 200); });
+  more.addEventListener('click', renderBatch);
+
+  async function run() {
+    const q = input.value.trim();
+    if (!q) { panel.hidden = true; browse.hidden = false; grid.innerHTML = ''; status.textContent = ''; return; }
+    const pf = await getPagefind();
+    if (!pf) { status.textContent = 'Search is unavailable here — view this page on the published site.'; panel.hidden = false; browse.hidden = true; return; }
+    const search = await pf.search(q);
+    if (input.value.trim() !== q) return; // a newer query superseded this one
+    current = search; shown = 0; grid.innerHTML = '';
+    browse.hidden = true; panel.hidden = false;
+    const n = search.results.length;
+    status.textContent = n
+      ? `${n} sermon${n === 1 ? '' : 's'} match “${q}”`
+      : `No sermons match “${q}”`;
+    more.hidden = true;
+    if (n) await renderBatch();
+  }
+</script>

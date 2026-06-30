@@ -6,12 +6,13 @@
     "node": ">=22"
   },
   "scripts": {
-    "build": "run-s build:html build:css build:js build:lyrics build:messages",
+    "build": "run-s build:html build:css build:js build:lyrics build:messages build:search",
     "build:html": "eleventy",
     "build:css": "sass _css/style.scss:_site/css/style.css -I _css -I node_modules/bootstrap/scss -I node_modules/@fontsource -I node_modules/@fortawesome/fontawesome-free/scss --no-source-map --quiet-deps && postcss _site/css/style.css --replace --config postcss.config.js",
     "build:js": "esbuild _js/script.js --bundle --minify --format=iife --sourcemap --outfile=_site/js/script.js",
     "build:lyrics": "esbuild _js/lyrics.js --bundle --minify --format=esm --sourcemap --outfile=_site/js/lyrics.js",
     "build:messages": "terser node_modules/plyr/dist/plyr.min.js _js/messages.js --compress --mangle --output _site/js/messages.js",
+    "build:search": "pagefind --site _site",
     "dev": "run-p dev:css dev:js dev:serve",
     "dev:css": "sass --watch _css/style.scss:css/style.css -I _css -I node_modules/bootstrap/scss -I node_modules/@fontsource -I node_modules/@fortawesome/fontawesome-free/scss --quiet-deps",
     "dev:js": "onchange --initial \"_js/**/*.js\" -- run-s dev:js:script dev:js:lyrics dev:js:messages",
@@ -38,6 +39,7 @@
     "masonry-layout": "^4.2.2",
     "npm-run-all2": "^9.0.2",
     "onchange": "^7.1.0",
+    "pagefind": "^1.5.2",
     "plyr": "^3.8.4",
     "postcss": "^8.5.6",
     "postcss-cli": "^11.0.1",

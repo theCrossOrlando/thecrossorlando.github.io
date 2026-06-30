@@ -7,6 +7,10 @@ layout: default
 {%- assign speaker = podcast_author | default: "Ben Hoyer" -%}
 {%- assign dparts = duration | split: ":" -%}
 
+<span hidden data-pagefind-meta="date">{{ page.date | date: "%b %-d, %Y" }}</span>
+<span hidden data-pagefind-meta="iso">{{ page.date | date: "%Y-%m-%d" }}</span>
+<span hidden data-pagefind-meta="speaker">{{ speaker }}</span>
+{% if scripture %}<span hidden data-pagefind-meta="scripture">{{ scripture }}</span>{% endif %}
 <p class="message-meta text-muted">{{ page.date | date: "%B %-d, %Y" }} &middot; {{ speaker }} &middot; {{ duration }}</p>
 
 {% if scripture %}<p class="scripture">{% assign refs = scripture | split: ";" %}{% for ref in refs %}{%- assign r = ref | strip -%}<a href="https://www.biblegateway.com/passage/?search={{ r | url_encode }}&amp;version=ESV" target="_blank" rel="noopener">{{ r }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>{% endif %}
@@ -18,7 +22,7 @@ layout: default
   Your browser doesn’t support the audio element. <a href="{{ file }}">Download the audio</a>.
 </audio>
 
-<p class="message-actions">
+<p class="message-actions" data-pagefind-ignore>
   Listen &amp; subscribe:
   {% if podcast.apple != "" %}<a href="{{ podcast.apple }}">Apple Podcasts</a> &middot; {% endif %}
   {% if podcast.spotify != "" %}<a href="{{ podcast.spotify }}">Spotify</a> &middot; {% endif %}
@@ -27,8 +31,8 @@ layout: default
 
 {% unless content == blank %}
 <details class="transcript">
-  <summary>Read transcript</summary>
-  <p><small class="text-muted">Auto-generated from the audio — may contain errors.</small></p>
+  <summary data-pagefind-ignore>Read transcript</summary>
+  <p data-pagefind-ignore><small class="text-muted">Auto-generated from the audio — may contain errors.</small></p>
   {{ content }}
 </details>
 {% endunless %}
