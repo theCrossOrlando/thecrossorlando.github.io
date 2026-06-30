@@ -32,6 +32,16 @@ createApp({
   lyrics: lyrics,
   scripture: scripture[0].verse,
 }).mount()
-  var msnry = new Masonry('#content .row:not(.no-masonry)', {
-    itemSelector: '.col',
-  });
+
+// Lay out Masonry only after petite-vue has rendered the cards (next frame),
+// then re-lay-out once web fonts finish loading. Without the font re-layout the
+// cards are measured at their fallback-font heights and stay misaligned until a
+// resize/rotation forces Masonry to recalculate.
+requestAnimationFrame(() => {
+  const grid = document.querySelector('#content .row:not(.no-masonry)');
+  if (!grid) return;
+  const msnry = new Masonry(grid, { itemSelector: '.col' });
+  if (document.fonts && document.fonts.ready) {
+    document.fonts.ready.then(() => msnry.layout());
+  }
+});
