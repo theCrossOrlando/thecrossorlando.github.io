@@ -133,9 +133,14 @@ details.transcript {
   .navbar-brand {
     margin: 0;
     min-width: 0;
+    display: flex;
+    align-items: center;
 
+    // Scale the logo down proportionately on narrow screens (square SVG, so
+    // height auto tracks the width and preserves aspect ratio).
     img {
-      flex-shrink: 0;
+      width: clamp(40px, 11vw, 60px);
+      height: auto;
     }
   }
 
