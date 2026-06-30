@@ -1,6 +1,12 @@
+// The navbar hamburger is the only Bootstrap JS feature the site uses; importing
+// just the Collapse component registers its data-api toggle and lets esbuild
+// tree-shake the rest of Bootstrap away.
+import 'bootstrap/js/dist/collapse';
+import Masonry from 'masonry-layout';
+
 function initMasonry() {
   var grid = document.querySelector('#content .row:not(.no-masonry)');
-  if (!grid || typeof Masonry === 'undefined') return;
+  if (!grid) return;
 
   var msnry = new Masonry(grid, { itemSelector: '.col' });
 

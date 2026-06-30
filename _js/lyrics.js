@@ -1,3 +1,4 @@
+import Masonry from 'masonry-layout';
 import { initializeApp } from 'https://www.gstatic.com/firebasejs/9.12.1/firebase-app.js';
 import { getFirestore, collection, query, where, getDocs } from 'https://www.gstatic.com/firebasejs/9.12.1/firebase-firestore.js';
 
@@ -69,7 +70,7 @@ function renderLyrics(lyrics) {
 // after first paint and change those heights — so re-lay-out once the fonts
 // settle, otherwise the grid stays misaligned until a resize/rotation.
 function layoutMasonry(grid) {
-  if (!grid || typeof Masonry === 'undefined') return;
+  if (!grid) return;
 
   const msnry = new Masonry(grid, { itemSelector: '.col' });
   if (document.fonts && document.fonts.ready) {
