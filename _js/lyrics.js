@@ -48,15 +48,23 @@ function renderLyrics(lyrics) {
     const title = document.createElement('h2');
     title.textContent = lyric.song;
 
-    const author = document.createElement('span');
-    author.className = 'author';
-    author.textContent = `by ${lyric.artist}`;
+    body.append(title);
+
+    // Only show the byline when there's actually an artist — otherwise a
+    // song with a blank artist renders a dangling "by ".
+    const artist = lyric.artist?.trim();
+    if (artist) {
+      const author = document.createElement('span');
+      author.className = 'author';
+      author.textContent = `by ${artist}`;
+      body.append(author);
+    }
 
     const text = document.createElement('p');
     text.style.whiteSpace = 'pre-wrap';
     text.textContent = lyric.lyrics;
 
-    body.append(title, author, text);
+    body.append(text);
     card.append(body);
     col.append(card);
     fragment.append(col);
