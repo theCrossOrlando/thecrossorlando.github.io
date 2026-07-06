@@ -26,16 +26,21 @@ Publish the weekly sermon message. The user provides the title (and optionally t
    - Size: `stat -f %z ~/Desktop/YYYY-MM-DD.m4a`
    - Duration: `ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 ~/Desktop/YYYY-MM-DD.m4a`
    - Convert duration to `MM:SS` (round to nearest second, no leading zero on minutes — match prior format like `26:43`, `28:05`).
-4. Determine the episode summary (used as the podcast episode description in `/feed.xml`):
+4. Transcribe the recording with Whisper — always produce a **VTT** (needed for the timestamped transcript body in step 5), and a plain `.txt` for summarizing:
+   ```
+   PATH="$HOME/Library/Python/3.9/bin:$PATH" mlx_whisper ~/Desktop/YYYY-MM-DD.m4a \
+     --model mlx-community/whisper-base.en-mlx --output-dir /tmp --output-name sermon-YYYY-MM-DD \
+     --output-format all
+   ```
+   This writes `/tmp/sermon-YYYY-MM-DD.{txt,vtt,srt,json}`. (`whisper-base.en-mlx` runs in seconds on Apple Silicon; if `mlx_whisper` is unavailable, stop and ask me.)
+5. Determine the episode summary (used as the podcast episode description in `/feed.xml`):
    - If a summary was provided in `$ARGUMENTS`, use it.
-   - Otherwise, transcribe the recording with Whisper and write a concise 1–2 sentence summary of what the sermon actually covers (scripture/topic). Stay factual to the transcript — do not embellish or invent.
-     ```
-     PATH="$HOME/Library/Python/3.9/bin:$PATH" mlx_whisper ~/Desktop/YYYY-MM-DD.m4a \
-       --model mlx-community/whisper-base.en-mlx --output-dir /tmp --output-name sermon-YYYY-MM-DD
-     # then summarize /tmp/sermon-YYYY-MM-DD.txt into 1–2 sentences
-     ```
-   - If transcription isn't possible, ask me for a one-line summary, or omit the `summary` line (the feed falls back to the title).
-5. Create `messages/YYYY-MM-DD.md` with this exact frontmatter format (match existing files in `messages/`):
+   - Otherwise, write a concise 1–2 sentence summary from `/tmp/sermon-YYYY-MM-DD.txt` of what the sermon actually covers (scripture/topic). Stay factual to the transcript — do not embellish or invent.
+6. Render the transcript body from the VTT (~30s paragraphs, each led by a clickable seek button). Use the repo's checked-in renderer so every sermon's markup is identical — do **not** hand-write the HTML or reinvent the grouping:
+   ```
+   node scripts/render-transcript.mjs /tmp/sermon-YYYY-MM-DD.vtt > /tmp/body-YYYY-MM-DD.html
+   ```
+7. Create `messages/YYYY-MM-DD.md` = frontmatter, then a blank line, then the rendered transcript body. Frontmatter format (match existing files in `messages/`):
    ```
    ---
    title: "<title>"
@@ -45,14 +50,17 @@ Publish the weekly sermon message. The user provides the title (and optionally t
    duration: "<MM:SS>"
    summary: "<summary>"
    ---
+
+   <contents of /tmp/body-YYYY-MM-DD.html>
    ```
-   Note the trailing blank line after the closing `---`. Omit the `summary` line if no summary was given (do not write an empty string).
-6. Upload the audio: `scp ~/Desktop/YYYY-MM-DD.m4a thecross:~/sermons/`
-7. Commit with the message format used in `git log` (e.g., `Message: 2026-05-17`):
+   Exactly one blank line between the closing `---` and the first `<p>`, and a trailing newline at EOF. Omit the `summary` line if no summary was given (do not write an empty string). If transcription failed and there is no VTT, write frontmatter only.
+8. Upload the audio: `scp ~/Desktop/YYYY-MM-DD.m4a thecross:~/sermons/`
+   - `scp` transfers via the SFTP subsystem, which chroots to a different root than an interactive `ssh` shell — so `ssh thecross ls ~/sermons` will NOT show the file. Verify with SFTP or the public URL instead: `curl -sI https://cflcn.org/sermons/YYYY-MM-DD.m4a` should return `200` with a `content-length` equal to the byte size from step 3.
+9. Commit with the message format used in `git log` (e.g., `Message: 2026-05-17`):
    - `git add messages/YYYY-MM-DD.md`
    - `git commit -m "Message: YYYY-MM-DD"`
-8. Push: `git push`
-9. Post to Slack via incoming webhook. The webhook URL is in env var `SLACK_SERMON_WEBHOOK_URL`. If the var is unset, skip this step and warn me — do NOT prompt or hardcode a URL.
+10. Push: `git push`
+11. Post to Slack via incoming webhook. The webhook URL is in env var `SLACK_SERMON_WEBHOOK_URL`. If the var is unset, skip this step and warn me — do NOT prompt or hardcode a URL.
    - Web URL for the post: `https://www.thecrossorlando.org/messages/YYYY/MM/DD/` (note: year/month/day path segments, not the filename)
    - Payload: `{"text": "New message posted: *<title>* — <web URL>"}`
    - Command:
@@ -62,7 +70,7 @@ Publish the weekly sermon message. The user provides the title (and optionally t
        "$SLACK_SERMON_WEBHOOK_URL"
      ```
    - Confirm the response is `ok`.
-10. Report the final commit SHA, confirm upload completed, and confirm Slack post sent (or skipped).
+12. Report the final commit SHA, confirm upload completed, and confirm Slack post sent (or skipped).
 
 **Reference samples** (look at these to confirm format if anything is unclear):
 - `messages/2026-05-17.md`
