@@ -1,6 +1,61 @@
-@import "bootstrap";
-@import "fontawesome";
-@import "regular";
+// Only the Bootstrap layers this site actually uses. Replaces the blanket
+// `@import "bootstrap"` so we ship a fraction of the framework — no purge step
+// needed. Order matches Bootstrap's own bootstrap.scss (required API first,
+// components in the middle, utilities API last).
+
+// Required
+@import "functions";
+@import "variables";
+@import "variables-dark";
+@import "maps";
+@import "mixins";
+@import "utilities"; // $utilities map (consumed by utilities/api below)
+@import "root";      // --bs-* custom properties + [data-bs-theme]
+
+// Base
+@import "reboot"; // box-sizing/border-box + normalize the grid depends on
+@import "type";
+
+// Layout & components (opt-in — only what the templates reference)
+@import "containers";
+@import "grid";
+@import "transitions"; // .collapse/.collapsing for the navbar toggle
+@import "nav";
+@import "navbar";
+@import "card";
+@import "buttons";
+@import "pagination";
+
+// Helpers (.visually-hidden, etc.)
+@import "helpers";
+
+// Bootstrap's utilities API generates ~thousands of responsive classes by
+// default. The templates use only a handful of groups, so keep just those
+// before generating them. (Keys match Bootstrap's $utilities map.)
+$utilities: (
+  "display":          map-get($utilities, "display"),          // d-none, d-*-block, d-inline-block
+  "text-align":       map-get($utilities, "text-align"),       // text-center, text-end
+  "color":            map-get($utilities, "color"),            // text-muted
+  "background-color": map-get($utilities, "background-color"), // bg-light
+  "width":            map-get($utilities, "width"),            // w-75, w-100
+  "justify-content":  map-get($utilities, "justify-content"),  // justify-content-center
+  "align-items":      map-get($utilities, "align-items"),      // align-items-start
+  "align":            map-get($utilities, "align"),            // align-middle
+);
+
+// Generates the trimmed utility classes. Must come last.
+@import "utilities/api";
+
+// Font Awesome, trimmed to what the site actually renders. The full
+// `@import "fontawesome"` pulls in ~2000 icon glyphs plus sizing/list/animation
+// helpers we never use. We only need the base rendering + the regular family,
+// then the two glyphs referenced in markup (fa-envelope, fa-heart).
+@import "core";    // base .fa* ::before { content: var(--fa) } rendering
+@import "regular"; // .fa-regular family vars + @font-face (fa-regular-400)
+
+// Icon glyphs in use (codepoints from FA's scss/_variables.scss).
+.fa-envelope { --fa: "\f0e0"; }
+.fa-heart    { --fa: "\f004"; }
 @import "arvo";
 @import "cardo";
 @import "roboto";
