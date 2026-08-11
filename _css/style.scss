@@ -306,6 +306,36 @@ a:hover {
       float: right;
     }
   }
+  // Lyric sections. Songs without labels render as a single block and never
+  // reach these rules, so nothing older changes appearance.
+  .lyric-section {
+    & + .lyric-section {
+      margin-top: 20px;
+    }
+    p {
+      margin-bottom: 0;
+    }
+  }
+  .lyric-section-label {
+    color: $gold-text; // not $brand-color — documented above as failing WCAG for text
+    font-family: $secondary-font-family;
+    font-size: 12px;
+    font-weight: normal;
+    letter-spacing: 0.08em;
+    margin-bottom: 4px;
+    text-transform: uppercase;
+  }
+
+  .lyric-credits {
+    border-top: 1px solid #eee;
+    color: #777;
+    display: block;
+    font-size: 12px;
+    line-height: 1.4;
+    margin-top: 20px;
+    padding-top: 10px;
+  }
+
   .author {
     color: #777;
     display: block;
@@ -352,4 +382,10 @@ summary:focus-visible,
 main:focus,
 main:focus-visible {
   outline: none;
+}
+
+.lyric-licence {
+  color: #777;
+  font-size: 12px;
+  margin-top: 10px;
 }
