@@ -7,6 +7,10 @@ import Masonry from 'masonry-layout';
 const API_KEY = 'AIzaSyAb3tuVXmuobrVZr_n1JuKYoapmocCx078';
 const BASE = 'https://firestore.googleapis.com/v1/projects/thecross-music/databases/(default)/documents';
 
+// theCross sits under Holy Cross Lutheran Church's CCLI licence. CCLI expects
+// the licence number displayed wherever licensed lyrics are reproduced.
+const CCLI_LICENCE = '1073963';
+
 // Firestore REST wraps every field in a typed value object, e.g.
 // { stringValue: "..." } / { integerValue: "1" } / { booleanValue: true }.
 // Note integers arrive as strings, so coerce them.
@@ -74,6 +78,96 @@ function renderScripture(verse) {
   row.append(col);
 }
 
+// Section labels as SongSelect and ChordPro exports write them: the label alone
+// on its own line, optionally numbered, optionally with a trailing colon.
+const SECTION_LABEL =
+  /^\s*((?:pre-?chorus|chorus|verse|bridge|refrain|interlude|instrumental|intro|outro|ending|tag|vamp|coda)(?:\s+\d+)?)\s*:?\s*$/i;
+
+// Split lyrics into labelled sections. Returns null when the song has no
+// labels at all, so older songs keep rendering exactly as they always have
+// rather than being restructured by a parser they were never written for.
+function parseSections(text) {
+  const lines = (text ?? '').split('\n');
+  if (!lines.some((line) => SECTION_LABEL.test(line))) return null;
+
+  const sections = [];
+  let current = { label: null, lines: [] };
+
+  for (const line of lines) {
+    const match = line.match(SECTION_LABEL);
+    if (match) {
+      if (current.label || current.lines.some((l) => l.trim())) sections.push(current);
+      current = { label: match[1].trim(), lines: [] };
+    } else {
+      current.lines.push(line);
+    }
+  }
+  sections.push(current);
+
+  // Drop the blank padding that sits either side of a label.
+  return sections
+    .map((section) => ({ ...section, body: section.lines.join('\n').replace(/^\n+|\n+$/g, '') }))
+    .filter((section) => section.label || section.body.trim());
+}
+
+function renderLyricBody(body, lyric) {
+  const sections = parseSections(lyric.lyrics);
+
+  // No labels — one preformatted block, byte for byte what this page has
+  // always produced.
+  if (!sections) {
+    const text = document.createElement('p');
+    text.style.whiteSpace = 'pre-wrap';
+    text.textContent = lyric.lyrics;
+    body.append(text);
+    return;
+  }
+
+  for (const section of sections) {
+    const wrapper = document.createElement('section');
+    wrapper.className = 'lyric-section';
+
+    if (section.label) {
+      const heading = document.createElement('h3');
+      heading.className = 'lyric-section-label';
+      heading.textContent = section.label;
+      wrapper.append(heading);
+    }
+
+    const text = document.createElement('p');
+    text.style.whiteSpace = 'pre-wrap';
+    text.textContent = section.body;
+    wrapper.append(text);
+
+    body.append(wrapper);
+  }
+}
+
+// Per-song attribution. Only renders what the song actually carries, so songs
+// imported before these fields existed look exactly as they do now.
+function renderCredits(body, lyric) {
+  const parts = [];
+  if (lyric.copyright) parts.push(`© ${lyric.copyright}`);
+  if (lyric.ccliNumber) parts.push(`CCLI Song # ${lyric.ccliNumber}`);
+  if (!parts.length) return;
+
+  const credits = document.createElement('footer');
+  credits.className = 'lyric-credits';
+  credits.textContent = parts.join(' · ');
+  body.append(credits);
+}
+
+// One licence statement for the page, rather than repeating it on every card.
+function renderLicence(anyCredited) {
+  const grid = document.getElementById('lyrics-grid');
+  if (!grid || !anyCredited) return;
+
+  const note = document.createElement('p');
+  note.className = 'lyric-licence';
+  note.textContent = `Used by permission. CCLI License # ${CCLI_LICENCE}`;
+  grid.after(note);
+}
+
 function renderLyrics(lyrics) {
   const grid = document.getElementById('lyrics-grid');
   if (!grid) return null;
@@ -105,11 +199,9 @@ function renderLyrics(lyrics) {
       body.append(author);
     }
 
-    const text = document.createElement('p');
-    text.style.whiteSpace = 'pre-wrap';
-    text.textContent = lyric.lyrics;
+    renderLyricBody(body, lyric);
+    renderCredits(body, lyric);
 
-    body.append(text);
     card.append(body);
     col.append(card);
     fragment.append(col);
@@ -143,10 +235,13 @@ function showError() {
 try {
   const [scripture, lyrics] = await Promise.all([fetchScripture(), fetchLyrics()]);
 
-  lyrics.sort((a, b) => a.order - b.order);
+  // ?? 0 because a song enabled before `order` existed sorts as NaN, which
+  // makes the running order unpredictable rather than merely wrong.
+  lyrics.sort((a, b) => (a.order ?? 0) - (b.order ?? 0));
 
   renderScripture(scripture[0]?.verse);
   layoutMasonry(renderLyrics(lyrics));
+  renderLicence(lyrics.some((l) => l.copyright || l.ccliNumber));
 } catch (error) {
   console.error('Failed to load lyrics', error);
   showError();
