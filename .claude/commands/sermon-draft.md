@@ -25,7 +25,8 @@ Draft a sermon message file from the Desktop recording. Does NOT upload, commit,
    node scripts/render-transcript.mjs /tmp/sermon-YYYY-MM-DD.vtt > /tmp/body-YYYY-MM-DD.html
    ```
    Optionally write a factual 1–2 sentence `summary` from `/tmp/sermon-YYYY-MM-DD.txt`. If Whisper is unavailable, skip the body (frontmatter only).
-6. Write `messages/YYYY-MM-DD.md` = frontmatter, one blank line, then the rendered transcript body (trailing newline at EOF):
+6. Determine the `scripture` references from `/tmp/sermon-YYYY-MM-DD.txt` — the passage(s) actually read and worked through, not every verse mentioned in passing. Format: `Book Chapter`, semicolon-separated, primary first (`"Psalm 68"`, `"1 Peter 2; Isaiah 28"`); numbered books take a space after the numeral (`1 Peter`, not `1Peter`); narrow to verses or a chapter range when the sermon stays inside one (`"Matthew 25:14-30"`, `"Isaiah 40-43"`). This drives the BibleGateway links on the message page — fill it in even when the title is still `TBD`, since a missing `scripture` is easy to forget later and six sermons were published without it.
+7. Write `messages/YYYY-MM-DD.md` = frontmatter, one blank line, then the rendered transcript body (trailing newline at EOF):
    ```
    ---
    title: "<title or TBD>"
@@ -33,12 +34,14 @@ Draft a sermon message file from the Desktop recording. Does NOT upload, commit,
    file: "https://cflcn.org/sermons/<YYYY-MM-DD>.m4a"
    length: "<bytes>"
    duration: "<MM:SS>"
+   podcast_author: "<guest speaker>"
    summary: "<summary>"
+   scripture: "<references>"
    ---
 
    <contents of /tmp/body-YYYY-MM-DD.html>
    ```
-   Omit `summary` if none was written.
-7. Report the file path and any placeholder fields the user still needs to fill in.
+   Keep this key order; `scripture` goes last. Omit `summary` if none was written. Omit `podcast_author` when Ben preached (it defaults to `Ben Hoyer`); set it only for a guest speaker.
+8. Report the file path and any placeholder fields the user still needs to fill in.
 
 $ARGUMENTS
