@@ -102,6 +102,27 @@ function renderScripture(verse) {
   row.append(col);
 }
 
+// Songs and service elements — Confession, Doxology, the monthly Prayers — are
+// different things, and a Confession has no artist and no CCLI number to show.
+// Mirrors src/lib/kind.js in the thecross-music admin app, the same way
+// parseSections below mirrors its lyricsFormat.js. The admin app writes `kind`
+// on every save; the two fallbacks classify everything saved before it existed,
+// and everything parse.js appends from _data/lyrics.yml, which never sets one.
+const LITURGY =
+  /^\s*(confession|call to worship|apostle['’]?s?['’]?\s+creed|doxology|nunc dimittis|prayer of the church|sunday meditation|lament liturgy|election liturgy|annual commitment form|.*\bprayer\b.*|.*\blitany\b.*)\s*$/i;
+
+function isLiturgy(lyric) {
+  const stored = String(lyric.kind ?? '').trim().toLowerCase();
+  if (stored === 'liturgy') return true;
+  // Anything unrecognised reads as a song rather than disappearing out of the
+  // section people scroll to.
+  if (stored) return false;
+  // The admin's CCLI queue records this decision, and it is a human answering
+  // this exact question.
+  if (lyric.ccliStatus === 'not-a-song') return true;
+  return LITURGY.test(lyric.song ?? '');
+}
+
 // Section labels as SongSelect and ChordPro exports write them: the label alone
 // on its own line, optionally numbered, optionally with a trailing colon.
 const SECTION_LABEL =
@@ -152,7 +173,7 @@ function renderLyricBody(body, lyric) {
     wrapper.className = 'lyric-section';
 
     if (section.label) {
-      const heading = document.createElement('h3');
+      const heading = document.createElement('h4');
       heading.className = 'lyric-section-label';
       heading.textContent = section.label;
       wrapper.append(heading);
@@ -181,7 +202,10 @@ function renderCredits(body, lyric) {
   body.append(credits);
 }
 
-// One licence statement for the page, rather than repeating it on every card.
+// One licence statement for the songs, rather than repeating it on every card.
+// Deliberately placed under the songs grid and counted from songs alone — it
+// covers reproduced song lyrics, and hanging it beneath the Confession would
+// misstate what it is for.
 function renderLicence(anyCredited) {
   const grid = document.getElementById('lyrics-grid');
   if (!grid || !anyCredited) return;
@@ -192,9 +216,10 @@ function renderLicence(anyCredited) {
   grid.after(note);
 }
 
-function renderLyrics(lyrics) {
-  const grid = document.getElementById('lyrics-grid');
-  if (!grid) return null;
+// Returns the grid when it received cards, so an empty group never gets a
+// Masonry instance or a heading of its own.
+function renderLyrics(grid, lyrics, { liturgy = false } = {}) {
+  if (!grid || !lyrics.length) return null;
 
   const fragment = document.createDocumentFragment();
 
@@ -208,23 +233,31 @@ function renderLyrics(lyrics) {
     const body = document.createElement('div');
     body.className = 'card-body';
 
-    const title = document.createElement('h2');
+    // h3, under the group's h2. Styled by `.card h2, .card .lyric-title`, so the
+    // blog and message cards that share `.card` are untouched. Not .card-title,
+    // which Bootstrap already owns and gives its own margin and colour.
+    const title = document.createElement('h3');
+    title.className = 'lyric-title';
     title.textContent = lyric.song;
 
     body.append(title);
 
-    // Only show the byline when there's actually an artist — otherwise a
-    // song with a blank artist renders a dangling "by ".
-    const artist = lyric.artist?.trim();
-    if (artist) {
-      const author = document.createElement('span');
-      author.className = 'author';
-      author.textContent = `by ${artist}`;
-      body.append(author);
+    // No byline and no credits on a service element, whatever the row happens
+    // to carry: a Confession has no author to name and is not licensed lyrics.
+    if (!liturgy) {
+      // Only show the byline when there's actually an artist — otherwise a
+      // song with a blank artist renders a dangling "by ".
+      const artist = lyric.artist?.trim();
+      if (artist) {
+        const author = document.createElement('span');
+        author.className = 'author';
+        author.textContent = `by ${artist}`;
+        body.append(author);
+      }
     }
 
     renderLyricBody(body, lyric);
-    renderCredits(body, lyric);
+    if (!liturgy) renderCredits(body, lyric);
 
     card.append(body);
     col.append(card);
@@ -247,6 +280,14 @@ function layoutMasonry(grid) {
   }
 }
 
+function renderGroupHeading(grid, text) {
+  if (!grid) return;
+  const heading = document.createElement('h2');
+  heading.className = 'lyric-group-heading';
+  heading.textContent = text;
+  grid.before(heading);
+}
+
 function showError() {
   const grid = document.getElementById('lyrics-grid');
   if (!grid) return;
@@ -259,13 +300,29 @@ function showError() {
 try {
   const [scripture, lyrics] = await Promise.all([fetchScripture(), fetchLyrics()]);
 
+  // Each group carries its own 0..n `order`, so partition before sorting —
+  // the two sequences are independent and their numbers are free to collide.
   // ?? 0 because a song enabled before `order` existed sorts as NaN, which
   // makes the running order unpredictable rather than merely wrong.
-  lyrics.sort((a, b) => (a.order ?? 0) - (b.order ?? 0));
+  const byOrder = (a, b) => (a.order ?? 0) - (b.order ?? 0);
+  const songs = lyrics.filter((l) => !isLiturgy(l)).sort(byOrder);
+  const liturgy = lyrics.filter(isLiturgy).sort(byOrder);
+
+  const songsGrid = document.getElementById('lyrics-grid');
+  const liturgyGrid = document.getElementById('liturgy-grid');
 
   renderScripture(scripture[0]?.verse);
-  layoutMasonry(renderLyrics(lyrics));
-  renderLicence(lyrics.some((l) => l.copyright || l.ccliNumber));
+
+  // Headings only when there is more than one section to tell apart, so a
+  // Sunday with no liturgy renders exactly as this page always has.
+  if (songs.length && liturgy.length) {
+    renderGroupHeading(songsGrid, 'Songs');
+    renderGroupHeading(liturgyGrid, 'Liturgy');
+  }
+
+  layoutMasonry(renderLyrics(songsGrid, songs));
+  renderLicence(songs.some((l) => l.copyright || l.ccliNumber));
+  layoutMasonry(renderLyrics(liturgyGrid, liturgy, { liturgy: true }));
 } catch (error) {
   console.error('Failed to load lyrics', error);
   showError();

@@ -7,7 +7,10 @@ layout: default
 <script type="module" src="/js/lyrics.js"></script>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfPjdU7wldpaSqINzBPEZyJCvA920tXWO2feitoWs0XMsjc3Q/viewform" target="_blank" rel="noopener">Church Check In 2026</a></p>
 
-<!-- Populated by /js/lyrics.js. Both rows carry no-masonry so the global
-     Masonry in script.js skips this page and lyrics.js owns its own layout. -->
+<!-- Populated by /js/lyrics.js. Every row carries no-masonry so the global
+     Masonry in script.js skips this page and lyrics.js owns its own layout.
+     Service elements — Confession, Doxology, the Prayers — go in their own
+     grid; lyrics.js adds the headings only when both grids have cards. -->
 <div id="scripture-row" class="row no-masonry"></div>
 <div id="lyrics-grid" class="row no-masonry"></div>
+<div id="liturgy-grid" class="row no-masonry"></div>

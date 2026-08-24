@@ -285,7 +285,12 @@ a:hover {
 .card {
   background-color: #fff;
   margin-bottom: 30px;
-  h2 {
+  // .lyric-title alongside h2 rather than instead of it: the lyric cards drop
+  // to h3 so a section heading can sit above them, and the blog and message
+  // cards that share .card keep their h2 untouched. Not Bootstrap's own
+  // .card-title, which carries a margin and colour of its own.
+  h2,
+  .lyric-title {
     font-family: $ternary-font-family;
     font-size: 44px;
     font-weight: bold;
@@ -387,5 +392,13 @@ main:focus-visible {
 .lyric-licence {
   color: #777;
   font-size: 12px;
+  margin-top: 10px;
+}
+
+// Only rendered when the page has both songs and liturgy to tell apart.
+.lyric-group-heading {
+  font-family: $secondary-font-family;
+  font-size: 1.4rem;
+  margin-bottom: 20px;
   margin-top: 10px;
 }
