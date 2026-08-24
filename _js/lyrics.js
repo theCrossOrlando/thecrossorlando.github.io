@@ -64,6 +64,18 @@ async function fetchLyrics() {
   return rows.filter((row) => row.document).map((row) => toObject(row.document));
 }
 
+// The sermon pages link every reference they list — split on ";", one
+// BibleGateway link each, ESV — and a verse the congregation can open is
+// worth more than one they have to go and find. Same rule here.
+function scriptureLink(reference) {
+  const link = document.createElement('a');
+  link.href = `https://www.biblegateway.com/passage/?search=${encodeURIComponent(reference)}&version=ESV`;
+  link.target = '_blank';
+  link.rel = 'noopener';
+  link.textContent = reference;
+  return link;
+}
+
 function renderScripture(verse) {
   const row = document.getElementById('scripture-row');
   if (!row || !verse) return;
@@ -72,7 +84,19 @@ function renderScripture(verse) {
   col.className = 'col';
 
   const heading = document.createElement('h3');
-  heading.textContent = `This week's scripture: ${verse}`;
+  heading.append("This week's scripture: ");
+
+  const references = String(verse).split(';').map((r) => r.trim()).filter(Boolean);
+  if (references.length) {
+    references.forEach((reference, i) => {
+      if (i) heading.append(', ');
+      heading.append(scriptureLink(reference));
+    });
+  } else {
+    // Punctuation on its own splits to nothing. Show it as it always was
+    // rather than dropping the heading's whole point.
+    heading.append(verse);
+  }
 
   col.append(heading);
   row.append(col);
