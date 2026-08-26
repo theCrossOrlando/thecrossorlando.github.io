@@ -5,6 +5,11 @@
 
 // Required
 @import "functions";
+
+// Must precede "variables": $font-family-sans-serif is a Bootstrap !default, so
+// an override placed with our own variables below would be a no-op.
+$font-family-sans-serif: 'Roboto', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
 @import "variables";
 @import "variables-dark";
 @import "maps";
@@ -56,35 +61,24 @@ $utilities: (
 // Icon glyphs in use (codepoints from FA's scss/_variables.scss).
 .fa-envelope { --fa: "\f0e0"; }
 .fa-heart    { --fa: "\f004"; }
-@import "arvo";
-@import "cardo";
-@import "roboto";
+// Latin only, but including the 700 weights seven rules below ask for — the bare
+// index imports ship weight 400 alone, so every "bold" was synthesised.
+@import "arvo/latin-400", "arvo/latin-700";
+@import "cardo/latin-400", "cardo/latin-ext-400",
+        "cardo/latin-400-italic", "cardo/latin-ext-400-italic",
+        "cardo/latin-700", "cardo/latin-ext-700";
+@import "roboto/latin-400", "roboto/latin-ext-400",
+        "roboto/latin-700", "roboto/latin-ext-700";
 
 // Our variables
-$base-font-family: 'Roboto', serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
-
 $secondary-font-family: 'Arvo', serif;
 $ternary-font-family: 'Cardo', serif;
 
-$spacing-unit:     30px;
-
-$text-color:       #111;
 $background-color: #f9f7f2;
 $brand-color:      #d5ae43;
 $gold-text:        #7a5e12; // accessible gold for text/links (bright brand gold fails WCAG)
 $link-color:       #1565c0; // accessible link blue
-
-$grey-color:       #828282;
-
-// Width of the content area
-$content-width:    800px;
-
-$on-palm:          600px;
-$on-laptop:        800px;
+$muted-text:       #5f5f5f; // 6.4:1 on white; #777 failed AA at 4.48:1
 
 :root {
   --bs-border-color-translucent: #d5ae43;
@@ -328,7 +322,7 @@ a:hover {
 
   .lyric-credits {
     border-top: 1px solid #eee;
-    color: #777;
+    color: $muted-text;
     display: block;
     font-size: 12px;
     line-height: 1.4;
@@ -336,8 +330,9 @@ a:hover {
     padding-top: 10px;
   }
 
+  // Blog cards only — the lyrics grid uses .lyric-head/.lyric-byline below.
   .author {
-    color: #777;
+    color: $muted-text;
     display: block;
     font-weight: bold;
     margin-bottom: 10px;
@@ -345,6 +340,36 @@ a:hover {
   .read-more {
     display: block;
     text-align: right;
+  }
+}
+
+// Scoped to the lyrics grid: .card h2 and .author are shared with
+// sections.liquid and blog_list.liquid, which keep their current appearance.
+#lyrics-grid .card {
+  .lyric-head {
+    border-bottom: 1px solid rgba($brand-color, 0.35);
+    margin-bottom: 24px;
+    padding-bottom: 12px;
+  }
+  // Fixed gap below the head means cards line up whether or not a song has an
+  // artist — 2 of the enabled songs have none.
+  h2 {
+    font-size: clamp(26px, 2.2vw + 14px, 34px);
+    line-height: 1.15;
+    margin-bottom: 2px;
+    padding: 0;
+    text-wrap: balance;
+  }
+  .lyric-byline {
+    color: $muted-text;
+    font-family: $ternary-font-family;
+    font-size: 17px;
+    font-style: italic;
+    margin: 0;
+  }
+  // Unlabelled songs render one block and would otherwise take the global 30px.
+  .lyric-body p {
+    margin-bottom: 0;
   }
 }
 
@@ -385,7 +410,7 @@ main:focus-visible {
 }
 
 .lyric-licence {
-  color: #777;
+  color: $muted-text;
   font-size: 12px;
   margin-top: 10px;
 }

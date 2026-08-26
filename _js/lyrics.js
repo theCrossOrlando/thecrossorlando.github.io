@@ -113,13 +113,17 @@ function parseSections(text) {
 function renderLyricBody(body, lyric) {
   const sections = parseSections(lyric.lyrics);
 
+  const wrap = document.createElement('div');
+  wrap.className = 'lyric-body';
+  body.append(wrap);
+
   // No labels — one preformatted block, byte for byte what this page has
   // always produced.
   if (!sections) {
     const text = document.createElement('p');
     text.style.whiteSpace = 'pre-wrap';
     text.textContent = lyric.lyrics;
-    body.append(text);
+    wrap.append(text);
     return;
   }
 
@@ -139,7 +143,7 @@ function renderLyricBody(body, lyric) {
     text.textContent = section.body;
     wrapper.append(text);
 
-    body.append(wrapper);
+    wrap.append(wrapper);
   }
 }
 
@@ -176,7 +180,7 @@ function renderLyrics(lyrics) {
 
   for (const lyric of lyrics) {
     const col = document.createElement('div');
-    col.className = 'col col-lg-6';
+    col.className = 'col col-12 col-lg-6';
 
     const card = document.createElement('article');
     card.className = 'card';
@@ -184,20 +188,24 @@ function renderLyrics(lyrics) {
     const body = document.createElement('div');
     body.className = 'card-body';
 
+    const head = document.createElement('header');
+    head.className = 'lyric-head';
+
     const title = document.createElement('h2');
     title.textContent = lyric.song;
+    head.append(title);
 
-    body.append(title);
-
-    // Only show the byline when there's actually an artist — otherwise a
-    // song with a blank artist renders a dangling "by ".
+    // Only show the byline when there's actually an artist — 2 of the enabled
+    // songs have none. The field is an author credit, not a performer.
     const artist = lyric.artist?.trim();
     if (artist) {
-      const author = document.createElement('span');
-      author.className = 'author';
-      author.textContent = `by ${artist}`;
-      body.append(author);
+      const byline = document.createElement('p');
+      byline.className = 'lyric-byline';
+      byline.textContent = artist;
+      head.append(byline);
     }
+
+    body.append(head);
 
     renderLyricBody(body, lyric);
     renderCredits(body, lyric);

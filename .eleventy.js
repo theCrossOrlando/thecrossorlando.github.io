@@ -22,12 +22,12 @@ export default function (eleventyConfig) {
     // FontAwesome is the only font the compiled CSS loads from /webfonts/
     // (it uses `../webfonts/`).
     'node_modules/@fortawesome/fontawesome-free/webfonts': 'webfonts',
-    // Fontsource @font-face rules reference `./files/*-400-normal.*`, so copy
-    // those weights straight from the installed packages (kept in lockstep with
-    // the generated CSS) instead of a hand-committed snapshot in css/files.
-    'node_modules/@fontsource/arvo/files/*-400-normal.woff*': 'css/files',
-    'node_modules/@fontsource/cardo/files/*-400-normal.woff*': 'css/files',
-    'node_modules/@fontsource/roboto/files/*-400-normal.woff*': 'css/files',
+    // Must stay in lockstep with the @import list in _css/style.scss: a face the
+    // CSS declares but this misses 404s and silently falls back to faux bold.
+    'node_modules/@fontsource/arvo/files/*-latin-{400,700}-normal.woff*': 'css/files',
+    'node_modules/@fontsource/cardo/files/*-latin{,-ext}-{400,700}-normal.woff*': 'css/files',
+    'node_modules/@fontsource/cardo/files/*-latin{,-ext}-400-italic.woff*': 'css/files',
+    'node_modules/@fontsource/roboto/files/*-latin{,-ext}-{400,700}-normal.woff*': 'css/files',
     // Plyr audio player (self-hosted; loaded only on sermon pages).
     'node_modules/plyr/dist/plyr.css': 'css/plyr.css',
     'node_modules/plyr/dist/plyr.svg': 'assets/plyr.svg',
