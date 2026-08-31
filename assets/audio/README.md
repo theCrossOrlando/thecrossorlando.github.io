@@ -9,6 +9,9 @@ Erik Satie, *Gymnopédie no. 1*, arranged for harp. Performer credited as
 - Direct: https://dl.musopen.org/recordings/b77c4966-56f3-4459-96c0-6f2f50958a9e.mp3
 - License: **Public Domain Mark 1.0** — https://creativecommons.org/publicdomain/mark/1.0/
 - Retrieved: 2026-08-31
+- The MP3's own tags name **Agathe Laforge** as the artist, though Musopen credits
+  the performer as "Anonymous". This does not change the licence — Musopen marks
+  the recording Public Domain — but the name is recorded here for completeness.
 
 No attribution is required and there are no use restrictions. This was chosen
 deliberately: the three straight-piano Gymnopédie recordings on the same Musopen

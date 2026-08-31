@@ -26,6 +26,12 @@ BED=0.25        # music level under the announcement (-12 dB; harp is sparse)
 LIFT=0.35       # brief swell after the announcement, before the sermon enters
 FADE=6.5        # linear. curve=exp collapses to silence in ~1s and sounds worse than a hard cut
 OVERLAP=5.0     # outro music fades in under the closing words
+# -map_metadata -1 below is load-bearing: ffmpeg copies tags from input 0, which is
+# the music bed, so without it every episode ships tagged as the Satie recording.
+
+# episode date for the date tag, from the output filename (YYYY-MM-DD.m4a)
+EP_DATE=""
+if [[ "$(basename "$OUT")" =~ ^([0-9]{4}-[0-9]{2}-[0-9]{2})\. ]]; then EP_DATE="${BASH_REMATCH[1]}"; fi
 
 T=$(mktemp -d); trap 'rm -rf "$T"' EXIT
 say() { awk "BEGIN{printf \"%.3f\", $1}"; }
@@ -69,7 +75,15 @@ ffmpeg -hide_banner -loglevel error -y \
  [mus][vo][serm][out]amix=inputs=4:normalize=0:duration=longest,\
  loudnorm=I=-16:TP=-2:LRA=7:linear=true,\
  aformat=sample_fmts=s16:sample_rates=22050:channel_layouts=mono[mix]" \
- -map "[mix]" -c:a "$(ffmpeg -hide_banner -encoders 2>/dev/null | grep -q aac_at && echo aac_at || echo aac)" \
+ -map "[mix]" \
+ -map_metadata -1 \
+ -metadata title="$TITLE" \
+ -metadata artist="$AUTHOR" \
+ -metadata album_artist="the Cross Orlando" \
+ -metadata album="the Cross Orlando" \
+ -metadata genre="Podcast" \
+ ${EP_DATE:+-metadata date="$EP_DATE"} \
+ -c:a "$(ffmpeg -hide_banner -encoders 2>/dev/null | grep -q aac_at && echo aac_at || echo aac)" \
  -b:a 48k -ac 1 -ar 22050 "$OUT"
 
 echo "SERMON_OFFSET=$SERMON_AT"
