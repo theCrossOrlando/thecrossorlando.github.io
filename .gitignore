@@ -6,4 +6,3 @@ node_modules
 webfonts/
 .claude/settings.local.json
 .transcripts/
-.wrangler/
