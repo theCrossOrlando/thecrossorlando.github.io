@@ -31,7 +31,7 @@ jobs:
         id: fp
         run: |
           set +e
-          body=$(curl -fsSL --retry 3 --max-time 30 "https://tcandk.substack.com/feed")
+          body=$(curl -fsSL --retry 3 --max-time 30 "https://tcandk.wordpress.com/feed/")
           rc=$?
           set -e
           if [ $rc -ne 0 ] || [ -z "$body" ]; then
