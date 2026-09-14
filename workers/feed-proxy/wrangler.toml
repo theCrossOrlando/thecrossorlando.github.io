@@ -1,0 +1,11 @@
+name = "tcandk-feed"
+main = "index.js"
+compatibility_date = "2026-09-01"
+account_id = "ac90e2c7936cc955ff2e29b450d4f62a"
+
+[triggers]
+crons = ["*/30 * * * *"]
+
+[[kv_namespaces]]
+binding = "FEED"
+id = "e42e3e91f9af439ebe5262fd7c254c11"
