@@ -9,3 +9,6 @@ crons = ["*/30 * * * *"]
 [[kv_namespaces]]
 binding = "FEED"
 id = "e42e3e91f9af439ebe5262fd7c254c11"
+
+[observability]
+enabled = true

@@ -4,7 +4,10 @@ const SOURCE = "https://tcandk.substack.com/feed";
 async function refresh(env) {
   const res = await fetch(SOURCE);
   const body = await res.text();
-  if (!res.ok || !body.includes("<guid")) throw new Error(`Substack returned ${res.status}`);
+  if (!res.ok || !body.includes("<guid")) {
+    console.error("refresh failed", res.status, res.headers.get("server"), body.slice(0, 200));
+    throw new Error(`Substack returned ${res.status}`);
+  }
   await env.FEED.put("feed", body, { metadata: { fetchedAt: new Date().toISOString() } });
   return body;
 }
