@@ -1,4 +1,5 @@
 import Masonry from 'masonry-layout';
+import { renderMarkdown } from './lyric-markdown.js';
 
 // Read straight from the Firestore REST API instead of loading the Firebase SDK
 // — these are public, read-only queries, so a plain fetch avoids pulling ~tens
@@ -117,12 +118,9 @@ function renderLyricBody(body, lyric) {
   wrap.className = 'lyric-body';
   body.append(wrap);
 
-  // No labels — one preformatted block, byte for byte what this page has
-  // always produced.
   if (!sections) {
-    const text = document.createElement('p');
-    text.style.whiteSpace = 'pre-wrap';
-    text.textContent = lyric.lyrics;
+    const text = document.createElement('div');
+    text.innerHTML = renderMarkdown(lyric.lyrics);
     wrap.append(text);
     return;
   }
@@ -138,9 +136,8 @@ function renderLyricBody(body, lyric) {
       wrapper.append(heading);
     }
 
-    const text = document.createElement('p');
-    text.style.whiteSpace = 'pre-wrap';
-    text.textContent = section.body;
+    const text = document.createElement('div');
+    text.innerHTML = renderMarkdown(section.body);
     wrapper.append(text);
 
     wrap.append(wrapper);

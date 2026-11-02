@@ -371,6 +371,9 @@ a:hover {
   .lyric-body p {
     margin-bottom: 0;
   }
+  .lyric-body p + p {
+    margin-top: 1em;
+  }
 }
 
 .fa-regular {
